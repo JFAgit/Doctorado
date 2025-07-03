@@ -1,0 +1,264 @@
+Cambio de aminoácido,Fuente,Localización,Actividad
+p.Arg9Ala,Artificial,Membrana,Activa (1)
+p.Gly18Arg,Paciente,Membrana,Inactiva
+p.Ser43Ala,Artificial,Membrana,Activa (0.6)
+p.Ser43Asp,Artificial,Membrana,Activa (1)
+p.Ser43Thr,Artificial,Membrana,Activa (1)
+p.Arg53His,Paciente,-,-
+p.Val59Ala,Artificial,Membrana,Activa (0.6)
+p.Val59Arg,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Val59Asn,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Val59Asp,Artificial,Membrana (reducido),Inactiva
+p.Val59Gln,Artificial,Membrana,Activa (0.5)
+p.Val59Glu,Paciente,Membrana,Inactiva
+p.Val59Ile,Artificial,Membrana,Activa (1)
+p.Val59Leu,Artificial,Membrana,Activa (0.6)
+p.Val59Lys,Artificial,Membrana,Inactiva
+p.Val59Met,Artificial,Membrana,Activa (0.5)
+p.Val59Pro,Artificial,Membrana (reducido),Inactiva
+p.Val59Thr,Artificial,Membrana,Activa (0.8)
+p.Ser66Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Ser66Asp,Artificial,Membrana,Inactiva
+p.Ser66Cys,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ser66His,Artificial,Membrana,Inactiva
+p.Ser66Thr,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Ser66Tyr,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Phe67Ala,Artificial,Membrana,Inactiva
+p.Phe67Gln,Artificial,Membrana,Inactiva
+p.Phe67Glu,Artificial,Membrana,Inactiva
+p.Phe67His,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Phe67Lys,Artificial,Membrana,Inactiva
+p.Phe67Leu,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ser69Ala,Artificial,Membrana,Inactiva
+p.Ser69Asp,Artificial,Membrana,Inactiva
+p.Ser69Cys,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ser69Lys,Artificial,Membrana,Inactiva
+p.Ser69Thr,Artificial,Membrana,Inactiva
+p.Gln72Ala,Artificial,Membrana,Inactiva
+p.Gln72Asn,Artificial,Membrana,Inactiva
+p.Gln72Cys,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln72His,Artificial,Membrana,Inactiva
+p.Gln72Glu,Artificial,Membrana,Inactiva
+p.Gln72Ser,Artificial,Membrana,Inactiva
+p.Gln72Thr,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Glu79Ala,Artificial,Membrana,Inactiva
+p.Arg82Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Lys86Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Met90Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Met90Cys,Artificial,Membrana,Inactiva
+p.Met90Leu,Artificial,Membrana,Inactiva
+p.Met90Phe,Artificial,Membrana,Inactiva
+p.Met90Trp,Artificial,Membrana,Inactiva
+p.Met90Tyr,Artificial,Membrana,Inactiva
+p.Gly93Ala,Artificial,-,Activa (0.8)
+p.Gly93Arg,Paciente,Membrana,Inactiva
+p.Gly93Asn,Artificial,-,Parcialmente inactiva (0.2)
+p.Gly93Asp,Artificial,-,Parcialmente inactiva (0.2)
+p.Gly93Gln,Artificial,Membrana,Inactiva
+p.Gly93Glu,Artificial,Membrana,Inactiva
+p.Gly93Lys,Artificial,Membrana,Activa (1)
+p.Gly93Ser,Artificial,-,Activa (0.8)
+p.Gly93Thr,Artificial,-,Parcialmente inactiva (0.2)
+p.Tyr110Phe,Artificial,Membrana,Activa (0.8)
+p.Arg111Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Tyr118Phe,Artificial,Membrana,Activa (0.7)
+p.Glu119Ala,Artificial,Membrana,Activa (0.7)
+p.Tyr120Phe,Artificial,Membrana,Activa (0.8)
+p.Leu121Ala,Artificial,Retículo endoplásmico,Inactiva
+p.Glu122Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Arg124Ala,Artificial,Retículo endoplásmico,Inactiva
+p.Arg124Asn,Artificial,Retículo endoplásmico,Inactiva
+p.Arg124Asp,Artificial,Retículo endoplásmico,Inactiva
+p.Arg124Gln,Artificial,Membrana,Activa (0.5)
+p.Arg124Glu,Artificial,Retículo endoplásmico,Inactiva
+p.Arg124His,Paciente,Retículo endoplásmico,Inactiva
+p.Arg124Lys,Artificial,Retículo endoplásmico,Inactiva
+p.Arg124Trp,Artificial,Retículo endoplásmico,Inactiva
+p.Arg127Ala,Artificial,Membrana,Activa (0.6)
+p.Arg130Ala,Artificial,Retículo endoplásmico,Inactiva
+p.Arg130Gln,Artificial,Membrana (reducido),Activa (0.7)
+p.Tyr144Ala,Artificial,Membrana,Inactiva
+p.Tyr144Glu,Artificial,Membrana,Inactiva
+p.Tyr144His,Artificial,Membrana,Activa (0.5)
+p.Tyr144Leu,Artificial,Membrana,Inactiva
+p.Tyr144Lys,Artificial,Membrana,Inactiva
+p.Tyr144Phe,Artificial,Membrana,Inactiva
+p.Asp163Ala,Artificial,Membrana,Inactiva
+p.Asp163Glu,Artificial,Membrana,Inactiva
+p.Phe176Leu,Artificial,Membrana,Activa (1)
+p.Tyr178Phe,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ala180Thr,Artificial,Membrana,Activa (1)
+p.Asp191Ala,Artificial,Membrana,Inactiva
+p.Asp191Asn,Artificial,Membrana,Inactiva
+p.Asp191Cys,Artificial,Membrana,Inactiva
+p.Asp191Gln,Artificial,Membrana,Inactiva
+p.Asp191Glu,Artificial,Membrana,Inactiva
+p.Asp191His,Artificial,Membrana,Inactiva
+p.Asp191Lys,Artificial,Membrana,Inactiva
+p.Asp191Ser,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Asp191Thr,Artificial,Membrana,Inactiva
+p.Gln194Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln194Asn,Artificial,Membrana,Inactiva
+p.Gln194Asp,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln194Cys,Artificial,Membrana,Inactiva
+p.Gln194Glu,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Gln194His,Artificial,Membrana,Inactiva
+p.Gln194Phe,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln194Ser,Artificial,Membrana,Inactiva
+p.Gln194Tyr,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ser200Ala,Artificial,Membrana,Activa (1)
+p.Ser200Arg,Artificial,-,Inactiva
+p.Ser200Asp,Artificial,-,Parcialmente inactiva (0.3)
+p.Ser200Gly,Artificial,Membrana,Activa (1)
+p.Ser200Thr,Artificial,Membrana,Activa (1)
+p.Ser200Val,Artificial,Membrana,Activa (1)
+p.Asn225Gln,Artificial,Membrana,Activa (1)
+p.His226Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.His226Asp,Artificial,Membrana,Inactiva
+p.His226Glu,Artificial,Membrana,Inactiva
+p.His226Lys,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Ser227Ala,Artificial,Membrana,Inactiva
+p.Arg228Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Asp233Ala,Artificial,Membrana,Inactiva
+p.Asp237Ala,Artificial,Membrana (reducido),Inactiva
+p.Arg239Ala,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Arg241Ala,Artificial,Membrana,Inactiva
+p.Tyr242Ala,Artificial,Retículo endoplásmico,Inactiva
+p.Thr243Ala,Artificial,Retículo endoplásmico,Inactiva
+p.Trp255Ala,Artificial,Membrana,Inactiva
+p.Trp255Tyr,Artificial,Membrana,Inactiva
+p.Tyr259Ala,Artificial,Membrana,Inactiva
+p.Tyr259Phe,Artificial,Membrana,Activa (0.8)
+p.Gln263Ala,Artificial,Membrana,Inactiva
+p.Gln263Asn,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln263Asp,Artificial,Membrana,Inactiva
+p.Gln263Cys,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln263Glu,Artificial,Membrana,Inactiva
+p.Gln263His,Artificial,Membrana,Inactiva
+p.Gln263Phe,Artificial,Membrana,Inactiva
+p.Gln263Ser,Artificial,Membrana,Inactiva
+p.Gln263Tyr,Artificial,Membrana,Inactiva
+p.Gln267Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gln267Arg,Artificial,Membrana,Inactiva
+p.Gln267Asn,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Gln267Asp,Artificial,Membrana,Inactiva
+p.Gln267Glu,Paciente,Membrana,Inactiva
+p.Gln267Lys,Artificial,Membrana,Inactiva
+p.Tyr269Phe,Artificial,Membrana,Activa (0.6)
+p.Val270Ala,Artificial,Membrana,Activa (0.5)
+p.Val270Arg,Artificial,Membrana (reducido),Parcialmente inactiva (0.2)
+p.Val270Asp,Artificial,Retículo endoplásmico,Inactiva
+p.Val270Gln,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Val270Glu,Paciente,Retículo endoplásmico,Inactiva
+p.Val270Ile,Artificial,Membrana,Activa (0.8)
+p.Val270Leu,Artificial,Membrana,Activa (0.7)
+p.Val270Lys,Artificial,Membrana (reducido),Parcialmente inactiva (0.2)
+p.Asn285Ala,Artificial,Membrana,Parcialmente inactiva (0.1)
+p.Asn285Asp,Artificial,Membrana,Inactiva
+p.Asn285Gln,Artificial,Membrana,Parcialmente inactiva (0.1)
+p.Asn285Lys,Artificial,Membrana,Inactiva
+p.Gln286Ala,Artificial,Membrana,Activa (0.5)
+p.Gly288Ser,Paciente,Membrana,Activa
+p.Leu289Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Ile292Ala,Artificial,Membrana,Activa (0.5)
+p.Val293Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Val293Asp,Artificial,Membrana,Inactiva
+p.Val293Cys,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Val293Leu,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Val293Lys,Artificial,Membrana,Inactiva
+p.Val293Ser,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Cys298Gly,Paciente,-,-
+p.Asp311Ala,Artificial,Membrana,Inactiva
+p.Asp322Ala,Artificial,Membrana,Inactiva
+p.Asp331Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Asp331Asn,Paciente,Retículo endoplásmico,Inactiva
+p.Cys346Ala,Artificial,Membrana,Activa (1)
+p.Tyr348Ala,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Tyr348Asp,Paciente,Retículo endoplásmico,Inactiva
+p.Tyr348Gln,Artificial,Retículo endoplásmico,Inactiva
+p.Tyr348His,Artificial,Membrana (reducido),Inactiva
+p.Tyr348Leu,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Tyr348Phe,Artificial,Membrana,Activa (1)
+p.Ser349Ala,Artificial,Membrana,Activa (1)
+p.Ser349Cys,Artificial,Membrana,Activa (0.5)
+p.Thr351Ala,Artificial,Membrana,Inactiva
+p.Thr351Ser,Artificial,Membrana,Activa (0.6)
+p.Ser353Ala,Artificial,Membrana,Inactiva
+p.Ser353Thr,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Thr354Ala,Artificial,Membrana,Inactiva
+p.Thr354Cys,Artificial,Membrana,Inactiva
+p.Thr354Gly,Artificial,Membrana,Inactiva
+p.Thr354Pro,Paciente,Membrana,Inactiva
+p.Thr354Ser,Artificial,Membrana,Activa (0.7)
+p.Thr354Tyr,Artificial,Membrana,Inactiva
+p.Ser356Ala,Artificial,Membrana,Inactiva
+p.Ser356Pro,Artificial,Membrana,Inactiva
+p.Ser356Thr,Artificial,Membrana,Activa (0.5)
+p.Thr357Ala,Artificial,Membrana,Inactiva
+p.Thr357Cys,Artificial,Membrana,Inactiva
+p.Thr357Ser,Artificial,Membrana,Activa (0.6)
+p.Thr357Pro,Artificial,Membrana,Inactiva
+p.Ser358Ala,Artificial,Membrana,Activa (1)
+p.Asn360Ala,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Asn360Asp,Artificial,Membrana,Inactiva
+p.Asn360Gln,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Ala364Gly,Artificial,Membrana,Activa (0.7)
+p.Ala364Thr,Artificial,Membrana,Parcialmente inactiva (0.3)
+p.Thr366Ala,Artificial,Membrana,Activa (0.7)
+p.Glu368Ala,Artificial,Membrana,Activa (1)
+p.Asp369Ala,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Asp369Val,Paciente,Retículo endoplásmico,Inactiva
+p.Gly395Ala,Artificial,Membrana,Activa (0.8)
+p.Gly395Arg,Paciente,Membrana,Inactiva
+p.Gly395Asn,Artificial,Membrana,Inactiva
+p.Gly395Asp,Artificial,Membrana,Inactiva
+p.Gly395Glu,Artificial,Membrana,Inactiva
+p.Gly395Lys,Artificial,Membrana,Inactiva
+p.Gly395Pro,Artificial,Membrana,Inactiva
+p.Gly395Ser,Artificial,Membrana,Parcialmente activa (0.2)
+p.Gly395Thr,Artificial,Membrana,Inactiva
+p.Ser416Ala,Artificial,Membrana,Inactiva
+p.Ser416His,Artificial,Membrana,Parcialmente activa (0.2)
+p.Ser416Thr,Artificial,Membrana,Parcialmente activa (0.2)
+p.Phe417His,Artificial,Membrana,Inactiva
+p.Phe417Leu,Artificial,Membrana,Activa (0.6)
+p.Phe417Ile,Artificial,Membrana,Activa (0.5)
+p.Phe417Tyr,Artificial,Membrana,Inactiva
+p.Gly421Arg,Paciente,Retículo endoplásmico,Inactiva
+p.Cys440Ala,Artificial,Membrana,Activa (1)
+p.Cys440Ser,Artificial,Membrana,Activa (0.9)
+p.Asn441Ala,Artificial,Membrana (reducido),Parcialmente inactiva (0.3)
+p.Asn441Gln,Artificial,Membrana,Activa (0.9)
+p.Gln471Ala,Artificial,Membrana,Activa (1)
+p.Asn485Gln,Artificial,Membrana,Activa (0.8)
+p.Asn497Gln,Artificial,Membrana,Activa (0.8)
+p.Asp503Asn,Paciente,-,-
+p.Ala525Phe,Artificial,Retículo endoplásmico,Inactiva
+p.Tyr531Phe,Artificial,Membrana,Activa (1)
+p.Gly543Ala,Artificial,Membrana,Activa (0.7)
+p.Gly543Arg,Paciente,Retículo endoplásmico,Inactiva
+p.Gly543Asn,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Asp,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Cys,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Gln,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Glu,Paciente,Retículo endoplásmico,Inactiva
+p.Gly543Lys,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Ser,Artificial,Membrana,Parcialmente inactiva (0.4)
+p.Gly543Thr,Artificial,Membrana,Parcialmente inactiva (0.2)
+p.Gly543Trp,Artificial,Retículo endoplásmico,Inactiva
+p.Gly543Val,Artificial,Retículo endoplásmico,Inactiva
+p.Ser547Arg,Paciente,Retículo endoplásmico,Inactiva
+p.Gly561Gln,Artificial,Membrana (reducido),Parcialmente inactiva (0.3)
+p.Gly561Glu,Paciente,Membrana (reducido),Parcialmente inactiva (0.2)
+p.Arg569Trp,Paciente,-,-
+p.Thr575Ala,Artificial,-,Activa (1)
+p.Thr577Asp,Artificial,Membrana,Activa (1)
+p.Val580Ala,Artificial,Membrana,Activa (1)
+p.Ser581Ala,Artificial,Membrana,Activa (0.6)
+p.Ser581Asp,Artificial,Membrana,Activa (1)
+p.Leu587Ala,Artificial,-,Activa (1)
+p.Val588Ala,Artificial,-,Activa (1)
+p.Leu594Ala,Artificial,-,Activa (1)
+p.Leu594Phe,Paciente,-,-
+p.Leu612Ala,Artificial,-,Activa (1)
+p.Glu621Ala,Artificial,-,Activa (1)
