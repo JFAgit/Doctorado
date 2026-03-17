@@ -1,0 +1,9 @@
+{
+    "salmon_version": "1.10.2",
+    "index": "salmon_index",
+    "libType": "A",
+    "unmatedReads": "fastq/SRR26204549.fastq.gz",
+    "threads": "8",
+    "output": "salmon_quant/SRR26204549",
+    "auxDir": "aux_info"
+}
