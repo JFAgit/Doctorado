@@ -1,0 +1,238 @@
+Variante,ddG_AF,ddG_7UUY,ddG_7UUZ,ddG_7UV0,Pathogenicity,Categoría
+A102S,0.461482,0.818889,0.14489,1.21711,Uncertain significance,superficie
+A128S,0.139448,0.203819,0.231968,0.221979,Uncertain significance,superficie
+A180S,0.761083,1.3293,1.4012,0.497148,VUS/Not Classified,superficie
+A264S,0.347935,-0.576227,0.00564971,-0.230825,VUS/Not Classified,superficie
+A264V,0.813623,0.0343363,0.730139,-0.118432,Uncertain significance,superficie
+A278T,2.69485,3.66206,0.303065,0.140526,VUS/Not Classified,"core, superficie"
+A281D,9.76993,6.81369,7.79756,3.82804,VUS/Not Classified,superficie
+A281V,5.14248,3.03954,2.58941,0.187051,VUS/Not Classified,superficie
+A296T,2.03008,1.85327,2.35784,2.52266,Uncertain significance,"core, superficie"
+A320T,-0.077539,-1.20053,0.651625,-1.21364,Uncertain significance,superficie
+A347V,0.405696,-0.90142,-0.604709,-1.08258,VUS/Not Classified,superficie
+A361V,5.29712,-0.176466,-0.0939871,-0.319712,VUS/Not Classified,superficie
+A37S,0.51576,0.662394,0.295639,1.46213,VUS/Not Classified,Sin Clasificar
+A397V,0.481084,-0.471287,0.8194,-0.618248,VUS/Not Classified,superficie
+A447T,-0.21265,-0.611713,0.0930794,-0.648789,VUS/Not Classified,superficie
+A447V,-0.573307,0.365878,0.0305747,0.386114,VUS/Not Classified,superficie
+A44G,1.50821,-0.457894,0.254376,1.52018,VUS/Not Classified,Sin Clasificar
+A44T,1.7023,2.37189,0.46164,1.0739,VUS/Not Classified,Sin Clasificar
+A44V,-0.68088,2.15738,2.50917,0.0466888,VUS/Not Classified,Sin Clasificar
+A454V,0.526118,-0.106227,0.39851,-0.245327,VUS/Not Classified,superficie
+A460V,0.325391,0.135104,-0.115056,-0.38457,VUS/Not Classified,superficie
+A463T,0.642812,0.158966,-0.145058,0.0608359,VUS/Not Classified,superficie
+A481V,0.325571,0.39529,0.139531,0.295511,Uncertain significance,superficie
+A490P,3.55675,2.78911,0.761207,2.05032,VUS/Not Classified,Sin Clasificar
+A490T,-0.269379,4.09399,0.980888,5.53365,Uncertain significance,Sin Clasificar
+A497T,-0.115277,2.70756,2.76627,4.00013,VUS/Not Classified,Sin Clasificar
+A518S,-0.0905091,2.23572,2.97554,1.41032,VUS/Not Classified,superficie
+A518T,-0.0277569,3.77381,1.42797,2.69912,VUS/Not Classified,superficie
+A518V,0.158699,0.986758,2.89037,0.206192,Uncertain significance,superficie
+A525V,2.80939,2.12395,0.498398,1.63137,VUS/Not Classified,superficie
+A533T,-0.629079,0.521,2.34129,0.376872,Uncertain significance,superficie
+A568T,0.856754,0.352952,0.518525,0.361726,VUS/Not Classified,Sin Clasificar
+A623S,-1.07723,6.61684,0.636874,4.01355,VUS/Not Classified,Sin Clasificar
+C175S,0.985036,1.25279,25.5943,-0.404483,VUS/Not Classified,superficie
+C298G,0.819397,0.0826295,10.5724,30.1858,Likely benign,superficie
+C299G,2.09383,-2.60589,3.43095,6.77466,VUS/Not Classified,superficie
+C299Y,17.9979,29.007,2.77456,0.343178,Uncertain significance,superficie
+C398R,4.05711,0.610251,1.16213,2.23182,Uncertain significance,superficie
+C440G,1.7982,-1.29146,-0.143055,7.98297,VUS/Not Classified,superficie
+C440R,2.03266,2.45627,7.1639,0.293883,VUS/Not Classified,superficie
+C548Y,-1.62931,3.74378,2.46669,0.181,Uncertain significance,superficie
+D311N,1.62356,15.4809,0.522234,1.47142,VUS/Not Classified,superficie
+D322V,-0.68096,2.46446,0.240358,0.170149,VUS/Not Classified,superficie
+D46H,0.718093,2.15895,1.21326,0.0847607,VUS/Not Classified,Sin Clasificar
+D495H,0.620818,2.23714,0.320562,1.63514,VUS/Not Classified,Sin Clasificar
+D503N,0.0542884,0.235108,0.943414,-1.75858,Benign/Likely benign,Sin Clasificar
+D521G,2.60966,0.811254,-0.713359,-0.428878,VUS/Not Classified,superficie
+D584Y,-0.247488,0.694834,-1.15312,-0.824151,VUS/Not Classified,Sin Clasificar
+E334K,-1.314,1.15626,-0.00184832,-0.385587,Uncertain significance,superficie
+E470D,0.831344,1.26279,0.597335,-0.000650404,VUS/Not Classified,superficie
+E470G,2.39535,0.00466469,0.258989,-0.369735,Uncertain significance,superficie
+E470K,1.24252,0.00457068,0.263484,0.29057,VUS/Not Classified,superficie
+E5Q,-0.211368,0.305616,4.20127,0.650451,VUS/Not Classified,Sin Clasificar
+E621Q,0.11505,1.3747,-0.890498,3.29333,VUS/Not Classified,Sin Clasificar
+F105S,3.93399,0.19285,0.919225,1.06805,VUS/Not Classified,superficie
+F177S,1.46135,0.222224,3.10281,-0.620535,VUS/Not Classified,superficie
+F431S,4.39105,0.738817,-0.608989,1.44957,VUS/Not Classified,core
+F436C,3.19283,3.29629,1.77252,4.39668,Uncertain significance,superficie
+F436L,1.11862,-0.579976,3.30745,-0.963424,VUS/Not Classified,superficie
+F523I,0.944233,1.78716,-0.936658,2.72477,VUS/Not Classified,superficie
+F614L,0.522774,2.8986,3.83343,2.39252,VUS/Not Classified,Sin Clasificar
+G146R,17.9194,3.08043,6.87083,-0.910804,VUS/Not Classified,"core, superficie"
+G161E,2.99312,-0.639887,2.94269,8.45235,Uncertain significance,superficie
+G182A,-0.813843,1.40836,5.78148,0.718881,VUS/Not Classified,superficie
+G183S,0.776084,3.84307,1.66769,5.57355,VUS/Not Classified,superficie
+G201S,3.39136,5.77642,1.92804,0.930435,Uncertain significance,superficie
+G209S,1.20946,1.94092,-1.28751,2.13413,VUS/Not Classified,superficie
+G288C,2.42714,2.45167,0.689086,-0.310756,VUS/Not Classified,superficie
+G288S,2.18072,-0.720049,1.28205,0.75213,Conflicting classifications of pathogenicity,superficie
+G29S,-0.468691,-0.497103,-0.563172,1.50259,VUS/Not Classified,superficie
+G31R,-1.99528,0.601094,4.96567,-0.385593,VUS/Not Classified,superficie
+G341R,32.3788,-0.521562,1.66212,0.278826,Likely pathogenic,superficie
+G35R,-0.660049,0.130178,-0.132067,1.27651,Uncertain significance,superficie
+G395R,13.5656,1.75974,2.91802,-1.01457,Pathogenic/Likely pathogenic,superficie
+G409R,-1.19878,1.55395,2.50997,1.94235,Uncertain significance,superficie
+G410R,2.31591,1.12406,2.47525,-0.172044,VUS/Not Classified,superficie
+G425S,8.9959,0.628802,2.283,-0.117829,VUS/Not Classified,"core, superficie"
+G450S,-0.569199,-0.0585408,2.17834,3.22851,VUS/Not Classified,superficie
+G532S,1.17838,2.33911,1.4607,1.5421,VUS/Not Classified,superficie
+G543R,19.2941,0.344133,4.01983,2.44186,VUS/Not Classified,superficie
+G597R,0.563393,1.36355,2.24324,4.36176,Uncertain significance,Sin Clasificar
+G624C,0.117421,4.22127,5.11315,1.39766,VUS/Not Classified,Sin Clasificar
+G631V,4.19689,1.09032,2.4909,4.33653,VUS/Not Classified,Sin Clasificar
+G634S,3.33355,4.83289,-0.0465531,2.27081,VUS/Not Classified,Sin Clasificar
+G75D,13.4686,1.94397,0.922775,-0.00982975,Uncertain significance,superficie
+G7E,1.85083,0.173094,-0.352449,1.49459,VUS/Not Classified,Sin Clasificar
+G7R,1.6595,6.40436E-12,1.78951,1.66741,Uncertain significance,Sin Clasificar
+G93S,1.04093,1.5302,-0.312849,-0.602466,VUS/Not Classified,superficie
+I229S,3.05437,-1.81859,0.563321,1.12042,Uncertain significance,superficie
+I229V,1.83778,-0.430578,1.23539,-0.0637529,VUS/Not Classified,superficie
+I284F,0.314606,1.29829,3.50542,0.836452,VUS/Not Classified,superficie
+I284V,0.983447,0.136194,1.64001,3.71206,VUS/Not Classified,superficie
+I432N,2.06971,3.62291,1.31814,-0.0026898,VUS/Not Classified,superficie
+I546L,0.255951,0.857227,1.99917,-0.309853,VUS/Not Classified,superficie
+K276E,-0.466005,-0.0364933,0.31768,4.99368,VUS/Not Classified,superficie
+K577R,-0.214575,4.33373,6.65973,-0.189957,VUS/Not Classified,Sin Clasificar
+K600N,0.108237,-0.119653,3.59711,5.54078,VUS/Not Classified,Sin Clasificar
+L100F,0.244421,-0.469753,1.22299,1.76554,VUS/Not Classified,superficie
+L169P,4.26583,0.668511,-0.445313,0.818705,VUS/Not Classified,superficie
+L22F,0.289755,1.08965,1.53971,1.33987,VUS/Not Classified,superficie
+L256F,2.91948,2.2966,-0.0202829,1.86117,VUS/Not Classified,superficie
+L289P,7.31079,0.442337,-0.921354,0.276332,VUS/Not Classified,"core, superficie"
+L289R,4.20707,0.997678,-0.41367,-0.19552,VUS/Not Classified,"core, superficie"
+L313F,1.01134,0.923901,-0.0026545,-0.770077,VUS/Not Classified,superficie
+L453S,2.38716,-0.499951,6.22377,-0.33948,VUS/Not Classified,superficie
+L498V,0.60562,0.810989,-0.0615286,7.13578,VUS/Not Classified,Sin Clasificar
+L594F,-0.0594776,5.38914,5.98116,0.194474,Conflicting classifications of pathogenicity,Sin Clasificar
+L605V,1.15051,1.19276,0.271977,3.97519,VUS/Not Classified,Sin Clasificar
+L620P,1.33541,5.02641,2.18643,-0.252459,VUS/Not Classified,Sin Clasificar
+M142I,0.718868,5.71013,3.62202,3.81875,VUS/Not Classified,superficie
+M142V,1.43186,3.52318,0.066936,3.29191,VUS/Not Classified,superficie
+M23L,1.07123,-0.132753,-0.517553,-0.375231,Uncertain significance,superficie
+M258I,4.07444,-0.735472,-0.424381,-0.380199,VUS/Not Classified,superficie
+M325V,2.02338,-0.391724,-2.48312,1.99199,VUS/Not Classified,core
+M362L,0.38539,0.971185,0.206478,-2.23779,Uncertain significance,superficie
+M362V,3.05405,-1.22438,-0.739206,0.380519,VUS/Not Classified,superficie
+M420I,0.0967516,-0.7586535,0.1131635,-1.071202,VUS/Not Classified,superficie
+M435T,3.90711,-0.83863,0.758853,0.58077,VUS/Not Classified,"core, superficie"
+M473T,3.03826,1.04349,1.06215,1.32137,Uncertain significance,superficie
+M473V,2.77795,-1.09036,1.09342,0.28299,Uncertain significance,superficie
+N157K,0.185989,0.474808,0.744195,1.56288,Uncertain significance,superficie
+N262S,0.85989,-0.13405,16.5828,0.420507,VUS/Not Classified,superficie
+N441K,3.13855,1.21384,3.94599,19.6555,Uncertain significance,superficie
+N608S,0.110539,0.151791,0.866944,3.4268,VUS/Not Classified,Sin Clasificar
+P216S,1.75263,-1.08929,1.75413,-0.111079,VUS/Not Classified,superficie
+P236L,0.220096,2.66471,3.8965,-1.71823,Likely benign,superficie
+P236R,-1.32797,2.54743,-0.883264,2.34759,VUS/Not Classified,superficie
+P238L,0.0560543,0.0586539,0.646847,-1.25523,VUS/Not Classified,superficie
+P337L,0.195233,0.60181,1.66413,-1.35062,VUS/Not Classified,superficie
+P340T,6.22312,-1.60555,-0.603639,0.847674,VUS/Not Classified,superficie
+P380S,1.44582,-1.45533,1.25124,-0.184533,VUS/Not Classified,superficie
+P443L,1.23927,-1.50641,-0.763372,-0.418398,VUS/Not Classified,superficie
+P443T,2.44776,0.955008,-0.962599,2.34619,VUS/Not Classified,superficie
+P467A,1.54664,0.412016,1.75864,7.81664,VUS/Not Classified,superficie
+P500L,0.69607,2.82964,-0.377104,1.86261,Uncertain significance,Sin Clasificar
+P500R,0.0198376,0.0970347,12.9998,-0.542875,VUS/Not Classified,Sin Clasificar
+P508L,0.576852,8.96998,3.06231,,VUS/Not Classified,Sin Clasificar
+P517T,1.21282,-1.30956,,,VUS/Not Classified,superficie
+P552S,1.8339,1.04774,,,VUS/Not Classified,superficie
+P560L,0.0515627,,,,VUS/Not Classified,superficie
+P602S,-1.77938,,,,VUS/Not Classified,Sin Clasificar
+P606L,0.132843,,,,VUS/Not Classified,Sin Clasificar
+P628L,0.648668,,,,VUS/Not Classified,Sin Clasificar
+Q267E,2.32646,0.626604,10.38,12.4218,Likely pathogenic,superficie
+Q267R,2.85011,0.315195,20.0581,2.41656,VUS/Not Classified,superficie
+Q41K,0.319049,20.401,1.47456,12.9731,VUS/Not Classified,Sin Clasificar
+Q638K,0.372847,11.8953,3.11318,-0.328999,VUS/Not Classified,Sin Clasificar
+Q639K,-0.361839,0.816175,1.04641,3.10281,VUS/Not Classified,Sin Clasificar
+Q72R,0.899078,2.58061,1.07241,1.16736,VUS/Not Classified,sitio activo
+R124H,5.26883,0.927942,4.94195,-0.104685,Likely pathogenic,superficie
+R124S,3.89752,5.33602,1.86898,2.35048,VUS/Not Classified,superficie
+R208C,3.18871,1.17771,2.90808,1.94036,Uncertain significance,superficie
+R208G,4.31932,0.872683,2.14702,0.580685,VUS/Not Classified,superficie
+R208H,2.72353,0.0735985,0.987245,-0.163214,VUS/Not Classified,superficie
+R208S,4.74244,2.87474,0.489388,3.99635,VUS/Not Classified,superficie
+R217C,0.532912,3.8326,4.76521,5.08975,Uncertain significance,superficie
+R217H,0.305062,2.26908,5.33329,4.01698,Uncertain significance,superficie
+R228Q,4.93061,2.62015,4.70836,2.57913,Uncertain significance,superficie
+R241C,3.59491,0.222208,3.61474,0.427079,VUS/Not Classified,superficie
+R241H,5.04748,-0.343731,0.149987,-0.203239,Uncertain significance,superficie
+R268C,2.54382,0.281347,0.613599,0.179647,Uncertain significance,superficie
+R268H,1.73955,0.485302,-0.0357472,0.36913,VUS/Not Classified,superficie
+R273C,1.45876,4.20519,0.0563257,2.57986,VUS/Not Classified,superficie
+R317C,4.25933,2.27994,2.79132,4.18202,VUS/Not Classified,superficie
+R317G,5.08483,7.84823,0.112409,13.2293,VUS/Not Classified,superficie
+R317H,4.1042,-0.181666,4.05323,0.184887,Uncertain significance,superficie
+R317L,2.47776,0.14495,0.431882,0.514082,VUS/Not Classified,superficie
+R374Q,0.434978,0.717315,-0.244254,1.17436,VUS/Not Classified,superficie
+R374W,0.837812,0.233326,2.41633,-1.25787,VUS/Not Classified,superficie
+R376Q,0.728627,1.48768,0.799318,1.69663,VUS/Not Classified,superficie
+R376W,0.118196,-1.28537,2.10965,2.2081,Uncertain significance,superficie
+R42C,0.345931,2.11249,0.236536,1.78549,VUS/Not Classified,Sin Clasificar
+R42L,1.30272,1.71281,0.135921,0.434815,Uncertain significance,Sin Clasificar
+R474K,0.724475,1.035,0.539382,0.145224,Uncertain significance,superficie
+R482H,1.08094,0.115711,0.645326,0.540902,VUS/Not Classified,superficie
+R482P,3.5256,0.233589,1.63807,0.587072,VUS/Not Classified,superficie
+R506T,0.787395,0.594355,9.21339,2.10053,Uncertain significance,Sin Clasificar
+R516L,0.905463,2.13711,12.688,8.65311,VUS/Not Classified,superficie
+R516Q,2.21452,0.794194,7.42984,8.26214,VUS/Not Classified,superficie
+R53G,1.286,13.8389,2.45381,6.28521,Uncertain significance,Sin Clasificar
+R53H,0.760069,8.68713,0.00262257,2.17223,Likely benign,Sin Clasificar
+R555H,2.00395,10.9758,-0.796749,0.0000828022,VUS/Not Classified,superficie
+R569Q,0.44491,2.58445,0.488223,-0.928365,Uncertain significance,Sin Clasificar
+R569W,0.354161,0.00015262,2.12659,0.813274,Uncertain significance,Sin Clasificar
+R611C,1.72587,0.222844,-0.585022,0.643378,VUS/Not Classified,Sin Clasificar
+R611H,0.73687,-0.166028,-0.0192461,-1.11926,Likely benign,Sin Clasificar
+R611S,1.84354,4.52387,2.18984,0.636364,VUS/Not Classified,Sin Clasificar
+S349R,12.4376,,,,VUS/Not Classified,superficie
+S396L,-0.576749,,,,VUS/Not Classified,superficie
+S405C,-0.249611,,,,VUS/Not Classified,superficie
+S416F,4.10903,,,,VUS/Not Classified,"sitio activo, superficie"
+S43R,-0.455531,,,,VUS/Not Classified,Sin Clasificar
+S505I,1.29876,,,,VUS/Not Classified,Sin Clasificar
+S522G,0.202317,,,,Uncertain significance,superficie
+S547I,4.28872,,,,Uncertain significance,superficie
+S556N,0.10344,,,,VUS/Not Classified,superficie
+S78L,0.88771,,,,VUS/Not Classified,superficie
+T101I,2.16147,,,,VUS/Not Classified,"core, superficie"
+T171P,3.8709,,,,VUS/Not Classified,superficie
+T176P,4.85725,,,,VUS/Not Classified,superficie
+T179K,7.33688,,,,VUS/Not Classified,superficie
+T221M,-0.27086,,,,VUS/Not Classified,superficie
+T221R,0.0506218,,,,VUS/Not Classified,superficie
+T243A,6.53843,,,,VUS/Not Classified,superficie
+T252M,-1.5143,,,,VUS/Not Classified,superficie
+T472N,0.394458,,,,VUS/Not Classified,superficie
+T536M,-2.75495,,,,VUS/Not Classified,superficie
+T550R,-0.989142,,,,Uncertain significance,superficie
+T607A,0.936669,,,,Uncertain significance,Sin Clasificar
+T627N,0.730904,,,,VUS/Not Classified,Sin Clasificar
+V187G,2.37124,,,,VUS/Not Classified,Sin Clasificar
+V188I,0.94228,,,,VUS/Not Classified,Sin Clasificar
+V196M,-1.06235,,,,VUS/Not Classified,superficie
+V213G,2.87286,,,,VUS/Not Classified,superficie
+V248A,2.16829,,,,VUS/Not Classified,superficie
+V248L,-0.148603,,,,VUS/Not Classified,superficie
+V261M,4.18289,,,,VUS/Not Classified,core
+V266L,3.49825,,,,VUS/Not Classified,"core, superficie"
+V266M,-0.421571,,,,VUS/Not Classified,"core, superficie"
+V270M,0.00102282,,,,Uncertain significance,superficie
+V287A,0.0588752,,,,VUS/Not Classified,superficie
+V293M,-0.464844,,,,VUS/Not Classified,"sitio activo, superficie"
+V384L,-0.626118,,,,Uncertain significance,superficie
+V445A,2.72647,,,,VUS/Not Classified,"core, superficie"
+V445F,13.3735,,,,VUS/Not Classified,"core, superficie"
+V588D,0.289315,,,,VUS/Not Classified,Sin Clasificar
+V73M,2.79982,,,,VUS/Not Classified,core
+V99G,1.05928,,,,Uncertain significance,superficie
+W15C,0.734833,,,,VUS/Not Classified,superficie
+W165R,0.722286,,,,VUS/Not Classified,superficie
+W189G,3.62372,,,,Uncertain significance,Sin Clasificar
+W189R,1.72662,,,,VUS/Not Classified,Sin Clasificar
+W33S,0.620155,,,,VUS/Not Classified,superficie
+Y137H,1.39007,,,,VUS/Not Classified,superficie
+Y150F,-0.511277,,,,VUS/Not Classified,superficie
+Y178H,0.531363,,,,VUS/Not Classified,superficie
+Y307C,4.25148,,,,Uncertain significance,superficie
