@@ -1,0 +1,52 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CCR7	chemokine (C-C motif) receptor 7	3381	0.30082207918167114	-0.197469	No	
+row_1	PF4	platelet factor 4 (chemokine (C-X-C motif) ligand 4)	3765	0.2607782781124115	-0.2112649	No	
+row_2	PPBP	pro-platelet basic protein (chemokine (C-X-C motif) ligand 7)	4043	0.23982182145118713	-0.21930566	No	
+row_3	CCL16	chemokine (C-C motif) ligand 16	4104	0.23495689034461975	-0.21412624	No	
+row_4	CCL28	chemokine (C-C motif) ligand 28	4893	0.1669699251651764	-0.25648677	No	
+row_5	CCL19	chemokine (C-C motif) ligand 19	5199	0.13744734227657318	-0.27012873	No	
+row_6	CXCR4	chemokine (C-X-C motif) receptor 4	5488	0.11410743743181229	-0.28360328	No	
+row_7	CXCL5	chemokine (C-X-C motif) ligand 5	5793	0.09128810465335846	-0.2989291	No	
+row_8	CCR8	chemokine (C-C motif) receptor 8	6070	0.07045084238052368	-0.3133134	No	
+row_9	CXCR6	chemokine (C-X-C motif) receptor 6	6559	0.034446217119693756	-0.34215462	No	
+row_10	XCL2	chemokine (C motif) ligand 2	7108	0.005251547321677208	-0.37580618	No	
+row_11	CCL11	chemokine (C-C motif) ligand 11	8227	0.0	-0.4448654	No	
+row_12	CCL1	chemokine (C-C motif) ligand 1	9131	0.0	-0.500644	No	
+row_13	CCR3	chemokine (C-C motif) receptor 3	9142	0.0	-0.5012617	No	
+row_14	CCR9	chemokine (C-C motif) receptor 9	9327	-1.402176486031692E-9	-0.5126275	No	
+row_15	CCR4	chemokine (C-C motif) receptor 4	9510	-0.002851204015314579	-0.52376187	No	
+row_16	CXCR3	chemokine (C-X-C motif) receptor 3	9522	-0.0036962663289159536	-0.5243015	No	
+row_17	CCL27	chemokine (C-C motif) ligand 27	9541	-0.005004612263292074	-0.52522415	No	
+row_18	XCL1	chemokine (C motif) ligand 1	9940	-0.022674884647130966	-0.5489512	No	
+row_19	CCR2	chemokine (C-C motif) receptor 2	10067	-0.028779126703739166	-0.5556459	No	
+row_20	CCR6	chemokine (C-C motif) receptor 6	10092	-0.029747802764177322	-0.5560034	No	
+row_21	CXCL9	chemokine (C-X-C motif) ligand 9	10723	-0.07731331139802933	-0.5919949	No	
+row_22	CCR10	chemokine (C-C motif) receptor 10	10777	-0.08265269547700882	-0.59214294	No	
+row_23	CXCL16	chemokine (C-X-C motif) ligand 16	10917	-0.0950881764292717	-0.5971329	No	
+row_24	CX3CR1	chemokine (C-X3-C motif) receptor 1	11005	-0.10132189095020294	-0.59867513	No	
+row_25	CCL20	chemokine (C-C motif) ligand 20	11006	-0.10132567584514618	-0.5948432	No	
+row_26	CCL13	chemokine (C-C motif) ligand 13	11478	-0.145840585231781	-0.6184216	No	
+row_27	CXCL2	chemokine (C-X-C motif) ligand 2	11660	-0.16088703274726868	-0.62351763	No	
+row_28	CCL17	chemokine (C-C motif) ligand 17	11692	-0.16319476068019867	-0.6192608	No	
+row_29	CCL22	chemokine (C-C motif) ligand 22	13128	-0.31827929615974426	-0.6958645	Yes	
+row_30	CXCL3	chemokine (C-X-C motif) ligand 3	13194	-0.3271177113056183	-0.6875086	Yes	
+row_31	CCL2	chemokine (C-C motif) ligand 2	13259	-0.33469444513320923	-0.67880434	Yes	
+row_32	CCL3	chemokine (C-C motif) ligand 3	13556	-0.3735651969909668	-0.6829608	Yes	
+row_33	CXCL13	chemokine (C-X-C motif) ligand 13 (B-cell chemoattractant)	13709	-0.3956717252731323	-0.67738634	Yes	
+row_34	CCRL2	chemokine (C-C motif) receptor-like 2	13801	-0.4119507372379303	-0.66742826	Yes	
+row_35	XCR1	chemokine (C motif) receptor 1	14330	-0.49959707260131836	-0.6811492	Yes	
+row_36	CXCL12	chemokine (C-X-C motif) ligand 12 (stromal cell-derived factor 1)	14333	-0.4996185004711151	-0.6623781	Yes	
+row_37	CCL21	chemokine (C-C motif) ligand 21	14784	-0.5618122220039368	-0.668928	Yes	
+row_38	CXCL6	chemokine (C-X-C motif) ligand 6 (granulocyte chemotactic protein 2)	14871	-0.5846673846244812	-0.65212923	Yes	
+row_39	CCR5	chemokine (C-C motif) receptor 5	14923	-0.5983511805534363	-0.63265103	Yes	
+row_40	CCL3L1	chemokine (C-C motif) ligand 3-like 1	15102	-0.6540194153785706	-0.61891234	Yes	
+row_41	CCL3L3	chemokine (C-C motif) ligand 3-like 3	15121	-0.662530779838562	-0.59496856	Yes	
+row_42	CCL5	chemokine (C-C motif) ligand 5	15208	-0.6927161812782288	-0.57408357	Yes	
+row_43	CCL25	chemokine (C-C motif) ligand 25	15325	-0.7546656131744385	-0.55270886	Yes	
+row_44	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	15550	-0.8587010502815247	-0.53407097	Yes	
+row_45	CCR1	chemokine (C-C motif) receptor 1	15616	-0.8927832245826721	-0.50432265	Yes	
+row_46	CCL4	chemokine (C-C motif) ligand 4	15829	-1.178112506866455	-0.47286394	Yes	
+row_47	CX3CL1	chemokine (C-X3-C motif) ligand 1	16148	-2.684539794921875	-0.39098263	Yes	
+row_48	CCL7	chemokine (C-C motif) ligand 7	16166	-2.9372754096984863	-0.28095046	Yes	
+row_49	CXCL10	chemokine (C-X-C motif) ligand 10	16187	-3.3546574115753174	-0.15531898	Yes	
+row_50	CXCL11	chemokine (C-X-C motif) ligand 11	16217	-4.1902923583984375	0.0013587073	Yes	

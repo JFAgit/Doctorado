@@ -1,0 +1,1365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1276.6638"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-637.247253 -464.348175 1276.663818 957.513794" height="957.5138"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="1.0"
+              d="M -571.401001,-54.401787 L -319.580231,18.058838"
+              class="id_XIST id_Metabolism" stroke-opacity="1.0"
+              stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -444.793365,102.417908 L -318.525421,26.001678"
+              class="id_HSD17B10 id_Metabolism" stroke-opacity="1.0"
+              stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -552.861877,98.107521 L -319.499420,23.856129"
+              class="id_PCK1 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -501.968842,80.814171 L -319.515076,23.806421"
+              class="id_OGDHL id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -524.493042,-68.164482 L -319.206970,16.992479"
+              class="id_PC id_Metabolism" stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -589.286255,23.121574 L -319.969818,20.906353"
+              class="id_PPBP id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -502.984711,-0.968494 L -319.907013,19.702166"
+              class="id_SLC2A4 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -580.854187,-15.129661 L -319.883209,19.508366"
+              class="id_SLC45A2 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -536.204407,39.712166 L -319.935486,21.656097"
+              class="id_SLC2A6 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -453.122223,155.875916 L -317.244019,27.686378"
+              class="id_SLC2A3 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -582.172180,66.949638 L -319.829590,22.494818"
+              class="id_SLC5A4 id_Metabolism" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -251.333069,-99.103409 L -305.577698,11.840432"
+              class="id_UTY id_Metabolism" stroke-opacity="1.0" stroke="#857da2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 284.045685,170.805679 L -55.028423,188.963699"
+              class="id_APCS id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 85.647194,388.223328 L -58.972679,197.467194"
+              class="id_CRP id_Inflamatory_Immune_Response" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -39.272453,7.431008 L -63.614185,179.596924"
+              class="id_LTF id_Inflamatory_Immune_Response" stroke-opacity="1.0"
+              stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 222.263245,127.067398 L -55.242207,187.374817"
+              class="id_DDX3X id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 219.536057,98.103722 L -55.493168,186.440414"
+              class="id_F2RL1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -86.945938,294.276123 L -67.062889,199.286316"
+              class="id_TREML4 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -14.018607,306.568390 L -61.020561,198.666412"
+              class="id_TRIM10 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 77.780685,345.834351 L -58.270050,196.882050"
+              class="id_MT2A id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -140.428452,443.056824 L -67.864929,199.083481"
+              class="id_HLA-DQA1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -50.564423,56.647560 L -63.932831,179.557068"
+              class="id_OAS2 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 15.723096,462.265320 L -62.175900,199.087219"
+              class="id_BCL11B id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 50.539093,308.680969 L -58.053207,196.677979"
+              class="id_SOCS1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -41.474556,448.820801 L -64.110100,199.457489"
+              class="id_HLA-E id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 284.311188,109.804321 L -55.264610,187.274216"
+              class="id_SOCS3 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -91.915123,471.210968 L -65.964699,199.453156"
+              class="id_HLA-DRB1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -179.473480,419.835876 L -69.464172,198.453720"
+              class="id_GBP4 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -247.090393,321.661255 L -73.106888,195.372711"
+              class="id_TRIM21 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -161.559036,334.460785 L -70.557274,197.821503"
+              class="id_JAK1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -211.524261,393.879303 L -70.840279,197.625916"
+              class="id_CD44 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -212.208878,295.541656 L -73.127808,195.343781"
+              class="id_HLA-DRA id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -90.846283,416.016144 L -66.147171,199.434052"
+              class="id_HLA-A id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -136.590866,391.146790 L -68.359215,198.922363"
+              class="id_PML id_Inflamatory_Immune_Response" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -112.252373,348.255371 L -67.866051,199.083145"
+              class="id_HLA-B id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 51.306091,439.791199 L -60.799637,198.566971"
+              class="id_PLA2G2A id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 166.115448,113.563896 L -55.513699,186.377213"
+              class="id_CLU id_Inflamatory_Immune_Response" stroke-opacity="1.0"
+              stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.428795,391.594452 L -60.185280,198.255295"
+              class="id_LCN2 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -40.064800,404.912109 L -63.863602,199.432037"
+              class="id_DEFA4 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -149.742676,276.439392 L -71.993477,196.660049"
+              class="id_RNASE7 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 5.102000,362.656433 L -61.260883,198.767380"
+              class="id_ATOX1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -44.523243,329.527527 L -63.566204,199.393066"
+              class="id_ELANE id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -219.004547,354.629028 L -71.834183,196.811905"
+              class="id_PGLYRP1 id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 145.754211,77.905266 L -56.176407,184.819244"
+              class="id_USP9Y id_Inflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#857da2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -43.707924,-10.591362 L -161.114914,-173.981094"
+              class="id_LTF id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -291.137054,-399.243439 L -171.914902,-190.782547"
+              class="id_ARG2 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 35.061447,-197.449127 L -156.979050,-182.859482"
+              class="id_IL4 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -177.210632,-377.166779 L -167.475586,-192.088135"
+              class="id_LILRA4 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 46.978256,-246.078934 L -157.369568,-184.967133"
+              class="id_CX3CL1 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -167.081573,-406.588531 L -166.956161,-192.101944"
+              class="id_IFNL3 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -291.391022,-329.046417 L -173.412857,-189.733170"
+              class="id_BST2 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -231.768555,-396.457703 L -169.844742,-191.673889"
+              class="id_CCL5 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -344.402649,-349.688995 L -174.220581,-188.968033"
+              class="id_IFITM1 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -54.050297,37.810066 L -162.383163,-173.205811"
+              class="id_OAS2 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -307.247894,-280.434601 L -175.139221,-187.841431"
+              class="id_IFITM3 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -223.146530,-442.573090 L -169.059280,-191.877029"
+              class="id_APOBEC3H id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 39.323811,-222.107742 L -157.133240,-184.005920"
+              class="id_TNF id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -255.621796,-237.769913 L -175.419617,-187.418976"
+              class="id_EIF2S3 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -325.923492,-379.825317 L -173.216339,-189.895340"
+              class="id_EXOSC7 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -309.032227,-437.194336 L -171.816269,-190.838226"
+              class="id_PDIA5 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -361.748535,-309.283112 L -175.323685,-187.568802"
+              class="id_CXCL8 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -340.999512,-251.314575 L -176.242554,-185.797104"
+              class="id_KDELR3 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -253.018402,-345.637573 L -171.607635,-190.951202"
+              class="id_DCTN1 id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 268.570892,-51.465595 L 174.546204,-95.629463"
+              class="id_PRAME id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -28.853733,-6.790400 L 156.476135,-95.561005"
+              class="id_LTF id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 372.274414,-245.187561 L 173.676819,-105.630402"
+              class="id_SFN id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.893646,-311.169556 L 168.410416,-109.446449"
+              class="id_MTRNR2L12 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 362.489136,-350.689697 L 171.671799,-107.745140"
+              class="id_MTRNR2L6 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 299.828125,-378.868713 L 169.833237,-108.890831"
+              class="id_MAGEA4 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 485.919434,-187.844650 L 175.138168,-102.528175"
+              class="id_BIRC7 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 229.197189,115.354927 L 168.332901,-90.292046"
+              class="id_DDX3X id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 349.950012,-30.369057 L 174.852524,-96.354485"
+              class="id_MTRNR2L8 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 475.933502,-79.703621 L 175.473877,-99.232300"
+              class="id_SOX9 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 324.710266,-305.905518 L 171.609756,-107.793472"
+              class="id_HSPA1A id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 175.135208,100.454216 L 165.975586,-89.892448"
+              class="id_CLU id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 199.382355,-273.150146 L 167.414337,-109.694954"
+              class="id_HSPA1B id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 435.239227,-37.814449 L 175.240280,-97.638550"
+              class="id_SFRP1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 461.543854,-293.249359 L 173.867249,-105.349380"
+              class="id_FATE1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 459.423950,34.952618 L 174.584229,-95.711380"
+              class="id_TDGF1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 557.657410,-210.860916 L 175.117050,-102.603905"
+              class="id_MTRNR2L10 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 334.473572,-203.726715 L 174.014694,-105.116707"
+              class="id_FLNA id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 410.810211,-281.954712 L 173.524887,-105.840744"
+              class="id_BIRC5 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 471.828461,-325.664917 L 173.544678,-105.813980"
+              class="id_DLL1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 213.203842,-351.109100 L 167.360611,-109.705307"
+              class="id_IFI6 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 544.672302,-128.147644 L 175.467255,-100.624306"
+              class="id_FOXQ1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 271.301880,-342.887085 L 169.487015,-109.049492"
+              class="id_MMP9 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 414.572083,-70.069099 L 175.424072,-98.692482"
+              class="id_FCMR id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 494.955658,-268.508911 L 174.396683,-104.437073"
+              class="id_SHH id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 437.558990,-245.653809 L 174.309402,-104.603714"
+              class="id_RNF157 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 52.779659,-191.883316 L 157.747986,-106.204239"
+              class="id_IL4 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 404.545013,-166.637451 L 175.126434,-102.570557"
+              class="id_IGBP1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 62.459343,-240.870346 L 159.594589,-107.954666"
+              class="id_CX3CL1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 340.637054,-2.087442 L 174.226074,-95.005722"
+              class="id_NME2 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 335.895264,-56.933262 L 175.191681,-97.436920"
+              class="id_GPX1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 502.999207,-34.056126 L 175.309998,-97.966621"
+              class="id_CARD16 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 477.656433,-230.862473 L 174.716080,-103.750046"
+              class="id_LAMP3 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 474.304077,-140.723679 L 175.408600,-101.192062"
+              class="id_CRLF1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 288.793091,99.079964 L 170.762558,-91.380760"
+              class="id_SOCS3 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 588.317383,-94.471100 L 175.494110,-99.752953"
+              class="id_CITED1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 421.655548,-112.804306 L 175.482239,-100.384750"
+              class="id_TNFRSF10D id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 401.828003,-332.256805 L 172.625443,-106.892006"
+              class="id_VSTM2L id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 185.598587,-214.228027 L 167.226501,-109.729836"
+              class="id_PAGE4 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 247.348114,-260.302002 L 170.039886,-108.788383"
+              class="id_FOXB1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 435.975433,-196.848328 L 174.908295,-103.255585"
+              class="id_PLK1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 55.979710,-216.715805 L 158.656097,-107.176811"
+              class="id_TNF id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 457.932098,-5.701056 L 175.013489,-96.815422"
+              class="id_NDNF id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 235.018005,-191.983154 L 171.519669,-107.862282"
+              class="id_PLAUR id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 529.289917,-168.260406 L 175.322830,-101.728157"
+              class="id_ADAM8 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 303.429260,-239.450592 L 172.524216,-106.993507"
+              class="id_PRELID1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 155.220520,63.245834 L 164.866333,-89.900665"
+              class="id_USP9Y id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#857da2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 187.170059,-169.014343 L 168.486603,-109.422897"
+              class="id_CRHBP id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -51.178978,-74.311813 L 155.563843,-98.708954"
+              class="id_IL2RG id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 225.956848,85.538376 L 168.595093,-90.373581"
+              class="id_F2RL1 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 515.640808,-97.820900 L 175.494766,-99.822060"
+              class="id_FCN3 id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 403.626801,5.629073 L 174.637695,-95.829971"
+              class="id_SIRPG id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 370.403137,-302.805511 L 172.600311,-106.917480"
+              class="id_IL15RA id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#daba7d"/>
+        <path fill="none" stroke-width="1.0"
+              d="M 289.734955,161.240936 L 169.791351,-90.850891"
+              class="id_APCS id_Macrophage_M2_like_functions"
+              stroke-opacity="1.0" stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -239.600708,-114.878677 L -174.290222,-175.310349"
+              class="id_UTY id_Antiinflamatory_Immune_Response"
+              stroke-opacity="1.0" stroke="#857da2"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -70.465408,-69.607513 L -300.614807,17.291737"
+              class="id_IL2RG id_Metabolism" stroke-opacity="1.0"
+              stroke="#fb5f47"/>
+        <path fill="none" stroke-width="1.0"
+              d="M -47.836079,-1.617524 L -300.006592,19.971109"
+              class="id_LTF id_Metabolism" stroke-opacity="1.0" stroke="#fb5f47"/>
+    </g>
+    <g id="nodes">
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="-581.01105"
+                class="id_XIST" cy="-57.167053" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="-453.34863"
+                class="id_HSD17B10" cy="107.59548" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-562.3911"
+                class="id_PCK1" cy="101.13955" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-511.51376"
+                class="id_OGDHL" cy="83.796486" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-533.72986"
+                class="id_PC" cy="-71.9961" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-599.2859"
+                class="id_PPBP" cy="23.203825" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-512.9216"
+                class="id_SLC2A4" cy="-2.0904303" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-590.7673"
+                class="id_SLC45A2" cy="-16.445396" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-546.16974"
+                class="id_SLC2A6" cy="40.54416" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-460.3961"
+                class="id_SLC2A3" cy="162.73819" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-592.0316"
+                class="id_SLC5A4" cy="68.62035" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#0b3cff" r="9.2" cx="-246.94061"
+                class="id_UTY" cy="-108.08708" stroke="#072ab2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="294.03137"
+                class="id_APCS" cy="170.27094" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="91.68863"
+                class="id_CRP" cy="396.19208" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="-37.872524"
+                class="id_LTF" cy="-2.4705162" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="232.03516"
+                class="id_DDX3X" cy="124.94377" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="229.057"
+                class="id_F2RL1" cy="95.045685" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-88.99471"
+                class="id_TREML4" cy="304.064" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-10.025055"
+                class="id_TRIM10" cy="315.73636" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="84.52475"
+                class="id_MT2A" cy="353.21796" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-143.27927"
+                class="id_HLA-DQA1" cy="452.64185" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-49.48314"
+                class="id_OAS2" cy="46.706192" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="18.56131"
+                class="id_BCL11B" cy="471.8541" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="57.5"
+                class="id_SOCS1" cy="315.8605" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-40.570538"
+                class="id_HLA-E" cy="458.77985" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="294.0607"
+                class="id_SOCS3" cy="107.58009" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-92.86571"
+                class="id_HLA-DRB1" cy="481.16568" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-183.92354"
+                class="id_GBP4" cy="428.79114" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-255.18317"
+                class="id_TRIM21" cy="327.53552" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-167.1022"
+                class="id_JAK1" cy="342.78384" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-217.35043"
+                class="id_CD44" cy="402.00677" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-220.32257"
+                class="id_HLA-DRA" cy="301.387" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-91.97934"
+                class="id_HLA-A" cy="425.95175" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-139.93596"
+                class="id_PML" cy="400.5707" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-115.10431"
+                class="id_HLA-B" cy="357.84006" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="55.52057"
+                class="id_PLA2G2A" cy="448.85974" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="175.61586"
+                class="id_CLU" cy="110.44266" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="51.25763"
+                class="id_LCN2" cy="400.3513" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-38.914288"
+                class="id_DEFA4" cy="414.8457" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-156.72203"
+                class="id_RNASE7" cy="283.60098" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="8.855232"
+                class="id_ATOX1" cy="371.92538" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-43.075333"
+                class="id_ELANE" cy="339.42215" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-225.82462"
+                class="id_PGLYRP1" cy="361.94247" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#0b3cff" r="9.2" cx="154.59192"
+                class="id_USP9Y" cy="73.22606" stroke="#072ab2"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-296.10162"
+                class="id_ARG2" cy="-407.92404" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="45.03271"
+                class="id_IL4" cy="-198.20667" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-177.7359"
+                class="id_LILRA4" cy="-387.15298" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="56.559"
+                class="id_CX3CL1" cy="-248.94412" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-167.08742"
+                class="id_IFNL3" cy="-416.58853" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-297.85358"
+                class="id_BST2" cy="-336.67764" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-234.66298"
+                class="id_CCL5" cy="-406.02966" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-351.6729"
+                class="id_IFITM1" cy="-356.55508" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-315.4368"
+                class="id_IFITM3" cy="-286.1741" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-225.2555"
+                class="id_APOBEC3H" cy="-452.34818" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="49.14088"
+                class="id_TNF" cy="-224.01172" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="-264.0911"
+                class="id_EIF2S3" cy="-243.08694" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-332.1895"
+                class="id_EXOSC7" cy="-387.6187" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-313.89816"
+                class="id_PDIA5" cy="-445.9306" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-370.12192"
+                class="id_CXCL8" cy="-314.74997" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-350.29175"
+                class="id_KDELR3" cy="-255.00974" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="-257.67572"
+                class="id_DCTN1" cy="-354.48682" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="277.62216"
+                class="id_PRAME" cy="-47.214172" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="380.4563"
+                class="id_SFN" cy="-250.93707" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="232.80913"
+                class="id_MTRNR2L12" cy="-320.7351" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="368.666"
+                class="id_MTRNR2L6" cy="-358.55396" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="304.16644"
+                class="id_MAGEA4" cy="-387.87866" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="495.56265"
+                class="id_BIRC7" cy="-190.49193" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="359.3076"
+                class="id_MTRNR2L8" cy="-26.842651" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="485.91245"
+                class="id_SOX9" cy="-79.05503" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="330.8251"
+                class="id_HSPA1A" cy="-313.81808" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="201.30176"
+                class="id_HSPA1B" cy="-282.9642" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="444.9846"
+                class="id_SFRP1" cy="-35.572105" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="469.91617"
+                class="id_FATE1" cy="-298.71786" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="468.51324"
+                class="id_TDGF1" cy="39.12213" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="567.27954"
+                class="id_MTRNR2L10" cy="-213.58392" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="342.99332"
+                class="id_FLNA" cy="-208.96252" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="418.84015"
+                class="id_BIRC5" cy="-287.91458" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="479.8782"
+                class="id_DLL1" cy="-331.59802" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="215.06952"
+                class="id_IFI6" cy="-360.93353" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="554.64465"
+                class="id_FOXQ1" cy="-128.89105" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="275.29398"
+                class="id_MMP9" cy="-352.0557" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="424.50122"
+                class="id_FCMR" cy="-68.88069" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="503.85742"
+                class="id_SHH" cy="-273.0651" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="446.37347"
+                class="id_RNF157" cy="-250.37663" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="414.1765"
+                class="id_IGBP1" cy="-169.32712" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="349.3682"
+                class="id_NME2" cy="2.7877288" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="345.592"
+                class="id_GPX1" cy="-54.489296" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="512.8143"
+                class="id_CARD16" cy="-32.141853" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="486.8776"
+                class="id_LAMP3" cy="-234.73163" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="484.21774"
+                class="id_CRLF1" cy="-142.03485" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="598.3166"
+                class="id_CITED1" cy="-94.34316" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="431.64285"
+                class="id_TNFRSF10D" cy="-113.30817" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="408.95853"
+                class="id_VSTM2L" cy="-339.2679" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="187.33015"
+                class="id_PAGE4" cy="-224.07697" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="251.89307"
+                class="id_FOXB1" cy="-269.2095" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="445.3888"
+                class="id_PLK1" cy="-200.22302" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="467.45065"
+                class="id_NDNF" cy="-2.6355913" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="241.04274"
+                class="id_PLAUR" cy="-199.96455" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="539.1178"
+                class="id_ADAM8" cy="-170.10768" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="310.45853"
+                class="id_PRELID1" cy="-246.5632" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="190.16173"
+                class="id_CRHBP" cy="-178.55635" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#f70049" r="9.2" cx="-61.11007"
+                class="id_IL2RG" cy="-73.13988" stroke="#ac0033"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="525.6406"
+                class="id_FCN3" cy="-97.76207" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="412.76956"
+                class="id_SIRPG" cy="9.67999" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#b5b5b5" r="9.2" cx="377.5085"
+                class="id_IL15RA" cy="-309.8421" stroke="#7e7e7e"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ffbf45" r="9.2" cx="-309.97015"
+                class="id_Metabolism" cy="20.824102" stroke="#b28530"
+                stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ffbf45" r="9.2" cx="-65.014114"
+                class="id_Inflamatory_Immune_Response" cy="189.49844"
+                stroke="#b28530" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ffbf45" r="9.2" cx="-166.95032"
+                class="id_Antiinflamatory_Immune_Response" cy="-182.10194"
+                stroke="#b28530" stroke-opacity="1.0" stroke-width="1.5999999"/>
+        <circle fill-opacity="1.0" fill="#ffbf45" r="9.2" cx="165.49493"
+                class="id_Macrophage_M2_like_functions" cy="-99.88089"
+                stroke="#b28530" stroke-opacity="1.0" stroke-width="1.5999999"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="20" x="-581.01105" y="-53.407288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_XIST">
+            XIST
+        </text>
+        <text font-size="20" x="-453.34863" y="111.35525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HSD17B10">
+            HSD17B10
+        </text>
+        <text font-size="20" x="-562.3911" y="104.899315" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PCK1">
+            PCK1
+        </text>
+        <text font-size="20" x="-511.51376" y="87.55625" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_OGDHL">
+            OGDHL
+        </text>
+        <text font-size="20" x="-533.72986" y="-68.236336" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PC">
+            PC
+        </text>
+        <text font-size="20" x="-599.2859" y="26.81385" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PPBP">
+            PPBP
+        </text>
+        <text font-size="20" x="-512.9216" y="1.6693354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SLC2A4">
+            SLC2A4
+        </text>
+        <text font-size="20" x="-590.7673" y="-12.685631" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SLC45A2">
+            SLC45A2
+        </text>
+        <text font-size="20" x="-546.16974" y="44.303925" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SLC2A6">
+            SLC2A6
+        </text>
+        <text font-size="20" x="-460.3961" y="166.49796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SLC2A3">
+            SLC2A3
+        </text>
+        <text font-size="20" x="-592.0316" y="72.38012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SLC5A4">
+            SLC5A4
+        </text>
+        <text font-size="20" x="-246.94061" y="-104.40219" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_UTY">
+            UTY
+        </text>
+        <text font-size="20" x="294.03137" y="174.0307" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_APCS">
+            APCS
+        </text>
+        <text font-size="20" x="91.68863" y="399.95184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CRP">
+            CRP
+        </text>
+        <text font-size="20" x="-37.872524" y="1.1395097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_LTF">
+            LTF
+        </text>
+        <text font-size="20" x="232.03516" y="128.62866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_DDX3X">
+            DDX3X
+        </text>
+        <text font-size="20" x="229.057" y="98.730576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_F2RL1">
+            F2RL1
+        </text>
+        <text font-size="20" x="-88.99471" y="307.7489" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TREML4">
+            TREML4
+        </text>
+        <text font-size="20" x="-10.025055" y="319.42126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TRIM10">
+            TRIM10
+        </text>
+        <text font-size="20" x="84.52475" y="356.89798" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MT2A">
+            MT2A
+        </text>
+        <text font-size="20" x="-143.27927" y="457.2724" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-DQA1">
+            HLA-DQA1
+        </text>
+        <text font-size="20" x="-49.48314" y="50.465958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_OAS2">
+            OAS2
+        </text>
+        <text font-size="20" x="18.56131" y="475.61386" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_BCL11B">
+            BCL11B
+        </text>
+        <text font-size="20" x="57.5" y="319.62027" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SOCS1">
+            SOCS1
+        </text>
+        <text font-size="20" x="-40.570538" y="462.45987" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-E">
+            HLA-E
+        </text>
+        <text font-size="20" x="294.0607" y="111.33986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SOCS3">
+            SOCS3
+        </text>
+        <text font-size="20" x="-92.86571" y="484.92056" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-DRB1">
+            HLA-DRB1
+        </text>
+        <text font-size="20" x="-183.92354" y="432.5509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_GBP4">
+            GBP4
+        </text>
+        <text font-size="20" x="-255.18317" y="331.2204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TRIM21">
+            TRIM21
+        </text>
+        <text font-size="20" x="-167.1022" y="346.53873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_JAK1">
+            JAK1
+        </text>
+        <text font-size="20" x="-217.35043" y="405.76654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CD44">
+            CD44
+        </text>
+        <text font-size="20" x="-220.32257" y="305.14188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-DRA">
+            HLA-DRA
+        </text>
+        <text font-size="20" x="-91.97934" y="429.63177" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-A">
+            HLA-A
+        </text>
+        <text font-size="20" x="-139.93596" y="404.18073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PML">
+            PML
+        </text>
+        <text font-size="20" x="-115.10431" y="361.52008" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HLA-B">
+            HLA-B
+        </text>
+        <text font-size="20" x="55.52057" y="452.6195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PLA2G2A">
+            PLA2G2A
+        </text>
+        <text font-size="20" x="175.61586" y="114.20242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CLU">
+            CLU
+        </text>
+        <text font-size="20" x="51.25763" y="404.11105" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_LCN2">
+            LCN2
+        </text>
+        <text font-size="20" x="-38.914288" y="418.52573" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_DEFA4">
+            DEFA4
+        </text>
+        <text font-size="20" x="-156.72203" y="287.36075" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_RNASE7">
+            RNASE7
+        </text>
+        <text font-size="20" x="8.855232" y="375.68515" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_ATOX1">
+            ATOX1
+        </text>
+        <text font-size="20" x="-43.075333" y="343.17215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_ELANE">
+            ELANE
+        </text>
+        <text font-size="20" x="-225.82462" y="365.70224" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PGLYRP1">
+            PGLYRP1
+        </text>
+        <text font-size="20" x="154.59192" y="76.985825" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_USP9Y">
+            USP9Y
+        </text>
+        <text font-size="20" x="-296.10162" y="-404.16428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_ARG2">
+            ARG2
+        </text>
+        <text font-size="20" x="45.03271" y="-194.59663" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IL4">
+            IL4
+        </text>
+        <text font-size="20" x="-177.7359" y="-383.3981" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_LILRA4">
+            LILRA4
+        </text>
+        <text font-size="20" x="56.559" y="-245.18436" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CX3CL1">
+            CX3CL1
+        </text>
+        <text font-size="20" x="-167.08742" y="-412.90363" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IFNL3">
+            IFNL3
+        </text>
+        <text font-size="20" x="-297.85358" y="-332.91788" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_BST2">
+            BST2
+        </text>
+        <text font-size="20" x="-234.66298" y="-402.2699" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CCL5">
+            CCL5
+        </text>
+        <text font-size="20" x="-351.6729" y="-352.94507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IFITM1">
+            IFITM1
+        </text>
+        <text font-size="20" x="-315.4368" y="-282.4892" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IFITM3">
+            IFITM3
+        </text>
+        <text font-size="20" x="-225.2555" y="-448.5884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_APOBEC3H">
+            APOBEC3H
+        </text>
+        <text font-size="20" x="49.14088" y="-220.3317" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TNF">
+            TNF
+        </text>
+        <text font-size="20" x="-264.0911" y="-239.32718" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_EIF2S3">
+            EIF2S3
+        </text>
+        <text font-size="20" x="-332.1895" y="-383.85895" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_EXOSC7">
+            EXOSC7
+        </text>
+        <text font-size="20" x="-313.89816" y="-442.17572" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PDIA5">
+            PDIA5
+        </text>
+        <text font-size="20" x="-370.12192" y="-310.9902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CXCL8">
+            CXCL8
+        </text>
+        <text font-size="20" x="-350.29175" y="-251.32484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_KDELR3">
+            KDELR3
+        </text>
+        <text font-size="20" x="-257.67572" y="-350.72705" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_DCTN1">
+            DCTN1
+        </text>
+        <text font-size="20" x="277.62216" y="-43.45929" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PRAME">
+            PRAME
+        </text>
+        <text font-size="20" x="380.4563" y="-247.1773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SFN">
+            SFN
+        </text>
+        <text font-size="20" x="232.80913" y="-317.05023" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MTRNR2L12">
+            MTRNR2L12
+        </text>
+        <text font-size="20" x="368.666" y="-354.86908" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MTRNR2L6">
+            MTRNR2L6
+        </text>
+        <text font-size="20" x="304.16644" y="-384.1189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MAGEA4">
+            MAGEA4
+        </text>
+        <text font-size="20" x="495.56265" y="-186.73216" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_BIRC7">
+            BIRC7
+        </text>
+        <text font-size="20" x="359.3076" y="-23.157755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MTRNR2L8">
+            MTRNR2L8
+        </text>
+        <text font-size="20" x="485.91245" y="-75.295265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SOX9">
+            SOX9
+        </text>
+        <text font-size="20" x="330.8251" y="-310.05832" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HSPA1A">
+            HSPA1A
+        </text>
+        <text font-size="20" x="201.30176" y="-279.20444" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_HSPA1B">
+            HSPA1B
+        </text>
+        <text font-size="20" x="444.9846" y="-31.81234" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SFRP1">
+            SFRP1
+        </text>
+        <text font-size="20" x="469.91617" y="-295.03784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FATE1">
+            FATE1
+        </text>
+        <text font-size="20" x="468.51324" y="42.881897" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TDGF1">
+            TDGF1
+        </text>
+        <text font-size="20" x="567.27954" y="-209.89902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MTRNR2L10">
+            MTRNR2L10
+        </text>
+        <text font-size="20" x="342.99332" y="-205.21252" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FLNA">
+            FLNA
+        </text>
+        <text font-size="20" x="418.84015" y="-284.15482" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_BIRC5">
+            BIRC5
+        </text>
+        <text font-size="20" x="479.8782" y="-327.988" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_DLL1">
+            DLL1
+        </text>
+        <text font-size="20" x="215.06952" y="-357.24866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IFI6">
+            IFI6
+        </text>
+        <text font-size="20" x="554.64465" y="-124.26052" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FOXQ1">
+            FOXQ1
+        </text>
+        <text font-size="20" x="275.29398" y="-348.3708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_MMP9">
+            MMP9
+        </text>
+        <text font-size="20" x="424.50122" y="-65.120926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FCMR">
+            FCMR
+        </text>
+        <text font-size="20" x="503.85742" y="-269.30533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SHH">
+            SHH
+        </text>
+        <text font-size="20" x="446.37347" y="-246.69174" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_RNF157">
+            RNF157
+        </text>
+        <text font-size="20" x="414.1765" y="-165.56735" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IGBP1">
+            IGBP1
+        </text>
+        <text font-size="20" x="349.3682" y="6.467742" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_NME2">
+            NME2
+        </text>
+        <text font-size="20" x="345.592" y="-50.72953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_GPX1">
+            GPX1
+        </text>
+        <text font-size="20" x="512.8143" y="-28.382088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CARD16">
+            CARD16
+        </text>
+        <text font-size="20" x="486.8776" y="-230.97675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_LAMP3">
+            LAMP3
+        </text>
+        <text font-size="20" x="484.21774" y="-138.27509" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CRLF1">
+            CRLF1
+        </text>
+        <text font-size="20" x="598.3166" y="-90.5834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CITED1">
+            CITED1
+        </text>
+        <text font-size="20" x="431.64285" y="-109.5484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_TNFRSF10D">
+            TNFRSF10D
+        </text>
+        <text font-size="20" x="408.95853" y="-335.50815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_VSTM2L">
+            VSTM2L
+        </text>
+        <text font-size="20" x="187.33015" y="-220.3172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PAGE4">
+            PAGE4
+        </text>
+        <text font-size="20" x="251.89307" y="-265.44974" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FOXB1">
+            FOXB1
+        </text>
+        <text font-size="20" x="445.3888" y="-196.61299" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PLK1">
+            PLK1
+        </text>
+        <text font-size="20" x="467.45065" y="1.0444217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_NDNF">
+            NDNF
+        </text>
+        <text font-size="20" x="241.04274" y="-196.20967" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PLAUR">
+            PLAUR
+        </text>
+        <text font-size="20" x="539.1178" y="-166.3528" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_ADAM8">
+            ADAM8
+        </text>
+        <text font-size="20" x="310.45853" y="-242.87831" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_PRELID1">
+            PRELID1
+        </text>
+        <text font-size="20" x="190.16173" y="-174.79659" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_CRHBP">
+            CRHBP
+        </text>
+        <text font-size="20" x="-61.11007" y="-69.38011" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IL2RG">
+            IL2RG
+        </text>
+        <text font-size="20" x="525.6406" y="-94.002304" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_FCN3">
+            FCN3
+        </text>
+        <text font-size="20" x="412.76956" y="13.439755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_SIRPG">
+            SIRPG
+        </text>
+        <text font-size="20" x="377.5085" y="-306.08722" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_IL15RA">
+            IL15RA
+        </text>
+        <text font-size="20" x="-309.97015" y="24.583868" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_Metabolism">
+            Metabolism
+        </text>
+        <text font-size="20" x="-65.014114" y="194.21361" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_Inflamatory_Immune_Response">
+            Inflamatory_Immune_Response
+        </text>
+        <text font-size="20" x="-166.95032" y="-177.38678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_Antiinflamatory_Immune_Response">
+            Antiinflamatory_Immune_Response
+        </text>
+        <text font-size="20" x="165.49493" y="-95.18037" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="C059" class="id_Macrophage_M2_like_functions">
+            Macrophage_M2_like_functions
+        </text>
+    </g>
+</svg>

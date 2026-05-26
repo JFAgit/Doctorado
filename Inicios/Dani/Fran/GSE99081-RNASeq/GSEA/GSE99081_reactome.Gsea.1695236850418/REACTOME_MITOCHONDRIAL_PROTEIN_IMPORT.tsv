@@ -1,0 +1,50 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OTC	ornithine carbamoyltransferase	491	0.8367330431938171	0.029946914	Yes	
+row_1	SAMM50	sorting and assembly machinery component 50 homolog (S. cerevisiae)	1024	0.6373463273048401	0.042999126	Yes	
+row_2	ACO2	aconitase 2, mitochondrial	1256	0.5816937685012817	0.0706331	Yes	
+row_3	TIMM17B	translocase of inner mitochondrial membrane 17 homolog B (yeast)	1298	0.5729648470878601	0.10937321	Yes	
+row_4	TIMM17A	translocase of inner mitochondrial membrane 17 homolog A (yeast)	1642	0.5031065940856934	0.12442888	Yes	
+row_5	PMPCA	peptidase (mitochondrial processing) alpha	1673	0.5004262328147888	0.15862322	Yes	
+row_6	DNAJC19	DnaJ (Hsp40) homolog, subfamily C, member 19	1835	0.49982738494873047	0.18468349	Yes	
+row_7	TIMM13	translocase of inner mitochondrial membrane 13 homolog (yeast)	1975	0.48749828338623047	0.21121444	Yes	
+row_8	LDHD	lactate dehydrogenase D	1999	0.48395878076553345	0.24465491	Yes	
+row_9	TOMM20	translocase of outer mitochondrial membrane 20 homolog (yeast)	2002	0.4834529161453247	0.27935594	Yes	
+row_10	TOMM7	translocase of outer mitochondrial membrane 7 homolog (yeast)	2280	0.4439496695995331	0.2942267	Yes	
+row_11	NDUFB8	NADH dehydrogenase (ubiquinone) 1 beta subcomplex, 8, 19kDa	2318	0.43792280554771423	0.3234864	Yes	
+row_12	TIMM10	translocase of inner mitochondrial membrane 10 homolog (yeast)	2551	0.40479937195777893	0.33831635	Yes	
+row_13	TIMM9	translocase of inner mitochondrial membrane 9 homolog (yeast)	2561	0.4034498631954193	0.3668222	Yes	
+row_14	TIMM8B	translocase of inner mitochondrial membrane 8 homolog B (yeast)	2563	0.40272006392478943	0.3957696	Yes	
+row_15	SLC25A6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6	2858	0.3580899238586426	0.40340564	Yes	
+row_16	PMPCB	peptidase (mitochondrial processing) beta	2885	0.35434287786483765	0.4273242	Yes	
+row_17	COX17	COX17 cytochrome c oxidase assembly homolog (S. cerevisiae)	3295	0.31041693687438965	0.42442352	Yes	
+row_18	CHCHD5	coiled-coil-helix-coiled-coil-helix domain containing 5	3305	0.3086399435997009	0.4460999	Yes	
+row_19	BCS1L	BCS1-like (yeast)	3330	0.3060932159423828	0.46666643	Yes	
+row_20	CHCHD7	coiled-coil-helix-coiled-coil-helix domain containing 7	4079	0.23693934082984924	0.43753538	No	
+row_21	TOMM40	translocase of outer mitochondrial membrane 40 homolog (yeast)	4428	0.2092239111661911	0.43111297	No	
+row_22	SLC25A12	solute carrier family 25 (mitochondrial carrier, Aralar), member 12	4467	0.20506350696086884	0.44353735	No	
+row_23	FXN	frataxin	4754	0.17937418818473816	0.43879408	No	
+row_24	PITRM1	pitrilysin metallopeptidase 1	4996	0.15900203585624695	0.43536267	No	
+row_25	COX19	COX19 cytochrome c oxidase assembly homolog (S. cerevisiae)	5273	0.1319982260465622	0.42782438	No	
+row_26	TOMM22	translocase of outer mitochondrial membrane 22 homolog (yeast)	5469	0.11542019248008728	0.4240947	No	
+row_27	GRPEL2	GrpE-like 2, mitochondrial (E. coli)	5509	0.11253084987401962	0.4297919	No	
+row_28	CS	citrate synthase	5829	0.08950541913509369	0.41653696	No	
+row_29	MTX2	metaxin 2	6556	0.03459261357784271	0.37418902	No	
+row_30	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6860	0.01740841194987297	0.3567289	No	
+row_31	CYC1	cytochrome c-1	7160	0.002289180178195238	0.33842677	No	
+row_32	TIMM23	translocase of inner mitochondrial membrane 23 homolog (yeast)	9990	-0.025240784510970116	0.16551822	No	
+row_33	CHCHD2	coiled-coil-helix-coiled-coil-helix domain containing 2	10088	-0.029579054564237595	0.16165791	No	
+row_34	TIMM50	translocase of inner mitochondrial membrane 50 homolog (S. cerevisiae)	10479	-0.05808243900537491	0.1417543	No	
+row_35	VDAC1	voltage-dependent anion channel 1	10627	-0.06892827153205872	0.1376403	No	
+row_36	SLC25A13	solute carrier family 25, member 13 (citrin)	10744	-0.07968660444021225	0.1362159	No	
+row_37	TIMM22	translocase of inner mitochondrial membrane 22 homolog (yeast)	10986	-0.1003202348947525	0.12855744	No	
+row_38	TIMM44	translocase of inner mitochondrial membrane 44 homolog (yeast)	11064	-0.10677192360162735	0.13149282	No	
+row_39	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	11078	-0.1076095774769783	0.13844135	No	
+row_40	GRPEL1	GrpE-like 1, mitochondrial (E. coli)	11368	-0.1351989358663559	0.13033071	No	
+row_41	COQ2	coenzyme Q2 homolog, prenyltransferase (yeast)	11843	-0.17831894755363464	0.113900036	No	
+row_42	CHCHD4	coiled-coil-helix-coiled-coil-helix domain containing 4	11937	-0.18685413897037506	0.121615775	No	
+row_43	TIMM8A	translocase of inner mitochondrial membrane 8 homolog A (yeast)	11971	-0.18995413184165955	0.13326058	No	
+row_44	GFER	growth factor, augmenter of liver regeneration (ERV1 homolog, S. cerevisiae)	12032	-0.19589035212993622	0.14366539	No	
+row_45	CHCHD3	coiled-coil-helix-coiled-coil-helix domain containing 3	12052	-0.1978500336408615	0.15674363	No	
+row_46	TAZ	tafazzin (cardiomyopathy, dilated 3A (X-linked); endocardial fibroelastosis 2; Barth syndrome)	13026	-0.30334803462028503	0.118499584	No	
+row_47	MTX1	metaxin 1	13602	-0.3806334435939789	0.1104042	No	
+row_48	HSPD1	heat shock 60kDa protein 1 (chaperonin)	15281	-0.727476954460144	0.059168734	No	

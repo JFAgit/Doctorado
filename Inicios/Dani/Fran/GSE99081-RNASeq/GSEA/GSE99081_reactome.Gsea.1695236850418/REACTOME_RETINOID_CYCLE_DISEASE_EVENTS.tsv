@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RDH12	retinol dehydrogenase 12 (all-trans/9-cis/11-cis)	307	0.9440045356750488	0.21654941	Yes	
+row_1	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	390	0.8814048171043396	0.43134922	Yes	
+row_2	ABCA4	ATP-binding cassette, sub-family A (ABC1), member 4	552	0.8044008612632751	0.6220734	Yes	
+row_3	LRAT	lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)	2427	0.4228096306324005	0.6120573	Yes	
+row_4	TTR	transthyretin (prealbumin, amyloidosis type I)	2775	0.37106722593307495	0.68323153	Yes	
+row_5	RBP4	retinol binding protein 4, plasma	4822	0.17300106585025787	0.60030556	No	
+row_6	OPN1SW	opsin 1 (cone pigments), short-wave-sensitive (color blindness, tritan)	6312	0.05185456946492195	0.5214849	No	
+row_7	STRA6	stimulated by retinoic acid gene 6 homolog (mouse)	6673	0.027681412175297737	0.50620574	No	
+row_8	RLBP1	retinaldehyde binding protein 1	7682	0.0	0.44409087	No	
+row_9	OPN1LW	opsin 1 (cone pigments), long-wave-sensitive (color blindness, protan)	8944	0.0	0.36638567	No	
+row_10	OPN1MW	opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)	8945	0.0	0.36638567	No	
+row_11	RBP1	retinol binding protein 1, cellular	13243	-0.3328440487384796	0.18461919	No	

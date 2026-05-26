@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA4	glutathione S-transferase A4	136	1.188332200050354	0.10663643	Yes	
+row_1	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	240	1.0087536573410034	0.19792612	Yes	
+row_2	GSTM4	glutathione S-transferase M4	710	0.7385808825492859	0.2404839	Yes	
+row_3	GSTA2	glutathione S-transferase A2	989	0.6469473242759705	0.2859554	Yes	
+row_4	MGST2	microsomal glutathione S-transferase 2	1175	0.6013235449790955	0.3327482	Yes	
+row_5	GSTM2	glutathione S-transferase M2 (muscle)	1195	0.5942338705062866	0.389096	Yes	
+row_6	MGST3	microsomal glutathione S-transferase 3	1227	0.5895490050315857	0.44425	Yes	
+row_7	GSTM3	glutathione S-transferase M3 (brain)	1435	0.5431491732597351	0.48405442	Yes	
+row_8	GSTM5	glutathione S-transferase M5	1600	0.5084382891654968	0.5231518	Yes	
+row_9	OPLAH	5-oxoprolinase (ATP-hydrolysing)	3233	0.31671884655952454	0.4531244	No	
+row_10	GSTP1	glutathione S-transferase pi	3572	0.2808307707309723	0.45945534	No	
+row_11	GSTT1	glutathione S-transferase theta 1	3758	0.26132020354270935	0.4733369	No	
+row_12	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli)	4074	0.23738834261894226	0.4768817	No	
+row_13	GCLM	glutamate-cysteine ligase, modifier subunit	4633	0.1886100023984909	0.46071324	No	
+row_14	MGST1	microsomal glutathione S-transferase 1	5627	0.10396447032690048	0.4095144	No	
+row_15	ESD	esterase D/formylglutathione hydrolase	5648	0.10217124968767166	0.4181704	No	
+row_16	GSTM1	glutathione S-transferase M1	5851	0.0881265252828598	0.41423854	No	
+row_17	GSS	glutathione synthetase	6499	0.038092855364084244	0.3780097	No	
+row_18	CHAC2	ChaC, cation transport regulator homolog 2 (E. coli)	6672	0.0277168620377779	0.37008125	No	
+row_19	GSTO2	glutathione S-transferase omega 2	6682	0.02728029526770115	0.37216663	No	
+row_20	GSTA1	glutathione S-transferase A1	6864	0.01712612248957157	0.36265776	No	
+row_21	GSTT2	glutathione S-transferase theta 2	7132	0.003913337364792824	0.34656423	No	
+row_22	GCLC	glutamate-cysteine ligase, catalytic subunit	7134	0.0038190013729035854	0.3468722	No	
+row_23	GSTO1	glutathione S-transferase omega 1	7166	0.0017563056899234653	0.3451297	No	
+row_24	GSTA3	glutathione S-transferase A3	10736	-0.07856884598731995	0.1325486	No	
+row_25	GGT1	gamma-glutamyltransferase 1	11395	-0.13824714720249176	0.10533576	No	
+row_26	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.11351261	No	
+row_27	GSTK1	glutathione S-transferase kappa 1	12084	-0.20100972056388855	0.096631885	No	
+row_28	GSTA5	glutathione S-transferase A5	12668	-0.26125985383987427	0.08595335	No	
+row_29	GGT6	gamma-glutamyltransferase 6 homolog (rat)	12822	-0.2798134386539459	0.10359921	No	
+row_30	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	15796	-1.1069375276565552	0.02733068	No	

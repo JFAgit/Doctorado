@@ -1,0 +1,73 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RNF185	ring finger protein 185	230	1.020383358001709	0.015546892	No	
+row_1	ABCA12	ATP-binding cassette, sub-family A (ABC1), member 12	423	0.8638732433319092	0.028877486	No	
+row_2	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.032673873	No	
+row_3	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	1207	0.592311680316925	0.019340182	No	
+row_4	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.013487315	No	
+row_5	ABCG5	ATP-binding cassette, sub-family G (WHITE), member 5 (sterolin 1)	2065	0.4745457172393799	-0.005516928	No	
+row_6	ABCA3	ATP-binding cassette, sub-family A (ABC1), member 3	2857	0.3582637906074524	-0.043987382	No	
+row_7	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.051031724	No	
+row_8	ABCG8	ATP-binding cassette, sub-family G (WHITE), member 8 (sterolin 2)	3312	0.30810609459877014	-0.053422377	No	
+row_9	ABCB6	ATP-binding cassette, sub-family B (MDR/TAP), member 6	3452	0.29366225004196167	-0.05345119	No	
+row_10	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.06074709	No	
+row_11	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.05517378	No	
+row_12	DERL2	Der1-like domain family, member 2	3884	0.2516091465950012	-0.057171818	No	
+row_13	OS9	-	3976	0.24427388608455658	-0.05567285	No	
+row_14	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.0491278	No	
+row_15	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.05145857	No	
+row_16	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.061095215	No	
+row_17	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.08289557	No	
+row_18	ABCD4	ATP-binding cassette, sub-family D (ALD), member 4	4885	0.16727730631828308	-0.08160213	No	
+row_19	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.09945142	No	
+row_20	SEL1L	sel-1 suppressor of lin-12-like (C. elegans)	5245	0.13422830402851105	-0.09590604	No	
+row_21	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.09751444	No	
+row_22	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.1147147	No	
+row_23	APOA1	apolipoprotein A-I	6105	0.06750495731830597	-0.14026855	No	
+row_24	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.15379767	No	
+row_25	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.17225635	No	
+row_26	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.17448103	No	
+row_27	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.18280628	No	
+row_28	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.19450273	No	
+row_29	ABCC8	ATP-binding cassette, sub-family C (CFTR/MRP), member 8	7092	0.00593968853354454	-0.19698898	No	
+row_30	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.35085967	No	
+row_31	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.36035076	No	
+row_32	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.38148832	No	
+row_33	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.399667	No	
+row_34	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.40106925	No	
+row_35	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.41869366	No	
+row_36	VCP	valosin-containing protein	10836	-0.08797656744718552	-0.41835332	No	
+row_37	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.4159018	No	
+row_38	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.42343715	No	
+row_39	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.45106417	No	
+row_40	RNF5	ring finger protein 5	11676	-0.16169218719005585	-0.45543838	No	
+row_41	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.46068338	No	
+row_42	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.45925587	No	
+row_43	ABCC2	ATP-binding cassette, sub-family C (CFTR/MRP), member 2	11913	-0.1848600059747696	-0.4539239	No	
+row_44	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.44911638	No	
+row_45	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	11929	-0.18639028072357178	-0.44392535	No	
+row_46	ABCC6	ATP-binding cassette, sub-family C (CFTR/MRP), member 6	12729	-0.2678799629211426	-0.4855278	No	
+row_47	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.48711985	No	
+row_48	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.5177569	No	
+row_49	ABCC9	ATP-binding cassette, sub-family C (CFTR/MRP), member 9	14043	-0.4492763876914978	-0.5342126	Yes	
+row_50	DERL1	Der1-like domain family, member 1	14159	-0.4744296967983246	-0.52748257	Yes	
+row_51	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5148541	Yes	
+row_52	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.5160374	Yes	
+row_53	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.5148307	Yes	
+row_54	ABCA1	ATP-binding cassette, sub-family A (ABC1), member 1	14753	-0.5539044141769409	-0.50361705	Yes	
+row_55	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.4881013	Yes	
+row_56	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.47328857	Yes	
+row_57	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.46558893	Yes	
+row_58	DERL3	Der1-like domain family, member 3	14963	-0.6104427576065063	-0.448025	Yes	
+row_59	ABCB4	ATP-binding cassette, sub-family B (MDR/TAP), member 4	14996	-0.6228631138801575	-0.43183044	Yes	
+row_60	KCNJ11	potassium inwardly-rectifying channel, subfamily J, member 11	15063	-0.6429874300956726	-0.41715163	Yes	
+row_61	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.40129545	Yes	
+row_62	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.40091807	Yes	
+row_63	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.37728137	Yes	
+row_64	UBB	ubiquitin B	15642	-0.9178993105888367	-0.35767376	Yes	
+row_65	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.33247942	Yes	
+row_66	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.30548075	Yes	
+row_67	ABCD1	ATP-binding cassette, sub-family D (ALD), member 1	16000	-1.602474570274353	-0.2733827	Yes	
+row_68	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.22589417	Yes	
+row_69	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.1731594	Yes	
+row_70	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.099992685	Yes	
+row_71	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.002721532	Yes	

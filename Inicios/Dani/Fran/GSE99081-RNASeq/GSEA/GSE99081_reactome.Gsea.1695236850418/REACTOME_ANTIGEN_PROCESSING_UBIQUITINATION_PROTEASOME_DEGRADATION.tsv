@@ -1,0 +1,275 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBE4A	ubiquitination factor E4A (UFD2 homolog, yeast)	53	1.4728765487670898	0.00837455	No	
+row_1	UBE2Q2	ubiquitin-conjugating enzyme E2Q (putative) 2	62	1.4521245956420898	0.019402826	No	
+row_2	KLHL3	kelch-like 3 (Drosophila)	101	1.2752578258514404	0.027147854	No	
+row_3	ASB5	ankyrin repeat and SOCS box-containing 5	209	1.0558500289916992	0.028829178	No	
+row_4	HACE1	HECT domain and ankyrin repeat containing, E3 ubiquitin protein ligase 1	381	0.8875370025634766	0.02516564	No	
+row_5	FBXO27	F-box protein 27	403	0.8727364540100098	0.030779555	No	
+row_6	CUL7	cullin 7	485	0.8416642546653748	0.032388784	No	
+row_7	RNF7	ring finger protein 7	532	0.8139314651489258	0.03596998	No	
+row_8	FBXO32	F-box protein 32	586	0.7878803014755249	0.03890591	No	
+row_9	UBE2C	ubiquitin-conjugating enzyme E2C	617	0.775463342666626	0.043183815	No	
+row_10	FBXW9	F-box and WD-40 domain protein 9	619	0.775279700756073	0.04927662	No	
+row_11	FBXL4	F-box and leucine-rich repeat protein 4	706	0.7398122549057007	0.049764015	No	
+row_12	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.055376824	No	
+row_13	NEDD4	neural precursor cell expressed, developmentally down-regulated 4	725	0.7309113144874573	0.060365763	No	
+row_14	KLHL13	kelch-like 13 (Drosophila)	726	0.730675458908081	0.066167064	No	
+row_15	CDC20	CDC20 cell division cycle 20 homolog (S. cerevisiae)	891	0.6769030094146729	0.061269596	No	
+row_16	UBE2F	ubiquitin-conjugating enzyme E2F (putative)	1028	0.6361746788024902	0.057802495	No	
+row_17	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	1041	0.6336776614189148	0.062082067	No	
+row_18	RNF130	ring finger protein 130	1043	0.6329599618911743	0.06704491	No	
+row_19	ASB2	ankyrin repeat and SOCS box-containing 2	1299	0.5728428363800049	0.05562163	No	
+row_20	KBTBD6	kelch repeat and BTB (POZ) domain containing 6	1432	0.5433925986289978	0.0516684	No	
+row_21	DZIP3	-	1503	0.5289667844772339	0.05148389	No	
+row_22	UBE2D4	ubiquitin-conjugating enzyme E2D 4 (putative)	1635	0.5039122700691223	0.047279835	No	
+row_23	ATG7	ATG7 autophagy related 7 homolog (S. cerevisiae)	1901	0.49605581164360046	0.03462057	No	
+row_24	SIAH1	seven in absentia homolog 1 (Drosophila)	1917	0.49453309178352356	0.037607484	No	
+row_25	ASB11	ankyrin repeat and SOCS box-containing 11	1938	0.4926428198814392	0.040266227	No	
+row_26	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.042262327	No	
+row_27	FBXL19	F-box and leucine-rich repeat protein 19	2010	0.4818698763847351	0.043582875	No	
+row_28	ASB4	ankyrin repeat and SOCS box-containing 4	2014	0.48105674982070923	0.047214393	No	
+row_29	ASB1	ankyrin repeat and SOCS box-containing 1	2047	0.4776209890842438	0.04900227	No	
+row_30	FBXO15	F-box protein 15	2074	0.4723443388938904	0.05112405	No	
+row_31	FBXW2	F-box and WD-40 domain protein 2	2110	0.4665891230106354	0.05263644	No	
+row_32	SPSB4	splA/ryanodine receptor domain and SOCS box containing 4	2122	0.46523991227149963	0.055641312	No	
+row_33	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	0.04486354	No	
+row_34	FBXL3	F-box and leucine-rich repeat protein 3	2372	0.4294905960559845	0.046958245	No	
+row_35	UBE2E3	ubiquitin-conjugating enzyme E2E 3 (UBC4/5 homolog, yeast)	2411	0.42397230863571167	0.047944374	No	
+row_36	FZR1	fizzy/cell division cycle 20 related 1 (Drosophila)	2425	0.42285043001174927	0.05048742	No	
+row_37	FBXW10	F-box and WD-40 domain protein 10	2455	0.41929155588150024	0.052000087	No	
+row_38	WWP1	WW domain containing E3 ubiquitin protein ligase 1	2492	0.41360077261924744	0.053029135	No	
+row_39	FBXL5	F-box and leucine-rich repeat protein 5	2519	0.40985965728759766	0.05465481	No	
+row_40	GLMN	glomulin, FKBP associated protein	2624	0.39364320039749146	0.051266354	No	
+row_41	UBE2E2	ubiquitin-conjugating enzyme E2E 2 (UBC4/5 homolog, yeast)	2657	0.3894078731536865	0.05235385	No	
+row_42	FBXO2	F-box protein 2	2664	0.38867589831352234	0.055063996	No	
+row_43	NEDD4L	neural precursor cell expressed, developmentally down-regulated 4-like	2751	0.3743527829647064	0.052649777	No	
+row_44	HERC1	hect (homologous to the E6-AP (UBE3A) carboxyl terminus) domain and RCC1 (CHC1)-like domain (RLD) 1	2876	0.3558564782142639	0.04770864	No	
+row_45	UBE2A	ubiquitin-conjugating enzyme E2A (RAD6 homolog)	2904	0.3525353968143463	0.048816554	No	
+row_46	RNF41	ring finger protein 41	2989	0.34396088123321533	0.046286296	No	
+row_47	FBXL18	F-box and leucine-rich repeat protein 18	3016	0.3402833342552185	0.047359563	No	
+row_48	ASB8	ankyrin repeat and SOCS box-containing 8	3033	0.33860793709754944	0.049045857	No	
+row_49	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	0.04583148	No	
+row_50	ANAPC4	anaphase promoting complex subunit 4	3153	0.3257337212562561	0.04685186	No	
+row_51	CDC26	cell division cycle 26	3373	0.30150723457336426	0.03552907	No	
+row_52	UBE2V2	ubiquitin-conjugating enzyme E2 variant 2	3392	0.29978227615356445	0.036781836	No	
+row_53	RNF34	ring finger protein 34	3399	0.29902616143226624	0.038780198	No	
+row_54	FBXL20	F-box and leucine-rich repeat protein 20	3406	0.2984141707420349	0.040773697	No	
+row_55	STUB1	STIP1 homology and U-box containing protein 1	3535	0.28511831164360046	0.035020396	No	
+row_56	GAN	giant axonal neuropathy (gigaxonin)	3548	0.2840721607208252	0.03652423	No	
+row_57	SMURF1	SMAD specific E3 ubiquitin protein ligase 1	3567	0.28123804926872253	0.03762976	No	
+row_58	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	0.031671382	No	
+row_59	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	0.031630658	No	
+row_60	CUL5	cullin 5	3755	0.26154574751853943	0.032329306	No	
+row_61	FBXL22	F-box and leucine-rich repeat protein 22	3774	0.2601645588874817	0.03326752	No	
+row_62	ASB3	ankyrin repeat and SOCS box-containing 3	3864	0.25275400280952454	0.029699951	No	
+row_63	LONRF1	LON peptidase N-terminal domain and ring finger 1	3899	0.2504175901412964	0.029558651	No	
+row_64	ANAPC5	anaphase promoting complex subunit 5	3930	0.24818015098571777	0.029650118	No	
+row_65	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	0.028137762	No	
+row_66	UBE2G2	ubiquitin-conjugating enzyme E2G 2 (UBC7 homolog, yeast)	4081	0.2366967499256134	0.024129536	No	
+row_67	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.022712437	No	
+row_68	UBE2H	ubiquitin-conjugating enzyme E2H (UBC8 homolog, yeast)	4177	0.22855202853679657	0.021896468	No	
+row_69	ASB14	ankyrin repeat and SOCS box-containing 14	4249	0.22408413887023926	0.019228665	No	
+row_70	ANAPC1	anaphase promoting complex subunit 1	4339	0.21647293865680695	0.015373036	No	
+row_71	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	0.013865056	No	
+row_72	UBE3C	ubiquitin protein ligase E3C	4401	0.2112472504377365	0.014978585	No	
+row_73	RNF123	ring finger protein 123	4445	0.20739147067070007	0.013931975	No	
+row_74	FBXL15	F-box and leucine-rich repeat protein 15	4451	0.20678895711898804	0.015260639	No	
+row_75	CUL2	cullin 2	4460	0.20587560534477234	0.016394151	No	
+row_76	HERC2	hect domain and RLD 2	4500	0.2023552507162094	0.015558088	No	
+row_77	FBXL16	F-box and leucine-rich repeat protein 16	4661	0.18619798123836517	0.007015137	No	
+row_78	HECTD1	HECT domain containing 1	4724	0.18110772967338562	0.0045698145	No	
+row_79	SIAH2	seven in absentia homolog 2 (Drosophila)	4733	0.1805746853351593	0.0055024475	No	
+row_80	ASB9	ankyrin repeat and SOCS box-containing 9	4808	0.17396707832813263	0.002248834	No	
+row_81	UBE2G1	ubiquitin-conjugating enzyme E2G 1 (UBC7 homolog, yeast)	4811	0.17371580004692078	0.003502808	No	
+row_82	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	0.0039981506	No	
+row_83	UBE2M	ubiquitin-conjugating enzyme E2M (UBC12 homolog, yeast)	4846	0.17076218128204346	0.0041639116	No	
+row_84	TRIM63	tripartite motif-containing 63	4905	0.1654708832502365	0.0018449707	No	
+row_85	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	5047	0.1546388417482376	-0.0057585193	No	
+row_86	FBXO40	F-box protein 40	5073	0.1519308090209961	-0.0061180713	No	
+row_87	PJA2	praja 2, RING-H2 motif containing	5169	0.14003433287143707	-0.010956394	No	
+row_88	BTBD1	BTB (POZ) domain containing 1	5196	0.13753706216812134	-0.01149286	No	
+row_89	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.012993565	No	
+row_90	CDC23	CDC23 (cell division cycle 23, yeast, homolog)	5242	0.1342841535806656	-0.012115297	No	
+row_91	HERC3	hect domain and RLD 3	5304	0.129729226231575	-0.014905913	No	
+row_92	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.015587265	No	
+row_93	UBE3B	ubiquitin protein ligase E3B	5335	0.1267528235912323	-0.01470616	No	
+row_94	FBXO17	F-box protein 17	5384	0.12270122766494751	-0.016738346	No	
+row_95	RNF138	ring finger protein 138	5602	0.10591476410627365	-0.029488802	No	
+row_96	BTBD6	BTB (POZ) domain containing 6	5620	0.10460865497589111	-0.02972301	No	
+row_97	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	5622	0.10431190580129623	-0.028957443	No	
+row_98	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.030405957	No	
+row_99	UBE2B	ubiquitin-conjugating enzyme E2B (RAD6 homolog)	5753	0.09389272332191467	-0.03548536	No	
+row_100	KBTBD7	kelch repeat and BTB (POZ) domain containing 7	5878	0.08582000434398651	-0.042570487	No	
+row_101	FBXO22	F-box protein 22	5928	0.08180556446313858	-0.04499	No	
+row_102	TRIM36	tripartite motif-containing 36	6035	0.07304122298955917	-0.051049188	No	
+row_103	FBXO4	F-box protein 4	6234	0.05831393599510193	-0.06298755	No	
+row_104	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.0696736	No	
+row_105	UBE2U	ubiquitin-conjugating enzyme E2U (putative)	6414	0.0445600189268589	-0.07339096	No	
+row_106	ANAPC2	anaphase promoting complex subunit 2	6517	0.03707877919077873	-0.07948514	No	
+row_107	FBXO31	F-box protein 31	6573	0.033888079226017	-0.082660906	No	
+row_108	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.08788176	No	
+row_109	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.09068566	No	
+row_110	RNF14	ring finger protein 14	6823	0.020014658570289612	-0.09754165	No	
+row_111	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.09927932	No	
+row_112	RNF182	ring finger protein 182	6929	0.014430400915443897	-0.1037996	No	
+row_113	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.1111248	No	
+row_114	FBXW12	F-box and WD-40 domain protein 12	7450	1.2393125590180286E-34	-0.13624068	No	
+row_115	ASB17	ankyrin repeat and SOCS box-containing 17	8112	0.0	-0.17764114	No	
+row_116	ASB18	ankyrin repeat and SOCS box-containing 18	8114	0.0	-0.17770378	No	
+row_117	ASB10	ankyrin repeat and SOCS box-containing 10	8115	0.0	-0.17770378	No	
+row_118	TRIM71	tripartite motif-containing 71	8781	0.0	-0.21935478	No	
+row_119	ANAPC10	anaphase promoting complex subunit 10	9262	-5.30428120233557E-19	-0.24941868	No	
+row_120	FBXL8	F-box and leucine-rich repeat protein 8	9527	-0.003797839628532529	-0.26592365	No	
+row_121	TRAF7	TNF receptor-associated factor 7	9531	-0.004618378356099129	-0.2660749	No	
+row_122	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.26927763	No	
+row_123	UBE2L3	ubiquitin-conjugating enzyme E2L 3	9597	-0.007347228471189737	-0.2699709	No	
+row_124	FBXO44	F-box protein 44	9634	-0.008837656117975712	-0.27215552	No	
+row_125	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.27893496	No	
+row_126	MIB2	mindbomb homolog 2 (Drosophila)	9834	-0.01812431961297989	-0.28430277	No	
+row_127	KLHL22	kelch-like 22 (Drosophila)	9955	-0.023059340193867683	-0.29163566	No	
+row_128	KCTD6	potassium channel tetramerisation domain containing 6	10027	-0.026811910793185234	-0.29586974	No	
+row_129	ASB12	ankyrin repeat and SOCS box-containing 12	10053	-0.02815156616270542	-0.29721203	No	
+row_130	CCNF	cyclin F	10068	-0.028811713680624962	-0.29786015	No	
+row_131	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.29968724	No	
+row_132	KCTD7	potassium channel tetramerisation domain containing 7	10164	-0.034521400928497314	-0.30323377	No	
+row_133	ANAPC11	APC11 anaphase promoting complex subunit 11 homolog (yeast)	10178	-0.03574322909116745	-0.30376422	No	
+row_134	ASB15	ankyrin repeat and SOCS box-containing 15	10191	-0.03707515448331833	-0.30422145	No	
+row_135	KLHL20	kelch-like 20 (Drosophila)	10244	-0.04052877798676491	-0.3071566	No	
+row_136	KLHL11	kelch-like 11 (Drosophila)	10261	-0.041721928864717484	-0.30782747	No	
+row_137	UBE2J2	ubiquitin-conjugating enzyme E2, J2 (UBC6 homolog, yeast)	10349	-0.04775342345237732	-0.3128974	No	
+row_138	ANAPC13	anaphase promoting complex subunit 13	10383	-0.05031990259885788	-0.31456476	No	
+row_139	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.3165226	No	
+row_140	ARIH2	ariadne homolog 2 (Drosophila)	10468	-0.057531069964170456	-0.3188843	No	
+row_141	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.31867492	No	
+row_142	TRIM50	tripartite motif-containing 50	10476	-0.05801308900117874	-0.3183396	No	
+row_143	FBXO10	F-box protein 10	10509	-0.06054697185754776	-0.3198631	No	
+row_144	NPEPPS	aminopeptidase puromycin sensitive	10625	-0.06888891756534576	-0.32651895	No	
+row_145	UBOX5	U-box domain containing 5	10648	-0.07084769755601883	-0.32733437	No	
+row_146	KLHL21	kelch-like 21 (Drosophila)	10705	-0.07539712637662888	-0.3302432	No	
+row_147	HUWE1	HECT, UBA and WWE domain containing 1	10710	-0.07562720775604248	-0.3298933	No	
+row_148	TRIM4	tripartite motif-containing 4	10717	-0.07637757062911987	-0.32966268	No	
+row_149	UBE2R2	ubiquitin-conjugating enzyme E2R 2	10766	-0.08149481564760208	-0.33202204	No	
+row_150	VHL	von Hippel-Lindau tumor suppressor	10790	-0.08399893343448639	-0.33279568	No	
+row_151	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.3326227	No	
+row_152	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.33436465	No	
+row_153	FBXW5	F-box and WD-40 domain protein 5	10867	-0.09014957398176193	-0.33534	No	
+row_154	TPP2	tripeptidyl peptidase II	10868	-0.09015344083309174	-0.3346242	No	
+row_155	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	10897	-0.09362619370222092	-0.33563456	No	
+row_156	ANAPC7	anaphase promoting complex subunit 7	10973	-0.0995836853981018	-0.3395414	No	
+row_157	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.3409855	No	
+row_158	FBXL12	F-box and leucine-rich repeat protein 12	11022	-0.10306759178638458	-0.34085613	No	
+row_159	TRIM37	tripartite motif-containing 37	11090	-0.10871569812297821	-0.3441894	No	
+row_160	TRAIP	TRAF interacting protein	11153	-0.11599234491586685	-0.3471517	No	
+row_161	SPSB2	splA/ryanodine receptor domain and SOCS box containing 2	11161	-0.1168154627084732	-0.34666267	No	
+row_162	SMURF2	SMAD specific E3 ubiquitin protein ligase 2	11276	-0.12731486558914185	-0.352792	No	
+row_163	LRRC41	leucine rich repeat containing 41	11337	-0.13227245211601257	-0.3554998	No	
+row_164	KLHL9	kelch-like 9 (Drosophila)	11393	-0.137705996632576	-0.35785127	No	
+row_165	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.3650605	No	
+row_166	UBE3A	ubiquitin protein ligase E3A (human papilloma virus E6-associated protein, Angelman syndrome)	11590	-0.15440350770950317	-0.36765522	No	
+row_167	CDC34	cell division cycle 34	11713	-0.165129616856575	-0.37398538	No	
+row_168	CUL3	cullin 3	11760	-0.1702529937028885	-0.37551475	No	
+row_169	BTRC	beta-transducin repeat containing	11766	-0.17109966278076172	-0.37446946	No	
+row_170	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.37800038	No	
+row_171	ZNRF1	zinc and ring finger 1	11859	-0.17938685417175293	-0.3773277	No	
+row_172	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	11909	-0.18438878655433655	-0.37893274	No	
+row_173	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.3775298	No	
+row_174	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.3768049	No	
+row_175	UNKL	unkempt-like (Drosophila)	11940	-0.18693967163562775	-0.37626016	No	
+row_176	UBE2J1	ubiquitin-conjugating enzyme E2, J1 (UBC6 homolog, yeast)	11987	-0.19183969497680664	-0.37761816	No	
+row_177	FBXO30	F-box protein 30	12127	-0.2060263305902481	-0.38468838	No	
+row_178	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	12453	-0.23836000263690948	-0.40315163	No	
+row_179	UBE2V1	ubiquitin-conjugating enzyme E2 variant 1	12528	-0.24797683954238892	-0.40581766	No	
+row_180	RNF4	ring finger protein 4	12589	-0.2531834542751312	-0.40756544	No	
+row_181	FBXW4	F-box and WD-40 domain protein 4	12610	-0.25485584139823914	-0.40679464	No	
+row_182	CBLB	Cas-Br-M (murine) ecotropic retroviral transforming sequence b	12612	-0.25492432713508606	-0.40483326	No	
+row_183	LRSAM1	leucine rich repeat and sterile alpha motif containing 1	12676	-0.2618457078933716	-0.4067002	No	
+row_184	UBE2Q1	ubiquitin-conjugating enzyme E2Q (putative) 1	12690	-0.26393094658851624	-0.4054189	No	
+row_185	ASB16	ankyrin repeat and SOCS box-containing 16	12796	-0.27651241421699524	-0.40979996	No	
+row_186	FBXO41	F-box protein 41	12830	-0.28053754568099976	-0.4096395	No	
+row_187	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.41112104	No	
+row_188	FBXO11	F-box protein 11	12923	-0.29059040546417236	-0.4107555	No	
+row_189	CUL1	cullin 1	12992	-0.2996160089969635	-0.41263568	No	
+row_190	RBX1	ring-box 1	13011	-0.3016377389431	-0.4113682	No	
+row_191	LNPEP	leucyl/cystinyl aminopeptidase	13052	-0.3073563575744629	-0.41143322	No	
+row_192	MYLIP	myosin regulatory light chain interacting protein	13053	-0.3074553608894348	-0.4089921	No	
+row_193	HECTD3	HECT domain containing 3	13189	-0.3262440264225006	-0.41485733	No	
+row_194	SH3RF1	SH3 domain containing ring finger 1	13227	-0.33119407296180725	-0.4145452	No	
+row_195	ZNRF2	zinc and ring finger 2	13266	-0.33547067642211914	-0.41426173	No	
+row_196	RNF111	ring finger protein 111	13467	-0.35954511165618896	-0.4239337	Yes	
+row_197	RNF126	ring finger protein 126	13477	-0.36107397079467773	-0.4216306	Yes	
+row_198	TRIM11	tripartite motif-containing 11	13531	-0.36842775344848633	-0.42202497	Yes	
+row_199	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.42105597	Yes	
+row_200	UBR1	ubiquitin protein ligase E3 component n-recognin 1	13578	-0.3769380748271942	-0.41887745	Yes	
+row_201	TRIM39	tripartite motif-containing 39	13594	-0.37881508469581604	-0.4168093	Yes	
+row_202	TRIM32	tripartite motif-containing 32	13625	-0.38315752148628235	-0.41564617	Yes	
+row_203	UBE2O	ubiquitin-conjugating enzyme E2O	13641	-0.38561972975730896	-0.41352397	Yes	
+row_204	ASB7	ankyrin repeat and SOCS box-containing 7	13721	-0.3971419334411621	-0.41531885	Yes	
+row_205	PJA1	praja 1	13765	-0.40493497252464294	-0.414797	Yes	
+row_206	ASB13	ankyrin repeat and SOCS box-containing 13	13867	-0.4205586910247803	-0.4177839	Yes	
+row_207	FBXL7	F-box and leucine-rich repeat protein 7	13875	-0.4215203523635864	-0.4148756	Yes	
+row_208	TRIP12	thyroid hormone receptor interactor 12	13921	-0.4273276627063751	-0.41430125	Yes	
+row_209	FBXO21	F-box protein 21	13944	-0.43111059069633484	-0.41225633	Yes	
+row_210	FBXW11	F-box and WD-40 domain protein 11	14011	-0.44262412190437317	-0.41287583	Yes	
+row_211	UBE2S	ubiquitin-conjugating enzyme E2S	14065	-0.452858030796051	-0.41259986	Yes	
+row_212	KEAP1	kelch-like ECH-associated protein 1	14068	-0.45366963744163513	-0.40912315	Yes	
+row_213	WSB1	WD repeat and SOCS box-containing 1	14070	-0.4539438784122467	-0.40558162	Yes	
+row_214	ASB6	ankyrin repeat and SOCS box-containing 6	14129	-0.4675835072994232	-0.4055019	Yes	
+row_215	RNF25	ring finger protein 25	14153	-0.4727533161640167	-0.40318897	Yes	
+row_216	ZBTB16	zinc finger and BTB domain containing 16	14166	-0.47635456919670105	-0.4001585	Yes	
+row_217	RBBP6	retinoblastoma binding protein 6	14177	-0.47853031754493713	-0.39698547	Yes	
+row_218	UBC	ubiquitin C	14182	-0.47944867610931396	-0.39342937	Yes	
+row_219	SPSB1	splA/ryanodine receptor domain and SOCS box containing 1	14258	-0.4939495027065277	-0.39420506	Yes	
+row_220	FBXO7	F-box protein 7	14277	-0.49683746695518494	-0.39138773	Yes	
+row_221	FBXW8	F-box and WD-40 domain protein 8	14287	-0.4976503252983093	-0.38800028	Yes	
+row_222	CDC27	cell division cycle 27	14319	-0.49921053647994995	-0.38597834	Yes	
+row_223	RCHY1	ring finger and CHY zinc finger domain containing 1	14353	-0.49985983967781067	-0.38407654	Yes	
+row_224	FBXO9	F-box protein 9	14405	-0.49996480345726013	-0.3833013	Yes	
+row_225	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.38133582	Yes	
+row_226	KLHL2	kelch-like 2, Mayven (Drosophila)	14506	-0.500045895576477	-0.38156205	Yes	
+row_227	KBTBD8	kelch repeat and BTB (POZ) domain containing 8	14538	-0.502823531627655	-0.37951145	Yes	
+row_228	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.38359183	Yes	
+row_229	LNX1	ligand of numb-protein X 1	14722	-0.546516478061676	-0.38232172	Yes	
+row_230	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.38059095	Yes	
+row_231	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.3777969	Yes	
+row_232	HECW2	HECT, C2 and WW domain containing E3 ubiquitin protein ligase 2	14856	-0.5807830691337585	-0.3770063	Yes	
+row_233	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.37305894	Yes	
+row_234	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.3737948	Yes	
+row_235	MGRN1	mahogunin, ring finger 1	15097	-0.6515747308731079	-0.3772649	Yes	
+row_236	BLMH	bleomycin hydrolase	15098	-0.6520501375198364	-0.37208784	Yes	
+row_237	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.36814597	Yes	
+row_238	LMO7	LIM domain 7	15151	-0.6728805303573608	-0.36468253	Yes	
+row_239	HERC4	hect domain and RLD 4	15152	-0.6729584336280823	-0.3593395	Yes	
+row_240	KLHL25	kelch-like 25 (Drosophila)	15189	-0.6868577003479004	-0.35614088	Yes	
+row_241	UBR2	ubiquitin protein ligase E3 component n-recognin 2	15378	-0.7755743265151978	-0.36175814	Yes	
+row_242	KLHL5	kelch-like 5 (Drosophila)	15432	-0.7988845109939575	-0.35873482	Yes	
+row_243	RNF6	ring finger protein (C3H2C3 type) 6	15462	-0.8098790645599365	-0.35412103	Yes	
+row_244	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.35032353	Yes	
+row_245	FBXL14	F-box and leucine-rich repeat protein 14	15521	-0.8416139483451843	-0.34439301	Yes	
+row_246	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.33787978	Yes	
+row_247	DET1	de-etiolated homolog 1 (Arabidopsis)	15574	-0.8646526336669922	-0.33402112	Yes	
+row_248	FBXL13	F-box and leucine-rich repeat protein 13	15588	-0.8660156726837158	-0.3279595	Yes	
+row_249	UBB	ubiquitin B	15642	-0.9178993105888367	-0.32399127	Yes	
+row_250	UBE2W	ubiquitin-conjugating enzyme E2W (putative)	15650	-0.9292504787445068	-0.3170518	Yes	
+row_251	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.31072158	Yes	
+row_252	TRIM9	tripartite motif-containing 9	15687	-0.9634865522384644	-0.3041366	Yes	
+row_253	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.297119	Yes	
+row_254	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.2925205	Yes	
+row_255	TRIM41	tripartite motif-containing 41	15763	-1.0535857677459717	-0.2841554	Yes	
+row_256	THOP1	thimet oligopeptidase 1	15777	-1.0717729330062866	-0.27646014	Yes	
+row_257	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	15872	-1.2410012483596802	-0.27249455	Yes	
+row_258	MKRN1	makorin, ring finger protein, 1	15882	-1.2538838386535645	-0.26310286	Yes	
+row_259	UBE2Z	ubiquitin-conjugating enzyme E2Z (putative)	15888	-1.2706085443496704	-0.25332788	Yes	
+row_260	TRIM69	tripartite motif-containing 69	15926	-1.3425263166427612	-0.24498612	Yes	
+row_261	FBXO6	F-box protein 6	15973	-1.4857746362686157	-0.23607074	Yes	
+row_262	HECTD2	HECT domain containing 2	15978	-1.492978572845459	-0.22446756	Yes	
+row_263	FBXW7	F-box and WD-40 domain protein 7 (archipelago homolog, Drosophila)	16001	-1.606411337852478	-0.21309116	Yes	
+row_264	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.20070174	Yes	
+row_265	UBE2L6	ubiquitin-conjugating enzyme E2L 6	16021	-1.6785660982131958	-0.18775034	Yes	
+row_266	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.17506905	Yes	
+row_267	DTX3L	deltex 3-like (Drosophila)	16116	-2.364330530166626	-0.15967931	Yes	
+row_268	SOCS1	suppressor of cytokine signaling 1	16143	-2.593221426010132	-0.14071853	Yes	
+row_269	TRIM21	tripartite motif-containing 21	16147	-2.674187183380127	-0.11967436	Yes	
+row_270	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.09840899	Yes	
+row_271	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	-0.072474495	Yes	
+row_272	HERC6	hect domain and RLD 6	16225	-4.61771297454834	-0.037627894	Yes	
+row_273	HERC5	hect domain and RLD 5	16235	-4.841777801513672	2.5036331E-4	Yes	

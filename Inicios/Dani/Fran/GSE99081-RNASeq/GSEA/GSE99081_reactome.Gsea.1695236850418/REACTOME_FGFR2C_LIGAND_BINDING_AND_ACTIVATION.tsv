@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGF17	fibroblast growth factor 17	517	0.8234770894050598	0.2531239	Yes	
+row_1	FGF18	fibroblast growth factor 18	806	0.7012233138084412	0.47805116	Yes	
+row_2	FGF1	fibroblast growth factor 1 (acidic)	1807	0.4999425709247589	0.58944285	Yes	
+row_3	FGF5	fibroblast growth factor 5	2883	0.3551464080810547	0.6461023	Yes	
+row_4	FGF2	fibroblast growth factor 2 (basic)	3073	0.3343360722064972	0.7501602	Yes	
+row_5	FGF8	fibroblast growth factor 8 (androgen-induced)	6109	0.06736326962709427	0.58643895	No	
+row_6	FGFR2	fibroblast growth factor receptor 2 (bacteria-expressed kinase, keratinocyte growth factor receptor, craniofacial dysostosis 1, Crouzon syndrome, Pfeiffer syndrome, Jackson-Weiss syndrome)	7422	2.3257186920668665E-14	0.5055861	No	
+row_7	FGF23	fibroblast growth factor 23	8299	0.0	0.45160198	No	
+row_8	FGF16	fibroblast growth factor 16	8300	0.0	0.45160198	No	
+row_9	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8821	0.0	0.41955662	No	
+row_10	FGF6	fibroblast growth factor 6	8822	0.0	0.41955662	No	
+row_11	FGF9	fibroblast growth factor 9 (glia-activating factor)	8824	0.0	0.419495	No	
+row_12	FGF20	fibroblast growth factor 20	11086	-0.10806290060281754	0.31755713	No	

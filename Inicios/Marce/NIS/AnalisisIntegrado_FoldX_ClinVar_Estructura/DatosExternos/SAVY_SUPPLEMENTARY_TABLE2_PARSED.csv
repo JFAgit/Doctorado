@@ -1,0 +1,64 @@
+cDNA_SAVY,Protein_SAVY,Effect_SAVY,ACMG_Criteria_SAVY,ACMG_Result_SAVY,References_SAVY,Source_SAVY,Protein_Key,cDNA_Key
+c.-54C>T,,,,Uncertain significance,21565787,Mariano/Nicola SAVY Supplemental Table 2,,C.-54C>T
+c.52G>A,p.Gly18Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,32805706,Mariano/Nicola SAVY Supplemental Table 2,P.GLY18ARG,C.52G>A
+c.152del,p.Gly51Alafs*45,Frameshift,"PVS1, PM2_Supp, PM3",Pathogenic,33815280,Mariano/Nicola SAVY Supplemental Table 2,P.GLY51ALAFS*45,C.152DEL
+c.161T>C,p.Leu54Pro,Missense,"PS3_Mod, PM2_Supp, PP3_Mod",Uncertain significance,36884306,Mariano/Nicola SAVY Supplemental Table 2,P.LEU54PRO,C.161T>C
+c.176T>A,p.Val59Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_(+3), PP4",Pathogenic,"10907989, 18339708, 35276235",Mariano/Nicola SAVY Supplemental Table 2,P.VAL59GLU,C.176T>A
+c.277G>C,p.Gly93Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,"9745458, 22011571",Mariano/Nicola SAVY Supplemental Table 2,P.GLY93ARG,C.277G>C
+c.371G>A,p.Arg124His,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"16418213, 23690546",Mariano/Nicola SAVY Supplemental Table 2,P.ARG124HIS,C.371G>A
+c.411C>G,p.Tyr137*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,31430255,Mariano/Nicola SAVY Supplemental Table 2,P.TYR137*,C.411C>G
+c.424_969del,p.Met142_Gln323del,Deletion,"PVS1_Strong, PM2_Supp, PM3_Supp, PP4",Likely Pathogenic,31430255,Mariano/Nicola SAVY Supplemental Table 2,P.MET142_GLN323DEL,C.424_969DEL
+c.469delA,p.Asn157Thrfs*3,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,"30240412, 34780050",Mariano/Nicola SAVY Supplemental Table 2,P.ASN157THRFS*3,C.469DELA
+c.475+1G>T,p=?,,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,35276235,Mariano/Nicola SAVY Supplemental Table 2,P=?,C.475+1G>T
+c.572A>G,p.Asp191Gly,Missense,"PS3_Mod, PM1, PM2_Supp, PP3_Mod",Likely Pathogenic,32425884,Mariano/Nicola SAVY Supplemental Table 2,P.ASP191GLY,C.572A>G
+c.663G>A,p.Thr221=,Synonym,"PM2_Supp, BS2, BP7",Likely Benign,25465605,Mariano/Nicola SAVY Supplemental Table 2,P.THR221=,C.663G>A
+c.749G>T,p.Gly250Val,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_Mod",Likely Pathogenic,31867598,Mariano/Nicola SAVY Supplemental Table 2,P.GLY250VAL,C.749G>T
+c.788A>T,p.Gln263Leu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Mod, PP4",Likely Pathogenic,39895319,Mariano/Nicola SAVY Supplemental Table 2,P.GLN263LEU,C.788A>T
+c.794A>G,p.Gln265Arg,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_(+3), PP4",Likely Pathogenic,33310921,Mariano/Nicola SAVY Supplemental Table 2,P.GLN265ARG,C.794A>G
+c.799C>G,p.Gln267Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"9486973, 14734652, 10902780",Mariano/Nicola SAVY Supplemental Table 2,P.GLN267GLU,C.799C>G
+c.809T>A,p.Val270Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,26204134,Mariano/Nicola SAVY Supplemental Table 2,P.VAL270GLU,C.809T>A
+c.816C>A,p.Cys272*,Nonsense,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,"9388506, 10902780",Mariano/Nicola SAVY Supplemental Table 2,P.CYS272*,C.816C>A
+c.817C>T,p.Arg273Cys,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,36884306,Mariano/Nicola SAVY Supplemental Table 2,P.ARG273CYS,C.817C>T
+c.818G>A,p.Arg273His,Missense,"PM2_Supp, BS3_Mod, BP4_Mod",Likely Benign,36913313,Mariano/Nicola SAVY Supplemental Table 2,P.ARG273HIS,C.818G>A
+c.859_864del,p.Val287_Gly288del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,19916865,Mariano/Nicola SAVY Supplemental Table 2,P.VAL287_GLY288DEL,C.859_864DEL
+c.930C>T,p.Cys310=,Synonym,"BP7, PM2_Supp",Uncertain significance,25465605,Mariano/Nicola SAVY Supplemental Table 2,P.CYS310=,C.930C>T
+c.958G>A,p.Ala320Thr,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,Mariano/Nicola SAVY Supplemental Table 2,P.ALA320THR,C.958G>A
+c.970-3C>A,p.Y324Hfs*148,Frameshift,"PVS1 (RNA), PM2_Supp, PM3, PP4",Pathogenic,34726525,Mariano/Nicola SAVY Supplemental Table 2,P.Y324HFS*148,C.970-3C>A
+c.970-48G>C,p.Y324Hfs*148,Frameshift,,Uncertain significance,34632506,Mariano/Nicola SAVY Supplemental Table 2,P.Y324HFS*148,C.970-48G>C
+c.970_1526del,p.Tyr324Leufs*12,Frameshift,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,34632506.,Mariano/Nicola SAVY Supplemental Table 2,P.TYR324LEUFS*12,C.970_1526DEL
+c.991G>A,p.Asp331Asn,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,31115276,Mariano/Nicola SAVY Supplemental Table 2,P.ASP331ASN,C.991G>A
+c.1021G>A,p.Gly341Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Strong, PP4",Pathogenic,35438852,Mariano/Nicola SAVY Supplemental Table 2,P.GLY341ARG,C.1021G>A
+c.1042T>G,p.Tyr348Asp,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong,",Likely Pathogenic,29759035,Mariano/Nicola SAVY Supplemental Table 2,P.TYR348ASP,C.1042T>G
+c.1049G>A,p.Gly350Asp,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,39895319,Mariano/Nicola SAVY Supplemental Table 2,P.GLY350ASP,C.1049G>A
+c.1060A>C,p.Thr354Pro,Missense,"PS3_Supp, PM1, PM2_Supp, PM3_Strong, PP3_Mod, PP4",Pathogenic,"9745458, 17606623, 21054210, 21054210, 981450, 9398697, 9709973, 9657379, 27493890",Mariano/Nicola SAVY Supplemental Table 2,P.THR354PRO,C.1060A>C
+c.1067C>T,p.Ser356Phe,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong, PP4",Pathogenic,34806438,Mariano/Nicola SAVY Supplemental Table 2,P.SER356PHE,C.1067C>T
+c.1067_1068insT,Thr357Hisfs*146,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,39003160,Mariano/Nicola SAVY Supplemental Table 2,THR357HISFS*146,C.1067_1068INST
+c.1106A>T,p.Asp369Val,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,34726525,Mariano/Nicola SAVY Supplemental Table 2,P.ASP369VAL,C.1106A>T
+c.1126C>T,p.Arg376Trp,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,Mariano/Nicola SAVY Supplemental Table 2,P.ARG376TRP,C.1126C>T
+c.1157T>G,p.Ile386Ser,Missense,"PS3_Mod, PM2_Supp",Uncertain significance,32425884,Mariano/Nicola SAVY Supplemental Table 2,P.ILE386SER,C.1157T>G
+c.1162A>T,p.Lys388*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,32425884,Mariano/Nicola SAVY Supplemental Table 2,P.LYS388*,C.1162A>T
+c.1183G>A,p.Gly395Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_Strong, PP4",Pathogenic,"10487695, 12145342, 30240412, 34632506",Mariano/Nicola SAVY Supplemental Table 2,P.GLY395ARG,C.1183G>A
+c.1224C>T,p.Leu408=,Synonym,"BS1, BS2, BP7",Benign,"34539567, 25465605",Mariano/Nicola SAVY Supplemental Table 2,P.LEU408=,C.1224C>T
+c.1242+1G>A,p=?,,"PVS1, PM2_Supp, PM3",Pathogenic,32005694,Mariano/Nicola SAVY Supplemental Table 2,P=?,C.1242+1G>A
+c.1261G>A,p.Gly421Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong",Likely Pathogenic,33815280,Mariano/Nicola SAVY Supplemental Table 2,P.GLY421ARG,C.1261G>A
+c.1303A>C,p.Met435Leu,Missense,"PM2_Supp, BS3_Mod",Likely Benign,25465605,Mariano/Nicola SAVY Supplemental Table 2,P.MET435LEU,C.1303A>C
+c.1314_1328del,p.Ala439_Pro443del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,"14510914, 23650190",Mariano/Nicola SAVY Supplemental Table 2,P.ALA439_PRO443DEL,C.1314_1328DEL
+c.1326A>C,p.G415Lfs*32,Frameshift,,Uncertain significance,35600585,Mariano/Nicola SAVY Supplemental Table 2,P.G415LFS*32,C.1326A>C
+c.1329+2T>C,p=?,,"PVS1_Strong, PM2_Supp",Uncertain significance,36884306,Mariano/Nicola SAVY Supplemental Table 2,P=?,C.1329+2T>C
+c.1330-2A>C,p=?,,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,35438852,Mariano/Nicola SAVY Supplemental Table 2,P=?,C.1330-2A>C
+c.1499C>T,p.Pro500Leu,Missense,"PM2_Supp, BP4_(-3)",Likely Benign,39720292,Mariano/Nicola SAVY Supplemental Table 2,P.PRO500LEU,C.1499C>T
+c.1540G>A,p.Ala514Thr,Missense,"PM2_Supp, BS3_Mod, BP4_(-3)",Likely Benign,34539567,Mariano/Nicola SAVY Supplemental Table 2,P.ALA514THR,C.1540G>A
+c.1546C>T,p.Arg516*,Nonsense,"PVS1, PM2_Supp, PP4",Pathogenic,32805706,Mariano/Nicola SAVY Supplemental Table 2,P.ARG516*,C.1546C>T
+c.1593C>G,p.Ser509Argfs*6,Frameshift,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,"9486973, 10902780, 34248839",Mariano/Nicola SAVY Supplemental Table 2,P.SER509ARGFS*6,C.1593C>G
+c.1626C>T,p.Cys542=,Synonym,"BS1, BS2, BP7, PM3_Supp",Benign,35600585,Mariano/Nicola SAVY Supplemental Table 2,P.CYS542=,C.1626C>T
+c.1627G>A,p.Gly543Arg,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_(+3), PP4",Likely Pathogenic,"35276235, 15976004, 39749016",Mariano/Nicola SAVY Supplemental Table 2,P.GLY543ARG,C.1627G>A
+c.1628G>A,p.Gly543Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_Strong, PP4",Pathogenic,"9745458, 15976004",Mariano/Nicola SAVY Supplemental Table 2,P.GLY543GLU,C.1628G>A
+c.1641C>A,p.Ser547Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP4, PP3_Strong",Likely Pathogenic,31115276,Mariano/Nicola SAVY Supplemental Table 2,P.SER547ARG,C.1641C>A
+c.1652-97A>C,,,"BA1, BS2, BS3_Supp, BP7, PM3_Supp",Likely Benign,34632506,Mariano/Nicola SAVY Supplemental Table 2,,C.1652-97A>C
+c.1671C>G,p.Thr557=,Synonym,"PM2_Supp, BP7",Uncertain significance,25465605,Mariano/Nicola SAVY Supplemental Table 2,P.THR557=,C.1671C>G
+c.1679C>T,p.Pro560Leu,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,Mariano/Nicola SAVY Supplemental Table 2,P.PRO560LEU,C.1679C>T
+c.1682C>T,p.Gly561Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP4",Uncertain significance,33912899,Mariano/Nicola SAVY Supplemental Table 2,P.GLY561GLU,C.1682C>T
+c.1684T>A,p.Leu562Met,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,39749016,Mariano/Nicola SAVY Supplemental Table 2,P.LEU562MET,C.1684T>A
+c.1705C>T,p.Arg569Trp,Missense,"PM2_Supp, PM3, BS3_Mod, BP4",Likely Benign,34539567,Mariano/Nicola SAVY Supplemental Table 2,P.ARG569TRP,C.1705C>T
+c.1906C>T,p.Arg636*,Nonsense,"PVS1_Strong, PM3_Supp, PM2_Supp",Likely Pathogenic,"30240412, 34196428",Mariano/Nicola SAVY Supplemental Table 2,P.ARG636*,C.1906C>T
+c.1915C>T,p.Gln639*,Nonsense,"PVS1_Strong, PM2_Supp",Uncertain significance,32319661,Mariano/Nicola SAVY Supplemental Table 2,P.GLN639*,C.1915C>T

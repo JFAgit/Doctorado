@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.09279851	No	
+row_1	USP4	ubiquitin specific peptidase 4 (proto-oncogene)	2640	0.39220482110977173	-0.11108902	No	
+row_2	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.09658497	No	
+row_3	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.1676139	No	
+row_4	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.20864901	No	
+row_5	USP21	ubiquitin specific peptidase 21	5314	0.129059299826622	-0.22315243	No	
+row_6	SPPL2A	-	5450	0.11734981089830399	-0.22458608	No	
+row_7	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.24415472	No	
+row_8	CFLAR	CASP8 and FADD-like apoptosis regulator	6000	0.0758376196026802	-0.24876781	No	
+row_9	MADD	MAP-kinase activating death domain	9251	-7.642124729208382E-23	-0.44927368	No	
+row_10	USP2	ubiquitin specific peptidase 2	10677	-0.07323095947504044	-0.532885	No	
+row_11	SHARPIN	SHANK-associated RH domain interactor	11237	-0.12321413308382034	-0.5601324	No	
+row_12	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.5999069	No	
+row_13	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	12354	-0.2293039858341217	-0.6037082	No	
+row_14	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.60333	No	
+row_15	UBC	ubiquitin C	14182	-0.47944867610931396	-0.67331463	Yes	
+row_16	OTUD7B	OTU domain containing 7B	14191	-0.4805022180080414	-0.64557564	Yes	
+row_17	TRADD	TNFRSF1A-associated via death domain	14235	-0.48908931016921997	-0.61949134	Yes	
+row_18	SPPL2B	-	14686	-0.5372434854507446	-0.6156872	Yes	
+row_19	TRAF1	TNF receptor-associated factor 1	14728	-0.5486502647399902	-0.58597994	Yes	
+row_20	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.5698234	Yes	
+row_21	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.5320216	Yes	
+row_22	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.49999022	Yes	
+row_23	TAX1BP1	Tax1 (human T-cell leukemia virus type I) binding protein 1	15338	-0.7592897415161133	-0.46062106	Yes	
+row_24	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.42021173	Yes	
+row_25	UBB	ubiquitin B	15642	-0.9178993105888367	-0.37781608	Yes	
+row_26	TNF	tumor necrosis factor (TNF superfamily, member 2)	15727	-1.013060450553894	-0.3234746	Yes	
+row_27	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.26002985	Yes	
+row_28	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	15872	-1.2410012483596802	-0.18853202	Yes	
+row_29	RNF31	ring finger protein 31	16006	-1.617134690284729	-0.10172032	Yes	
+row_30	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	0.010056177	Yes	

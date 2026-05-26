@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LCK	lymphocyte-specific protein tyrosine kinase	1591	0.5100494027137756	-0.06306284	No	
+row_1	PIK3R2	phosphoinositide-3-kinase, regulatory subunit 2 (p85 beta)	1659	0.5016632676124573	-0.032743484	No	
+row_2	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	1980	0.48683157563209534	-0.019040678	No	
+row_3	FYN	FYN oncogene related to SRC, FGR, YES	2773	0.371307909488678	-0.04237095	No	
+row_4	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	2790	0.36793023347854614	-0.018091004	No	
+row_5	STAT5B	signal transducer and activator of transcription 5B	3043	0.33733847737312317	-0.010461781	No	
+row_6	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	3142	0.3269236385822296	0.005946686	No	
+row_7	GRB2	growth factor receptor-bound protein 2	6017	0.07420491427183151	-0.16614619	No	
+row_8	KIT	v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog	10277	-0.042933426797389984	-0.42577496	No	
+row_9	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	11630	-0.1580287218093872	-0.49827674	No	
+row_10	SOS1	son of sevenless homolog 1 (Drosophila)	12507	-0.24565085768699646	-0.5354149	No	
+row_11	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	12744	-0.2697557210922241	-0.53144026	No	
+row_12	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	12934	-0.29192376136779785	-0.52304566	No	
+row_13	PIK3R3	phosphoinositide-3-kinase, regulatory subunit 3 (p55, gamma)	13458	-0.35870125889778137	-0.5306572	No	
+row_14	YES1	v-yes-1 Yamaguchi sarcoma viral oncogene homolog 1	15296	-0.7396941184997559	-0.5931164	Yes	
+row_15	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.54257804	Yes	
+row_16	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	15921	-1.331937313079834	-0.48871958	Yes	
+row_17	STAT5A	signal transducer and activator of transcription 5A	15943	-1.403607964515686	-0.39362618	Yes	
+row_18	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.27381378	Yes	
+row_19	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	0.0014798294	Yes	

@@ -1,0 +1,16 @@
+subject	geo_accession	sex	age	source	cell_type	diagnosis
+Subject 1	GSM4593888	female	27	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 2	GSM4593889	male	50	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 3	GSM4593890	male	27	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 4	GSM4593891	male	26	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 5	GSM4593892	female	29	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 6	GSM4593893	male	30	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 7	GSM4593894	female	46	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 8	GSM4593895	female	39	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 9	GSM4593896	male	31	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 10	GSM4593897	male	35	Bronchoalveolar lavage	Bronchoalveolar lavage cells	healthy
+Subject 11	GSM8772534	male	29	Bronchoalveolar lavage cells	Bronchoalveolar lavage cells	healthy
+Subject 12	GSM8772535	male	25	Bronchoalveolar lavage cells	Bronchoalveolar lavage cells	healthy
+Subject 13	GSM8772536	female	26	Bronchoalveolar lavage cells	Bronchoalveolar lavage cells	healthy
+Subject 14	GSM8772537	female	25	Bronchoalveolar lavage cells	Bronchoalveolar lavage cells	healthy
+Subject 15	GSM8772538	male	28	Bronchoalveolar lavage cells	Bronchoalveolar lavage cells	healthy

@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RDH12	retinol dehydrogenase 12 (all-trans/9-cis/11-cis)	307	0.9440045356750488	0.10762771	Yes	
+row_1	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	390	0.8814048171043396	0.22073574	Yes	
+row_2	ABCA4	ATP-binding cassette, sub-family A (ABC1), member 4	552	0.8044008612632751	0.31864956	Yes	
+row_3	RDH10	retinol dehydrogenase 10 (all-trans)	610	0.779132068157196	0.41958797	Yes	
+row_4	RDH16	retinol dehydrogenase 16 (all-trans)	660	0.7588115334510803	0.5182954	Yes	
+row_5	HSD17B6	hydroxysteroid (17-beta) dehydrogenase 6	2089	0.46989956498146057	0.4932467	Yes	
+row_6	LRAT	lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)	2427	0.4228096306324005	0.5291518	Yes	
+row_7	TTR	transthyretin (prealbumin, amyloidosis type I)	2775	0.37106722593307495	0.5575035	Yes	
+row_8	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	3144	0.3267757296562195	0.57862264	Yes	
+row_9	DHRS9	dehydrogenase/reductase (SDR family) member 9	3352	0.303789347410202	0.60658675	Yes	
+row_10	RDH8	retinol dehydrogenase 8 (all-trans)	4747	0.17955346405506134	0.5447097	No	
+row_11	RBP4	retinol binding protein 4, plasma	4822	0.17300106585025787	0.5633402	No	
+row_12	MYO7A	myosin VIIA	4878	0.1678757220506668	0.58245504	No	
+row_13	RHO	rhodopsin (opsin 2, rod pigment) (retinitis pigmentosa 4, autosomal dominant)	5624	0.10420075058937073	0.55049074	No	
+row_14	STRA6	stimulated by retinoic acid gene 6 homolog (mouse)	6673	0.027681412175297737	0.4895862	No	
+row_15	RLBP1	retinaldehyde binding protein 1	7682	0.0	0.42743686	No	
+row_16	RBP3	retinol binding protein 3, interstitial	8353	0.0	0.3861273	No	
+row_17	RPE65	retinal pigment epithelium-specific protein 65kDa	8917	0.0	0.35141492	No	
+row_18	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	12085	-0.20109140872955322	0.18310905	No	
+row_19	CYP4V2	cytochrome P450, family 4, subfamily V, polypeptide 2	12171	-0.21083319187164307	0.20613322	No	
+row_20	RBP1	retinol binding protein 1, cellular	13243	-0.3328440487384796	0.18472165	No	

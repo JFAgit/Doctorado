@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	EXOSC8	exosome component 8	1336	0.5645143985748291	-0.0107096005	No	
+row_1	EXOSC7	exosome component 7	5022	0.15700329840183258	-0.21791834	No	
+row_2	EXOSC1	exosome component 1	5080	0.15128085017204285	-0.20223394	No	
+row_3	EXOSC2	exosome component 2	6756	0.022846143692731857	-0.30257684	No	
+row_4	DCP2	DCP2 decapping enzyme homolog (S. cerevisiae)	10098	-0.030025092884898186	-0.50469613	No	
+row_5	EXOSC5	exosome component 5	11211	-0.12124335020780563	-0.55785066	No	
+row_6	EXOSC4	exosome component 4	11388	-0.13712729513645172	-0.5512971	No	
+row_7	AKT1	v-akt murine thymoma viral oncogene homolog 1	13167	-0.3235817849636078	-0.61982495	Yes	
+row_8	MAPKAPK2	mitogen-activated protein kinase-activated protein kinase 2	13186	-0.3259463310241699	-0.5795715	Yes	
+row_9	EXOSC6	exosome component 6	13717	-0.39645349979400635	-0.5619287	Yes	
+row_10	XRN1	5'-3' exoribonuclease 1	14629	-0.5242109298706055	-0.5515571	Yes	
+row_11	EXOSC3	exosome component 3	15113	-0.6583318114280701	-0.49778473	Yes	
+row_12	ZFP36L1	zinc finger protein 36, C3H type-like 1	15216	-0.6977517008781433	-0.4155262	Yes	
+row_13	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	15679	-0.9483072757720947	-0.32366124	Yes	
+row_14	EXOSC9	exosome component 9	15703	-0.9883452653884888	-0.19965672	Yes	
+row_15	DCP1A	DCP1 decapping enzyme homolog A (S. cerevisiae)	16050	-1.833179235458374	0.011649431	Yes	

@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLI3	GLI-Kruppel family member GLI3 (Greig cephalopolysyndactyly syndrome)	61	1.4626374244689941	0.8166931	Yes	
+row_1	HHIP	hedgehog interacting protein	6919	0.014742368832230568	0.40255156	No	
+row_2	GLI2	GLI-Kruppel family member GLI2	6935	0.014298709109425545	0.40964824	No	
+row_3	BOC	Boc homolog (mouse)	7408	2.1398707458764044E-12	0.38057166	No	
+row_4	PTCH1	patched homolog 1 (Drosophila)	9308	-8.117845978761196E-11	0.26358774	No	
+row_5	PTCH2	patched homolog 2 (Drosophila)	11286	-0.12786833941936493	0.21352518	No	
+row_6	GLI1	glioma-associated oncogene homolog 1 (zinc finger protein)	11691	-0.16317714750766754	0.28017008	No	

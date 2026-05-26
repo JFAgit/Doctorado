@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MASP1	mannan-binding lectin serine peptidase 1 (C4/C2 activating component of Ra-reactive factor)	1019	0.6394288539886475	0.41146103	Yes	
+row_1	FCN1	ficolin (collagen/fibrinogen domain containing) 1	2320	0.4378679096698761	0.6561279	Yes	
+row_2	FCN3	ficolin (collagen/fibrinogen domain containing) 3 (Hakata antigen)	9534	-0.00478840759024024	0.21539216	No	
+row_3	MASP2	mannan-binding lectin serine peptidase 2	10811	-0.08550737053155899	0.20021231	No	
+row_4	FCN2	ficolin (collagen/fibrinogen domain containing lectin) 2 (hucolin)	11878	-0.18076875805854797	0.2686172	No	

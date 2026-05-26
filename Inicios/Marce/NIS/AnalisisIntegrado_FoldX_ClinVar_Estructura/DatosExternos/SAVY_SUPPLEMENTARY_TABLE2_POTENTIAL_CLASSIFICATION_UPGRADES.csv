@@ -1,0 +1,11 @@
+Variante_Final,ClinVar_Final_Classification,ClinVar_Final_Source,cDNA_SAVY,Protein_SAVY,Effect_SAVY,ACMG_Result_SAVY,ACMG_Criteria_SAVY,References_SAVY,Match_By,final_norm,savy_norm
+p.Gly18Arg,Uncertain significance,NCBI ClinVar,c.52G>A,p.Gly18Arg,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",32805706,protein,uncertain significance,likely pathogenic
+p.Thr221=,Conflicting classifications of pathogenicity,NCBI ClinVar,c.663G>A,p.Thr221=,Synonym,Likely Benign,"PM2_Supp, BS2, BP7",25465605,protein;cDNA,conflicting classifications of pathogenicity,likely benign
+p.Arg273Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.817C>T,p.Arg273Cys,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",36884306,protein,uncertain significance / not classified in gnomad extract,likely benign
+p.Ala320Thr,Uncertain significance,NCBI ClinVar,c.958G>A,p.Ala320Thr,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein,uncertain significance,likely benign
+p.Arg376Trp,Uncertain significance,NCBI ClinVar,c.1126C>T,p.Arg376Trp,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein,uncertain significance,likely benign
+p.Leu408=,Conflicting classifications of pathogenicity,NCBI ClinVar,c.1224C>T,p.Leu408=,Synonym,Benign,"BS1, BS2, BP7","34539567, 25465605",protein;cDNA,conflicting classifications of pathogenicity,benign
+p.Pro500Leu,Uncertain significance,NCBI ClinVar,c.1499C>T,p.Pro500Leu,Missense,Likely Benign,"PM2_Supp, BP4_(-3)",39720292,protein,uncertain significance,likely benign
+p.Gly543Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.1627G>A,p.Gly543Arg,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_(+3), PP4","35276235, 15976004, 39749016",protein,uncertain significance / not classified in gnomad extract,likely pathogenic
+p.Pro560Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.1679C>T,p.Pro560Leu,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein,uncertain significance / not classified in gnomad extract,likely benign
+p.Arg569Trp,Uncertain significance,NCBI ClinVar,c.1705C>T,p.Arg569Trp,Missense,Likely Benign,"PM2_Supp, PM3, BS3_Mod, BP4",34539567,protein,uncertain significance,likely benign

@@ -1,0 +1,30 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC3	replication factor C (activator 1) 3, 38kDa	159	1.1410404443740845	0.0555968	No	
+row_1	POLD4	polymerase (DNA-directed), delta 4	792	0.70516037940979	0.057031035	No	
+row_2	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.012464065	No	
+row_3	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	2371	0.4302537143230438	0.012390114	No	
+row_4	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	2446	0.4199826419353485	0.03189891	No	
+row_5	RFC5	replication factor C (activator 1) 5, 36.5kDa	2905	0.3524482548236847	0.02384898	No	
+row_6	RPA1	replication protein A1, 70kDa	3464	0.2921757400035858	0.0061755553	No	
+row_7	POLI	polymerase (DNA directed) iota	3723	0.26394808292388916	0.0053900606	No	
+row_8	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	3752	0.26175928115844727	0.018667	No	
+row_9	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.008447095	No	
+row_10	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	4611	0.1903277188539505	-0.010006011	No	
+row_11	USP10	ubiquitin specific peptidase 10	5020	0.15706764161586761	-0.026170919	No	
+row_12	RPA3	replication protein A3, 14kDa	5730	0.09529674798250198	-0.0644442	No	
+row_13	RPA2	replication protein A2, 32kDa	6313	0.05174188315868378	-0.09737988	No	
+row_14	POLH	polymerase (DNA directed), eta	6418	0.04437694326043129	-0.101251565	No	
+row_15	RFC4	replication factor C (activator 1) 4, 37kDa	6627	0.030930595472455025	-0.1123094	No	
+row_16	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	10546	-0.0633690133690834	-0.3503648	No	
+row_17	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	10674	-0.07284016907215118	-0.35402375	No	
+row_18	RFC2	replication factor C (activator 1) 2, 40kDa	10916	-0.09507589042186737	-0.36344042	No	
+row_19	RFC1	replication factor C (activator 1) 1, 145kDa	11120	-0.11194189637899399	-0.3695462	No	
+row_20	PCNA	proliferating cell nuclear antigen	11249	-0.12419817596673965	-0.370323	No	
+row_21	POLE	polymerase (DNA directed), epsilon	13253	-0.33414220809936523	-0.47472787	No	
+row_22	POLK	polymerase (DNA directed) kappa	14073	-0.45458075404167175	-0.49919236	No	
+row_23	UBC	ubiquitin C	14182	-0.47944867610931396	-0.47837228	No	
+row_24	USP43	ubiquitin specific peptidase 43	15263	-0.716862142086029	-0.50390285	Yes	
+row_25	UBB	ubiquitin B	15642	-0.9178993105888367	-0.47460595	Yes	
+row_26	UBE2L6	ubiquitin-conjugating enzyme E2L 6	16021	-1.6785660982131958	-0.40170726	Yes	
+row_27	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.27210152	Yes	
+row_28	ISG15	ISG15 ubiquitin-like modifier	16236	-4.880467414855957	1.8504017E-4	Yes	

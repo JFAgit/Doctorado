@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	286	0.9634016156196594	0.083198346	Yes	
+row_1	RPS6KA6	ribosomal protein S6 kinase, 90kDa, polypeptide 6	396	0.8786657452583313	0.1684452	Yes	
+row_2	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	1026	0.6367067694664001	0.19629112	Yes	
+row_3	MAPK3	mitogen-activated protein kinase 3	1456	0.5379591584205627	0.22613761	Yes	
+row_4	RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	1824	0.49990618228912354	0.25582543	Yes	
+row_5	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	1980	0.48683157563209534	0.29722145	Yes	
+row_6	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	2592	0.39819255471229553	0.30121228	Yes	
+row_7	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	2790	0.36793023347854614	0.32757217	Yes	
+row_8	RPS6KA2	ribosomal protein S6 kinase, 90kDa, polypeptide 2	2848	0.35950785875320435	0.36168608	Yes	
+row_9	ACTN2	actinin, alpha 2	2944	0.3485800623893738	0.39231223	Yes	
+row_10	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	3133	0.3282250761985779	0.4150713	Yes	
+row_11	DLG4	discs, large homolog 4 (Drosophila)	3556	0.28292712569236755	0.4186553	Yes	
+row_12	DLG1	discs, large homolog 1 (Drosophila)	3606	0.27784186601638794	0.44471467	Yes	
+row_13	PDPK1	3-phosphoinositide dependent protein kinase-1	3635	0.2746642827987671	0.47173676	Yes	
+row_14	CREB1	cAMP responsive element binding protein 1	3707	0.2654808759689331	0.49514526	Yes	
+row_15	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	4141	0.23122325539588928	0.4926389	Yes	
+row_16	RPS6KA1	ribosomal protein S6 kinase, 90kDa, polypeptide 1	4437	0.2079717516899109	0.49621096	Yes	
+row_17	NEFL	neurofilament, light polypeptide 68kDa	6948	0.013315090909600258	0.34278107	No	
+row_18	LRRC7	leucine rich repeat containing 7	7044	0.008288860321044922	0.33778882	No	
+row_19	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	7355	4.6688636956560003E-8	0.31866717	No	
+row_20	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	7371	2.7289197568336476E-9	0.31774193	No	
+row_21	RPS6KA3	ribosomal protein S6 kinase, 90kDa, polypeptide 3	10609	-0.06788311898708344	0.1251804	No	
+row_22	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10623	-0.06880590319633484	0.13158046	No	
+row_23	RASGRF2	Ras protein-specific guanine nucleotide-releasing factor 2	10894	-0.09255628287792206	0.12461402	No	
+row_24	DLG2	discs, large homolog 2, chapsyn-110 (Drosophila)	12238	-0.21759724617004395	0.06455013	No	
+row_25	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	12934	-0.29192376136779785	0.052236423	No	
+row_26	MAPK1	mitogen-activated protein kinase 1	14865	-0.5826491713523865	-0.00582509	No	
+row_27	GRIN2D	glutamate receptor, ionotropic, N-methyl D-aspartate 2D	15576	-0.8647664189338684	0.04089561	No	

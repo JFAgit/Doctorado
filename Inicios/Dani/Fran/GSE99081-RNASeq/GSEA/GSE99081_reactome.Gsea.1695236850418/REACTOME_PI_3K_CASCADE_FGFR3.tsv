@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.14377135	Yes	
+row_1	FGF17	fibroblast growth factor 17	517	0.8234770894050598	0.29244325	Yes	
+row_2	FGF18	fibroblast growth factor 18	806	0.7012233138084412	0.40795618	Yes	
+row_3	GAB1	GRB2-associated binding protein 1	1421	0.5455151796340942	0.4737808	Yes	
+row_4	FGF1	fibroblast growth factor 1 (acidic)	1807	0.4999425709247589	0.54506105	Yes	
+row_5	FGF5	fibroblast growth factor 5	2883	0.3551464080810547	0.54628813	Yes	
+row_6	FGF2	fibroblast growth factor 2 (basic)	3073	0.3343360722064972	0.59817743	Yes	
+row_7	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	3142	0.3269236385822296	0.656117	Yes	
+row_8	FRS2	fibroblast growth factor receptor substrate 2	4663	0.18565596640110016	0.59770083	No	
+row_9	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	5860	0.087526835501194	0.54060817	No	
+row_10	GRB2	growth factor receptor-bound protein 2	6017	0.07420491427183151	0.54509413	No	
+row_11	FGF8	fibroblast growth factor 8 (androgen-induced)	6109	0.06736326962709427	0.55228674	No	
+row_12	FGF23	fibroblast growth factor 23	8299	0.0	0.41734657	No	
+row_13	FGF16	fibroblast growth factor 16	8300	0.0	0.41734657	No	
+row_14	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8821	0.0	0.38529134	No	
+row_15	FGF9	fibroblast growth factor 9 (glia-activating factor)	8824	0.0	0.38516805	No	
+row_16	FGF20	fibroblast growth factor 20	11086	-0.10806290060281754	0.26632664	No	
+row_17	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	12744	-0.2697557210922241	0.21544814	No	

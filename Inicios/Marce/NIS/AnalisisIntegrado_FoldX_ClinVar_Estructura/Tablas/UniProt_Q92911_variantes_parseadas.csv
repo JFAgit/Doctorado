@@ -1,0 +1,10 @@
+UniProt_Feature_ID,UniProt_Pos,UniProt_WT,UniProt_MUT,UniProt_Key,UniProt_Description,UniProt_rsIDs,UniProt_PubMed,UniProt_URL
+VAR_010263,93,G,R,G93R,in TDH1; dbSNP:rs121909178,rs121909178,9745458,https://web.expasy.org/variant_pages/VAR_010263.html
+VAR_010264,102,A,P,A102P,,,9329364,https://web.expasy.org/variant_pages/VAR_010264.html
+VAR_010265,267,Q,E,Q267E,in TDH1; dbSNP:rs121909176,rs121909176,9486973,https://web.expasy.org/variant_pages/VAR_010265.html
+VAR_052490,298,C,G,C298G,in dbSNP:rs8108188,rs8108188,,https://web.expasy.org/variant_pages/VAR_052490.html
+VAR_010266,354,T,P,T354P,in TDH1; dbSNP:rs121909174,rs121909174,9171822;9745458,https://web.expasy.org/variant_pages/VAR_010266.html
+VAR_010267,395,G,R,G395R,in TDH1; dbSNP:rs121909180,rs121909180,10487695,https://web.expasy.org/variant_pages/VAR_010267.html
+VAR_010268,536,T,Q,T536Q,requires 2 nucleotide substitutions,,9329364,https://web.expasy.org/variant_pages/VAR_010268.html
+VAR_010269,543,G,E,G543E,in TDH1; dbSNP:rs121909179,rs121909179,9745458,https://web.expasy.org/variant_pages/VAR_010269.html
+VAR_010270,556,S,Q,S556Q,requires 2 nucleotide substitutions,,9329364,https://web.expasy.org/variant_pages/VAR_010270.html

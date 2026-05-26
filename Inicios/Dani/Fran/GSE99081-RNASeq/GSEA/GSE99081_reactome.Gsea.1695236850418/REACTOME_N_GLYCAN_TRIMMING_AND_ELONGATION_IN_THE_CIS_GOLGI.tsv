@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAN1C1	mannosidase, alpha, class 1C, member 1	242	1.0037481784820557	0.50669235	Yes	
+row_1	MAN1A2	mannosidase, alpha, class 1A, member 2	2366	0.4305034279823303	0.59963685	Yes	
+row_2	MAN1A1	mannosidase, alpha, class 1A, member 1	3136	0.3277844190597534	0.72260344	Yes	
+row_3	MGAT1	mannosyl (alpha-1,3-)-glycoprotein beta-1,2-N-acetylglucosaminyltransferase	9778	-0.015416976995766163	0.32156038	No	
+row_4	MANEA	mannosidase, endo-alpha	11493	-0.14691674709320068	0.2923314	No	

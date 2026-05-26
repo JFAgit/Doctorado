@@ -1,0 +1,64 @@
+DNA,Protein,Effect,Criteria,Result,References,ddG_7UUY,ddG_7UUZ,ddG_7UV0,ddG_Humano_AF,Categoría
+c.-54C>T,,,,Uncertain significance,21565787,,,,,
+c.52G>A,p.Gly18Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,32805706,-1.392796666666667,-1.6950933333333331,-1.1149883333333332,-1.6981166666666667,superficie
+c.152del,p.Gly51Alafs*45,Frameshift,"PVS1, PM2_Supp, PM3",Pathogenic,33815280,0.6706243333333334,0.0563725666666666,-0.1782113333333333,2.9464133333333336,
+c.161T>C,p.Leu54Pro,Missense,"PS3_Mod, PM2_Supp, PP3_Mod",Uncertain significance,36884306,0.2419655666666667,2.12758,17.244533333333333,4.762303333333333,
+c.176T>A,p.Val59Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_(+3), PP4",Pathogenic,"10907989, 18339708, 35276235",10.620763333333334,22.40856666666667,5.524249999999999,5.823743333333333,superficie
+c.277G>C,p.Gly93Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,"9745458, 22011571",4.038226666666667,2.77402,0.533757,18.65693333333333,superficie
+c.371G>A,p.Arg124His,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"16418213, 23690546",-0.3659202766666666,1.13088,1.3608333333333336,5.579823333333334,superficie
+c.411C>G,p.Tyr137*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,31430255,,,,,superficie
+c.424_969del,p.Met142_Gln323del,Deletion,"PVS1_Strong, PM2_Supp, PM3_Supp, PP4",Likely Pathogenic,31430255,,,,,superficie
+c.469delA,p.Asn157Thrfs*3,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,"30240412, 34780050",0.803153,1.70637,13.358233333333333,0.2731366666666666,superficie
+c.475+1G>T,p=?,,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,35276235,,,,,
+c.572A>G,p.Asp191Gly,Missense,"PS3_Mod, PM1, PM2_Supp, PP3_Mod",Likely Pathogenic,32425884,7.248723333333333,12.683566666666666,-1.6655733333333334,3.87276,superficie
+c.663G>A,p.Thr221=,Synonym,"PM2_Supp, BS2, BP7",Likely Benign,25465605,,,,,superficie
+c.749G>T,p.Gly250Val,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_Mod",Likely Pathogenic,31867598,-0.6310813333333333,0.9439233333333332,0.5641036666666667,13.128936666666666,superficie
+c.788A>T,p.Gln263Leu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Mod, PP4",Likely Pathogenic,39895319,0.3745263333333333,6.92045,0.8522183333333334,0.6980693333333333,superficie
+c.794A>G,p.Gln265Arg,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_(+3), PP4",Likely Pathogenic,33310921,-0.168834,0.5110196666666668,1.5372633333333334,4.4246566666666665,superficie
+c.799C>G,p.Gln267Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"9486973, 14734652, 10902780",1.73653,1.035778,-0.1620756666666666,2.33976,superficie
+c.809T>A,p.Val270Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,26204134,0.0653385666666666,0.4918966666666667,-0.0012231133333333,2.27844,superficie
+c.816C>A,p.Cys272*,Nonsense,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,"9388506, 10902780",,,,,superficie
+c.817C>T,p.Arg273Cys,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,36884306,0.0089611,-0.0280460693333333,-1.220883333333333,1.4403033333333333,superficie
+c.818G>A,p.Arg273His,Missense,"PM2_Supp, BS3_Mod, BP4_Mod",Likely Benign,36913313,-1.314903333333333,0.6551206666666667,-1.072632,1.2630833333333331,superficie
+c.859_864del,p.Val287_Gly288del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,19916865,,,,,superficie
+c.930C>T,p.Cys310=,Synonym,"BP7, PM2_Supp",Uncertain significance,25465605,,,,,superficie
+c.958G>A,p.Ala320Thr,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,1.68979,0.5888110000000001,3.968893333333333,-0.0787824999999999,superficie
+c.970-3C>A,p.Y324Hfs*148,Frameshift,"PVS1 (RNA), PM2_Supp, PM3, PP4",Pathogenic,34726525,,,,,
+c.970-48G>C,p.Y324Hfs*148,Frameshift,,Uncertain significance,34632506,,,,,
+c.970_1526del,p.Tyr324Leufs*12,Frameshift,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,34632506,0.5781573333333333,3.5347866666666667,33.11736666666667,1.66746,superficie
+c.991G>A,p.Asp331Asn,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,31115276,25.4585,27.061533333333333,5.511113333333333,3.6997433333333336,superficie
+c.1021G>A,p.Gly341Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Strong, PP4",Pathogenic,35438852,5.670343333333332,4.544096666666667,1.2816366666666668,29.239766666666668,superficie
+c.1042T>G,p.Tyr348Asp,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong",Likely Pathogenic,29759035,2.56635,0.5970526666666666,3.2518700000000003,5.0611733333333335,superficie
+c.1049G>A,p.Gly350Asp,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,39895319,3.2349266666666665,4.010883333333333,4.413810000000001,12.394,superficie
+c.1060A>C,p.Thr354Pro,Missense,"PS3_Supp, PM1, PM2_Supp, PM3_Strong, PP3_Mod, PP4",Pathogenic,"9745458, 17606623, 21054210, 981450, 9398697, 9709973, 9657379, 27493890",4.999373333333334,1.0677433333333333,1.056928,4.070506666666667,superficie
+c.1067C>T,p.Ser356Phe,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong, PP4",Pathogenic,34806438,0.998756,0.9199356666666668,0.3655753333333333,6.99289,superficie
+c.1067_1068insT,Thr357Hisfs*146,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,39003160,,,,,
+c.1106A>T,p.Asp369Val,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,34726525,0.476392,0.0596127,2.45702,2.32328,superficie
+c.1126C>T,p.Arg376Trp,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,2.244963333333333,2.43511,-0.8862730000000001,0.1657526666666666,superficie
+c.1157T>G,p.Ile386Ser,Missense,"PS3_Mod, PM2_Supp",Uncertain significance,32425884,-0.0624183333333333,3.5871733333333338,15.149833333333332,2.644883333333333,superficie
+c.1162A>T,p.Lys388*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,32425884,,,,,superficie
+c.1183G>A,p.Gly395Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_Strong, PP4",Pathogenic,"10487695, 12145342, 30240412, 34632506",17.319766666666666,15.9111,0.3078063333333333,12.679366666666668,superficie
+c.1224C>T,p.Leu408=,Synonym,"BS1, BS2, BP7",Benign,"34539567, 25465605",,,,,superficie
+c.1242+1G>A,p=?,,"PVS1, PM2_Supp, PM3",Pathogenic,32005694,,,,,
+c.1261G>A,p.Gly421Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong",Likely Pathogenic,33815280,-0.0963725999999999,0.912323,12.02981,13.148433333333337,core
+c.1303A>C,p.Met435Leu,Missense,"PM2_Supp, BS3_Mod",Likely Benign,25465605,20.746466666666667,19.592866666666666,6.66273,-0.1277643333333333,core / superficie
+c.1314_1328del,p.Ala439_Pro443del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,"14510914, 23650190",,,,,superficie
+c.1326A>C,p.G415Lfs*32,Frameshift,,Uncertain significance,35600585,,,,,
+c.1329+2T>C,p=?,,"PVS1_Strong, PM2_Supp",Uncertain significance,36884306,,,,,
+c.1330-2A>C,p=?,,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,35438852,,,,,
+c.1499C>T,p.Pro500Leu,Missense,"PM2_Supp, BP4_(-3)",Likely Benign,39720292,10.36755,12.9896,12.24013,0.6953870000000001,
+c.1540G>A,p.Ala514Thr,Missense,"PM2_Supp, BS3_Mod, BP4_(-3)",Likely Benign,34539567,12.099993333333332,17.0853,-0.1998016666666666,0.3645266666666666,superficie
+c.1546C>T,p.Arg516*,Nonsense,"PVS1, PM2_Supp, PP4",Pathogenic,32805706,,,,,superficie
+c.1593C>G,p.Ser509Argfs*6,Frameshift,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,"9486973, 10902780, 34248839",0.4422726666666667,0.0977136333333333,-0.302742,-0.3184543333333333,
+c.1626C>T,p.Cys542=,Synonym,"BS1, BS2, BP7, PM3_Supp",Benign,35600585,,,,,superficie
+c.1627G>A,p.Gly543Arg,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_(+3), PP4",Likely Pathogenic,"35276235, 15976004, 39749016",1.9828966666666668,0.3745436666666666,0.4758493333333333,19.8095,superficie
+c.1628G>A,p.Gly543Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_Strong, PP4",Pathogenic,"9745458, 15976004",0.6968766666666667,1.12297,,14.184633333333332,superficie
+c.1641C>A,p.Ser547Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP4, PP3_Strong",Likely Pathogenic,31115276,,,,6.24528,superficie
+c.1652-97A>C,,,"BA1, BS2, BS3_Supp, BP7, PM3_Supp",Likely Benign,34632506,,,,,
+c.1671C>G,p.Thr557=,Synonym,"PM2_Supp, BP7",Uncertain significance,25465605,,,,,superficie
+c.1679C>T,p.Pro560Leu,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,,,,0.0842611666666666,superficie
+c.1682C>T,p.Gly561Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP4",Uncertain significance,33912899,,,,3.253,superficie
+c.1684T>A,p.Leu562Met,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,39749016,,,,0.5846093333333333,
+c.1705C>T,p.Arg569Trp,Missense,"PM2_Supp, PM3, BS3_Mod, BP4",Likely Benign,34539567,,,,0.326258,
+c.1906C>T,p.Arg636*,Nonsense,"PVS1_Strong, PM3_Supp, PM2_Supp",Likely Pathogenic,"30240412, 34196428",,,,,
+c.1915C>T,p.Gln639*,Nonsense,"PVS1_Strong, PM2_Supp",Uncertain significance,32319661,,,,,

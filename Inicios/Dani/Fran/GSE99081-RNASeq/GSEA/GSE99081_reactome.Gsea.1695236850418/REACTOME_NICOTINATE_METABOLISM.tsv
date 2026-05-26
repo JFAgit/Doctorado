@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NMNAT3	nicotinamide nucleotide adenylyltransferase 3	959	0.656295895576477	-0.032004144	No	
+row_1	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	1229	0.5891056060791016	-0.024237996	No	
+row_2	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	2467	0.4172992706298828	-0.08326479	No	
+row_3	BST1	bone marrow stromal cell antigen 1	2805	0.3651614785194397	-0.08894964	No	
+row_4	NADSYN1	NAD synthetase 1	3805	0.25743699073791504	-0.13990921	No	
+row_5	PARP16	poly (ADP-ribose) polymerase family, member 16	4338	0.21654170751571655	-0.16376244	No	
+row_6	PARP6	poly (ADP-ribose) polymerase family, member 6	4729	0.18090686202049255	-0.18033256	No	
+row_7	NMNAT1	nicotinamide nucleotide adenylyltransferase 1	5437	0.11803358048200607	-0.21904927	No	
+row_8	SLC22A13	solute carrier family 22 (organic cation transporter), member 13	5531	0.11073049157857895	-0.22020638	No	
+row_9	PTGIS	prostaglandin I2 (prostacyclin) synthase	5655	0.10176952928304672	-0.22358386	No	
+row_10	QPRT	quinolinate phosphoribosyltransferase (nicotinate-nucleotide pyrophosphorylase (carboxylating))	6688	0.026638299226760864	-0.28611955	No	
+row_11	SLC5A8	solute carrier family 5 (iodide transporter), member 8	8875	0.0	-0.42091638	No	
+row_12	NADK	NAD kinase	13407	-0.3519768714904785	-0.6857638	No	
+row_13	NMNAT2	nicotinamide nucleotide adenylyltransferase 2	14296	-0.49807310104370117	-0.71993077	No	
+row_14	NNMT	nicotinamide N-methyltransferase	15277	-0.7268626093864441	-0.7503126	Yes	
+row_15	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	15465	-0.8105252385139465	-0.7283365	Yes	
+row_16	PARP4	poly (ADP-ribose) polymerase family, member 4	15787	-1.0890668630599976	-0.70310843	Yes	
+row_17	PARP8	poly (ADP-ribose) polymerase family, member 8	16043	-1.759934902191162	-0.6460768	Yes	
+row_18	PARP10	poly (ADP-ribose) polymerase family, member 10	16145	-2.63350248336792	-0.54343563	Yes	
+row_19	NT5E	5'-nucleotidase, ecto (CD73)	16167	-2.946004629135132	-0.42294246	Yes	
+row_20	PARP14	poly (ADP-ribose) polymerase family, member 14	16181	-3.1796419620513916	-0.2922974	Yes	
+row_21	PARP9	poly (ADP-ribose) polymerase family, member 9	16184	-3.2064077854156494	-0.15986753	Yes	
+row_22	CD38	CD38 molecule	16209	-3.9476752281188965	0.0018498095	Yes	

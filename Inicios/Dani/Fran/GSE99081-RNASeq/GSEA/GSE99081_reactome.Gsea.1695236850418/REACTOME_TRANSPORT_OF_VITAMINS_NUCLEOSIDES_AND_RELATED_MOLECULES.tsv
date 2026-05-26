@@ -1,0 +1,44 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	23	1.686776876449585	0.112453826	Yes	
+row_1	SLCO1B3	solute carrier organic anion transporter family, member 1B3	28	1.5962647199630737	0.21997026	Yes	
+row_2	SLC35A3	solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member A3	99	1.2818814516067505	0.30218792	Yes	
+row_3	SLC28A2	solute carrier family 28 (sodium-coupled nucleoside transporter), member 2	119	1.238965392112732	0.38465708	Yes	
+row_4	SLC35B4	solute carrier family 35, member B4	1575	0.513656735420227	0.32950246	Yes	
+row_5	SLCO1B1	solute carrier organic anion transporter family, member 1B1	2012	0.4816657602787018	0.335101	Yes	
+row_6	SLC35B3	solute carrier family 35, member B3	2184	0.4577173590660095	0.35544387	Yes	
+row_7	ARL2BP	ADP-ribosylation factor-like 2 binding protein	2208	0.454881876707077	0.3847328	Yes	
+row_8	SLC16A2	solute carrier family 16, member 2 (monocarboxylic acid transporter 8)	2237	0.45018959045410156	0.41339627	Yes	
+row_9	SLCO2B1	solute carrier organic anion transporter family, member 2B1	2393	0.42655473947525024	0.43262318	Yes	
+row_10	SLC35D1	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1	2684	0.38532009720802307	0.4407315	Yes	
+row_11	SLC27A4	solute carrier family 27 (fatty acid transporter), member 4	2829	0.3631110191345215	0.45635447	Yes	
+row_12	SLC25A6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6	2858	0.3580899238586426	0.47880033	Yes	
+row_13	APOD	apolipoprotein D	4308	0.21911518275737762	0.4041317	No	
+row_14	SLC29A2	solute carrier family 29 (nucleoside transporters), member 2	4908	0.16536390781402588	0.3783132	No	
+row_15	SLCO3A1	solute carrier organic anion transporter family, member 3A1	5240	0.1343706250190735	0.36694866	No	
+row_16	SLC35A1	solute carrier family 35 (CMP-sialic acid transporter), member A1	5339	0.12655535340309143	0.3694419	No	
+row_17	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	5519	0.1114630177617073	0.3659153	No	
+row_18	SLC27A1	solute carrier family 27 (fatty acid transporter), member 1	5726	0.09555961191654205	0.35964808	No	
+row_19	SLCO1A2	solute carrier organic anion transporter family, member 1A2	5966	0.07854549586772919	0.35019484	No	
+row_20	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6860	0.01740841194987297	0.29623643	No	
+row_21	SLC5A6	solute carrier family 5 (sodium-dependent vitamin transporter), member 6	6933	0.014381607063114643	0.29276207	No	
+row_22	SLC29A4	solute carrier family 29 (nucleoside transporters), member 4	6944	0.013675547204911709	0.2930679	No	
+row_23	SLC27A6	solute carrier family 27 (fatty acid transporter), member 6	7674	0.0	0.24805956	No	
+row_24	LCN9	lipocalin 9	7675	0.0	0.24805956	No	
+row_25	LCN1	lipocalin 1 (tear prealbumin)	7680	0.0	0.2478126	No	
+row_26	SLCO2A1	solute carrier organic anion transporter family, member 2A1	9073	0.0	0.16187076	No	
+row_27	SLCO1C1	solute carrier organic anion transporter family, member 1C1	9129	0.0	0.15847507	No	
+row_28	ALB	albumin	9209	0.0	0.15359762	No	
+row_29	SLC35B2	solute carrier family 35, member B2	9632	-0.008746320381760597	0.12813388	No	
+row_30	SLC35A2	solute carrier family 35 (UDP-galactose transporter), member A2	9795	-0.016078749671578407	0.11921751	No	
+row_31	SLC35D2	solute carrier family 35, member D2	10081	-0.029258258640766144	0.10359687	No	
+row_32	PDZD11	PDZ domain containing 11	10204	-0.037680238485336304	0.0986084	No	
+row_33	LCN12	lipocalcin 12	10231	-0.0394340343773365	0.09966534	No	
+row_34	SLC28A1	solute carrier family 28 (sodium-coupled nucleoside transporter), member 1	10828	-0.08745913952589035	0.06877275	No	
+row_35	SLC28A3	solute carrier family 28 (sodium-coupled nucleoside transporter), member 3	11045	-0.10533421486616135	0.06254803	No	
+row_36	SLCO4C1	solute carrier organic anion transporter family, member 4C1	11941	-0.18710234761238098	0.019922111	No	
+row_37	ARL2	ADP-ribosylation factor-like 2	12495	-0.24387133121490479	0.0022436727	No	
+row_38	SLC29A1	solute carrier family 29 (nucleoside transporters), member 1	14021	-0.4443782866001129	-0.061909705	No	
+row_39	SLC35C1	solute carrier family 35, member C1	14756	-0.5552041530609131	-0.069745064	No	
+row_40	SLC33A1	solute carrier family 33 (acetyl-CoA transporter), member 1	15176	-0.6795935034751892	-0.04973488	No	
+row_41	SLCO4A1	solute carrier organic anion transporter family, member 4A1	15528	-0.8445951342582703	-0.014387173	No	
+row_42	SLC29A3	solute carrier family 29 (nucleoside transporters), member 3	15563	-0.8624316453933716	0.041736193	No	

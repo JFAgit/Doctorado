@@ -1,0 +1,889 @@
+Variante,DDG_7UUY,DDG_7UUZ,DDG_7UV0,DDG_AF,Structural_Category_Consensus,Structural_Categories_By_Structure,Structural_7UUY,Structural_7UUZ,Structural_7UV0,Structural_AF,ClinVar_Final_Classification,Literature_Label,Allele_Frequency
+p.Met1?,,,,-0.045322,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.482461053373991e-07
+p.Met1?,,,,0.0,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2964922106e-06
+p.Met1?,,,,0.0,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.661923377222085e-07
+p.Met1?,,,,0.0,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.065347598e-05
+p.Met1?,,,,0.0,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.34407469767312e-07
+p.Glu2Val,,,,1.003219,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.464199324879023e-07
+p.Ala3Asp,,,,1.00412,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.404254474332388e-07
+p.Glu5Gln,,,,-0.232479,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2645054582e-06
+p.Thr6Ala,,,,-0.191791,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8977108546e-06
+p.Thr6Ile,,,,-0.212203,superficie,AF=superficie,,,,superficie,Uncertain significance,,2.5281701357e-06
+p.Gly7Arg,,,,1.66733,superficie,AF=superficie,,,,superficie,Uncertain significance,,2.5348638841e-06
+p.Gly7Arg,,,,1.665893,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.336677831893006e-07
+p.Gly7Glu,,,,1.857443,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2634350524e-06
+p.Glu8Lys,,,,0.206611,core,AF=core,,,,core,Uncertain significance,,6.3158665937e-06
+p.Arg9Trp,1.596203,,,-0.787256,core,7UUY=superficie; AF=core,superficie,,,core,Uncertain significance / not classified in gnomAD extract,,6.31468606538226e-07
+p.Arg9Pro,2.527697,,,1.611387,core,7UUY=superficie; AF=core,superficie,,,core,Uncertain significance / not classified in gnomAD extract,,1.2625911906e-06
+p.Arg9Gln,2.261437,,,0.885513,core,7UUY=superficie; AF=core,superficie,,,core,Uncertain significance / not classified in gnomAD extract,,1.2625911906e-06
+p.Pro10Leu,0.33228,,,0.306875,core,7UUY=superficie; AF=core,superficie,,,core,Uncertain significance / not classified in gnomAD extract,,6.307015419391297e-07
+p.Thr11Ile,0.839993,0.442896,-1.292457,-0.652834,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,1.8908285989e-06
+p.Phe12Leu,1.763973,-0.833879,0.311488,0.953331,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.295984295296773e-07
+p.Trp15Leu,0.22672,-0.827501,0.05291,-0.536565,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.280026376110779e-07
+p.Trp15Cys,1.037467,-0.062194,1.516413,0.731975,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.277511192802457e-07
+p.Trp15Cys,1.04267,-0.127292,1.50554,0.725676,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,2.5111873395e-06
+p.Asp16Asn,0.389607,0.566464,-0.159394,3.244453,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2548106302e-06
+p.Asp16Gly,1.827703,0.971195,-0.303856,4.821003,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.19185473925e-05
+p.Gly18Arg,-1.512153,-1.06561,-1.302833,-1.608537,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,1.2526791675e-06
+p.Gly18Ala,-0.881724,0.355342,-0.051643,-0.845267,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2522101509e-06
+p.Val19Ile,0.541767,-1.7848,-0.848107,-0.430383,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.256287569006852e-07
+p.Phe20Leu,0.692774,-0.83586,-0.644785,1.646687,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.252743391162873e-07
+p.Leu22Phe,-0.641764,-0.75599,-0.926746,0.312922,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8739248356e-06
+p.Leu22Pro,2.574537,2.484857,4.314137,3.951853,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.244840200784102e-07
+p.Met23Leu,-0.566375,-0.731219,-1.07169,1.193847,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,1.8727737402e-06
+p.Met23Thr,1.025819,0.002217,-0.000318,3.214807,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.241581666727002e-07
+p.Leu24Val,2.094753,0.62876,0.722666,2.05001,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.237594982977604e-07
+p.Val26Met,-0.819674,0.081161,-0.187302,-0.604361,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.23165556393367e-07
+p.Ser27Ala,0.218019,-0.27511,-0.031255,-0.202083,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.229241054186922e-07
+p.Thr28Ala,-0.125923,0.717974,1.156957,0.010748,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,4.9812270007e-06
+p.Thr28Ser,0.100424,-0.002389,-0.000158,0.091977,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.226533750926197e-07
+p.Thr28Ile,-1.562523,0.098868,1.33903,-0.742845,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.225890240045424e-07
+p.Gly29Ser,0.082195,1.207207,0.951105,-0.472394,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.224262673843656e-07
+p.Ile30Met,-0.420431,-1.47004,-2.020047,0.889444,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.222868294237126e-07
+p.Gly31Arg,-2.0289,-1.33604,-0.422467,-1.934527,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.222264257074092e-07
+p.Leu32Pro,1.79378,2.84266,3.76748,2.666397,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,5.5973421331e-06
+p.Leu32Gln,-0.15227,-0.10087,-0.161377,0.826606,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.219269036871558e-07
+p.Trp33Arg,-0.034747,1.30609,1.91698,0.432233,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.487565283e-06
+p.Trp33Ser,0.748795,2.037917,3.087827,0.619564,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2437671717e-06
+p.Val34Asp,,1.19569,0.671917,2.218793,core,7UUZ=core; 7UV0=core; AF=superficie,,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2437192179e-06
+p.Gly35Arg,,-0.185212,-0.691458,-0.215402,core,7UUZ=core; 7UV0=core; AF=superficie,,core,core,superficie,Uncertain significance,,2.36282847979e-05
+p.Gly35Arg,,-0.170345,-0.718092,-0.699945,core,7UUZ=core; 7UV0=core; AF=superficie,,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2435026984e-06
+p.Leu36Val,,9.456167,,0.603642,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,6.216137590475883e-07
+p.Leu36Arg,,10.230677,,0.408899,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8645422486e-06
+p.Ala37Ser,,1.145627,,0.515435,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,8.081039147e-06
+p.Arg38Pro,,,,0.844006,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2433063494e-06
+p.Arg38Gln,,,,0.4251,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.21653174720598e-07
+p.Gly39Ser,,,,4.43623,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2431316973e-06
+p.Gly39Asp,,,,3.548173,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2431456059e-06
+p.Gly40Arg,,,,2.138487,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8646071459e-06
+p.Gln41Lys,,,,0.275205,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.21677135709632e-07
+p.Gln41Arg,,,,0.508908,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8647925915e-06
+p.Arg42Cys,,,,0.360214,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.1065779925e-06
+p.Arg42Leu,,,,1.305813,superficie,AF=superficie,,,,superficie,Uncertain significance,,1.2425910508e-06
+p.Arg42His,,,,0.623477,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2424999596e-06
+p.Ser43Arg,,,,-0.846451,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.67673327644e-05
+p.Ser43Arg,,,,-0.888037,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.20966820500847e-07
+p.Ala44Thr,,,,1.65388,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2419290138e-06
+p.Ala44Gly,,,,1.508127,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,4.3460714618e-06
+p.Ala44Val,,,,-0.665469,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.24182568244e-05
+p.Glu45Lys,,,,0.122639,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.20784099981004e-07
+p.Asp46Tyr,,,,0.146703,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.206931652992796e-07
+p.Asp46His,,,,0.832981,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2414772586e-06
+p.Asp46Val,,,,0.439345,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8625002948e-06
+p.Phe48Ser,,,,3.998217,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.206507895919345e-07
+p.Thr49Ala,,,,0.580884,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2415373708e-06
+p.Thr49Pro,,,,1.860083,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.207686854478163e-07
+p.Gly50Arg,,,,16.399167,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.208534748548134e-07
+p.Gly50Arg,,,,14.187633,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.208534748548134e-07
+p.Gly50Glu,,,,8.73973,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2412106768e-06
+p.Gly51Cys,,,,2.92174,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.205922435899027e-07
+p.Gly51Asp,,,,3.846503,superficie,AF=superficie,,,,superficie,Uncertain significance,,6.206346113027493e-07
+p.Gly51Ala,,,,2.92788,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.206346113027493e-07
+p.Arg52Gly,,,,2.388353,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.206700505597823e-07
+p.Arg52Gln,,,,1.520407,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.206323001874309e-07
+p.Arg53Gly,,,,1.289647,superficie,AF=superficie,,,,superficie,Uncertain significance,,1.73779416821e-05
+p.Arg53Pro,,,,4.403957,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.20580689763025e-07
+p.Arg53Leu,,,,0.556008,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.20580689763025e-07
+p.Arg53His,,,,0.783626,superficie,AF=superficie,,,,superficie,Likely benign,,0.0001781068790213
+p.Ala55Val,,,7.142207,0.874148,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,1.2410889811e-06
+p.Ala55Gly,,,0.0,-0.098946,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,6.205444905577951e-07
+p.Ala56Thr,,,0.679576,4.01992,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,6.204012755450225e-07
+p.Pro58Ser,,,,3.433803,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.202488934759741e-07
+p.Pro58Leu,,,,1.78647,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.201758074378924e-07
+p.Val59Leu,,,,2.403763,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2403962321e-06
+p.Val59Met,,,,3.431627,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8605943482e-06
+p.Val59Glu,,,,5.3265,core,AF=core,,,,core,Pathogenic/Likely pathogenic,Pathogenic/functional defect,6.201719612814241e-07
+p.Ala65Thr,,,,2.228247,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200935101013233e-07
+p.Ala65Ser,,,,1.958233,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200935101013233e-07
+p.Ser66Gly,,,,1.755933,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,2.4802110163e-06
+p.Ser66Ile,,,,3.242857,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200612124428924e-07
+p.Phe67Leu,,,,0.645313,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200619813956604e-07
+p.Met68Val,,,,3.899617,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.1003944941e-06
+p.Met68Thr,,,,5.19205,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2401039703e-06
+p.Met68Ile,,,,2.701717,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.20055060889407e-07
+p.Ser69Leu,,,,8.610703,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.1003214413e-06
+p.Ala70Gly,,,,1.92499,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200704400019842e-07
+p.Gln72Glu,-0.152171,-0.725468,,0.634568,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance / not classified in gnomAD extract,,6.200935101013233e-07
+p.Gln72Arg,-0.204377,-0.157875,,0.672987,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance / not classified in gnomAD extract,,6.201042767351757e-07
+p.Val73Leu,-0.01324,0.366556,,2.161776,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance / not classified in gnomAD extract,,1.2401085839e-05
+p.Val73Met,-0.336784,-0.356506,,2.257233,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance / not classified in gnomAD extract,,1.2401993248e-06
+p.Gly75Arg,0.729593,2.384817,,12.52,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance / not classified in gnomAD extract,,6.20035069183513e-07
+p.Gly75Asp,0.648582,3.66978,,13.681833,core,7UUY=superficie; 7UUZ=core; AF=core,superficie,core,,core,Uncertain significance,,8.0611856391e-06
+p.Val76Met,0.046223,0.355582,-0.983397,1.559573,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.200466027026591e-07
+p.Val76Leu,-0.652582,0.139684,-1.398423,-0.099126,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.200466027026591e-07
+p.Pro77Ser,2.410727,8.178203,1.194,3.74907,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.201081220521611e-07
+p.Pro77Leu,1.047123,31.185533,-0.795734,5.085643,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.1003022174e-06
+p.Ser78Pro,-0.474507,5.632323,0.001028,2.000247,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2401577976e-06
+p.Ser78Leu,-1.337313,-0.048229,1.414723,-0.01623,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2402254729e-06
+p.Glu79Gly,0.0,1.002539,1.507787,5.826767,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.200773608515398e-07
+p.Tyr81Asn,0.432597,3.934743,2.0836,3.189303,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2406439934e-06
+p.Arg82Cys,1.589523,2.276877,2.37276,2.119083,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.202881362450485e-07
+p.Arg82Leu,-0.015605,6.272547,1.29128,-0.488754,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.20322766341783e-07
+p.Tyr83Cys,-0.270875,0.349578,2.96125,3.123563,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.203289232082419e-07
+p.Lys86Asn,1.789367,1.152059,0.094173,1.418837,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.200081593073764e-07
+p.Leu88Pro,1.072547,1.213873,7.298683,3.783753,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.240053223e-06
+p.Met90Thr,1.912437,1.406633,2.638303,2.271453,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8600683017e-06
+p.Met90Ile,0.847943,-0.471124,3.921763,0.490237,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.200450648753152e-07
+p.Cys91Tyr,6.56553,12.437733,16.0415,-0.275016,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.200773608515398e-07
+p.Leu92Gln,2.168003,7.430343,-0.03009,1.68786,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.200927410703545e-07
+p.Leu92Arg,6.00175,9.3233,0.766651,1.572797,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.200927410703545e-07
+p.Gly93Ser,3.97346,3.4322,2.89364,1.04039,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4805093974e-06
+p.Gln94Lys,9.47089,10.015523,5.18313,2.111333,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2402393165e-06
+p.Asn97Ser,0.613062,0.055714,3.48299,-0.918621,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2405993583e-06
+p.Ser98Thr,2.3758,2.80955,1.258657,-0.198526,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2404654722e-06
+p.Ser98Leu,2.050457,0.902734,4.514707,-2.226747,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.203204575483694e-07
+p.Val99Ile,5.156077,1.232868,3.354003,-0.822005,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.20275824253529e-07
+p.Val99Phe,13.554833,-0.678513,1.897387,-0.900638,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.20275824253529e-07
+p.Val99Ala,0.0,1.329313,2.249157,0.211408,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance,,2.41912073025e-05
+p.Val99Gly,1.56809,2.458793,4.051977,1.057923,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance,,9.3049915696e-06
+p.Leu100Val,2.835373,2.347453,2.6708,0.894269,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,3.1016523122e-06
+p.Leu100Phe,4.23158,-0.90073,21.3832,0.240336,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,9.9260139733e-06
+p.Thr101Ile,-0.719151,20.8107,1.447823,2.149103,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.20462095350133e-07
+p.Ala102Thr,3.326243,0.628092,2.431757,1.880157,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.205159962818681e-07
+p.Ala102Ser,4.10144,0.63553,1.397427,0.446368,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance,,3.1028071717e-06
+p.Ala102Asp,1.071616,1.153907,1.83154,3.896693,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.204851946027716e-07
+p.Ala102Val,3.018357,1.928993,0.548457,1.096331,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.204851946027716e-07
+p.Phe105Cys,-0.151503,1.530443,2.97059,4.802527,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.207170523388618e-07
+p.Phe105Ser,0.314248,1.807637,3.047533,3.895747,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,4.9661001587e-06
+p.Met106Val,1.90412,1.57779,-0.120305,2.585693,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.207825584932366e-07
+p.Val108Ile,2.185147,-0.526452,1.090513,-0.023049,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.215650759987618e-07
+p.Val108Ala,3.248993,-0.291714,1.93898,2.186047,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.214484222667456e-07
+p.Phe109Ser,4.20954,1.109083,3.383587,4.054753,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.216222600444833e-07
+p.Arg111His,1.82383,6.585027,6.618453,4.707953,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.245573543e-06
+p.Leu112Val,2.374617,1.54045,-1.066083,3.25323,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.228837524510475e-07
+p.Gly113Cys,-1.093363,2.29483,0.381673,2.544497,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.233862089515766e-07
+p.Gly113Ala,-0.165353,1.88013,-1.29207,2.50185,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.42821182569e-05
+p.Gly113Val,-1.28815,1.199157,4.95624,3.810177,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2473836128e-06
+p.Gly113Asp,0.852473,2.43913,6.156623,2.919853,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2473836128e-06
+p.Thr115Ile,1.6251,-2.465243,-0.043587,-0.68868,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2536041118e-06
+p.Thr117Ser,0.002651,3.042157,0.100358,1.332273,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.292022847593364e-07
+p.Tyr118Cys,0.654598,0.577973,-0.232533,4.01656,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.1604044306e-06
+p.Tyr118Phe,0.230409,14.6342,3.40086,1.775573,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.320808861268358e-07
+p.Glu119Lys,0.258652,1.548063,0.43699,-0.570384,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.9009238489e-06
+p.Glu119Ala,2.083883,0.0,1.070537,-0.12944,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8992366334e-06
+p.Glu122Lys,-0.148376,3.126997,0.59068,0.273118,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.203443159091022e-07
+p.Glu122Ala,0.447926,4.25258,0.0,0.185922,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.205606641488451e-07
+p.Met123Val,1.150447,2.002177,0.413822,1.606547,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8612453965e-06
+p.Arg124Ser,4.102317,3.05972,2.751983,3.872117,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.05457748663e-05
+p.Arg124Gly,5.078687,3.122347,3.300933,5.23723,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2405885848e-06
+p.Arg124Leu,0.602511,3.172067,-0.007517,2.446733,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2404516236e-06
+p.Arg124His,2.824967,5.99556,0.98366,5.538117,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely pathogenic,Pathogenic/functional defect,3.10112905906e-05
+p.Arg127Cys,1.319194,0.244563,2.354677,1.046789,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.860557423e-06
+p.Ala128Thr,3.972357,1.9296,2.063227,-0.252691,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=superficie,core,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.202004239690098e-07
+p.Ala128Ser,3.319973,2.159803,2.50324,0.138934,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=superficie,core,superficie,superficie,superficie,Uncertain significance,,1.8607374474e-06
+p.Val129Met,0.197104,0.745274,1.821557,2.335103,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.200258426771228e-07
+p.Arg130Pro,6.40773,3.16835,4.472623,7.537283,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=superficie,superficie,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.201119674168368e-07
+p.Gly133Arg,3.221847,0.367447,-0.405148,14.162333,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.201765766749108e-07
+p.Thr134Ser,0.139277,1.995427,3.832673,2.13775,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance,,3.7217242003e-06
+p.Gln136Leu,-0.252075,-0.473454,0.924378,-1.824207,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.20554502681416e-07
+p.Gln136Arg,5.156383,-0.033232,1.095909,-0.168677,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2411090053e-06
+p.Gln136His,7.765213,0.792869,2.63062,0.388012,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.20580689763025e-07
+p.Tyr137His,3.530677,2.405523,16.475697,1.17421,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8619777928e-06
+p.Ile138Phe,0.479434,0.294508,-0.98828,2.275553,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.207948906097324e-07
+p.Ile138Leu,0.282264,-0.001239,-0.520138,-0.43666,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.207948906097324e-07
+p.Ile138Val,1.125,3.706177,0.899995,1.361043,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.8287437967e-06
+p.Ile138Thr,1.17264,3.63531,2.742767,1.52425,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2419320986e-06
+p.Val139Ile,3.90914,2.277503,0.471583,-0.727343,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2425786987e-06
+p.Val139Ala,4.410813,0.684284,0.806471,0.603612,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.864243316e-06
+p.Ala140Thr,2.078047,2.685997,4.691387,2.972733,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2435568212e-06
+p.Ala140Val,4.015093,1.83186,5.730837,1.056245,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2441849904e-06
+p.Thr141Pro,8.574437,12.485567,1.44879,4.834723,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.244669702e-06
+p.Thr141Met,2.19378,1.122457,0.043689,-2.128163,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.230778049716624e-07
+p.Thr141Lys,2.05946,3.012303,3.15489,0.709849,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2461571628e-06
+p.Met142Val,1.770203,7.743117,1.857543,1.390963,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196754387921782e-07
+p.Met142Leu,-0.002965,2.0289,-0.07523,-0.513236,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196301303825721e-07
+p.Met142Thr,1.15616,5.408117,2.981697,1.296967,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196040234606868e-07
+p.Met142Ile,1.340427,6.954213,1.672813,0.608508,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,9.9143646751e-06
+p.Thr145Ala,0.980704,0.0,4.089437,0.035552,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19663151111056e-07
+p.Thr145Ile,1.90923,-0.420468,5.38238,2.89893,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,8.6740586168e-06
+p.Gly146Arg,-0.092427,9.003633,1.075921,20.971933,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2393662376e-06
+p.Gly146Cys,2.446177,2.209887,0.918703,9.539503,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196378093077035e-07
+p.Gly146Ser,1.969353,2.70302,-0.002684,7.235473,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2392756186e-06
+p.Gly146Asp,1.56686,4.22366,-1.626577,20.970533,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391957619e-06
+p.Ile147Val,-0.021211,3.859963,0.895013,1.09661,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196186123517253e-07
+p.Val148Ile,0.434392,0.090596,-1.274567,1.94271,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19584828598053e-07
+p.Ile149Val,4.189893,-1.270497,0.002168,1.251973,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195802220079852e-07
+p.Tyr150Cys,1.72968,2.58832,2.897753,2.234617,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196639190768495e-07
+p.Tyr150Phe,-0.222142,8.08301,0.528484,-0.509153,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,2.4788369297e-06
+p.Tyr150Ser,1.288387,1.1151,1.806147,1.97463,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance,,4.3376474335e-06
+p.Ala151Ser,-0.251965,1.64601,1.47345,2.035537,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2392879051e-06
+p.Pro152Leu,0.033995,-0.008688,-1.88938,4.69375,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2391665861e-06
+p.Ala153Thr,0.008632,0.963949,4.236687,2.10835,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.196017200143747e-07
+p.Ile155Val,-0.140367,1.79157,1.009207,1.440797,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8591415228e-06
+p.Asn157Lys,1.951743,4.649517,1.412433,0.817113,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,6.38272821351e-05
+p.Gln158Pro,3.743763,5.297663,7.528777,4.43288,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.197453342472511e-07
+p.Thr160Ser,0.793097,3.577373,1.327633,1.616117,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195188073519536e-07
+p.Gly161Arg,1.060873,0.641674,-1.52248,1.72402,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8585748448e-06
+p.Gly161Glu,1.881157,2.1625,-0.008155,3.004027,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,2.35436983432e-05
+p.Gly161Val,0.537504,2.163293,-0.273581,4.169423,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390514317e-06
+p.Asp163Glu,1.775143,18.5729,1.960407,1.802623,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195111313760086e-07
+p.Ile164Phe,6.98517,0.385164,-0.645903,1.258616,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,1.2391312698e-06
+p.Trp165Arg,15.4585,4.677927,9.08102,0.842888,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.1955719008e-06
+p.Ala166Thr,1.774007,1.893957,10.467067,0.473556,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.858570239e-06
+p.Ala166Ser,2.761853,3.088073,4.660257,0.085489,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195234130288251e-07
+p.Leu168Phe,5.733523,22.577967,5.43567,5.88056,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390606433e-06
+p.Leu169Pro,9.743863,-0.000889,6.705423,4.257313,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195640994821683e-07
+p.Ser170Cys,2.822397,3.663877,2.018063,0.221973,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.0976362557e-06
+p.Thr171Pro,0.014111,9.589633,6.912727,4.15248,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.196086304046912e-07
+p.Thr171Ala,1.539173,1.98468,0.0,0.694713,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195633317637729e-07
+p.Thr171Ser,2.9367,2.182717,2.046037,0.819513,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2391266635e-06
+p.Cys175Ser,3.075917,1.60531,4.2794,0.973592,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2391220572e-06
+p.Thr176Pro,3.734177,9.024727,8.121663,4.562747,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2392264748e-06
+p.Phe177Leu,-0.807779,-0.695445,0.807713,-0.211999,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195264835181174e-07
+p.Phe177Ser,0.401604,1.059127,-0.682171,1.47441,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2391573729e-06
+p.Phe177Leu,-0.679844,-0.273128,-0.320936,-0.203394,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195142017435608e-07
+p.Tyr178His,11.958667,3.876673,-0.344954,0.566701,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,2.4782840361e-06
+p.Thr179Lys,1.166107,0.196876,5.414573,9.083083,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8587383627e-06
+p.Thr179Arg,1.320665,-0.602996,6.46667,8.293337,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195341598745072e-07
+p.Thr179Met,-0.692648,-0.398486,0.17356,3.013947,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,9.2930123981e-06
+p.Ala180Ser,2.515423,1.59145,0.969026,0.982125,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.05329420861e-05
+p.Val181Met,-0.253414,0.696226,3.39221,-1.529303,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390944202e-06
+p.Val181Ala,0.920262,2.35859,3.31702,0.167607,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390913495e-06
+p.Gly182Ala,1.41873,1.509857,1.231237,-0.823895,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.4782993909e-06
+p.Gly182Asp,-0.025594,1.96961,1.39238,1.230217,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195295540378459e-07
+p.Gly183Ser,0.43902,-0.258153,0.486688,0.8317,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.85880746348e-05
+p.Gly183Asp,0.089832,0.49299,-0.130325,-2.964493,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195510485281946e-07
+p.Met184Val,,,,2.156863,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8586162973e-06
+p.Met184Thr,,,,2.057097,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2390974909e-06
+p.Lys185Gln,,,,0.334575,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390974909e-06
+p.Ala186Thr,,,,0.407405,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.195349275206088e-07
+p.Ala186Val,,,,1.067493,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2390376147e-06
+p.Val187Gly,,,,2.394437,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2391328052e-06
+p.Val188Ile,,,,0.922477,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,2.4782318311e-06
+p.Trp189Arg,-0.960778,9.4302,,1.815973,core,7UUY=core; 7UUZ=core; AF=core,core,core,,core,Uncertain significance / not classified in gnomAD extract,,6.195556546844603e-07
+p.Trp189Gly,1.316883,0.372657,,3.679287,core,7UUY=core; 7UUZ=core; AF=core,core,core,,core,Uncertain significance,,8.0536347292e-06
+p.Thr190Ser,0.401308,3.476723,2.13861,0.625727,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195387657796524e-07
+p.Asp191Val,1.383163,0.712303,1.690563,5.609913,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195525839060065e-07
+p.Val192Leu,-0.098121,-1.890113,-0.995656,-0.377033,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195134341488195e-07
+p.Phe193Leu,0.011029,3.04782,2.428037,0.933795,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195157369387497e-07
+p.Phe193Leu,0.007934,3.302457,2.26693,1.142798,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8585633305e-06
+p.Gln194His,-0.431668,6.88518,3.932657,-1.54357,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195057583060235e-07
+p.Val195Phe,18.468,-0.107183,0.025279,1.33923,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195111313760086e-07
+p.Val196Met,0.599975,-0.07944,-1.55792,-1.07045,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,0.0002081570296983
+p.Val196Leu,0.479162,-0.675991,-1.724613,-0.866978,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195149693402042e-07
+p.Val197Leu,0.047329,-0.426034,3.355267,-0.398663,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195088286203166e-07
+p.Val197Gly,1.281347,1.15305,3.630943,3.076687,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195226454112577e-07
+p.Met198Val,0.820561,-0.152277,1.438553,0.571084,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390575728e-06
+p.Met198Thr,2.071137,0.008568,1.934943,2.021383,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390145869e-06
+p.Leu199Pro,3.66418,4.30391,3.20914,5.094427,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195126665559804e-07
+p.Ser200Arg,-0.05555,2.04354,1.558373,-0.710254,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195095962036452e-07
+p.Gly201Ser,1.032691,0.663423,0.547872,3.286357,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,7.4345941578e-06
+p.Gly201Ala,0.980977,0.238852,-0.307168,0.404884,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.0975211158e-06
+p.Trp203Cys,-0.468286,0.656081,2.033873,1.86801,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195019204559534e-07
+p.Val204Ile,-1.051973,3.007717,0.64472,-0.46881,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390130517e-06
+p.Val205Phe,-0.75406,0.706616,11.5107,3.555423,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4779861901e-06
+p.Ala207Val,1.73367,,-0.006523,0.421439,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195095962036452e-07
+p.Arg208Cys,,,3.236713,2.902243,core,7UV0=core; AF=superficie,,,core,superficie,Uncertain significance,,1.9826345992e-05
+p.Arg208Ser,,,2.179743,4.309427,core,7UV0=core; AF=superficie,,,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8587199367e-06
+p.Arg208Gly,,,0.0,4.33488,core,7UV0=core; AF=superficie,,,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.478293249e-06
+p.Arg208His,,,9.939413,2.430393,core,7UV0=core; AF=superficie,,,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.67279197654e-05
+p.Arg208Pro,,,8.142857,7.08602,core,7UV0=core; AF=superficie,,,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195072934593659e-07
+p.Gly209Ser,,,0.169952,1.22361,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,9.2934384607e-06
+p.Gly209Cys,,,-0.227604,-0.181089,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390345442e-06
+p.Gly209Asp,,,0.107438,3.525323,core,7UV0=core; AF=core,,,core,core,Uncertain significance / not classified in gnomAD extract,,3.7170161281e-06
+p.Val210Ile,,,,-0.635202,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.194996177687358e-07
+p.Val210Phe,,,,0.619566,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.194996177687358e-07
+p.Met211Leu,,0.928683,,0.185605,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195126665559804e-07
+p.Met211Thr,,0.953154,,1.098177,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2389977004e-06
+p.Leu212Pro,,-0.137567,,4.437353,core,7UUZ=core; AF=superficie,,core,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195049907322053e-07
+p.Val213Leu,0.252324,-0.190917,,-1.54464,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance / not classified in gnomAD extract,,6.194973150986364e-07
+p.Val213Gly,0.333898,1.699987,,2.843373,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195203425699686e-07
+p.Val213Ala,0.449288,0.375884,,1.16494,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390406851e-06
+p.Gly214Ser,-0.305026,1.718007,,4.31859,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8585126694e-06
+p.Gly214Asp,-0.628943,1.87923,,4.363917,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8584896426e-06
+p.Gly215Arg,-0.122941,0.144208,,2.713277,core,7UUY=core; 7UUZ=core; AF=superficie,core,core,,superficie,Uncertain significance,,5.5756070906e-06
+p.Pro216Thr,0.674152,1.013359,0.000117,1.679963,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390360794e-06
+p.Pro216Ser,1.239933,0.73154,0.149278,1.752083,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.67281892292e-05
+p.Arg217Cys,1.20242,1.814673,2.020257,0.535449,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,4.02709179538e-05
+p.Arg217His,0.643403,2.49267,2.21763,0.153005,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,8.6739188889e-06
+p.Val219Met,-0.19425,-1.057275,0.048808,0.20103,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.194896396552664e-07
+p.Val219Gly,2.341297,1.80909,1.33833,4.732283,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.3366047853e-06
+p.Thr221Pro,4.64397,6.321093,6.634387,3.234397,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195026880221633e-07
+p.Thr221Met,-0.475803,1.092118,-1.621377,-0.346282,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,0.0001034654097168
+p.Thr221Lys,0.108611,2.491987,0.217814,-0.139945,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195072934593659e-07
+p.Thr221Arg,0.249651,2.808017,0.195097,0.087422,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.7173201095e-06
+p.Ala223Ser,3.867177,0.304599,0.810571,0.697013,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8585541192e-06
+p.His226Gln,3.241527,-0.165433,-0.614414,0.306825,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195142017435608e-07
+p.Ser227Thr,1.338367,2.200577,1.546023,1.09465,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195510485281946e-07
+p.Ser227Phe,0.171197,4.78207,-3.497,-0.702126,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.7172418065e-06
+p.Arg228Gly,1.034802,3.25975,4.77068,7.51151,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390744609e-06
+p.Arg228Trp,-1.197643,3.953073,2.245423,9.016437,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.0976899906e-06
+p.Arg228Gln,-0.494396,0.793344,2.84831,4.853563,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,6.5056568235e-05
+p.Ile229Val,1.25806,0.023512,2.428443,1.82613,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8587798225e-06
+p.Ile229Ser,3.48791,-0.12425,2.7136,3.063153,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,3.28385249182e-05
+p.Asn230Ser,2.711263,2.357523,0.013843,2.200373,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195487454757453e-07
+p.Leu231Pro,3.244097,4.99691,6.768787,0.537394,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8586738733e-06
+p.Met232Arg,-0.53968,0.062108,1.174381,0.030857,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195863641432979e-07
+p.Met232Ile,0.672655,-0.895913,-0.2008,2.686557,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195640994821683e-07
+p.Asp233Ala,-0.60784,1.08535,-0.0,2.785513,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2391773349e-06
+p.Asp233Glu,5.371237,0.883111,-0.203895,2.480457,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195479777954005e-07
+p.Phe234Cys,1.18298,2.03671,1.38717,1.964523,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195487454757453e-07
+p.Phe234Leu,-1.305917,0.003852,-1.14167,1.37704,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195472101169581e-07
+p.Asn235Asp,0.459064,3.56924,3.991887,0.456184,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195525839060065e-07
+p.Pro236Ser,0.992283,2.56709,2.178967,0.440447,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390545022e-06
+p.Pro236Thr,1.11856,3.32751,0.940669,0.721561,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195272511451961e-07
+p.Pro236Arg,-0.491309,1.303047,0.945868,-1.240552,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.9565987819e-06
+p.Pro236Leu,0.0,2.443507,0.066946,0.195805,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Likely benign,,1.2391496954e-06
+p.Pro238Leu,3.305267,0.985926,-0.005408,0.101349,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.36305790889e-05
+p.Pro238Arg,2.634623,1.325263,0.456181,-1.22202,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.8585794505e-06
+p.Arg239Lys,1.439403,-0.267567,1.247613,2.386977,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195019204559534e-07
+p.Ser240Cys,2.026137,1.04812,1.749713,0.611681,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195226454112577e-07
+p.Ser240Ile,0.635313,-0.40085,3.532643,-1.544187,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194942448984649e-07
+p.Ser240Asn,1.692993,0.007755,1.53012,0.214791,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8584827346e-06
+p.Ser240Thr,1.295017,1.137433,3.78627,0.104694,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194942448984649e-07
+p.Arg241Cys,0.525995,2.6874,-0.617299,3.719777,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,3.7172924728e-06
+p.Arg241His,0.404665,2.962693,-0.280965,5.105017,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance,,2.78777591237e-05
+p.Tyr242Cys,0.649618,1.680213,1.87181,3.188913,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,2.4779861901e-06
+p.Tyr242Ser,0.217338,1.076697,1.503577,4.583493,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.194965475457405e-07
+p.Thr243Ala,2.517973,-0.042206,0.429646,6.535117,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.7172325946e-06
+p.Thr243Ile,0.554388,-0.521081,0.09325,6.132287,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8584781294e-06
+p.Phe244Ser,0.961775,2.822113,-0.340122,3.901437,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195019204559534e-07
+p.Phe247Ile,0.542052,0.002799,-0.144526,4.454557,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195103637888758e-07
+p.Phe247Leu,-1.105357,0.037233,-0.346124,-0.834185,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.19485034480537e-07
+p.Val248Leu,-0.85884,-1.046996,0.007351,-0.160128,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.1953646281e-06
+p.Val248Ala,0.450503,1.090604,1.40887,2.134297,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,5.32753829323e-05
+p.Gly250Cys,0.908215,5.764537,0.758104,9.53643,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194996177687358e-07
+p.Gly250Ala,0.57983,5.970987,0.408954,3.11228,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.238971604e-06
+p.Gly251Ser,-0.0,3.12938,0.130173,1.760177,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.238971604e-06
+p.Gly251Asp,-1.157117,2.1371,0.846051,4.94116,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194858020049038e-07
+p.Thr252Lys,7.52241,-0.227548,0.406246,-0.711809,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195019204559534e-07
+p.Thr252Met,5.500873,0.706414,-0.284667,-1.493793,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,4.02676248296e-05
+p.Leu256Ile,0.343395,1.393957,-0.984564,2.42429,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.0974021468e-06
+p.Leu256Phe,0.193386,-0.05631,-0.749448,2.64288,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.19525715892941e-07
+p.Met258Leu,1.59811,-0.286888,0.218754,0.088299,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195034555902752e-07
+p.Met258Val,2.11719,0.883545,0.713086,4.91377,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390069111e-06
+p.Met258Ile,1.704087,0.543442,0.664407,4.124673,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195303216725336e-07
+p.Tyr259Cys,0.57733,3.553823,0.442985,2.25991,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2389992355e-06
+p.Val261Met,3.960853,3.98551,0.9474,3.467917,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.7171957475e-06
+p.Val261Ala,3.286747,3.59159,0.461889,2.859703,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2389884897e-06
+p.Asn262Ser,2.27426,0.000717,1.020105,0.823686,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195487454757453e-07
+p.Asn262Lys,1.28579,-1.728983,0.585872,2.062173,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195003853292397e-07
+p.Ala264Ser,0.000407,4.707713,1.23509,0.311696,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.194873370593432e-07
+p.Ala264Glu,0.940248,3.548157,0.427094,-0.659637,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2390023057e-06
+p.Ala264Val,-0.44114,0.619588,0.93037,0.920006,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance,,7.4345573092e-06
+p.Gln265Leu,-1.372923,1.96656,2.901547,-0.758418,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194957799947467e-07
+p.Gln265Pro,5.594493,3.50424,4.486693,0.651444,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194957799947467e-07
+p.Val266Met,3.17352,-0.712493,-0.757323,-0.555536,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2390821375e-06
+p.Val266Leu,1.763873,-0.529729,-1.206553,3.524463,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195410687579069e-07
+p.Val266Gly,7.251653,2.147597,-0.117393,3.879477,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194957799947467e-07
+p.Val266Glu,6.480357,0.222832,1.197777,3.68601,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.194957799947467e-07
+p.Gln267Glu,5.56063,0.107834,0.924432,2.0982,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely pathogenic,Pathogenic/functional defect,3.53140597043e-05
+p.Gln267Arg,2.485523,0.049166,0.0,1.928357,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195356951686129e-07
+p.Gln267His,4.744137,0.46086,2.479147,2.674847,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.194819644020884e-07
+p.Arg268Ser,2.248103,0.262919,7.233407,3.016333,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19498850210134e-07
+p.Arg268Cys,1.617037,0.81589,4.907537,2.464637,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,3.34553835287e-05
+p.Arg268His,0.988247,10.076557,3.364663,2.59161,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.10628826165e-05
+p.Val270Leu,0.81966,-0.822453,0.355565,-0.375819,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.194858020049038e-07
+p.Val270Met,5.50353,0.439481,0.184533,0.059041,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,6.8148419824e-06
+p.Arg273Cys,0.512369,0.799657,4.49145,1.399453,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.09746738676e-05
+p.Arg273His,-0.151426,13.376733,2.725587,1.25406,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely Benign,,3.7170023119e-06
+p.Arg273Pro,2.79983,2.4583,8.472873,0.645452,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195003853292397e-07
+p.Thr274Arg,21.8803,-1.270957,1.619263,2.810297,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2389777442e-06
+p.Glu275Lys,8.168143,1.344407,-0.090585,4.65515,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2389577887e-06
+p.Lys276Gln,-0.222018,1.703027,12.749667,-0.407938,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195188073519536e-07
+p.Lys276Glu,-0.065988,2.132367,13.5305,-0.587106,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8586922984e-06
+p.Ala278Thr,1.325187,2.876613,-0.008667,2.664537,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8586255092e-06
+p.Ala281Ser,0.007769,4.00393,3.104873,0.66652,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2395398332e-06
+p.Ala281Asp,4.839127,1.730683,2.44228,8.284743,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.239555198e-06
+p.Ala281Val,1.22447,4.96736,3.363977,5.22658,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.0986613782e-06
+p.Ala281Gly,1.0261,4.23798,3.336977,1.74935,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2394645513e-06
+p.Ile284Phe,30.668433,1.019966,7.535177,0.326121,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.23951217758e-05
+p.Ile284Val,3.358513,3.638973,0.885317,0.93876,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.7185365327e-06
+p.Asn285Ser,1.537197,3.229803,1.746798,0.453979,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2395843921e-06
+p.Val287Ala,0.970728,-0.135209,2.366627,0.068674,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.198129404545708e-07
+p.Gly288Ser,-0.390818,3.559027,1.65714,2.340057,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Conflicting classifications of pathogenicity,,0.000299359630703
+p.Gly288Cys,0.09436,2.007173,2.95288,2.573753,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.198375281871116e-07
+p.Gly288Asp,-0.518145,3.405243,1.241207,4.709467,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.198160138144593e-07
+p.Gly288Val,-0.124386,0.001419,5.759007,2.786763,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.198167821591938e-07
+p.Leu289Arg,-0.991595,-0.799175,-0.062104,4.11452,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.197983424113131e-07
+p.Leu289Pro,-0.099728,4.772793,3.68094,7.106657,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.197983424113131e-07
+p.Phe290Tyr,6.3788,0.776035,-1.214907,-0.112939,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.197476387614964e-07
+p.Leu291Arg,0.144624,4.99868,0.858092,0.763421,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.197545524070647e-07
+p.Val293Met,0.460104,-1.173923,-0.255943,-0.470479,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8595817428e-06
+p.Val293Leu,-0.109904,-0.908635,-0.645975,-1.303707,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.198152454716299e-07
+p.Ser294Phe,1.67748,11.6133,0.278853,-2.571883,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.197822085319219e-07
+p.Ala296Thr,0.83814,-1.954833,0.370461,2.511263,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,6.1987518193e-06
+p.Ala296Pro,1.819563,3.839833,3.507847,6.142353,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.198298443111397e-07
+p.Ala296Val,1.509227,0.911049,-5.4e-05,1.857597,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.197630026277951e-07
+p.Ala297Val,2.761927,-0.103571,0.310366,-0.779584,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.198175505058332e-07
+p.Cys298Gly,-1.086505,0.0,0.169595,0.81978,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Likely benign,,0.0003910917844693
+p.Cys298Ser,-1.295857,-1.243957,0.272623,-0.276993,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.197968058151816e-07
+p.Cys299Gly,4.322667,0.40958,0.270523,2.083473,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.198513596439574e-07
+p.Cys299Tyr,1.290463,-0.004515,-0.56159,20.28669,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,5.08298909512e-05
+p.Gly300Asp,-0.584533,5.002553,0.669177,21.8917,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.198613494133633e-07
+p.Ile301Val,0.702247,0.351126,1.777667,0.958412,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=superficie,superficie,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.198436754250578e-07
+p.Ile301Met,-0.615037,-0.210735,-1.68346,-0.273707,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=superficie,superficie,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.198644232533461e-07
+p.Val302Ile,2.95033,0.196521,0.11906,0.10985,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,9.2984505062e-06
+p.Val302Leu,5.416507,0.0,-0.322097,0.666988,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.198959318709575e-07
+p.Met303Leu,-0.162498,6.060383,-0.400805,-0.930195,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.199151460148135e-07
+p.Met303Leu,-0.162919,7.120123,-0.454073,-0.971172,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.36381332123e-05
+p.Met303Val,0.41008,2.597057,0.13522,1.859907,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,9.2987271902e-06
+p.Phe304Cys,2.066407,3.24953,2.379193,3.497833,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.198636547904923e-07
+p.Phe304Ser,1.811633,3.603013,1.160894,3.889843,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,5.5787728931e-06
+p.Val305Met,4.32009,-0.30542,-0.291596,3.849373,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,5.5789250527e-06
+p.Val305Ala,0.0,1.25763,0.788864,1.943673,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=superficie,core,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.2398026234e-06
+p.Tyr307Cys,1.779627,0.852548,0.096181,4.270293,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,3.0998562906e-06
+p.Thr308Ala,1.273983,0.464406,2.729187,0.339394,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.4798419844e-06
+p.Asp309Tyr,7.444503,0.331029,0.619007,-0.267904,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.199681832328365e-07
+p.Cys310Phe,2.1964,9.693047,-0.389346,5.138107,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.200096969516604e-07
+p.Asp311Asn,1.34504,2.57085,-0.011475,1.806497,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.9603851243e-06
+p.Pro312Ser,1.26449,2.158823,0.473827,4.224003,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2401347282e-06
+p.Pro312Leu,-0.419004,0.364994,-1.44674,3.66657,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.200581366508924e-07
+p.Leu313Phe,11.341133,0.050515,-0.556215,1.01857,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8602828374e-06
+p.Leu313Pro,5.546697,4.540683,3.757467,11.859233,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.201311949556048e-07
+p.Leu314Phe,0.004652,6.700323,7.87328,0.436366,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2403377687e-06
+p.Leu314Val,0.266308,1.274283,-2.090663,0.856745,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8605066531e-06
+p.Leu314Ile,-0.408944,0.003824,-2.129407,0.361009,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.9613510751e-06
+p.Leu315Gln,0.751933,1.34131,1.764897,1.652687,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.202288892692959e-07
+p.Arg317Ser,0.595929,-0.011279,1.291537,4.64878,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.203612487623793e-07
+p.Arg317Gly,2.47271,1.69496,2.33477,5.10904,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2408133283e-06
+p.Arg317Cys,0.825388,1.307377,1.772683,4.260713,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.79917932606e-05
+p.Arg317Leu,-0.810775,-1.2508,0.0,2.461617,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.2041359251e-06
+p.Arg317His,11.415,0.553494,1.075333,4.196647,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,2.3577442592e-05
+p.Ser319Pro,2.853353,3.872957,5.543343,-0.172007,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.204351483956788e-07
+p.Ser319Cys,0.057569,0.228827,1.720723,0.261253,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.204882746330743e-07
+p.Ala320Thr,1.87746,-0.586614,-0.219687,-0.083097,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,3.90923137065e-05
+p.Pro321Ser,1.04477,0.398266,-0.005017,2.394667,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.205591237705173e-07
+p.Asp322Val,-0.116565,19.553267,4.410603,-0.632821,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,4.9658905393e-06
+p.Tyr324Asn,18.321067,1.466643,-0.767455,4.480093,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2402839257e-06
+p.Tyr324His,34.970733,1.246788,-0.891245,3.247167,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8604258886e-06
+p.Met325Val,1.06382,2.4614,-1.0428,1.725703,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2399056183e-06
+p.Pro326Ser,2.511677,3.982413,4.90024,3.658123,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2396151242e-06
+p.Pro326Leu,-1.215453,2.126367,27.927233,0.761972,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2396934981e-06
+p.Ile332Val,0.493099,0.744099,1.077053,1.623277,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.2392372247e-06
+p.Phe333Leu,-1.57315,1.548213,1.842393,1.82852,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391972975e-06
+p.Glu334Gln,4.377287,6.766353,0.215127,-0.894586,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195871319187746e-07
+p.Glu334Lys,4.176303,7.75076,-0.00109,-1.319027,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance,,3.7177946042e-06
+p.Asp335Tyr,4.926743,1.72744,-1.19933,0.180792,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=superficie,core,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,1.8586462364e-06
+p.Asp335Val,2.224383,1.44884,-0.984129,0.348193,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=superficie,core,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195917386115941e-07
+p.Asp335Gly,3.994167,2.597013,-0.616247,0.061652,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=superficie,core,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195917386115941e-07
+p.Pro337Ser,2.537087,-2.96809,4.24078,1.369847,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391297344e-06
+p.Pro337Leu,-0.004046,-1.961037,3.677677,0.251577,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.858763699e-06
+p.Val339Ala,0.299431,4.399577,2.334763,1.66505,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196593113106414e-07
+p.Pro340Ser,2.673253,4.213457,1.03129,4.913377,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195817575303966e-07
+p.Pro340Thr,3.51859,3.99468,2.784263,6.239163,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196270588658098e-07
+p.Pro340Leu,2.786137,0.892218,-0.011954,1.619057,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195633317637729e-07
+p.Gly341Trp,1.935838,0.032827,-1.38461,62.181133,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195963453729165e-07
+p.Gly341Arg,-0.6293,-0.174702,-1.035734,32.336633,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Likely pathogenic,,9.2939451805e-06
+p.Gly341Glu,2.68238,-0.126708,-0.363416,27.177067,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391543019e-06
+p.Leu342Phe,13.423537,-0.845284,4.09907,0.941689,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195664026487703e-07
+p.Leu342Ile,-0.004653,-0.317328,4.88064,0.536697,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195671703747762e-07
+p.Phe343Leu,-0.502839,1.330787,2.6516,2.040187,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195794542496335e-07
+p.Ala345Thr,2.942723,3.00337,-0.213189,4.490727,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391896195e-06
+p.Cys346Arg,0.634487,2.6802,-1.174793,4.781883,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8588834802e-06
+p.Cys346Tyr,6.799593,-0.0,-0.725538,17.441867,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196485601226409e-07
+p.Ala347Val,1.211376,1.682543,2.173623,0.582238,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.7184996597e-06
+p.Ser349Gly,5.34502,4.13794,-0.228878,-0.283411,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.05363759081e-05
+p.Ser349Arg,5.122733,2.447797,-1.896487,9.011287,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2397042561e-06
+p.Thr351Ala,1.395995,2.88229,3.169333,-0.1649,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.200765918606267e-07
+p.Thr351Ile,1.410287,-0.725628,2.286547,2.99672,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2401378041e-06
+p.Thr351Asn,2.743963,3.74841,3.48026,1.24796,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.200689020563965e-07
+p.Ser353Asn,2.43154,3.642457,2.9295,7.33002,core,7UUY=core; 7UUZ=superficie; 7UV0=superficie; AF=core,core,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2413062016e-06
+p.Thr354Pro,5.803303,7.45501,8.663883,4.1453,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Pathogenic,Pathogenic/functional defect,4.3390617212e-06
+p.Ala355Glu,-0.2678,5.310067,3.807833,6.230147,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.198160138144593e-07
+p.Ser358Asn,0.384026,0.931881,2.915557,-0.509348,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.197199857216516e-07
+p.Ala361Val,0.177294,0.003761,-0.170279,5.29704,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,2.41647365857e-05
+p.Met362Val,1.027611,2.355447,0.335197,3.485047,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.196570074532345e-07
+p.Met362Leu,-0.303085,2.524183,-0.008445,0.381045,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,1.2393140149e-06
+p.Met362Thr,1.07031,3.50941,0.998981,2.346127,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195011528916455e-07
+p.Met362Ile,0.673913,3.814633,-0.134372,1.794597,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195165045391975e-07
+p.Ala364Pro,-0.006006,5.482377,0.09175,8.13202,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195157369387497e-07
+p.Ala364Ser,3.832753,1.28788,-0.763208,0.930988,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195157369387497e-07
+p.Ala364Thr,3.465877,2.499197,-2.072863,0.863104,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195157369387497e-07
+p.Thr366Ala,1.165213,4.510087,2.69361,0.47719,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390345442e-06
+p.Thr366Pro,6.218667,7.153987,0.021574,4.189327,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195172721415473e-07
+p.Val367Ile,1.194037,1.394323,22.109167,0.316179,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19498850210134e-07
+p.Val367Ala,3.775567,0.0,1.776483,2.355087,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19491942268307e-07
+p.Asp369Gly,1.985773,1.94011,4.51686,5.78359,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195533515977661e-07
+p.Leu370Phe,-1.4266,-0.638131,0.71421,0.599206,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.17706239917e-05
+p.Leu370Pro,3.351167,7.560627,7.237167,3.86365,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195157369387497e-07
+p.Pro373Ser,0.00063,1.327573,0.41903,2.52906,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2389792793e-06
+p.Pro373Thr,-1.816783,0.003618,1.080053,3.035803,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,5.5754067568e-06
+p.Pro373Leu,-0.310109,5.840953,1.13117,3.055627,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195003853292397e-07
+p.Arg374Trp,0.884602,18.192767,4.22583,0.888529,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.93897174351e-05
+p.Arg374Gln,2.040457,2.36048,3.316547,0.448762,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.15969860192e-05
+p.Leu375Arg,13.798313,-0.832599,0.330793,0.606174,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195095962036452e-07
+p.Arg376Trp,17.648833,3.544133,-0.601901,0.038189,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,4.52285155257e-05
+p.Arg376Gln,3.78709,-0.633946,1.746483,0.741648,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.65541006885e-05
+p.Ser377Asn,-0.126089,5.14489,2.316897,-0.478181,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.194980826534342e-07
+p.Ser377Arg,-2.948477,12.0205,13.544633,-0.461665,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195172721415473e-07
+p.Ala379Ser,0.689447,-0.206768,-0.000808,-0.237579,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195188073519536e-07
+p.Ala379Glu,9.149197,-1.838058,-0.077304,-1.10537,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390376147e-06
+p.Pro380Ser,0.00889,0.003742,0.287159,1.445777,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195733122513187e-07
+p.Arg381Gly,0.034691,4.359883,1.863787,1.084393,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195249482696668e-07
+p.Arg381Ser,-0.697893,4.038947,1.72094,0.794207,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.4780782998e-06
+p.Lys382Thr,0.628693,-0.294195,-0.109673,0.818861,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390944202e-06
+p.Leu383Val,0.950044,-0.146646,0.326933,1.112433,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,2.4781090045e-06
+p.Val384Met,-0.175102,-0.00297,-1.978703,0.480158,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.7173293219e-06
+p.Val384Leu,-0.058059,-0.248155,-1.93488,-0.564484,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,9.9128781917e-06
+p.Val384Ala,0.741354,2.12325,-0.506371,1.45839,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195671703747762e-07
+p.Ile385Phe,0.000436,9.249853,6.988497,0.042057,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8587015111e-06
+p.Ile385Thr,0.432517,3.7621,2.81843,0.492259,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195717767707671e-07
+p.Ile385Ser,0.678053,0.874735,3.450257,0.546742,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.0978588838e-06
+p.Gly389Arg,-0.084266,1.858075,2.653237,-1.191187,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.7177946042e-06
+p.Gly389Val,0.001016,0.003232,2.558037,-1.093372,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.196608472250967e-07
+p.Gly389Ala,0.984864,2.379683,0.0,-0.838252,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.196608472250967e-07
+p.Leu390Phe,-0.04855,-0.377139,-0.400205,1.503797,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=superficie,core,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8591207845e-06
+p.Ser391Leu,-1.04164,-0.728898,-0.789763,-3.14311,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195410687579069e-07
+p.Leu392Phe,-0.47406,3.241527,-1.059435,-0.207762,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2390560375e-06
+p.Ile393Ser,1.560597,3.850797,1.415733,0.528568,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=superficie,superficie,core,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195456747657807e-07
+p.Gly395Arg,1.884503,1.917593,1.924597,12.737967,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Pathogenic/Likely pathogenic,Pathogenic/functional defect,1.17724035034e-05
+p.Gly395Glu,2.257703,1.428757,0.146227,11.804243,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2390575728e-06
+p.Ser396Leu,-0.311699,0.776145,0.022498,-0.727653,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,8.0538941817e-06
+p.Ala397Pro,-0.002814,5.302003,3.050443,3.2001,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195510485281946e-07
+p.Ala397Ser,2.383273,1.717823,1.7734,0.331078,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.195510485281946e-07
+p.Ala397Val,1.889973,1.826627,1.47578,0.109768,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=core,superficie,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2391343407e-06
+p.Cys398Arg,-0.031035,-0.229769,-0.345315,4.069223,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,1.2391297344e-05
+p.Cys398Tyr,0.57585,0.085231,0.787327,11.6519,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195387657796524e-07
+p.Thr400Ser,0.401206,1.143183,0.564556,-0.540463,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8587107238e-06
+p.Val401Met,0.179987,-0.706588,-0.009834,-0.402434,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.67286038059e-05
+p.Val401Leu,0.064378,-0.335253,-0.017319,0.000405,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391558374e-06
+p.Val401Leu,0.118358,-0.343977,-0.077583,-0.211412,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195779187386385e-07
+p.Val401Ala,0.166983,0.0,1.118517,1.415377,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195333922303078e-07
+p.Ala402Thr,2.339087,1.648237,-0.287804,4.297437,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.09790111e-06
+p.Ala402Ser,2.651627,1.640247,-0.074529,0.742342,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195802220079852e-07
+p.Ala402Val,1.815687,1.86466,0.347583,4.924853,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195356951686129e-07
+p.Ala403Asp,-1.14609,-0.88978,2.54447,1.927287,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,2.4782840361e-06
+p.Ser405Phe,-0.075431,1.142157,0.334012,1.522029,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195502808421423e-07
+p.Ser405Tyr,-0.066533,3.377993,-0.03963,2.62769,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195502808421423e-07
+p.Ser405Cys,0.211723,1.939773,-0.596677,-0.250422,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195955775746055e-07
+p.Ser406Thr,1.323933,-0.310734,0.396092,1.478797,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2392065112e-06
+p.Leu408Phe,0.187159,0.860844,-0.361158,0.132013,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391834772e-06
+p.Leu408Ile,-0.353843,0.00526,-0.647548,0.41894,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195917386115941e-07
+p.Leu408Pro,2.181087,5.674253,-1.396677,2.50078,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196362735074511e-07
+p.Gly409Arg,-0.133017,-1.135295,1.586154,-1.117,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance,,2.16903070355e-05
+p.Gly410Arg,1.69071,-0.282397,-0.350313,2.24617,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.17736290538e-05
+p.Gly410Arg,1.660213,-0.208834,-0.383305,2.574217,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196193802071264e-07
+p.Gly411Ser,0.007733,-1.017617,0.550314,-1.59368,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8591392185e-06
+p.Gly411Val,-0.576567,-1.240597,0.828426,-0.818893,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.197568569898657e-07
+p.Val412Ile,0.004363,1.60571,-0.000476,-0.724209,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2394015673e-06
+p.Gln414His,2.180067,0.695374,0.935807,1.383907,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.199335927135486e-07
+p.Gln414His,2.288207,0.695068,0.990313,1.35684,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.199335927135486e-07
+p.Ser416Phe,0.022277,0.47493,0.920694,4.400723,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4794976537e-06
+p.Phe417Ser,0.187039,-1.171077,0.000569,3.973423,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.209128412226519e-07
+p.Val419Ile,-1.56268,-0.397698,0.000895,-0.661961,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8599229991e-06
+p.Val419Asp,0.823989,0.494812,0.521148,2.833347,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8602297755e-06
+p.Met420Leu,-0.585077,1.69634,1.511997,-0.39633,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.8687001446e-06
+p.Met420Val,0.337261,0.289983,1.891493,1.542593,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2458000964e-06
+p.Met420Thr,0.021319,-0.388439,2.45436,2.941287,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.296507579106172e-07
+p.Met420Lys,-0.301673,4.722293,2.855493,2.611293,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.296507579106172e-07
+p.Met420Ile,-0.242781,1.174472,0.940916,0.096228,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4789106674e-06
+p.Met420Ile,-0.239631,1.357483,0.988114,0.043351,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,7.436197426e-06
+p.Val422Leu,1.440277,-0.758474,-0.736292,1.164982,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.202042704785248e-07
+p.Val422Ile,1.478677,-0.84261,-0.543822,0.737801,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.202042704785248e-07
+p.Ile423Thr,2.483193,1.543387,0.95842,2.408833,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2474489668e-06
+p.Ser424Arg,-0.877361,13.9846,7.171323,-0.254778,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.220375461862878e-07
+p.Gly425Cys,1.899137,0.324788,2.849677,7.73744,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.200073904880946e-07
+p.Gly425Ser,2.349067,0.235154,2.603807,9.166477,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2401039703e-06
+p.Gly425Ala,1.227477,0.0,2.51764,4.611097,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.64598436332799e-07
+p.Pro426Leu,5.680113,0.001228,-0.743841,10.13309,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4786986831e-06
+p.Leu427Gln,-0.41053,-1.085887,0.710595,0.865889,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.387915086722335e-07
+p.Leu428Met,-0.309801,0.565599,4.572403,0.895844,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.485689973642156e-07
+p.Leu428Arg,0.402506,0.928963,12.6255,9.150097,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.3519414555e-06
+p.Leu428Pro,4.103517,5.458487,8.2263,9.37015,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.759707277636049e-07
+p.Ala430Pro,6.00699,4.863083,4.362637,4.83012,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.262846664219982e-07
+p.Ala430Ser,0.00111,1.540297,1.191513,0.819908,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.262846664219982e-07
+p.Ala430Asp,-1.263623,0.412091,1.400813,5.602587,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.19800647319796e-07
+p.Phe431Leu,0.018573,3.703113,-2.863147,1.600047,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,1.2400439967e-06
+p.Phe431Ser,0.374212,2.68185,0.000423,4.40706,core,7UUY=core; 7UUZ=superficie; 7UV0=core; AF=core,core,superficie,core,core,Uncertain significance / not classified in gnomAD extract,,6.310621406889936e-07
+p.Ile432Val,0.849462,2.38678,-0.434326,1.349283,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.343720541347736e-07
+p.Ile432Thr,0.330899,2.382573,0.059872,2.942417,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.203774128028527e-07
+p.Ile432Asn,0.310019,-0.302661,3.51805,2.065777,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,8.6852837792e-06
+p.Gly434Ala,1.806933,2.535997,0.542335,0.104268,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.538913729495601e-07
+p.Met435Leu,2.30814,-0.010867,3.141197,-0.137691,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=core; AF=core,core,sitio activo,core,core,Likely Benign,,2.846529369e-06
+p.Met435Thr,4.183043,2.6126,4.443763,3.896443,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=core; AF=core,core,sitio activo,core,core,Uncertain significance / not classified in gnomAD extract,,6.2335589881e-06
+p.Phe436Tyr,9.673077,1.748503,1.445887,-0.407325,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.639392044149301e-07
+p.Phe436Cys,2.163493,0.943919,1.420143,3.218483,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,7.1044702389e-05
+p.Phe436Leu,-0.665325,0.184298,0.758897,1.171523,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.4798665831e-06
+p.Leu437Pro,1.42668,4.41648,6.74419,4.400337,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,6.3705087913e-06
+p.Pro438Leu,0.353108,0.936072,1.95775,1.381553,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=core; AF=core,core,sitio activo,core,core,Uncertain significance / not classified in gnomAD extract,,6.741533644971962e-07
+p.Ala439Pro,1.889397,5.060143,3.046747,-0.081999,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=sitio activo; AF=core,core,sitio activo,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.73383442039867e-07
+p.Ala439Asp,-0.017399,3.162293,4.12323,-0.002723,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=sitio activo; AF=core,core,sitio activo,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.199920145028532e-07
+p.Cys440Gly,0.618477,1.095703,1.887343,1.832057,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,7.6884688344e-06
+p.Cys440Arg,4.235773,-1.095303,-0.085485,2.040663,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.53769376688e-05
+p.Cys440Ser,0.015587,-0.059246,0.419178,0.423057,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,8.240993006693335e-07
+p.Cys440Tyr,6.66356,4.360813,0.567191,9.86633,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,8.240993006693335e-07
+p.Asn441Ser,4.28003,1.646963,0.560789,2.492907,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,3.7020090062e-06
+p.Asn441Lys,3.189213,-0.180377,-0.359201,3.382823,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,1.24209407123e-05
+p.Thr442Ala,0.857502,2.485807,-1.274933,0.452637,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,9.984803129636694e-07
+p.Thr442Lys,-0.819911,1.091905,5.554933,-0.673785,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.201881154591811e-07
+p.Pro443Thr,1.66491,5.419173,1.38541,2.448947,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,3.8854064135e-06
+p.Pro443Ala,1.650373,0.794265,1.57416,2.05596,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,1.2950163884e-06
+p.Pro443Ser,1.915357,2.913993,2.57854,2.551413,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,6.475081942161978e-07
+p.Pro443Leu,0.084591,4.952463,0.00059,1.24183,sitio activo,7UUY=core; 7UUZ=core; 7UV0=sitio activo; AF=core,core,core,sitio activo,core,Uncertain significance / not classified in gnomAD extract,,2.3823080276e-06
+p.Gly444Val,1.83907,-0.001164,-0.313935,15.888767,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.252064341e-06
+p.Val445Ile,9.229097,-0.032218,0.774455,0.938463,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.8893556949e-06
+p.Val445Phe,27.5383,1.085263,0.094104,13.2798,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.252702706e-06
+p.Val445Ala,1.55997,3.221697,1.41713,2.735253,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,5.6365408173e-06
+p.Leu446Ile,-0.649928,1.361877,-0.08233,0.666742,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.26663792368739e-07
+p.Leu446Phe,9.307703,1.82273,-0.385327,1.342183,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,1.8799913771e-06
+p.Ala447Pro,4.224677,13.031967,5.703803,2.854627,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.281533297151701e-07
+p.Ala447Thr,1.983103,9.300773,2.76903,-0.212674,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,8.1665883511e-06
+p.Ala447Gly,3.483443,0.0,0.0,1.26776,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance,,6.281825297413019e-07
+p.Ala447Val,0.847685,11.903167,3.90807,-0.538603,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.5127301189e-06
+p.Leu449Ile,15.264367,2.37261,-0.002306,0.755795,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,5.6595586801e-06
+p.Gly450Arg,13.496333,4.123173,-3.081087,-1.204933,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,5.664944943e-06
+p.Gly450Ser,3.89489,5.267563,0.002907,-0.547028,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2589701624e-06
+p.Ala451Thr,2.247193,16.7186,10.396067,-0.197589,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2625864082e-06
+p.Ala451Val,2.543207,18.944933,9.78567,0.535784,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.311840254897357e-07
+p.Gly452Ser,3.918433,0.595977,3.13939,5.34703,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.26247164173e-05
+p.Gly452Arg,3.60885,8.443107,18.097867,36.887767,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.312358208653738e-07
+p.Gly452Asp,4.715337,7.40695,6.963047,17.8388,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.317941564094886e-07
+p.Gly452Val,1.728117,2.252447,5.1515,13.2091,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.317941564094886e-07
+p.Leu453Ser,5.388623,5.109857,3.27755,2.56009,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.5296602666e-06
+p.Ala454Thr,2.732697,-0.002389,5.062023,-0.048744,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.531024027e-06
+p.Ala454Pro,7.155353,4.15595,8.940237,2.86716,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2655120135e-06
+p.Ala454Glu,4.71318,0.04806,4.8365,-0.034583,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.335898950014826e-07
+p.Ala454Val,1.044365,0.126539,4.378043,0.526207,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.267276142e-06
+p.Ser456Pro,3.178733,7.59225,6.24646,3.909457,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.338742393509127e-07
+p.Trp458Ser,1.902283,1.910803,0.5561,2.375337,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2711535845e-06
+p.Trp458Leu,11.665533,-0.036468,-2.403433,-0.106724,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.355767922947754e-07
+p.Ala460Val,1.525453,3.81,11.0955,0.733704,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,2.92680443856e-05
+p.Gly462Ala,2.650483,0.490151,1.993257,4.8886,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.2748727676e-06
+p.Ala463Thr,2.4381,-1.209268,1.37392,0.642916,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,7.6523486971e-06
+p.Ala463Asp,0.463107,-0.456314,1.911987,1.739433,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.379585326953748e-07
+p.Thr464Ala,0.411618,-0.426011,1.976197,-0.101593,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Uncertain significance / not classified in gnomAD extract,,1.9130066598e-06
+p.Pro467Ala,0.013758,1.757313,2.916323,1.61489,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.98023343758e-05
+p.Pro467Leu,-0.552459,3.520207,2.211163,0.878712,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.387743708391834e-07
+p.Pro468Ala,2.46979,2.08012,-0.6597,1.421767,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.9167663385e-06
+p.Pro468Leu,16.573567,-0.009165,-1.859167,4.044437,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2780614364e-06
+p.Ser469Gly,4.980863,0.741159,2.42374,2.235183,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.391238379130817e-07
+p.Ser469Arg,11.558133,-1.09526,-0.166768,2.17014,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.393976362748182e-07
+p.Ser469Arg,7.64352,-1.030468,-0.14706,2.12959,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.393976362748182e-07
+p.Glu470Lys,1.238703,18.5879,19.225067,1.255967,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,5.1148344264e-06
+p.Glu470Gly,3.370793,0.0,0.0,2.40507,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,4.4750623951e-06
+p.Glu470Asp,2.53217,13.898367,13.624503,0.827887,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2787118768e-06
+p.Thr472Pro,9.80226,3.432083,6.049357,0.417078,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2785189636e-06
+p.Thr472Asn,11.623467,0.013251,1.926627,0.367802,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.4768654778e-06
+p.Met473Val,1.702547,-0.281638,-0.773238,2.636437,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,1.34266979018e-05
+p.Met473Thr,2.994493,-0.139601,-0.617967,3.300727,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,6.71465406102e-05
+p.Met473Ile,0.28606,-0.829811,-1.274113,2.701097,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,2.5577998828e-06
+p.Met473Ile,0.458289,-0.823726,-1.259657,2.530487,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.394499707131913e-07
+p.Arg474Met,-0.262909,19.550133,8.119457,1.894923,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2789948123e-06
+p.Arg474Lys,-0.069017,28.563767,14.054367,0.631561,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,1.40689429363e-05
+p.Val475Ala,0.0,1.88749,2.511207,1.46092,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2794808378e-06
+p.Leu476Val,12.725333,0.254103,0.25632,1.617027,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.2798967891e-06
+p.Ala481Asp,1.699753,3.89188,1.96321,0.400013,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.391311906247124e-07
+p.Ala481Val,0.903635,0.003458,-0.005627,0.334283,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,1.40619467103e-05
+p.Arg482Pro,5.31212,6.437163,6.937683,3.52172,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.9176190841e-06
+p.Arg482His,0.896331,0.355511,21.2565,1.082447,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.27841272276e-05
+p.Val484Met,,,,-0.179344,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.381490614103604e-07
+p.Ala485Thr,,,,0.075033,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.379105113618241e-07
+p.Leu486Val,,,,0.591024,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.5499145778e-06
+p.Val488Leu,,,,-0.209012,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.370359989042981e-07
+p.Ala490Pro,,,,3.549097,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.367309722499908e-07
+p.Ala490Thr,,,,-0.269771,superficie,AF=superficie,,,,superficie,Uncertain significance,,2.1013700933e-05
+p.Ala490Val,,,,-0.014266,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.366215259563328e-07
+p.Leu493Ile,,,,0.105514,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.361582150927264e-07
+p.Leu493Pro,,,,-0.625039,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.3604896559e-06
+p.Leu494Val,,,,2.162667,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.361137015074623e-07
+p.Leu494Arg,,,,0.989537,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2718859779e-06
+p.Asp495His,,,,0.589079,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.5434064096e-06
+p.Asp495Tyr,,,,1.50698,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2716077954e-06
+p.Pro496Thr,,,,1.054033,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.357844944877485e-07
+p.Pro496Gln,,,,0.252289,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,5.0866122907e-06
+p.Pro496Arg,,,,-0.001482,superficie,AF=superficie,,,,superficie,Uncertain significance,,1.2716530726e-06
+p.Pro496Leu,,,,0.451718,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.9074820346e-06
+p.Ala497Thr,,,,-0.097282,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,5.7216675736e-06
+p.Ala497Val,,,,1.186823,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.8142704572e-06
+p.Leu498Phe,,,,-0.221334,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2716061784e-06
+p.Leu498Val,,,,0.602927,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.3580308924005e-07
+p.Pro500Arg,,,,-0.081421,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.362594055046619e-07
+p.Pro500Leu,,,,0.694491,superficie,AF=superficie,,,,superficie,Uncertain significance,,6.9983280358e-06
+p.Ala501Val,,,,0.020123,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.36437578838705e-07
+p.Asn502Asp,,,,-0.400154,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.3660450435e-06
+p.Asn502Lys,,,,0.033828,superficie,AF=superficie,,,,superficie,Uncertain significance,,1.9106381786e-06
+p.Asp503Asn,,,,0.058193,superficie,AF=superficie,,,,superficie,Benign/Likely benign,,0.0030884571859675
+p.Ser504Pro,,,,0.561425,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.375688733775466e-07
+p.Ser505Gly,,,,1.178773,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.9139683965e-06
+p.Ser505Ile,,,,1.298773,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.5529742149e-06
+p.Arg506Thr,,,,0.793928,superficie,AF=superficie,,,,superficie,Uncertain significance,,0.0001642445390288
+p.Ala507Val,,,,0.466498,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.400327696778075e-07
+p.Ala507Asp,,,,-0.022197,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2800655393e-06
+p.Pro508Thr,,,,0.611554,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.401073331976306e-07
+p.Pro508Arg,,,,0.409831,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.8404915829e-06
+p.Pro508Leu,,,,0.569722,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.840786593e-06
+p.Ser509Gly,,,,1.541323,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.9219557822e-06
+p.Ser510Leu,,,,1.540137,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.4785543088e-06
+p.Gly511Glu,,,,-2.112967,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196209159236379e-07
+p.Met512Ile,,,,0.593703,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196308982665206e-07
+p.Ala514Thr,,,,0.366187,superficie,AF=superficie,,,,superficie,Likely Benign,,8.675133597e-06
+p.Ala514Ser,,,,-0.074284,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.19652399789814e-07
+p.Ala514Val,,,,0.459946,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8588512299e-06
+p.Ser515Asn,1.516593,,1.972617,-0.015535,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.196147731032662e-07
+p.Ser515Thr,1.44331,,1.72013,0.221943,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.196147731e-06
+p.Arg516Leu,-0.627077,,0.387309,1.716537,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.8589802378e-06
+p.Arg516Gln,-0.338299,,4.664227,2.581243,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Uncertain significance / not classified in gnomAD extract,,4.15172253108e-05
+p.Pro517Thr,18.316833,0.346658,2.24763,1.216693,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.196247552482217e-07
+p.Ala518Ser,0.099311,11.6099,0.854796,-0.093108,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,3.7180249851e-06
+p.Ala518Thr,2.248713,17.8563,-0.031092,-0.02831,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,1.92097957564e-05
+p.Ala518Val,2.875093,22.128933,0.000279,0.159356,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,3.46987282916e-05
+p.Leu519Ile,0.549958,2.870277,16.033767,1.287179,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance / not classified in gnomAD extract,,8.6740156231e-06
+p.Ala520Gly,1.411677,0.410021,-0.167268,2.028293,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Uncertain significance / not classified in gnomAD extract,,6.195748477394811e-07
+p.Asp521Gly,3.67444,1.726653,0.850335,2.058407,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,2.478560452e-06
+p.Asp521Ala,1.572387,0.640431,0.468777,1.8916,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,superficie,superficie,core,superficie,Uncertain significance / not classified in gnomAD extract,,6.195948097781974e-07
+p.Ser522Gly,1.089377,2.24685,1.510103,0.177573,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance,,1.36316263645e-05
+p.Ser522Ile,1.019277,1.44046,-0.146307,1.090277,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.195840608282848e-07
+p.Phe523Ile,0.69529,1.022983,2.015493,0.974846,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2392234034e-06
+p.Tyr524His,-0.147547,7.532033,0.234608,3.055597,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391205218e-06
+p.Tyr524Cys,0.137361,2.783963,0.679771,3.480507,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.8587567891e-06
+p.Ala525Val,0.559467,1.22901,2.10471,2.937777,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Uncertain significance / not classified in gnomAD extract,,6.196332019297856e-07
+p.Ile526Val,0.657065,1.105223,-0.040183,0.618447,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195802220079852e-07
+p.Ser527Cys,0.25118,0.470748,1.204307,-0.559143,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195548869869931e-07
+p.Tyr528His,2.597883,0.358208,0.255866,3.92639,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,4.3369486963e-06
+p.Leu529Phe,4.328157,1.805398,-0.641834,1.800598,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,3.0978780774e-06
+p.Leu529Arg,3.63812,0.486324,-1.502597,6.75121,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2391972975e-06
+p.Tyr530His,0.636979,3.793593,1.331243,1.517253,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.195925064003906e-07
+p.Tyr530Cys,1.133323,3.618587,1.316003,1.360637,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,1.2392141894e-06
+p.Gly532Cys,1.541977,0.962463,0.844623,-0.545476,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196739028053877e-07
+p.Gly532Ser,1.35346,1.643457,1.882197,1.069387,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.92112481238e-05
+p.Ala533Thr,0.003706,1.815977,3.610823,-0.632724,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance,,8.0555111469e-06
+p.Ala533Asp,-1.475083,1.37007,2.033147,0.957172,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196086304046912e-07
+p.Leu534Pro,-1.01624,-0.589484,-0.00027,6.42294,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196063269241255e-07
+p.Gly535Ser,0.965906,1e-06,0.303103,2.747793,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196201480644306e-07
+p.Gly535Asp,0.456135,1.040661,2.210413,14.615,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196278267421456e-07
+p.Thr536Met,0.03523,-0.468878,0.365415,-2.867877,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,5.39108945862e-05
+p.Leu537Val,4.894963,0.245046,0.456778,0.869261,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,2.478456021e-06
+p.Leu537Pro,7.859757,5.2561,0.590168,4.39775,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,1.2392019044e-06
+p.Thr538Ser,5.94516,-0.215906,-0.134383,0.678133,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Uncertain significance / not classified in gnomAD extract,,6.196285946203845e-07
+p.Leu541Pro,,,,4.44527,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.196170766466323e-07
+p.Gly543Arg,,,,20.330333,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.0535200584e-05
+p.Ala544Asp,,,,0.568924,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.1967083085465e-07
+p.Leu545Phe,,,,0.018303,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.19652399789814e-07
+p.Ile546Leu,,,,0.274147,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.7182093103e-06
+p.Ser547Gly,,,,1.85495,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.196600792669173e-07
+p.Ser547Ile,,,,3.444843,core,AF=core,,,,core,Uncertain significance,,2.4787877736e-06
+p.Cys548Tyr,,,,-1.61866,core,AF=core,,,,core,Uncertain significance,,8.6760690466e-06
+p.Thr550Arg,,,,-0.973117,core,AF=core,,,,core,Uncertain significance,,2.66471997511e-05
+p.Gly551Arg,,,,1.356793,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.197038559213323e-07
+p.Gly551Cys,,,,2.240733,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.197038559213323e-07
+p.Gly551Asp,,,,2.054843,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,4.9668092968e-06
+p.Pro552Ser,,,,1.831553,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,4.3441618808e-06
+p.Pro552Leu,,,,0.234355,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.203658669737064e-07
+p.Thr553Asn,,,,-0.206307,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.200066216707194e-07
+p.Lys554Arg,,,,-0.204038,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.0992836935e-06
+p.Lys554Asn,,,,0.375911,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.0990454939e-06
+p.Arg555Cys,,,,1.287767,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.30172658534e-05
+p.Arg555Leu,,,,-0.092508,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.9213486628e-05
+p.Arg555His,,,,1.68239,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,2.66529145891e-05
+p.Arg555Pro,,,,-0.448575,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.197898912268741e-07
+p.Ser556Asn,,,,0.104512,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2394845231e-06
+p.Thr557Ile,,,,-0.458502,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.4784130225e-06
+p.Ala559Asp,,,,0.163586,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,5.5769683599e-06
+p.Pro560Ala,,,,0.599703,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.09790111e-06
+p.Pro560Leu,,,,0.065995,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.8160919255e-06
+p.Gly561Glu,,,,3.298393,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,5.5758212565e-06
+p.Trp564Arg,,,,0.985459,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8586301152e-06
+p.Trp564Ser,,,,2.715307,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8586162973e-06
+p.Asp566Glu,-0.344012,,,-0.134298,core,7UUY=superficie; AF=core,superficie,,,core,Uncertain significance / not classified in gnomAD extract,,6.195502808421423e-07
+p.Leu567Ile,,,,1.05369,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,5.5759179819e-06
+p.Ala568Pro,,,,1.382007,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.195633317637729e-07
+p.Ala568Thr,,,,0.852389,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.5489102487e-05
+p.Arg569Trp,,,,0.344543,core,AF=core,,,,core,Uncertain significance,,0.0001201911162656
+p.Arg569Gln,,,,0.433424,core,AF=core,,,,core,Uncertain significance,,2.04464767003e-05
+p.Gln570His,,,,0.492609,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8585656333e-06
+p.Thr571Ile,,,,1.42067,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,3.7171589011e-06
+p.Ala572Val,,,,0.671724,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.195395334371682e-07
+p.Pro576Ser,,,,0.542348,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.195902030397095e-07
+p.Lys577Glu,,,,0.313714,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.19653935670007e-07
+p.Lys577Arg,,,,-0.189031,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8591000468e-06
+p.Ala581Asp,,,,0.758289,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8608667172e-06
+p.Asp584Tyr,,,,-0.250221,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,7.4454804692e-06
+p.Asp584Ala,,,,-0.121563,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2409827093e-06
+p.Asp585Gly,,,,0.303746,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.209938136596284e-07
+p.Asp585Glu,,,,-0.273771,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2423872719e-06
+p.Asn586Ser,,,,0.16596,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,7.4521201281e-06
+p.Leu587Phe,,,,-0.114555,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2455813003e-06
+p.Val588Ile,,,,0.041467,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.242680457163975e-07
+p.Val588Asp,,,,0.287978,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.240880513349868e-07
+p.Lys589Glu,,,,1.13503,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.240047124835887e-07
+p.Lys589Asn,,,,-0.677388,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2492379648e-06
+p.Gly590Arg,,,,-0.220095,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.2394138563e-06
+p.Gly590Ser,,,,0.331187,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,1.8591207845e-06
+p.Glu592Val,,,,-0.122129,core,AF=core,,,,core,Uncertain significance,,6.196332019297856e-07
+p.Leu594Phe,,,,-0.119258,core,AF=core,,,,core,Conflicting classifications of pathogenicity,,0.000224917654115
+p.Leu594Pro,,,,-1.022037,core,AF=core,,,,core,Uncertain significance / not classified in gnomAD extract,,6.196401130223566e-07
+p.Pro595Arg,,,,-2.507463,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196055591010762e-07
+p.Thr596Ala,,,,0.108914,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196032556433464e-07
+p.Gly597Arg,,,,0.614837,superficie,AF=superficie,,,,superficie,Uncertain significance,,2.41635687732e-05
+p.Asn598Lys,,,,-0.217823,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195571900851023e-07
+p.Lys599Glu,,,,0.263885,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195664026487703e-07
+p.Lys599Gln,,,,-0.077819,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195664026487703e-07
+p.Lys600Asn,,,,0.082426,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.7175273981e-06
+p.Pro601Thr,,,,1.639713,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196070947490777e-07
+p.Pro601Ser,,,,1.532,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196070947490777e-07
+p.Pro602Ser,,,,-1.7794,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8589111242e-06
+p.Pro602Thr,,,,-1.649327,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2391834772e-06
+p.Phe604Leu,,,,0.791713,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.195809897682395e-07
+p.Leu605Val,,,,1.26263,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,4.337443164e-06
+p.Pro606Thr,,,,0.667318,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196516318525725e-07
+p.Pro606Leu,,,,0.133104,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,4.3376098034e-06
+p.Thr607Ala,,,,0.936669,superficie,AF=superficie,,,,superficie,Uncertain significance,,1.79708327188e-05
+p.Thr607Ile,,,,1.482063,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196147731032662e-07
+p.Asn608Ser,,,,0.110525,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,0.0001747502063539
+p.Asn608Lys,,,,1.132973,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.196447205030524e-07
+p.Glu609Lys,,,,-2.23119,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2392879051e-06
+p.Arg611Ser,,,,1.706037,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.97460062888e-05
+p.Arg611Cys,,,,0.862385,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.1975378421e-06
+p.Arg611His,,,,0.732603,superficie,AF=superficie,,,,superficie,Likely benign,,9.2964450394e-06
+p.Phe614Ser,,,,0.453585,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.198828669334643e-07
+p.Phe614Leu,,,,0.567294,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.199858643222935e-07
+p.Leu615Phe,,,,0.310574,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.200765918606267e-07
+p.Gln617Arg,,,,-0.236342,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.202958314879533e-07
+p.Lys618Met,,,,0.91922,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.206777552816573e-07
+p.Lys618Arg,,,,0.127502,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,7.4481330633e-06
+p.Leu620Val,,,,0.079914,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,2.4871662222e-06
+p.Leu620Pro,,,,1.339387,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.243505791e-06
+p.Glu621Lys,,,,0.332158,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.216632226524132e-07
+p.Glu621Gln,,,,0.116457,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2434176577e-06
+p.Glu621Asp,,,,0.030305,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8653839457e-06
+p.Gly622Arg,,,,1.416027,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2438429772e-06
+p.Gly622Glu,,,,1.74957,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.22080111476756e-07
+p.Gly622Val,,,,3.208557,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.22080111476756e-07
+p.Ala623Pro,,,,2.074793,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.230576178762707e-07
+p.Ala623Thr,,,,-1.085207,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.230583942788286e-07
+p.Ala623Ser,,,,-1.07659,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2462068578e-06
+p.Gly624Cys,,,,0.117499,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.233465732145485e-07
+p.Ser625Cys,,,,0.46862,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.243467771843709e-07
+p.Trp626Leu,,,,0.325975,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.245425226021939e-07
+p.Thr627Asn,,,,0.372807,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.253282973561119e-07
+p.Pro628Leu,,,,0.656847,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,4.3820441359e-06
+p.Pro628His,,,,0.920018,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.259600662516134e-07
+p.Cys629Arg,,,,-0.563654,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.263387991832542e-07
+p.Cys629Tyr,,,,0.023804,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.265255898111902e-07
+p.Gly631Val,,,,4.224313,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.2557954962e-06
+p.Gly634Ser,,,,3.31401,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.8943914646e-06
+p.Gly635Cys,,,,2.958813,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.322799128465368e-07
+p.Arg636Gln,,,,0.223792,superficie,AF=superficie,,,,superficie,Uncertain significance,,2.98207077532e-05
+p.Arg636Pro,,,,2.054317,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,1.903449431e-06
+p.Arg636Leu,,,,0.382372,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.344831436863216e-07
+p.Gln638Lys,,,,0.224349,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.365793789022316e-07
+p.Gln639Lys,,,,-0.337024,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.368745255284785e-07
+p.Glu640Ala,,,,0.134409,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.378039135648136e-07
+p.Thr641Ile,,,,0.006487,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,6.386177247072258e-07
+p.Leu643Val,,,,0.016088,superficie,AF=superficie,,,,superficie,Uncertain significance / not classified in gnomAD extract,,3.1985752266e-06
+p.Leu54Pro,,1.074237,,4.59742,core,7UUZ=superficie; AF=core,,superficie,,core,Uncertain significance,,
+p.Gly93Arg,5.006217,4.543643,4.03453,21.470467,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Pathogenic,Pathogenic/functional defect,
+p.Tyr137*,1.205753,0.925617,0.085924,1.69306,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely Pathogenic,,
+p.Asp191Gly,1.212703,1.21912,2.229473,3.652663,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely Pathogenic,,
+p.Thr221=,0.300689,1.08859,0.317309,-0.130737,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Conflicting classifications of pathogenicity,,
+p.Gly250Val,0.972716,5.38938,1.09695,13.016493,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Likely Pathogenic,,
+p.Gln263Leu,1.926093,0.107306,2.431353,0.672843,core,7UUY=superficie; 7UUZ=core; 7UV0=superficie; AF=core,superficie,core,superficie,core,Likely Pathogenic,Pathogenic/functional defect,
+p.Gln265Arg,0.0,6.23098,0.046491,3.677757,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Likely pathogenic,,
+p.Val270Glu,3.39465,1.063695,1.97163,2.00697,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Likely Pathogenic,,
+p.Cys272*,0.93858,1.134143,0.465017,-0.013255,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Pathogenic,Pathogenic truncating,
+p.Cys310=,0.242475,-0.299682,0.43176,2.014327,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Uncertain significance,,
+p.Asp331Asn,2.240543,-0.18552,3.441013,3.485783,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,superficie,superficie,superficie,superficie,Likely Pathogenic,Likely pathogenic/functional defect,
+p.Tyr348Asp,5.763523,6.256127,-0.044452,5.08241,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=core,superficie,core,core,core,Likely Pathogenic,,
+p.Gly350Asp,5.92533,6.054273,3.34388,11.921133,core,7UUY=core; 7UUZ=core; 7UV0=superficie; AF=core,core,core,superficie,core,Likely Pathogenic,Pathogenic/functional defect,
+p.Ser356Phe,0.305726,-0.535422,1.93311,4.18244,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Pathogenic,Likely pathogenic/functional defect,
+p.Asp369Val,3.38952,-0.609633,1.946017,2.433813,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=superficie,core,core,core,superficie,Likely Pathogenic,,
+p.Lys388*,0.0,0.57782,0.82893,1.34003,core,7UUY=superficie; 7UUZ=core; 7UV0=core; AF=superficie,superficie,core,core,superficie,Likely Pathogenic,,
+p.Leu408=,0.134467,0.668333,0.261062,1.24006,core,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=core,superficie,superficie,superficie,core,Conflicting classifications of pathogenicity,,
+p.Gly421Arg,-0.67221,0.654763,-1.55792,9.122487,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,core,core,core,core,Pathogenic,Pathogenic/functional defect,
+p.Arg516*,0.084642,,0.56127,2.41357,core,7UUY=core; 7UV0=core; AF=superficie,core,,core,superficie,Pathogenic/Likely pathogenic,,
+p.Cys542=,,,,-0.440107,core,AF=core,,,,core,Benign/Likely benign,,
+p.Gly543Glu,,,,13.645633,core,AF=core,,,,core,Pathogenic,Pathogenic/functional defect,
+p.Ser547Arg,,,,4.861317,core,AF=core,,,,core,Likely Pathogenic,Likely pathogenic/functional defect,
+p.Leu562Met,,,,0.641403,core,AF=core,,,,core,Likely Pathogenic,,
+p.Arg636*,,,,-0.769917,superficie,AF=superficie,,,,superficie,Likely Pathogenic,,

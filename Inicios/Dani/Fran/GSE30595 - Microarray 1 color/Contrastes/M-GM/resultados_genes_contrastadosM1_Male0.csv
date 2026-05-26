@@ -1,0 +1,405 @@
+Pathway,Gene
+Glycogen metabolism,NUP50
+Glycogen metabolism,NUP98
+Glycogen metabolism,NUP62
+Glycogen metabolism,PFKP
+Fructose biosynthesis,SLC2A1
+Lactose synthesis,SLC2A1
+PPP,G6PD
+PPP,PGD
+Glycosaminoglycan metabolism,ST3GAL4
+Glycosaminoglycan metabolism,FMOD
+Glycosaminoglycan metabolism,AGRN
+Glycosaminoglycan metabolism,CHPF
+Glycosaminoglycan metabolism,GPC4
+Glycosaminoglycan metabolism,B4GALT6
+Glycosaminoglycan metabolism,HS3ST3B1
+Glycosaminoglycan metabolism,ST3GAL1
+Glycosaminoglycan metabolism,SDC4
+Glycosaminoglycan metabolism,XYLT2
+Inositol phosphate metabolism,IMPA1
+Inositol phosphate metabolism,IPPK
+Inositol phosphate metabolism,PTEN
+Inositol phosphate metabolism,INPP5B
+Fatty AcylCoA biosynthesis,SLC27A3
+Arachdonic Acid metabolism,CYP1B1
+Arachdonic Acid metabolism,GPX4
+Arachdonic Acid metabolism,PTGS2
+Arachdonic Acid metabolism,ABCC1
+O3 O6 metabolism,ABCD1
+Carnitine metabolism,SLC25A20
+Carnitine metabolism,PRKAG2
+B oxidation,ECI1
+B oxidation,ACOT9
+Peroxisomal lipid metabolism,ABCD1
+Peroxisomal lipid metabolism,ACOX3
+Triglyceride biosynthesis,GK
+Triglyceride biosynthesis,GK3P
+Phospholipid metabolism,PLAAT2
+Phospholipid metabolism,PIP5K1A
+Phospholipid metabolism,ARF3
+Phospholipid metabolism,CDS1
+Phospholipid metabolism,CDS2
+Phospholipid metabolism,PTEN
+Phospholipid metabolism,PLEKHA6
+Phospholipid metabolism,PLA1A
+Phospholipid metabolism,PLA2G4C
+Phospholipid metabolism,AGK
+Phospholipid metabolism,PI4K2B
+Sphingolipid metabolism,PLPP1
+Sphingolipid metabolism,UGCG
+Sphingolipid metabolism,B4GALNT1
+Sphingolipid metabolism,SPHK1
+Sphingolipid metabolism,FA2H
+Sphingolipid metabolism,PRKD2
+Sphingolipid metabolism,SPTLC1
+Sphingolipid metabolism,SGPP2
+Steroids metabolism,TBL1X
+Steroids metabolism,INSIG2
+Steroids metabolism,SEC24A
+Steroids metabolism,NCOA2
+Steroids metabolism,STARD4
+Steroids metabolism,KPNB1
+Steroids metabolism,CREBBP
+Steroids metabolism,MED1
+Steroids metabolism,HMGCS1
+Steroids metabolism,NCOA6
+Steroids metabolism,CYP7B1
+Steroids metabolism,SAR1B
+Steroids metabolism,VDR
+Steroids metabolism,SRD5A1
+Nitric oxide metabolism,SPR
+Nucleotides metabolism,UPP1
+Nucleotides metabolism,AK8
+Nucleotides metabolism,AMPD3
+Nucleotides metabolism,ADAL
+Nucleotides metabolism,GART
+Ascorbate metabolism,CYB5R3
+Ascorbate metabolism,SLC2A1
+Riboflavin metabolism,SLC52A1
+Panthotenate metabolism,PPCDC
+Cobalamin metabolism,TCN2
+Cobalamin metabolism,AMN
+Cobalamin metabolism,ABCC1
+Nicotinate metabolism,PARP6
+Nicotinate metabolism,PARP14
+Nicotinate metabolism,PTGS2
+Nicotinate metabolism,CD38
+Nicotinate metabolism,NAMPT
+Nicotinate metabolism,NMRK1
+Folate metabolism,MTHFS
+Folate metabolism,SHMT2
+Retinoid metabolism,AGRN
+Retinoid metabolism,LRP8
+Retinoid metabolism,GPC4
+Retinoid metabolism,LRP10
+Retinoid metabolism,SDC4
+CoFactors metabolism,SPR
+CoFactors metabolism,GCH1
+Branched chain aa catabolism,PPM1K
+Proline catabolism,PRODH
+Tryptophan catabolism,KYNU
+Tryptophan catabolism,SLC7A5
+Tryptophan catabolism,IDO1
+Sulfur aa metabolism,CTH
+Selenoamino acid metabolism,RPS27L
+Selenoamino acid metabolism,SARS1
+Selenoamino acid metabolism,CTH
+Selenoamino acid metabolism,RPS19
+Urea cycle,NAGS
+Polyamines metabolism,PSMA2
+Polyamines metabolism,PSMB8
+Polyamines metabolism,SAT1
+Polyamines metabolism,PSMB10
+Polyamines metabolism,PSMA3
+Polyamines metabolism,PSME2
+Polyamines metabolism,PSMA6
+Polyamines metabolism,PSMA4
+Polyamines metabolism,PSME1
+Polyamines metabolism,PSMB9
+tRNA Aminoacylation,WARS1
+tRNA Aminoacylation,HARS1
+tRNA Aminoacylation,SARS1
+tRNA Aminoacylation,PPA1
+tRNA Aminoacylation,TARS1
+Eukaryotic Translation Initiation,RPS27L
+Eukaryotic Translation Initiation,RPS19
+SRP-dependent co translational protein targeting to membrane,RPS27L
+SRP-dependent co translational protein targeting to membrane,SEC61B
+SRP-dependent co translational protein targeting to membrane,SEC61A2
+SRP-dependent co translational protein targeting to membrane,RPS19
+Eukaryotic Translation Elongation,EEF1A1
+Eukaryotic Translation Elongation,RPS27L
+Eukaryotic Translation Elongation,EEF1A2
+Eukaryotic Translation Elongation,RPS19
+Eukaryotic Translation Termination,RPS27L
+Eukaryotic Translation Termination,RPS19
+Mitochondrial translation,MRPL51
+Mitochondrial translation,MRPL32
+Mitochondrial translation,MRPL49
+Mitochondrial translation,MTRF1L
+protein folding,STAT3
+protein folding,USP11
+protein folding,SPHK1
+protein folding,GNG5
+protein folding,FBXW4
+protein folding,RGS11
+protein folding,GNG11
+Gamma carboxylation hypusine formation and arylsulfatase activation,DPH3
+Post-translational modification: synthesis of GPI-anchored proteins,LY6E
+Post-translational modification: synthesis of GPI-anchored proteins,NRN1
+Post-translational modification: synthesis of GPI-anchored proteins,ALPG
+Post-translational modification: synthesis of GPI-anchored proteins,TECTA
+Asparagine N-linked glycosylation,ST3GAL4
+Asparagine N-linked glycosylation,UBC
+Asparagine N-linked glycosylation,LMAN1
+Asparagine N-linked glycosylation,PMM1
+Asparagine N-linked glycosylation,ARF3
+Asparagine N-linked glycosylation,COPB1
+Asparagine N-linked glycosylation,ST3GAL1
+Asparagine N-linked glycosylation,B4GALT6
+Asparagine N-linked glycosylation,ST6GALNAC2
+Asparagine N-linked glycosylation,BET1L
+Asparagine N-linked glycosylation,SEC22C
+Asparagine N-linked glycosylation,LMAN2L
+Asparagine N-linked glycosylation,STX17
+Asparagine N-linked glycosylation,SEC24A
+Asparagine N-linked glycosylation,ANKRD28
+Asparagine N-linked glycosylation,SAR1B
+Asparagine N-linked glycosylation,ST8SIA4
+O-linked glycosylation,ST3GAL4
+O-linked glycosylation,GALNT10
+O-linked glycosylation,POFUT2
+O-linked glycosylation,GALNT4
+O-linked glycosylation,ADAMTSL4
+O-linked glycosylation,DAG1
+O-linked glycosylation,B4GALT6
+O-linked glycosylation,ST6GALNAC2
+O-linked glycosylation,ST3GAL1
+SUMOylation,NUP98
+SUMOylation,BLM
+SUMOylation,NCOA2
+SUMOylation,IKBKE
+SUMOylation,PHC3
+SUMOylation,VDR
+SUMOylation,NUP50
+SUMOylation,NUP62
+SUMOylation,NFKB2
+SUMOylation,CREBBP
+SUMOylation,RELA
+SUMOylation,NFKBIA
+SUMOylation,EID3
+SUMOylation,SENP1
+SUMOylation,ZNF350
+SUMOylation,TP53BP1
+SUMOylation,MDM2
+SUMOylation,BMI1
+SUMOylation,IKBKG
+SUMOylation,SENP5
+Deubiquitination,H2BC15
+Deubiquitination,TNFAIP3
+Deubiquitination,PSMB8
+Deubiquitination,ATXN7
+Deubiquitination,MAT2B
+Deubiquitination,PSMB10
+Deubiquitination,PSMA3
+Deubiquitination,CCNA1
+Deubiquitination,PSMA6
+Deubiquitination,H2BC3
+Deubiquitination,OTUD7B
+Deubiquitination,PSME1
+Deubiquitination,YY1
+Deubiquitination,UBC
+Deubiquitination,PSMA2
+Deubiquitination,USP12
+Deubiquitination,RIPK2
+Deubiquitination,CLSPN
+Deubiquitination,PSMA4
+Deubiquitination,NFKBIA
+Deubiquitination,USP42
+Deubiquitination,H2BC11
+Deubiquitination,USP11
+Deubiquitination,JOSD1
+Deubiquitination,PSME2
+Deubiquitination,MDM2
+Deubiquitination,PSMB9
+Deubiquitination,IKBKG
+Deubiquitination,H2AC18
+Deubiquitination,TRAF6
+Deubiquitination,SMAD7
+Deubiquitination,PTEN
+Deubiquitination,BIRC3
+Deubiquitination,TRAF3
+Deubiquitination,H2BC21
+Protein ubiquitination,UBC
+Protein ubiquitination,H2BC15
+Protein ubiquitination,H2BC11
+Protein ubiquitination,PEX13
+Protein ubiquitination,UBE2A
+Protein ubiquitination,UBE2Z
+Protein ubiquitination,HLA-A
+Protein ubiquitination,H2BC3
+Protein ubiquitination,SELENOS
+RAB geranylgeranylation,RAB29
+RAB geranylgeranylation,RAB12
+RAB geranylgeranylation,RAB43
+RAB geranylgeranylation,RAB23
+RAB geranylgeranylation,RAB30
+Protein methylation,EEF1A1
+Neddylation,PSMB8
+Neddylation,PSMB10
+Neddylation,PSMA3
+Neddylation,KBTBD8
+Neddylation,PSMA6
+Neddylation,FBXO32
+Neddylation,SOCS3
+Neddylation,PSME1
+Neddylation,FBXW4
+Neddylation,SOCS2
+Neddylation,UBC
+Neddylation,PSMA2
+Neddylation,UBE2F
+Neddylation,PSMA4
+Neddylation,PSME2
+Neddylation,PSMB9
+Neddylation,KLHL3
+Neddylation,SPSB1
+Neddylation,CUL1
+Post-translational protein phosphorylation,CP
+Post-translational protein phosphorylation,IL6
+Post-translational protein phosphorylation,APOL1
+Post-translational protein phosphorylation,CKAP4
+Post-translational protein phosphorylation,C4A
+Peptide hormone metabolism,CTNNB1
+Peptide hormone metabolism,INHBA
+Peptide hormone metabolism,CES1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),CP
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),IL6
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),APOL1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),CKAP4
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),C4A
+Unfolded Protein Response (UPR),XBP1
+Unfolded Protein Response (UPR),ATF3
+Unfolded Protein Response (UPR),CXCL8
+Unfolded Protein Response (UPR),CREBRF
+Protein repair,MSRB1
+Surfactant metabolism,GATA6
+Surfactant metabolism,ADORA2A
+Surfactant metabolism,CKAP4
+Amyloid fiber formation,UBC
+Amyloid fiber formation,H2BC15
+Amyloid fiber formation,H2BC11
+Amyloid fiber formation,UBE2L6
+Amyloid fiber formation,H2BC3
+Amyloid fiber formation,B2M
+Amyloid fiber formation,H2BC21
+Amyloid fiber formation,H2AC18
+mRNA Capping,CDK7
+mRNA Capping,MNAT1
+Processing of Capped Intron-Containing Pre-mRNA,NUP50
+Processing of Capped Intron-Containing Pre-mRNA,CSTF3
+Processing of Capped Intron-Containing Pre-mRNA,NUP98
+Processing of Capped Intron-Containing Pre-mRNA,NUP62
+Processing of Capped Intron-Containing Pre-mRNA,WDR33
+Processing of Capped Intron-Containing Pre-mRNA,BCAS2
+Processing of Capped Intron-Containing Pre-mRNA,SMNDC1
+Processing of Capped Intron-Containing Pre-mRNA,PRPF3
+Processing of Capped Intron-Containing Pre-mRNA,GPKOW
+Processing of Capped Intron-Containing Pre-mRNA,SARNP
+Processing of Capped Intronless Pre-mRNA,CSTF3
+Processing of Capped Intronless Pre-mRNA,WDR33
+mRNA Editing,ADARB1
+Regulation of mRNA stability by proteins that bind AU-rich elements,UBC
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMA2
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMB8
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMB10
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMA3
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSME2
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMA6
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMA4
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSME1
+Regulation of mRNA stability by proteins that bind AU-rich elements,PSMB9
+Deadenylation-dependent mRNA decay,DDX6
+Deadenylation-dependent mRNA decay,PATL1
+Nonsense-Mediated Decay (NMD),RPS27L
+Nonsense-Mediated Decay (NMD),PPP2R2A
+Nonsense-Mediated Decay (NMD),RPS19
+rRNA processing in the nucleus and cytosol,RPS27L
+rRNA processing in the nucleus and cytosol,DDX52
+rRNA processing in the nucleus and cytosol,RPS19
+rRNA processing in the nucleus and cytosol,KRR1
+tRNA processing in the nucleus,NUP50
+tRNA processing in the nucleus,NUP98
+tRNA processing in the nucleus,NUP62
+tRNA processing in the nucleus,RTCB
+tRNA modification in the nucleus and cytosol,TYW5
+Metabolism of non-coding RNA,NUP50
+Metabolism of non-coding RNA,NUP98
+Metabolism of non-coding RNA,NUP62
+PRC2 methylates histones and DNA,H2BC15
+PRC2 methylates histones and DNA,H2BC11
+PRC2 methylates histones and DNA,H2BC3
+PRC2 methylates histones and DNA,H2BC21
+PRC2 methylates histones and DNA,H2AC18
+Positive epigenetic regulation of rRNA expression,H2BC15
+Positive epigenetic regulation of rRNA expression,H2BC11
+Positive epigenetic regulation of rRNA expression,H2BC3
+Positive epigenetic regulation of rRNA expression,H2BC21
+Positive epigenetic regulation of rRNA expression,H2AC18
+Negative epigenetic regulation of rRNA expression,ARID4B
+Negative epigenetic regulation of rRNA expression,H2BC15
+Negative epigenetic regulation of rRNA expression,H2BC11
+Negative epigenetic regulation of rRNA expression,MNAT1
+Negative epigenetic regulation of rRNA expression,H2BC3
+Negative epigenetic regulation of rRNA expression,CDK7
+Negative epigenetic regulation of rRNA expression,H2BC21
+Negative epigenetic regulation of rRNA expression,H2AC18
+DNA methylation,H2BC15
+DNA methylation,H2BC11
+DNA methylation,H2BC3
+DNA methylation,H2BC21
+DNA methylation,H2AC18
+HATs acetylate histones,H2BC15
+HATs acetylate histones,H2BC11
+HATs acetylate histones,ZZZ3
+HATs acetylate histones,NCOA2
+HATs acetylate histones,ATXN7
+HATs acetylate histones,CREBBP
+HATs acetylate histones,JADE3
+HATs acetylate histones,H2BC3
+HATs acetylate histones,H2BC21
+HATs acetylate histones,H2AC18
+HDACs deacetylate histones,TBL1X
+HDACs deacetylate histones,ARID4B
+HDACs deacetylate histones,H2BC15
+HDACs deacetylate histones,H2BC11
+HDACs deacetylate histones,H2BC3
+HDACs deacetylate histones,H2BC21
+HDACs deacetylate histones,H2AC18
+HDMs demethylate histones,KDM6B
+HDMs demethylate histones,PHF8
+HDMs demethylate histones,KDM2A
+HDMs demethylate histones,ARID5B
+PKMTs methylate histone lysine,RELA
+PKMTs methylate histone lysine,DOT1L
+PKMTs methylate histone lysine,NFKB2
+PKMTs methylate histone lysine,NFKB1
+RMTs methylate histone arginine,JAK2
+RMTs methylate histone arginine,H2AC18
+Cellular response to hypoxia,UBC
+Cellular response to hypoxia,PSMA2
+Cellular response to hypoxia,PSMB8
+Cellular response to hypoxia,CREBBP
+Cellular response to hypoxia,PSMB10
+Cellular response to hypoxia,PSMA3
+Cellular response to hypoxia,PSME2
+Cellular response to hypoxia,PSMA6
+Cellular response to hypoxia,PSMA4
+Cellular response to hypoxia,PSME1
+Cellular response to hypoxia,PSMB9
+Cellular response to hypoxia,VEGFA
+Detoxification of Reactive Oxygen Species,SOD2
+UPR,XBP1
+UPR,ATF3
+UPR,CXCL8
+UPR,CREBRF

@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	LGI3	leucine-rich repeat LGI family, member 3	169	1.1282274723052979	0.242391	Yes	
+row_1	LGI2	leucine-rich repeat LGI family, member 2	1301	0.5725747346878052	0.30099112	Yes	
+row_2	LGI1	leucine-rich, glioma inactivated 1	1983	0.4862860143184662	0.36798775	Yes	
+row_3	LGI4	leucine-rich repeat LGI family, member 4	2292	0.44175219535827637	0.44799197	Yes	
+row_4	ADAM11	ADAM metallopeptidase domain 11	2867	0.35710370540618896	0.49263623	Yes	
+row_5	ADAM22	ADAM metallopeptidase domain 22	2978	0.3453952670097351	0.5632513	Yes	
+row_6	DLG4	discs, large homolog 4 (Drosophila)	3556	0.28292712569236755	0.5910897	Yes	
+row_7	STX1A	syntaxin 1A (brain)	5634	0.10362444072961807	0.48631263	No	
+row_8	CACNG2	calcium channel, voltage-dependent, gamma subunit 2	6991	0.011515915393829346	0.40532863	No	
+row_9	ADAM23	ADAM metallopeptidase domain 23	9798	-0.016256585717201233	0.2360496	No	
+row_10	CACNG3	calcium channel, voltage-dependent, gamma subunit 3	9853	-0.019125694409012794	0.23700738	No	
+row_11	CACNG4	calcium channel, voltage-dependent, gamma subunit 4	11672	-0.16136647760868073	0.16112982	No	
+row_12	CACNG8	calcium channel, voltage-dependent, gamma subunit 8	14683	-0.5366683006286621	0.09588957	No	

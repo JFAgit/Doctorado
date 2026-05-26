@@ -1,0 +1,164 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKCQ	protein kinase C, theta	145	1.1738370656967163	0.008047926	No	
+row_1	DSG1	desmoglein 1	303	0.9459414482116699	0.012035953	No	
+row_2	OMA1	OMA1 homolog, zinc metallopeptidase (S. cerevisiae)	486	0.8406357765197754	0.012937869	No	
+row_3	TICAM2	toll-like receptor adaptor molecule 2	667	0.7554604411125183	0.012725778	No	
+row_4	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.020788437	No	
+row_5	PRKCD	protein kinase C, delta	992	0.6463683247566223	0.012770133	No	
+row_6	APAF1	apoptotic peptidase activating factor	1347	0.5610814690589905	-0.0010910487	No	
+row_7	HMGB1	high-mobility group box 1	1447	0.5391134023666382	5.8953324E-4	No	
+row_8	MAPK3	mitogen-activated protein kinase 3	1456	0.5379591584205627	0.007913593	No	
+row_9	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.016836854	No	
+row_10	BAD	BCL2-antagonist of cell death	2352	0.4329283833503723	-0.03430294	No	
+row_11	ACIN1	apoptotic chromatin condensation inducer 1	2360	0.4317781329154968	-0.028460497	No	
+row_12	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2398	0.42569679021835327	-0.024572497	No	
+row_13	FNTA	farnesyltransferase, CAAX box, alpha	2470	0.4167197644710541	-0.02292984	No	
+row_14	SATB1	special AT-rich sequence binding protein 1 (binds to nuclear matrix/scaffold-associating DNA's)	2567	0.40235206484794617	-0.0230511	No	
+row_15	OPA1	optic atrophy 1 (autosomal dominant)	2807	0.36464011669158936	-0.032615367	No	
+row_16	CYCS	cytochrome c, somatic	2888	0.3538222908973694	-0.032447018	No	
+row_17	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.042470276	No	
+row_18	BMF	Bcl2 modifying factor	3152	0.3257337510585785	-0.039227083	No	
+row_19	BCAP31	B-cell receptor-associated protein 31	3349	0.3040783107280731	-0.04699726	No	
+row_20	LMNA	lamin A/C	3376	0.3011989891529083	-0.04423519	No	
+row_21	VIM	vimentin	3459	0.2930845320224762	-0.045074336	No	
+row_22	E2F1	E2F transcription factor 1	3531	0.28559666872024536	-0.045338146	No	
+row_23	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.05171663	No	
+row_24	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.050006326	No	
+row_25	ARHGAP10	Rho GTPase activating protein 10	3882	0.2517905831336975	-0.055613313	No	
+row_26	DAPK2	death-associated protein kinase 2	3883	0.2517513930797577	-0.05195297	No	
+row_27	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.0547586	No	
+row_28	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	4000	0.24284899234771729	-0.052036304	No	
+row_29	PTK2	PTK2 protein tyrosine kinase 2	4094	0.23574230074882507	-0.054393385	No	
+row_30	BCL2L11	BCL2-like 11 (apoptosis facilitator)	4122	0.23328176140785217	-0.052681	No	
+row_31	AKT2	v-akt murine thymoma viral oncogene homolog 2	4123	0.23297865688800812	-0.049293604	No	
+row_32	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.046546422	No	
+row_33	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.059381727	No	
+row_34	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.08386395	No	
+row_35	APIP	APAF1 interacting protein	4851	0.17057183384895325	-0.082876734	No	
+row_36	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta polypeptide	4910	0.1653393805027008	-0.08408042	No	
+row_37	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.084453054	No	
+row_38	DFFA	DNA fragmentation factor, 45kDa, alpha polypeptide	4975	0.1607993096113205	-0.083296925	No	
+row_39	MAPT	microtubule-associated protein tau	5027	0.15685980021953583	-0.08418849	No	
+row_40	BMX	BMX non-receptor tyrosine kinase	5063	0.15258929133415222	-0.08414694	No	
+row_41	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.09301545	No	
+row_42	ROCK1	Rho-associated, coiled-coil containing protein kinase 1	5290	0.13086669147014618	-0.094284944	No	
+row_43	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.09498607	No	
+row_44	GSN	gelsolin (amyloidosis, Finnish type)	5340	0.1265384554862976	-0.09358167	No	
+row_45	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.11188498	No	
+row_46	SFN	stratifin	5694	0.09934475272893906	-0.11255538	No	
+row_47	DAPK1	death-associated protein kinase 1	5804	0.09077280759811401	-0.11801545	No	
+row_48	APC	adenomatosis polyposis coli	5964	0.07859698683023453	-0.1267626	No	
+row_49	CFLAR	CASP8 and FADD-like apoptosis regulator	6000	0.0758376196026802	-0.12783699	No	
+row_50	CDH1	cadherin 1, type 1, E-cadherin (epithelial)	6012	0.07458195090293884	-0.1274368	No	
+row_51	DAPK3	death-associated protein kinase 3	6051	0.07149357348680496	-0.12876095	No	
+row_52	TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)	6061	0.07083475589752197	-0.12829085	No	
+row_53	DYNLL1	dynein, light chain, LC8-type 1	6287	0.05390922352671623	-0.14150219	No	
+row_54	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.1445173	No	
+row_55	AVEN	apoptosis, caspase activation inhibitor	6385	0.04643682390451431	-0.14608136	No	
+row_56	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.1627686	No	
+row_57	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.16538343	No	
+row_58	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.1740193	No	
+row_59	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.18590409	No	
+row_60	PPP3CC	protein phosphatase 3 (formerly 2B), catalytic subunit, gamma isoform (calcineurin A gamma)	7211	6.468994251918048E-5	-0.19597965	No	
+row_61	DNM1L	dynamin 1-like	7386	1.398166721289229E-10	-0.20680256	No	
+row_62	PKP1	plakophilin 1 (ectodermal dysplasia/skin fragility syndrome)	7467	0.0	-0.21177861	No	
+row_63	DCC	deleted in colorectal carcinoma	7544	0.0	-0.21650587	No	
+row_64	OCLN	occludin	9249	-6.645886885931512E-26	-0.3224958	No	
+row_65	TP73	tumor protein p73	9333	-7.447897409917914E-9	-0.32765844	No	
+row_66	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.34310943	No	
+row_67	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.3528597	No	
+row_68	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	9782	-0.01556085143238306	-0.3548727	No	
+row_69	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.37427557	No	
+row_70	DSG2	desmoglein 2	10132	-0.03225978463888168	-0.37561035	No	
+row_71	LY96	lymphocyte antigen 96	10196	-0.03728052228689194	-0.37898695	No	
+row_72	GAS2	growth arrest-specific 2	10379	-0.049700718373060226	-0.38958484	No	
+row_73	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.39142406	No	
+row_74	CASP6	caspase 6, apoptosis-related cysteine peptidase	10425	-0.05339854210615158	-0.39077207	No	
+row_75	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.39285323	No	
+row_76	PPP3R1	protein phosphatase 3 (formerly 2B), regulatory subunit B, 19kDa, alpha isoform (calcineurin B, type I)	10557	-0.06458891928195953	-0.39707682	No	
+row_77	CLSPN	claspin homolog (Xenopus laevis)	10611	-0.06831464171409607	-0.39938018	No	
+row_78	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	10785	-0.08354876935482025	-0.40892613	No	
+row_79	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.40850043	No	
+row_80	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.409643	No	
+row_81	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.41873252	No	
+row_82	PAK2	p21 (CDKN1A)-activated kinase 2	11105	-0.11029867082834244	-0.4229757	No	
+row_83	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	11369	-0.13533112406730652	-0.4373668	No	
+row_84	CASP9	caspase 9, apoptosis-related cysteine peptidase	11397	-0.13848768174648285	-0.4370327	No	
+row_85	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.4429513	No	
+row_86	PPP1R13B	protein phosphatase 1, regulatory (inhibitor) subunit 13B	11678	-0.16196735203266144	-0.44986424	No	
+row_87	TP53	tumor protein p53 (Li-Fraumeni syndrome)	11764	-0.17059336602687836	-0.45267096	No	
+row_88	MAGED1	melanoma antigen family D, 1	11791	-0.17330610752105713	-0.4517684	No	
+row_89	FAS	Fas (TNF receptor superfamily, member 6)	11841	-0.17816279828548431	-0.45222583	No	
+row_90	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.44987956	No	
+row_91	C1QBP	complement component 1, q subcomponent binding protein	11890	-0.18224236369132996	-0.44990447	No	
+row_92	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.44846463	No	
+row_93	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.44650722	No	
+row_94	TLR4	toll-like receptor 4	11969	-0.1898326277732849	-0.44648397	No	
+row_95	UACA	uveal autoantigen with coiled-coil domains and ankyrin repeats	11991	-0.19209252297878265	-0.44499725	No	
+row_96	BBC3	BCL2 binding component 3	12134	-0.2065001130104065	-0.45082733	No	
+row_97	CARD8	caspase recruitment domain family, member 8	12260	-0.21935057640075684	-0.45541316	No	
+row_98	SPTAN1	spectrin, alpha, non-erythrocytic 1 (alpha-fodrin)	12382	-0.23149989545345306	-0.45957354	No	
+row_99	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	12483	-0.2422805279493332	-0.46227098	No	
+row_100	DSG3	desmoglein 3 (pemphigus vulgaris antigen)	12820	-0.27969810366630554	-0.4791037	No	
+row_101	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.47928897	No	
+row_102	MAPK8	mitogen-activated protein kinase 8	13075	-0.3095323443412781	-0.48617125	Yes	
+row_103	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	13120	-0.3167491555213928	-0.4843027	Yes	
+row_104	TNFRSF10A	tumor necrosis factor receptor superfamily, member 10a	13153	-0.320702463388443	-0.48163027	Yes	
+row_105	AKT1	v-akt murine thymoma viral oncogene homolog 1	13167	-0.3235817849636078	-0.47773415	Yes	
+row_106	TP53BP2	tumor protein p53 binding protein, 2	13192	-0.3265019953250885	-0.4744798	Yes	
+row_107	TFDP1	transcription factor Dp-1	13257	-0.3345990777015686	-0.4735957	Yes	
+row_108	TJP2	tight junction protein 2 (zona occludens 2)	13465	-0.35928595066070557	-0.48124743	Yes	
+row_109	CD14	CD14 molecule	13468	-0.3595741391181946	-0.47614378	Yes	
+row_110	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.47660807	Yes	
+row_111	HMGB2	high-mobility group box 2	13665	-0.3892982006072998	-0.4771679	Yes	
+row_112	DYNLL2	dynein, light chain, LC8-type 2	13675	-0.3907909393310547	-0.4720458	Yes	
+row_113	TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b	13723	-0.39732709527015686	-0.4691923	Yes	
+row_114	UNC5A	unc-5 homolog A (C. elegans)	13790	-0.4092455506324768	-0.46734732	Yes	
+row_115	BID	BH3 interacting domain death agonist	13802	-0.4119895398616791	-0.46204138	Yes	
+row_116	KPNA1	karyopherin alpha 1 (importin alpha 5)	13898	-0.4246748387813568	-0.4617759	Yes	
+row_117	ADD1	adducin 1 (alpha)	14093	-0.4606458246707916	-0.46714523	Yes	
+row_118	UBC	ubiquitin C	14182	-0.47944867610931396	-0.46564797	Yes	
+row_119	TRADD	TNFRSF1A-associated via death domain	14235	-0.48908931016921997	-0.46177128	Yes	
+row_120	UNC5B	unc-5 homolog B (C. elegans)	14360	-0.49988725781440735	-0.46221602	Yes	
+row_121	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.4597359	Yes	
+row_122	BCL2L1	BCL2-like 1	14466	-0.49999725818634033	-0.4541456	Yes	
+row_123	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.45911422	Yes	
+row_124	BCL2	B-cell CLL/lymphoma 2	14719	-0.546335756778717	-0.454032	Yes	
+row_125	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.44879177	Yes	
+row_126	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.44225773	Yes	
+row_127	DIABLO	diablo homolog (Drosophila)	14802	-0.5674716234207153	-0.43444237	Yes	
+row_128	MAPK1	mitogen-activated protein kinase 1	14865	-0.5826491713523865	-0.42982736	Yes	
+row_129	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.4266893	Yes	
+row_130	LMNB1	lamin B1	14975	-0.6162246465682983	-0.4187249	Yes	
+row_131	DSP	desmoplakin	15035	-0.633715033531189	-0.41318083	Yes	
+row_132	KPNB1	karyopherin (importin) beta 1	15038	-0.634635865688324	-0.40407792	Yes	
+row_133	TJP1	tight junction protein 1 (zona occludens 1)	15044	-0.6362895369529724	-0.39513758	Yes	
+row_134	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	15058	-0.6419611573219299	-0.3866124	Yes	
+row_135	BAX	BCL2-associated X protein	15059	-0.6424059867858887	-0.37727213	Yes	
+row_136	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.36939427	Yes	
+row_137	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.3603686	Yes	
+row_138	FASLG	Fas ligand (TNF superfamily, member 6)	15094	-0.6513888835906982	-0.35089773	Yes	
+row_139	NMT1	N-myristoyltransferase 1	15096	-0.6515146493911743	-0.34148723	Yes	
+row_140	DBNL	drebrin-like	15112	-0.6566478610038757	-0.3328729	Yes	
+row_141	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.3236811	Yes	
+row_142	CASP7	caspase 7, apoptosis-related cysteine peptidase	15164	-0.6753085851669312	-0.31653705	Yes	
+row_143	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.3146862	Yes	
+row_144	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.3118258	Yes	
+row_145	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.30300683	Yes	
+row_146	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.29173055	Yes	
+row_147	DFFB	DNA fragmentation factor, 40kDa, beta polypeptide (caspase-activated DNase)	15572	-0.8642083406448364	-0.28202662	Yes	
+row_148	UBB	ubiquitin B	15642	-0.9178993105888367	-0.27297264	Yes	
+row_149	BAK1	BCL2-antagonist/killer 1	15657	-0.9322233200073242	-0.26028937	Yes	
+row_150	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	15679	-0.9483072757720947	-0.24780767	Yes	
+row_151	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.23477174	Yes	
+row_152	CASP3	caspase 3, apoptosis-related cysteine peptidase	15747	-1.0334548950195312	-0.22254483	Yes	
+row_153	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.20811278	Yes	
+row_154	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	15778	-1.0747753381729126	-0.19341907	Yes	
+row_155	STK24	serine/threonine kinase 24 (STE20 homolog, yeast)	15823	-1.1638169288635254	-0.17923456	Yes	
+row_156	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.16319576	Yes	
+row_157	TICAM1	toll-like receptor adaptor molecule 1	15895	-1.280163288116455	-0.14744402	Yes	
+row_158	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.13071914	Yes	
+row_159	PMAIP1	phorbol-12-myristate-13-acetate-induced protein 1	16038	-1.7234759330749512	-0.10709125	Yes	
+row_160	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.08076377	Yes	
+row_161	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.047065664	Yes	
+row_162	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027369075	Yes	

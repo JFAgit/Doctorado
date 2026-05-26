@@ -1,0 +1,19 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PIGN	phosphatidylinositol glycan anchor biosynthesis, class N	4	2.1350302696228027	0.24063283	Yes	
+row_1	PIGP	phosphatidylinositol glycan anchor biosynthesis, class P	6	2.0410141944885254	0.4708435	Yes	
+row_2	PIGZ	phosphatidylinositol glycan anchor biosynthesis, class Z	512	0.8261500000953674	0.5329212	Yes	
+row_3	PIGL	phosphatidylinositol glycan anchor biosynthesis, class L	1011	0.640880823135376	0.5745279	Yes	
+row_4	PIGV	phosphatidylinositol glycan anchor biosynthesis, class V	1465	0.5364898443222046	0.607131	Yes	
+row_5	PIGX	phosphatidylinositol glycan anchor biosynthesis, class X	1808	0.4999411404132843	0.64245313	Yes	
+row_6	PIGC	phosphatidylinositol glycan anchor biosynthesis, class C	1811	0.4999302625656128	0.6987332	Yes	
+row_7	PIGH	phosphatidylinositol glycan anchor biosynthesis, class H	2440	0.4206940531730652	0.7074841	Yes	
+row_8	PIGM	phosphatidylinositol glycan anchor biosynthesis, class M	4477	0.2042352855205536	0.6050179	No	
+row_9	PIGB	phosphatidylinositol glycan anchor biosynthesis, class B	4678	0.18470436334609985	0.6135278	No	
+row_10	DPM2	dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit	6562	0.03435665741562843	0.50132704	No	
+row_11	PIGG	phosphatidylinositol glycan anchor biosynthesis, class G	6781	0.021840276196599007	0.49035257	No	
+row_12	PIGO	phosphatidylinositol glycan anchor biosynthesis, class O	7064	0.0072434223257005215	0.473786	No	
+row_13	PIGQ	phosphatidylinositol glycan anchor biosynthesis, class Q	9526	-0.0037965585943311453	0.32250676	No	
+row_14	PIGA	phosphatidylinositol glycan anchor biosynthesis, class A (paroxysmal nocturnal hemoglobinuria)	11080	-0.10773681849241257	0.23892772	No	
+row_15	PIGY	phosphatidylinositol glycan anchor biosynthesis, class Y	11159	-0.11660272628068924	0.24727485	No	
+row_16	PIGF	phosphatidylinositol glycan anchor biosynthesis, class F	12255	-0.2188914716243744	0.2044698	No	
+row_17	PIGW	phosphatidylinositol glycan anchor biosynthesis, class W	13496	-0.3639427721500397	0.16909133	No	

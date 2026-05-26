@@ -1,0 +1,349 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1010" height="374" viewBox="0 0 1010 374">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="86" y="30" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#111827">Expresion relativa de genes Y en muestras hormonales</text>
+<text x="86" y="52" font-family="Arial, sans-serif" font-size="12" fill="#4b5563">Valor: log2((senal marcador + 1) / (mediana del array + 1)). Azul=bajo, rojo=alto.</text>
+<text x="74" y="99" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">EIF1AY</text>
+<rect x="86" y="72" width="52" height="44" fill="rgb(201,62,96)" stroke="#ffffff" stroke-width="2"><title>GSM758966 EIF1AY: 1.857</title></rect>
+<text x="112" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.9</text>
+<rect x="138" y="72" width="52" height="44" fill="rgb(198,49,86)" stroke="#ffffff" stroke-width="2"><title>GSM758967 EIF1AY: 2.124</title></rect>
+<text x="164" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.1</text>
+<rect x="190" y="72" width="52" height="44" fill="rgb(207,87,117)" stroke="#ffffff" stroke-width="2"><title>GSM758902 EIF1AY: 1.318</title></rect>
+<text x="216" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.3</text>
+<rect x="242" y="72" width="52" height="44" fill="rgb(197,44,82)" stroke="#ffffff" stroke-width="2"><title>GSM758970 EIF1AY: 2.236</title></rect>
+<text x="268" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.2</text>
+<rect x="294" y="72" width="52" height="44" fill="rgb(196,43,81)" stroke="#ffffff" stroke-width="2"><title>GSM758971 EIF1AY: 2.263</title></rect>
+<text x="320" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.3</text>
+<rect x="346" y="72" width="52" height="44" fill="rgb(197,46,83)" stroke="#ffffff" stroke-width="2"><title>GSM758974 EIF1AY: 2.207</title></rect>
+<text x="372" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.2</text>
+<rect x="398" y="72" width="52" height="44" fill="rgb(201,63,97)" stroke="#ffffff" stroke-width="2"><title>GSM758911 EIF1AY: 1.839</title></rect>
+<text x="424" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.8</text>
+<rect x="450" y="72" width="52" height="44" fill="rgb(198,52,88)" stroke="#ffffff" stroke-width="2"><title>GSM758912 EIF1AY: 2.068</title></rect>
+<text x="476" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.1</text>
+<rect x="502" y="72" width="52" height="44" fill="rgb(190,18,60)" stroke="#ffffff" stroke-width="2"><title>GSM758922 EIF1AY: 2.870</title></rect>
+<text x="528" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.9</text>
+<rect x="554" y="72" width="52" height="44" fill="rgb(200,57,93)" stroke="#ffffff" stroke-width="2"><title>GSM758925 EIF1AY: 1.953</title></rect>
+<text x="580" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.0</text>
+<rect x="606" y="72" width="52" height="44" fill="rgb(198,49,86)" stroke="#ffffff" stroke-width="2"><title>GSM758926 EIF1AY: 2.131</title></rect>
+<text x="632" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.1</text>
+<rect x="658" y="72" width="52" height="44" fill="rgb(204,75,107)" stroke="#ffffff" stroke-width="2"><title>GSM758905 EIF1AY: 1.569</title></rect>
+<text x="684" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.6</text>
+<rect x="710" y="72" width="52" height="44" fill="rgb(222,145,165)" stroke="#ffffff" stroke-width="2"><title>GSM758906 EIF1AY: 0.066</title></rect>
+<text x="736" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">0.1</text>
+<rect x="762" y="72" width="52" height="44" fill="rgb(201,63,97)" stroke="#ffffff" stroke-width="2"><title>GSM758909 EIF1AY: 1.836</title></rect>
+<text x="788" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.8</text>
+<rect x="814" y="72" width="52" height="44" fill="rgb(192,28,68)" stroke="#ffffff" stroke-width="2"><title>GSM758958 EIF1AY: 2.587</title></rect>
+<text x="840" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.6</text>
+<rect x="866" y="72" width="52" height="44" fill="rgb(210,97,126)" stroke="#ffffff" stroke-width="2"><title>GSM758959 EIF1AY: 1.093</title></rect>
+<text x="892" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">1.1</text>
+<rect x="918" y="72" width="52" height="44" fill="rgb(191,22,63)" stroke="#ffffff" stroke-width="2"><title>GSM758962 EIF1AY: 2.714</title></rect>
+<text x="944" y="98" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">2.7</text>
+<text x="74" y="143" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">KDM5D</text>
+<rect x="86" y="116" width="52" height="44" fill="rgb(215,227,249)" stroke="#ffffff" stroke-width="2"><title>GSM758966 KDM5D: -2.863</title></rect>
+<text x="112" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.9</text>
+<rect x="138" y="116" width="52" height="44" fill="rgb(210,223,249)" stroke="#ffffff" stroke-width="2"><title>GSM758967 KDM5D: -2.970</title></rect>
+<text x="164" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.0</text>
+<rect x="190" y="116" width="52" height="44" fill="rgb(245,239,243)" stroke="#ffffff" stroke-width="2"><title>GSM758902 KDM5D: -1.959</title></rect>
+<text x="216" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.0</text>
+<rect x="242" y="116" width="52" height="44" fill="rgb(193,211,248)" stroke="#ffffff" stroke-width="2"><title>GSM758970 KDM5D: -3.317</title></rect>
+<text x="268" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.3</text>
+<rect x="294" y="116" width="52" height="44" fill="rgb(196,213,248)" stroke="#ffffff" stroke-width="2"><title>GSM758971 KDM5D: -3.258</title></rect>
+<text x="320" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.3</text>
+<rect x="346" y="116" width="52" height="44" fill="rgb(242,246,252)" stroke="#ffffff" stroke-width="2"><title>GSM758974 KDM5D: -2.317</title></rect>
+<text x="372" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.3</text>
+<rect x="398" y="116" width="52" height="44" fill="rgb(235,241,251)" stroke="#ffffff" stroke-width="2"><title>GSM758911 KDM5D: -2.460</title></rect>
+<text x="424" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.5</text>
+<rect x="450" y="116" width="52" height="44" fill="rgb(220,230,250)" stroke="#ffffff" stroke-width="2"><title>GSM758912 KDM5D: -2.778</title></rect>
+<text x="476" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.8</text>
+<rect x="502" y="116" width="52" height="44" fill="rgb(239,243,251)" stroke="#ffffff" stroke-width="2"><title>GSM758922 KDM5D: -2.387</title></rect>
+<text x="528" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.4</text>
+<rect x="554" y="116" width="52" height="44" fill="rgb(181,202,247)" stroke="#ffffff" stroke-width="2"><title>GSM758925 KDM5D: -3.562</title></rect>
+<text x="580" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.6</text>
+<rect x="606" y="116" width="52" height="44" fill="rgb(205,219,249)" stroke="#ffffff" stroke-width="2"><title>GSM758926 KDM5D: -3.084</title></rect>
+<text x="632" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.1</text>
+<rect x="658" y="116" width="52" height="44" fill="rgb(223,232,250)" stroke="#ffffff" stroke-width="2"><title>GSM758905 KDM5D: -2.707</title></rect>
+<text x="684" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.7</text>
+<rect x="710" y="116" width="52" height="44" fill="rgb(247,246,249)" stroke="#ffffff" stroke-width="2"><title>GSM758906 KDM5D: -2.119</title></rect>
+<text x="736" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.1</text>
+<rect x="762" y="116" width="52" height="44" fill="rgb(243,229,235)" stroke="#ffffff" stroke-width="2"><title>GSM758909 KDM5D: -1.747</title></rect>
+<text x="788" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-1.7</text>
+<rect x="814" y="116" width="52" height="44" fill="rgb(234,240,251)" stroke="#ffffff" stroke-width="2"><title>GSM758958 KDM5D: -2.488</title></rect>
+<text x="840" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.5</text>
+<rect x="866" y="116" width="52" height="44" fill="rgb(179,200,246)" stroke="#ffffff" stroke-width="2"><title>GSM758959 KDM5D: -3.616</title></rect>
+<text x="892" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-3.6</text>
+<rect x="918" y="116" width="52" height="44" fill="rgb(247,246,248)" stroke="#ffffff" stroke-width="2"><title>GSM758962 KDM5D: -2.104</title></rect>
+<text x="944" y="142" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-2.1</text>
+<text x="74" y="187" text-anchor="end" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#111827">UTY</text>
+<rect x="86" y="160" width="52" height="44" fill="rgb(70,122,238)" stroke="#ffffff" stroke-width="2"><title>GSM758966 UTY: -5.832</title></rect>
+<text x="112" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.8</text>
+<rect x="138" y="160" width="52" height="44" fill="rgb(79,129,238)" stroke="#ffffff" stroke-width="2"><title>GSM758967 UTY: -5.649</title></rect>
+<text x="164" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.6</text>
+<rect x="190" y="160" width="52" height="44" fill="rgb(63,118,237)" stroke="#ffffff" stroke-width="2"><title>GSM758902 UTY: -5.960</title></rect>
+<text x="216" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-6.0</text>
+<rect x="242" y="160" width="52" height="44" fill="rgb(37,99,235)" stroke="#ffffff" stroke-width="2"><title>GSM758970 UTY: -6.695</title></rect>
+<text x="268" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-6.7</text>
+<rect x="294" y="160" width="52" height="44" fill="rgb(37,99,235)" stroke="#ffffff" stroke-width="2"><title>GSM758971 UTY: -6.870</title></rect>
+<text x="320" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-6.9</text>
+<rect x="346" y="160" width="52" height="44" fill="rgb(73,124,238)" stroke="#ffffff" stroke-width="2"><title>GSM758974 UTY: -5.775</title></rect>
+<text x="372" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.8</text>
+<rect x="398" y="160" width="52" height="44" fill="rgb(71,123,238)" stroke="#ffffff" stroke-width="2"><title>GSM758911 UTY: -5.817</title></rect>
+<text x="424" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.8</text>
+<rect x="450" y="160" width="52" height="44" fill="rgb(61,116,237)" stroke="#ffffff" stroke-width="2"><title>GSM758912 UTY: -6.015</title></rect>
+<text x="476" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-6.0</text>
+<rect x="502" y="160" width="52" height="44" fill="rgb(156,184,245)" stroke="#ffffff" stroke-width="2"><title>GSM758922 UTY: -4.081</title></rect>
+<text x="528" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-4.1</text>
+<rect x="554" y="160" width="52" height="44" fill="rgb(141,173,243)" stroke="#ffffff" stroke-width="2"><title>GSM758925 UTY: -4.381</title></rect>
+<text x="580" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-4.4</text>
+<rect x="606" y="160" width="52" height="44" fill="rgb(97,142,240)" stroke="#ffffff" stroke-width="2"><title>GSM758926 UTY: -5.278</title></rect>
+<text x="632" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.3</text>
+<rect x="658" y="160" width="52" height="44" fill="rgb(103,146,240)" stroke="#ffffff" stroke-width="2"><title>GSM758905 UTY: -5.148</title></rect>
+<text x="684" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.1</text>
+<rect x="710" y="160" width="52" height="44" fill="rgb(158,186,245)" stroke="#ffffff" stroke-width="2"><title>GSM758906 UTY: -4.033</title></rect>
+<text x="736" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-4.0</text>
+<rect x="762" y="160" width="52" height="44" fill="rgb(110,151,241)" stroke="#ffffff" stroke-width="2"><title>GSM758909 UTY: -5.017</title></rect>
+<text x="788" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.0</text>
+<rect x="814" y="160" width="52" height="44" fill="rgb(57,113,237)" stroke="#ffffff" stroke-width="2"><title>GSM758958 UTY: -6.101</title></rect>
+<text x="840" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-6.1</text>
+<rect x="866" y="160" width="52" height="44" fill="rgb(74,125,238)" stroke="#ffffff" stroke-width="2"><title>GSM758959 UTY: -5.750</title></rect>
+<text x="892" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.8</text>
+<rect x="918" y="160" width="52" height="44" fill="rgb(93,139,240)" stroke="#ffffff" stroke-width="2"><title>GSM758962 UTY: -5.353</title></rect>
+<text x="944" y="186" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" fill="#111827">-5.4</text>
+<g transform="translate(112,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758966 M20 E</text></g>
+<g transform="translate(164,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758967 M20 P</text></g>
+<g transform="translate(216,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758902 M20 Combo</text></g>
+<g transform="translate(268,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758970 M21 E</text></g>
+<g transform="translate(320,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758971 M21 P</text></g>
+<g transform="translate(372,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758974 M21 Combo</text></g>
+<g transform="translate(424,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758911 M23 excl. E</text></g>
+<g transform="translate(476,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758912 M23 excl. P</text></g>
+<g transform="translate(528,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758922 M23 excl. Combo</text></g>
+<g transform="translate(580,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758925 M24 E</text></g>
+<g transform="translate(632,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758926 M24 P</text></g>
+<g transform="translate(684,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758905 M25 E</text></g>
+<g transform="translate(736,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758906 M25 P</text></g>
+<g transform="translate(788,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758909 M25 Combo</text></g>
+<g transform="translate(840,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758958 M27 E</text></g>
+<g transform="translate(892,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758959 M27 P</text></g>
+<g transform="translate(944,216) rotate(55)"><text font-family="Arial, sans-serif" font-size="11" fill="#111827">GSM758962 M27 Combo</text></g>
+<text x="86" y="322" font-family="Arial, sans-serif" font-size="12" font-weight="700" fill="#111827">Escala log2 relativa</text>
+<rect x="86" y="330" width="1" height="12" fill="rgb(37,99,235)"/>
+<rect x="87" y="330" width="1" height="12" fill="rgb(39,100,235)"/>
+<rect x="88" y="330" width="1" height="12" fill="rgb(41,102,235)"/>
+<rect x="89" y="330" width="1" height="12" fill="rgb(43,103,236)"/>
+<rect x="90" y="330" width="1" height="12" fill="rgb(45,105,236)"/>
+<rect x="91" y="330" width="1" height="12" fill="rgb(47,106,236)"/>
+<rect x="92" y="330" width="1" height="12" fill="rgb(50,108,236)"/>
+<rect x="93" y="330" width="1" height="12" fill="rgb(52,109,236)"/>
+<rect x="94" y="330" width="1" height="12" fill="rgb(54,111,236)"/>
+<rect x="95" y="330" width="1" height="12" fill="rgb(56,112,237)"/>
+<rect x="96" y="330" width="1" height="12" fill="rgb(58,114,237)"/>
+<rect x="97" y="330" width="1" height="12" fill="rgb(60,115,237)"/>
+<rect x="98" y="330" width="1" height="12" fill="rgb(62,117,237)"/>
+<rect x="99" y="330" width="1" height="12" fill="rgb(64,118,237)"/>
+<rect x="100" y="330" width="1" height="12" fill="rgb(66,120,237)"/>
+<rect x="101" y="330" width="1" height="12" fill="rgb(68,121,238)"/>
+<rect x="102" y="330" width="1" height="12" fill="rgb(70,123,238)"/>
+<rect x="103" y="330" width="1" height="12" fill="rgb(72,124,238)"/>
+<rect x="104" y="330" width="1" height="12" fill="rgb(75,126,238)"/>
+<rect x="105" y="330" width="1" height="12" fill="rgb(77,127,238)"/>
+<rect x="106" y="330" width="1" height="12" fill="rgb(79,129,238)"/>
+<rect x="107" y="330" width="1" height="12" fill="rgb(81,130,239)"/>
+<rect x="108" y="330" width="1" height="12" fill="rgb(83,132,239)"/>
+<rect x="109" y="330" width="1" height="12" fill="rgb(85,133,239)"/>
+<rect x="110" y="330" width="1" height="12" fill="rgb(87,135,239)"/>
+<rect x="111" y="330" width="1" height="12" fill="rgb(89,136,239)"/>
+<rect x="112" y="330" width="1" height="12" fill="rgb(91,138,239)"/>
+<rect x="113" y="330" width="1" height="12" fill="rgb(93,139,240)"/>
+<rect x="114" y="330" width="1" height="12" fill="rgb(95,141,240)"/>
+<rect x="115" y="330" width="1" height="12" fill="rgb(97,142,240)"/>
+<rect x="116" y="330" width="1" height="12" fill="rgb(100,144,240)"/>
+<rect x="117" y="330" width="1" height="12" fill="rgb(102,145,240)"/>
+<rect x="118" y="330" width="1" height="12" fill="rgb(104,147,240)"/>
+<rect x="119" y="330" width="1" height="12" fill="rgb(106,148,241)"/>
+<rect x="120" y="330" width="1" height="12" fill="rgb(108,150,241)"/>
+<rect x="121" y="330" width="1" height="12" fill="rgb(110,151,241)"/>
+<rect x="122" y="330" width="1" height="12" fill="rgb(112,153,241)"/>
+<rect x="123" y="330" width="1" height="12" fill="rgb(114,154,241)"/>
+<rect x="124" y="330" width="1" height="12" fill="rgb(116,156,241)"/>
+<rect x="125" y="330" width="1" height="12" fill="rgb(118,157,242)"/>
+<rect x="126" y="330" width="1" height="12" fill="rgb(120,159,242)"/>
+<rect x="127" y="330" width="1" height="12" fill="rgb(122,160,242)"/>
+<rect x="128" y="330" width="1" height="12" fill="rgb(125,162,242)"/>
+<rect x="129" y="330" width="1" height="12" fill="rgb(127,163,242)"/>
+<rect x="130" y="330" width="1" height="12" fill="rgb(129,165,242)"/>
+<rect x="131" y="330" width="1" height="12" fill="rgb(131,166,243)"/>
+<rect x="132" y="330" width="1" height="12" fill="rgb(133,168,243)"/>
+<rect x="133" y="330" width="1" height="12" fill="rgb(135,169,243)"/>
+<rect x="134" y="330" width="1" height="12" fill="rgb(137,171,243)"/>
+<rect x="135" y="330" width="1" height="12" fill="rgb(139,172,243)"/>
+<rect x="136" y="330" width="1" height="12" fill="rgb(141,174,243)"/>
+<rect x="137" y="330" width="1" height="12" fill="rgb(143,175,244)"/>
+<rect x="138" y="330" width="1" height="12" fill="rgb(145,177,244)"/>
+<rect x="139" y="330" width="1" height="12" fill="rgb(147,178,244)"/>
+<rect x="140" y="330" width="1" height="12" fill="rgb(150,180,244)"/>
+<rect x="141" y="330" width="1" height="12" fill="rgb(152,181,244)"/>
+<rect x="142" y="330" width="1" height="12" fill="rgb(154,183,244)"/>
+<rect x="143" y="330" width="1" height="12" fill="rgb(156,184,245)"/>
+<rect x="144" y="330" width="1" height="12" fill="rgb(158,185,245)"/>
+<rect x="145" y="330" width="1" height="12" fill="rgb(160,187,245)"/>
+<rect x="146" y="330" width="1" height="12" fill="rgb(162,188,245)"/>
+<rect x="147" y="330" width="1" height="12" fill="rgb(164,190,245)"/>
+<rect x="148" y="330" width="1" height="12" fill="rgb(166,191,245)"/>
+<rect x="149" y="330" width="1" height="12" fill="rgb(168,193,246)"/>
+<rect x="150" y="330" width="1" height="12" fill="rgb(170,194,246)"/>
+<rect x="151" y="330" width="1" height="12" fill="rgb(172,196,246)"/>
+<rect x="152" y="330" width="1" height="12" fill="rgb(175,197,246)"/>
+<rect x="153" y="330" width="1" height="12" fill="rgb(177,199,246)"/>
+<rect x="154" y="330" width="1" height="12" fill="rgb(179,200,246)"/>
+<rect x="155" y="330" width="1" height="12" fill="rgb(181,202,247)"/>
+<rect x="156" y="330" width="1" height="12" fill="rgb(183,203,247)"/>
+<rect x="157" y="330" width="1" height="12" fill="rgb(185,205,247)"/>
+<rect x="158" y="330" width="1" height="12" fill="rgb(187,206,247)"/>
+<rect x="159" y="330" width="1" height="12" fill="rgb(189,208,247)"/>
+<rect x="160" y="330" width="1" height="12" fill="rgb(191,209,247)"/>
+<rect x="161" y="330" width="1" height="12" fill="rgb(193,211,248)"/>
+<rect x="162" y="330" width="1" height="12" fill="rgb(195,212,248)"/>
+<rect x="163" y="330" width="1" height="12" fill="rgb(197,214,248)"/>
+<rect x="164" y="330" width="1" height="12" fill="rgb(200,215,248)"/>
+<rect x="165" y="330" width="1" height="12" fill="rgb(202,217,248)"/>
+<rect x="166" y="330" width="1" height="12" fill="rgb(204,218,248)"/>
+<rect x="167" y="330" width="1" height="12" fill="rgb(206,220,249)"/>
+<rect x="168" y="330" width="1" height="12" fill="rgb(208,221,249)"/>
+<rect x="169" y="330" width="1" height="12" fill="rgb(210,223,249)"/>
+<rect x="170" y="330" width="1" height="12" fill="rgb(212,224,249)"/>
+<rect x="171" y="330" width="1" height="12" fill="rgb(214,226,249)"/>
+<rect x="172" y="330" width="1" height="12" fill="rgb(216,227,249)"/>
+<rect x="173" y="330" width="1" height="12" fill="rgb(218,229,250)"/>
+<rect x="174" y="330" width="1" height="12" fill="rgb(220,230,250)"/>
+<rect x="175" y="330" width="1" height="12" fill="rgb(222,232,250)"/>
+<rect x="176" y="330" width="1" height="12" fill="rgb(225,233,250)"/>
+<rect x="177" y="330" width="1" height="12" fill="rgb(227,235,250)"/>
+<rect x="178" y="330" width="1" height="12" fill="rgb(229,236,250)"/>
+<rect x="179" y="330" width="1" height="12" fill="rgb(231,238,251)"/>
+<rect x="180" y="330" width="1" height="12" fill="rgb(233,239,251)"/>
+<rect x="181" y="330" width="1" height="12" fill="rgb(235,241,251)"/>
+<rect x="182" y="330" width="1" height="12" fill="rgb(237,242,251)"/>
+<rect x="183" y="330" width="1" height="12" fill="rgb(239,244,251)"/>
+<rect x="184" y="330" width="1" height="12" fill="rgb(241,245,251)"/>
+<rect x="185" y="330" width="1" height="12" fill="rgb(243,247,252)"/>
+<rect x="186" y="330" width="1" height="12" fill="rgb(245,248,252)"/>
+<rect x="187" y="330" width="1" height="12" fill="rgb(247,250,252)"/>
+<rect x="188" y="330" width="1" height="12" fill="rgb(248,249,251)"/>
+<rect x="189" y="330" width="1" height="12" fill="rgb(247,247,249)"/>
+<rect x="190" y="330" width="1" height="12" fill="rgb(247,245,248)"/>
+<rect x="191" y="330" width="1" height="12" fill="rgb(246,243,246)"/>
+<rect x="192" y="330" width="1" height="12" fill="rgb(246,241,244)"/>
+<rect x="193" y="330" width="1" height="12" fill="rgb(245,239,243)"/>
+<rect x="194" y="330" width="1" height="12" fill="rgb(245,237,241)"/>
+<rect x="195" y="330" width="1" height="12" fill="rgb(244,235,239)"/>
+<rect x="196" y="330" width="1" height="12" fill="rgb(244,233,238)"/>
+<rect x="197" y="330" width="1" height="12" fill="rgb(243,231,236)"/>
+<rect x="198" y="330" width="1" height="12" fill="rgb(243,229,234)"/>
+<rect x="199" y="330" width="1" height="12" fill="rgb(242,227,233)"/>
+<rect x="200" y="330" width="1" height="12" fill="rgb(242,225,231)"/>
+<rect x="201" y="330" width="1" height="12" fill="rgb(241,223,230)"/>
+<rect x="202" y="330" width="1" height="12" fill="rgb(241,221,228)"/>
+<rect x="203" y="330" width="1" height="12" fill="rgb(240,219,226)"/>
+<rect x="204" y="330" width="1" height="12" fill="rgb(240,217,225)"/>
+<rect x="205" y="330" width="1" height="12" fill="rgb(239,215,223)"/>
+<rect x="206" y="330" width="1" height="12" fill="rgb(239,213,221)"/>
+<rect x="207" y="330" width="1" height="12" fill="rgb(238,211,220)"/>
+<rect x="208" y="330" width="1" height="12" fill="rgb(238,209,218)"/>
+<rect x="209" y="330" width="1" height="12" fill="rgb(237,207,217)"/>
+<rect x="210" y="330" width="1" height="12" fill="rgb(237,205,215)"/>
+<rect x="211" y="330" width="1" height="12" fill="rgb(236,203,213)"/>
+<rect x="212" y="330" width="1" height="12" fill="rgb(236,201,212)"/>
+<rect x="213" y="330" width="1" height="12" fill="rgb(235,199,210)"/>
+<rect x="214" y="330" width="1" height="12" fill="rgb(235,197,208)"/>
+<rect x="215" y="330" width="1" height="12" fill="rgb(234,195,207)"/>
+<rect x="216" y="330" width="1" height="12" fill="rgb(234,193,205)"/>
+<rect x="217" y="330" width="1" height="12" fill="rgb(233,191,204)"/>
+<rect x="218" y="330" width="1" height="12" fill="rgb(233,189,202)"/>
+<rect x="219" y="330" width="1" height="12" fill="rgb(232,187,200)"/>
+<rect x="220" y="330" width="1" height="12" fill="rgb(232,185,199)"/>
+<rect x="221" y="330" width="1" height="12" fill="rgb(231,184,197)"/>
+<rect x="222" y="330" width="1" height="12" fill="rgb(231,182,195)"/>
+<rect x="223" y="330" width="1" height="12" fill="rgb(230,180,194)"/>
+<rect x="224" y="330" width="1" height="12" fill="rgb(230,178,192)"/>
+<rect x="225" y="330" width="1" height="12" fill="rgb(229,176,190)"/>
+<rect x="226" y="330" width="1" height="12" fill="rgb(229,174,189)"/>
+<rect x="227" y="330" width="1" height="12" fill="rgb(228,172,187)"/>
+<rect x="228" y="330" width="1" height="12" fill="rgb(228,170,186)"/>
+<rect x="229" y="330" width="1" height="12" fill="rgb(227,168,184)"/>
+<rect x="230" y="330" width="1" height="12" fill="rgb(227,166,182)"/>
+<rect x="231" y="330" width="1" height="12" fill="rgb(226,164,181)"/>
+<rect x="232" y="330" width="1" height="12" fill="rgb(226,162,179)"/>
+<rect x="233" y="330" width="1" height="12" fill="rgb(225,160,177)"/>
+<rect x="234" y="330" width="1" height="12" fill="rgb(225,158,176)"/>
+<rect x="235" y="330" width="1" height="12" fill="rgb(224,156,174)"/>
+<rect x="236" y="330" width="1" height="12" fill="rgb(224,154,173)"/>
+<rect x="237" y="330" width="1" height="12" fill="rgb(223,152,171)"/>
+<rect x="238" y="330" width="1" height="12" fill="rgb(223,150,169)"/>
+<rect x="239" y="330" width="1" height="12" fill="rgb(223,148,168)"/>
+<rect x="240" y="330" width="1" height="12" fill="rgb(222,146,166)"/>
+<rect x="241" y="330" width="1" height="12" fill="rgb(222,144,164)"/>
+<rect x="242" y="330" width="1" height="12" fill="rgb(221,142,163)"/>
+<rect x="243" y="330" width="1" height="12" fill="rgb(221,140,161)"/>
+<rect x="244" y="330" width="1" height="12" fill="rgb(220,138,159)"/>
+<rect x="245" y="330" width="1" height="12" fill="rgb(220,136,158)"/>
+<rect x="246" y="330" width="1" height="12" fill="rgb(219,134,156)"/>
+<rect x="247" y="330" width="1" height="12" fill="rgb(219,132,155)"/>
+<rect x="248" y="330" width="1" height="12" fill="rgb(218,130,153)"/>
+<rect x="249" y="330" width="1" height="12" fill="rgb(218,128,151)"/>
+<rect x="250" y="330" width="1" height="12" fill="rgb(217,126,150)"/>
+<rect x="251" y="330" width="1" height="12" fill="rgb(217,124,148)"/>
+<rect x="252" y="330" width="1" height="12" fill="rgb(216,122,146)"/>
+<rect x="253" y="330" width="1" height="12" fill="rgb(216,120,145)"/>
+<rect x="254" y="330" width="1" height="12" fill="rgb(215,118,143)"/>
+<rect x="255" y="330" width="1" height="12" fill="rgb(215,117,142)"/>
+<rect x="256" y="330" width="1" height="12" fill="rgb(214,115,140)"/>
+<rect x="257" y="330" width="1" height="12" fill="rgb(214,113,138)"/>
+<rect x="258" y="330" width="1" height="12" fill="rgb(213,111,137)"/>
+<rect x="259" y="330" width="1" height="12" fill="rgb(213,109,135)"/>
+<rect x="260" y="330" width="1" height="12" fill="rgb(212,107,133)"/>
+<rect x="261" y="330" width="1" height="12" fill="rgb(212,105,132)"/>
+<rect x="262" y="330" width="1" height="12" fill="rgb(211,103,130)"/>
+<rect x="263" y="330" width="1" height="12" fill="rgb(211,101,128)"/>
+<rect x="264" y="330" width="1" height="12" fill="rgb(210,99,127)"/>
+<rect x="265" y="330" width="1" height="12" fill="rgb(210,97,125)"/>
+<rect x="266" y="330" width="1" height="12" fill="rgb(209,95,124)"/>
+<rect x="267" y="330" width="1" height="12" fill="rgb(209,93,122)"/>
+<rect x="268" y="330" width="1" height="12" fill="rgb(208,91,120)"/>
+<rect x="269" y="330" width="1" height="12" fill="rgb(208,89,119)"/>
+<rect x="270" y="330" width="1" height="12" fill="rgb(207,87,117)"/>
+<rect x="271" y="330" width="1" height="12" fill="rgb(207,85,115)"/>
+<rect x="272" y="330" width="1" height="12" fill="rgb(206,83,114)"/>
+<rect x="273" y="330" width="1" height="12" fill="rgb(206,81,112)"/>
+<rect x="274" y="330" width="1" height="12" fill="rgb(205,79,111)"/>
+<rect x="275" y="330" width="1" height="12" fill="rgb(205,77,109)"/>
+<rect x="276" y="330" width="1" height="12" fill="rgb(204,75,107)"/>
+<rect x="277" y="330" width="1" height="12" fill="rgb(204,73,106)"/>
+<rect x="278" y="330" width="1" height="12" fill="rgb(203,71,104)"/>
+<rect x="279" y="330" width="1" height="12" fill="rgb(203,69,102)"/>
+<rect x="280" y="330" width="1" height="12" fill="rgb(202,67,101)"/>
+<rect x="281" y="330" width="1" height="12" fill="rgb(202,65,99)"/>
+<rect x="282" y="330" width="1" height="12" fill="rgb(201,63,98)"/>
+<rect x="283" y="330" width="1" height="12" fill="rgb(201,61,96)"/>
+<rect x="284" y="330" width="1" height="12" fill="rgb(200,59,94)"/>
+<rect x="285" y="330" width="1" height="12" fill="rgb(200,57,93)"/>
+<rect x="286" y="330" width="1" height="12" fill="rgb(199,55,91)"/>
+<rect x="287" y="330" width="1" height="12" fill="rgb(199,53,89)"/>
+<rect x="288" y="330" width="1" height="12" fill="rgb(198,51,88)"/>
+<rect x="289" y="330" width="1" height="12" fill="rgb(198,50,86)"/>
+<rect x="290" y="330" width="1" height="12" fill="rgb(197,48,84)"/>
+<rect x="291" y="330" width="1" height="12" fill="rgb(197,46,83)"/>
+<rect x="292" y="330" width="1" height="12" fill="rgb(196,44,81)"/>
+<rect x="293" y="330" width="1" height="12" fill="rgb(196,42,80)"/>
+<rect x="294" y="330" width="1" height="12" fill="rgb(195,40,78)"/>
+<rect x="295" y="330" width="1" height="12" fill="rgb(195,38,76)"/>
+<rect x="296" y="330" width="1" height="12" fill="rgb(194,36,75)"/>
+<rect x="297" y="330" width="1" height="12" fill="rgb(194,34,73)"/>
+<rect x="298" y="330" width="1" height="12" fill="rgb(193,32,71)"/>
+<rect x="299" y="330" width="1" height="12" fill="rgb(193,30,70)"/>
+<rect x="300" y="330" width="1" height="12" fill="rgb(192,28,68)"/>
+<rect x="301" y="330" width="1" height="12" fill="rgb(192,26,67)"/>
+<rect x="302" y="330" width="1" height="12" fill="rgb(191,24,65)"/>
+<rect x="303" y="330" width="1" height="12" fill="rgb(191,22,63)"/>
+<rect x="304" y="330" width="1" height="12" fill="rgb(190,20,62)"/>
+<rect x="305" y="330" width="1" height="12" fill="rgb(190,18,60)"/>
+<text x="86" y="360" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">-6.5</text><text x="196" y="360" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">-2.2</text><text x="306" y="360" text-anchor="end" font-family="Arial, sans-serif" font-size="11" fill="#4b5563">2.8</text>
+</svg>

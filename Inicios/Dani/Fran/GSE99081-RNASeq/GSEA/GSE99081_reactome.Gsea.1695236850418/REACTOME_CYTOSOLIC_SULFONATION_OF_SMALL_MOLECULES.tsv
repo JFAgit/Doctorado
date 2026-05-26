@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	288	0.9595756530761719	0.09898218	Yes	
+row_1	SULT4A1	sulfotransferase family 4A, member 1	571	0.7942863702774048	0.1782257	Yes	
+row_2	SULT1E1	sulfotransferase family 1E, estrogen-preferring, member 1	661	0.7585474252700806	0.26502094	Yes	
+row_3	PODXL2	podocalyxin-like 2	775	0.7103542685508728	0.3444734	Yes	
+row_4	PAPSS1	3'-phosphoadenosine 5'-phosphosulfate synthase 1	1099	0.6182475090026855	0.39977264	Yes	
+row_5	SULT1A1	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1	1293	0.5734164714813232	0.45763317	Yes	
+row_6	SLC35B3	solute carrier family 35, member B3	2184	0.4577173590660095	0.4584438	Yes	
+row_7	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1	2986	0.34449443221092224	0.45096746	Yes	
+row_8	TPST2	tyrosylprotein sulfotransferase 2	3132	0.32823148369789124	0.481959	Yes	
+row_9	SULT1C2	sulfotransferase family, cytosolic, 1C, member 2	3275	0.31256750226020813	0.5112299	Yes	
+row_10	SULT1A3	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 3	3498	0.28906843066215515	0.5327094	Yes	
+row_11	SULT2B1	sulfotransferase family, cytosolic, 2B, member 1	4029	0.24116913974285126	0.5293716	Yes	
+row_12	ABHD14B	abhydrolase domain containing 14B	4314	0.2183832973241806	0.53842914	Yes	
+row_13	SULT2A1	sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone (DHEA)-preferring, member 1	4404	0.21112270653247833	0.55862635	Yes	
+row_14	TPST1	tyrosylprotein sulfotransferase 1	4530	0.19962356984615326	0.5752049	Yes	
+row_15	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	6143	0.06475111842155457	0.48369277	No	
+row_16	SULT6B1	-	7888	0.0	0.37616456	No	
+row_17	SLC35B2	solute carrier family 35, member B2	9632	-0.008746320381760597	0.26976207	No	
+row_18	SULT1A2	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 2	13170	-0.32383766770362854	0.09108165	No	
+row_19	SULT1B1	sulfotransferase family, cytosolic, 1B, member 1	13293	-0.3383641839027405	0.124723986	No	
+row_20	SLC26A1	solute carrier family 26 (sulfate transporter), member 1	14128	-0.46732357144355774	0.13015603	No	

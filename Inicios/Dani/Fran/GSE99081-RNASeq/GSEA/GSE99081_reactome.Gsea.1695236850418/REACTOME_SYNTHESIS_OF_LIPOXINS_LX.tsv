@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALOX5	arachidonate 5-lipoxygenase	495	0.835860550403595	0.4223607	Yes	
+row_1	HPGD	hydroxyprostaglandin dehydrogenase 15-(NAD)	1419	0.5460852980613708	0.6613649	Yes	
+row_2	LTC4S	leukotriene C4 synthase	5362	0.12452664226293564	0.48602188	No	
+row_3	ALOX12	arachidonate 12-lipoxygenase	9587	-0.007011811714619398	0.2296421	No	
+row_4	ALOX5AP	arachidonate 5-lipoxygenase-activating protein	13239	-0.3322920799255371	0.18478593	No	

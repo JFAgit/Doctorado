@@ -1,0 +1,1976 @@
+nohup: ignoring input
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: AF-Q92911model_Repair.pdb
+1 models read: AF-Q92911model_Repair.pdb
+
+BackHbond       =               -512.08
+SideHbond       =               -163.60
+Energy_VdW      =               -675.19
+Electro         =               -18.18
+Energy_SolvP    =               893.46
+Energy_SolvH    =               -881.88
+Energy_vdwclash =               26.40
+energy_torsion  =               18.16
+backbone_vdwclash=              552.78
+Entropy_sidec   =               316.17
+Entropy_mainc   =               1002.58
+water bonds     =               0.00
+helix dipole    =               -1.81
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -5.14
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.16
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -0.97
+
+
+BackHbond       =               -512.08
+SideHbond       =               -163.60
+Energy_VdW      =               -675.19
+Electro         =               -18.18
+Energy_SolvP    =               893.46
+Energy_SolvH    =               -881.88
+Energy_vdwclash =               26.40
+energy_torsion  =               18.16
+backbone_vdwclash=              552.78
+Entropy_sidec   =               316.17
+Entropy_mainc   =               1002.58
+water bonds     =               0.00
+helix dipole    =               -1.81
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -5.14
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.16
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -0.97
+
+Starting BuildModel
+Reading AA102S;
+Reading AA128S;
+Reading AA180S;
+Reading AA264S;
+Reading AA264V;
+Reading AA278T;
+Reading AA281D;
+Reading AA281V;
+Reading AA296T;
+Reading AA320T;
+Reading AA347V;
+Reading AA361V;
+Reading AA37S;
+Reading AA397V;
+Reading AA447T;
+Reading AA447V;
+Reading AA44G;
+Reading AA44T;
+Reading AA44V;
+Reading AA454V;
+Reading AA460V;
+Reading AA463T;
+Reading AA481V;
+Reading AA490P;
+Reading AA490T;
+Reading AA497T;
+Reading AA518S;
+Reading AA518T;
+Reading AA518V;
+Reading AA525V;
+Reading AA533T;
+Reading AA568T;
+Reading AA623S;
+Reading RA124H;
+Reading RA124S;
+Reading RA208C;
+Reading RA208G;
+Reading RA208H;
+Reading RA208S;
+Reading RA217C;
+Reading RA217H;
+Reading RA228Q;
+Reading RA241C;
+Reading RA241H;
+Reading RA268C;
+Reading RA268H;
+Reading RA273C;
+Reading RA317C;
+Reading RA317G;
+Reading RA317H;
+Reading RA317L;
+Reading RA374Q;
+Reading RA374W;
+Reading RA376Q;
+Reading RA376W;
+Reading RA42C;
+Reading RA42L;
+Reading RA474K;
+Reading RA482H;
+Reading RA482P;
+Reading RA506T;
+Reading RA516Q;
+Reading RA516L;
+Reading RA53G;
+Reading RA53H;
+Reading RA555H;
+Reading RA569Q;
+Reading RA569W;
+Reading RA611C;
+Reading RA611H;
+Reading RA611S;
+Reading NA157K;
+Reading NA262S;
+Reading NA441K;
+Reading NA608S;
+Reading DA311N;
+Reading DA322V;
+Reading DA46H;
+Reading DA495H;
+Reading DA503N;
+Reading DA521G;
+Reading DA584Y;
+Reading CA175S;
+Reading CA298G;
+Reading CA299G;
+Reading CA299Y;
+Reading CA398R;
+Reading CA440R;
+Reading CA440G;
+Reading CA548Y;
+Reading QA267R;
+Reading QA267E;
+Reading QA41K;
+Reading QA638K;
+Reading QA639K;
+Reading QA72R;
+Reading EA334K;
+Reading EA470D;
+Reading EA470G;
+Reading EA470K;
+Reading EA5Q;
+Reading EA621Q;
+Reading GA146R;
+Reading GA161E;
+Reading GA182A;
+Reading GA183S;
+Reading GA201S;
+Reading GA209S;
+Reading GA288C;
+Reading GA288S;
+Reading GA29S;
+Reading GA31R;
+Reading GA341R;
+Reading GA35R;
+Reading GA395R;
+Reading GA409R;
+Reading GA410R;
+Reading GA425S;
+Reading GA450S;
+Reading GA532S;
+Reading GA543R;
+Reading GA597R;
+Reading GA624C;
+Reading GA631V;
+Reading GA634S;
+Reading GA75D;
+Reading GA7R;
+Reading GA7E;
+Reading GA93S;
+Reading IA229S;
+Reading IA229V;
+Reading IA284F;
+Reading IA284V;
+Reading IA432N;
+Reading IA546L;
+Reading LA100F;
+Reading LA169P;
+Reading LA22F;
+Reading LA256F;
+Reading LA289R;
+Reading LA289P;
+Reading LA313F;
+Reading LA453S;
+Reading LA498V;
+Reading LA594F;
+Reading LA605V;
+Reading LA620P;
+Reading KA276E;
+Reading KA577R;
+Reading KA600N;
+Reading MA142I;
+Reading MA142V;
+Reading MA23L;
+Reading MA258I;
+Reading MA325V;
+Reading MA362L;
+Reading MA362V;
+Reading MA420I;
+Reading MA420I;
+Reading MA435T;
+Reading MA473T;
+Reading MA473V;
+Reading FA105S;
+Reading FA177S;
+Reading FA431S;
+Reading FA436C;
+Reading FA436L;
+Reading FA523I;
+Reading FA614L;
+Reading PA216S;
+Reading PA236R;
+Reading PA236L;
+Reading PA238L;
+Reading PA337L;
+Reading PA340T;
+Reading PA380S;
+Reading PA443L;
+Reading PA443T;
+Reading PA467A;
+Reading PA500R;
+Reading PA500L;
+Reading PA508L;
+Reading PA517T;
+Reading PA552S;
+Reading PA560L;
+Reading PA602S;
+Reading PA606L;
+Reading PA628L;
+Reading SA349R;
+Reading SA396L;
+Reading SA405C;
+Reading SA416F;
+Reading SA43R;
+Reading SA505I;
+Reading SA522G;
+Reading SA547I;
+Reading SA556N;
+Reading SA78L;
+Reading TA101I;
+Reading TA171P;
+Reading TA176P;
+Reading TA179K;
+Reading TA221R;
+Reading TA221M;
+Reading TA243A;
+Reading TA252M;
+Reading TA472N;
+Reading TA536M;
+Reading TA550R;
+Reading TA607A;
+Reading TA627N;
+Reading WA15C;
+Reading WA165R;
+Reading WA189R;
+Reading WA189G;
+Reading WA33S;
+Reading YA137H;
+Reading YA150F;
+Reading YA178H;
+Reading YA307C;
+Reading VA187G;
+Reading VA188I;
+Reading VA196M;
+Reading VA213G;
+Reading VA248A;
+Reading VA248L;
+Reading VA261M;
+Reading VA266L;
+Reading VA266M;
+Reading VA270M;
+Reading VA287A;
+Reading VA293M;
+Reading VA384L;
+Reading VA445A;
+Reading VA445F;
+Reading VA588D;
+Reading VA73M;
+Reading VA99G;
+Residue to Mutate ALAA102 has residue index 101
+Residue to Mutate ALAA128 has residue index 127
+Residue to Mutate ALAA180 has residue index 179
+Residue to Mutate ALAA264 has residue index 263
+Residue to Mutate ALAA264 has residue index 263
+Residue to Mutate ALAA278 has residue index 277
+Residue to Mutate ALAA281 has residue index 280
+Residue to Mutate ALAA281 has residue index 280
+Residue to Mutate ALAA296 has residue index 295
+Residue to Mutate ALAA320 has residue index 319
+Residue to Mutate ALAA347 has residue index 346
+Residue to Mutate ALAA361 has residue index 360
+Residue to Mutate ALAA37 has residue index 36
+Residue to Mutate ALAA397 has residue index 396
+Residue to Mutate ALAA447 has residue index 446
+Residue to Mutate ALAA447 has residue index 446
+Residue to Mutate ALAA44 has residue index 43
+Residue to Mutate ALAA44 has residue index 43
+Residue to Mutate ALAA44 has residue index 43
+Residue to Mutate ALAA454 has residue index 453
+Residue to Mutate ALAA460 has residue index 459
+Residue to Mutate ALAA463 has residue index 462
+Residue to Mutate ALAA481 has residue index 480
+Residue to Mutate ALAA490 has residue index 489
+Residue to Mutate ALAA490 has residue index 489
+Residue to Mutate ALAA497 has residue index 496
+Residue to Mutate ALAA518 has residue index 517
+Residue to Mutate ALAA518 has residue index 517
+Residue to Mutate ALAA518 has residue index 517
+Residue to Mutate ALAA525 has residue index 524
+Residue to Mutate ALAA533 has residue index 532
+Residue to Mutate ALAA568 has residue index 567
+Residue to Mutate ALAA623 has residue index 622
+Residue to Mutate ARGA124 has residue index 123
+Residue to Mutate ARGA124 has residue index 123
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA208 has residue index 207
+Residue to Mutate ARGA217 has residue index 216
+Residue to Mutate ARGA217 has residue index 216
+Residue to Mutate ARGA228 has residue index 227
+Residue to Mutate ARGA241 has residue index 240
+Residue to Mutate ARGA241 has residue index 240
+Residue to Mutate ARGA268 has residue index 267
+Residue to Mutate ARGA268 has residue index 267
+Residue to Mutate ARGA273 has residue index 272
+Residue to Mutate ARGA317 has residue index 316
+Residue to Mutate ARGA317 has residue index 316
+Residue to Mutate ARGA317 has residue index 316
+Residue to Mutate ARGA317 has residue index 316
+Residue to Mutate ARGA374 has residue index 373
+Residue to Mutate ARGA374 has residue index 373
+Residue to Mutate ARGA376 has residue index 375
+Residue to Mutate ARGA376 has residue index 375
+Residue to Mutate ARGA42 has residue index 41
+Residue to Mutate ARGA42 has residue index 41
+Residue to Mutate ARGA474 has residue index 473
+Residue to Mutate ARGA482 has residue index 481
+Residue to Mutate ARGA482 has residue index 481
+Residue to Mutate ARGA506 has residue index 505
+Residue to Mutate ARGA516 has residue index 515
+Residue to Mutate ARGA516 has residue index 515
+Residue to Mutate ARGA53 has residue index 52
+Residue to Mutate ARGA53 has residue index 52
+Residue to Mutate ARGA555 has residue index 554
+Residue to Mutate ARGA569 has residue index 568
+Residue to Mutate ARGA569 has residue index 568
+Residue to Mutate ARGA611 has residue index 610
+Residue to Mutate ARGA611 has residue index 610
+Residue to Mutate ARGA611 has residue index 610
+Residue to Mutate ASNA157 has residue index 156
+Residue to Mutate ASNA262 has residue index 261
+Residue to Mutate ASNA441 has residue index 440
+Residue to Mutate ASNA608 has residue index 607
+Residue to Mutate ASPA311 has residue index 310
+Residue to Mutate ASPA322 has residue index 321
+Residue to Mutate ASPA46 has residue index 45
+Residue to Mutate ASPA495 has residue index 494
+Residue to Mutate ASPA503 has residue index 502
+Residue to Mutate ASPA521 has residue index 520
+Residue to Mutate ASPA584 has residue index 583
+Residue to Mutate CYSA175 has residue index 174
+Residue to Mutate CYSA298 has residue index 297
+Residue to Mutate CYSA299 has residue index 298
+Residue to Mutate CYSA299 has residue index 298
+Residue to Mutate CYSA398 has residue index 397
+Residue to Mutate CYSA440 has residue index 439
+Residue to Mutate CYSA440 has residue index 439
+Residue to Mutate CYSA548 has residue index 547
+Residue to Mutate GLNA267 has residue index 266
+Residue to Mutate GLNA267 has residue index 266
+Residue to Mutate GLNA41 has residue index 40
+Residue to Mutate GLNA638 has residue index 637
+Residue to Mutate GLNA639 has residue index 638
+Residue to Mutate GLNA72 has residue index 71
+Residue to Mutate GLUA334 has residue index 333
+Residue to Mutate GLUA470 has residue index 469
+Residue to Mutate GLUA470 has residue index 469
+Residue to Mutate GLUA470 has residue index 469
+Residue to Mutate GLUA5 has residue index 4
+Residue to Mutate GLUA621 has residue index 620
+Residue to Mutate GLYA146 has residue index 145
+Residue to Mutate GLYA161 has residue index 160
+Residue to Mutate GLYA182 has residue index 181
+Residue to Mutate GLYA183 has residue index 182
+Residue to Mutate GLYA201 has residue index 200
+Residue to Mutate GLYA209 has residue index 208
+Residue to Mutate GLYA288 has residue index 287
+Residue to Mutate GLYA288 has residue index 287
+Residue to Mutate GLYA29 has residue index 28
+Residue to Mutate GLYA31 has residue index 30
+Residue to Mutate GLYA341 has residue index 340
+Residue to Mutate GLYA35 has residue index 34
+Residue to Mutate GLYA395 has residue index 394
+Residue to Mutate GLYA409 has residue index 408
+Residue to Mutate GLYA410 has residue index 409
+Residue to Mutate GLYA425 has residue index 424
+Residue to Mutate GLYA450 has residue index 449
+Residue to Mutate GLYA532 has residue index 531
+Residue to Mutate GLYA543 has residue index 542
+Residue to Mutate GLYA597 has residue index 596
+Residue to Mutate GLYA624 has residue index 623
+Residue to Mutate GLYA631 has residue index 630
+Residue to Mutate GLYA634 has residue index 633
+Residue to Mutate GLYA75 has residue index 74
+Residue to Mutate GLYA7 has residue index 6
+Residue to Mutate GLYA7 has residue index 6
+Residue to Mutate GLYA93 has residue index 92
+Residue to Mutate ILEA229 has residue index 228
+Residue to Mutate ILEA229 has residue index 228
+Residue to Mutate ILEA284 has residue index 283
+Residue to Mutate ILEA284 has residue index 283
+Residue to Mutate ILEA432 has residue index 431
+Residue to Mutate ILEA546 has residue index 545
+Residue to Mutate LEUA100 has residue index 99
+Residue to Mutate LEUA169 has residue index 168
+Residue to Mutate LEUA22 has residue index 21
+Residue to Mutate LEUA256 has residue index 255
+Residue to Mutate LEUA289 has residue index 288
+Residue to Mutate LEUA289 has residue index 288
+Residue to Mutate LEUA313 has residue index 312
+Residue to Mutate LEUA453 has residue index 452
+Residue to Mutate LEUA498 has residue index 497
+Residue to Mutate LEUA594 has residue index 593
+Residue to Mutate LEUA605 has residue index 604
+Residue to Mutate LEUA620 has residue index 619
+Residue to Mutate LYSA276 has residue index 275
+Residue to Mutate LYSA577 has residue index 576
+Residue to Mutate LYSA600 has residue index 599
+Residue to Mutate META142 has residue index 141
+Residue to Mutate META142 has residue index 141
+Residue to Mutate META23 has residue index 22
+Residue to Mutate META258 has residue index 257
+Residue to Mutate META325 has residue index 324
+Residue to Mutate META362 has residue index 361
+Residue to Mutate META362 has residue index 361
+Residue to Mutate META420 has residue index 419
+Residue to Mutate META420 has residue index 419
+Residue to Mutate META435 has residue index 434
+Residue to Mutate META473 has residue index 472
+Residue to Mutate META473 has residue index 472
+Residue to Mutate PHEA105 has residue index 104
+Residue to Mutate PHEA177 has residue index 176
+Residue to Mutate PHEA431 has residue index 430
+Residue to Mutate PHEA436 has residue index 435
+Residue to Mutate PHEA436 has residue index 435
+Residue to Mutate PHEA523 has residue index 522
+Residue to Mutate PHEA614 has residue index 613
+Residue to Mutate PROA216 has residue index 215
+Residue to Mutate PROA236 has residue index 235
+Residue to Mutate PROA236 has residue index 235
+Residue to Mutate PROA238 has residue index 237
+Residue to Mutate PROA337 has residue index 336
+Residue to Mutate PROA340 has residue index 339
+Residue to Mutate PROA380 has residue index 379
+Residue to Mutate PROA443 has residue index 442
+Residue to Mutate PROA443 has residue index 442
+Residue to Mutate PROA467 has residue index 466
+Residue to Mutate PROA500 has residue index 499
+Residue to Mutate PROA500 has residue index 499
+Residue to Mutate PROA508 has residue index 507
+Residue to Mutate PROA517 has residue index 516
+Residue to Mutate PROA552 has residue index 551
+Residue to Mutate PROA560 has residue index 559
+Residue to Mutate PROA602 has residue index 601
+Residue to Mutate PROA606 has residue index 605
+Residue to Mutate PROA628 has residue index 627
+Residue to Mutate SERA349 has residue index 348
+Residue to Mutate SERA396 has residue index 395
+Residue to Mutate SERA405 has residue index 404
+Residue to Mutate SERA416 has residue index 415
+Residue to Mutate SERA43 has residue index 42
+Residue to Mutate SERA505 has residue index 504
+Residue to Mutate SERA522 has residue index 521
+Residue to Mutate SERA547 has residue index 546
+Residue to Mutate SERA556 has residue index 555
+Residue to Mutate SERA78 has residue index 77
+Residue to Mutate THRA101 has residue index 100
+Residue to Mutate THRA171 has residue index 170
+Residue to Mutate THRA176 has residue index 175
+Residue to Mutate THRA179 has residue index 178
+Residue to Mutate THRA221 has residue index 220
+Residue to Mutate THRA221 has residue index 220
+Residue to Mutate THRA243 has residue index 242
+Residue to Mutate THRA252 has residue index 251
+Residue to Mutate THRA472 has residue index 471
+Residue to Mutate THRA536 has residue index 535
+Residue to Mutate THRA550 has residue index 549
+Residue to Mutate THRA607 has residue index 606
+Residue to Mutate THRA627 has residue index 626
+Residue to Mutate TRPA15 has residue index 14
+Residue to Mutate TRPA165 has residue index 164
+Residue to Mutate TRPA189 has residue index 188
+Residue to Mutate TRPA189 has residue index 188
+Residue to Mutate TRPA33 has residue index 32
+Residue to Mutate TYRA137 has residue index 136
+Residue to Mutate TYRA150 has residue index 149
+Residue to Mutate TYRA178 has residue index 177
+Residue to Mutate TYRA307 has residue index 306
+Residue to Mutate VALA187 has residue index 186
+Residue to Mutate VALA188 has residue index 187
+Residue to Mutate VALA196 has residue index 195
+Residue to Mutate VALA213 has residue index 212
+Residue to Mutate VALA248 has residue index 247
+Residue to Mutate VALA248 has residue index 247
+Residue to Mutate VALA261 has residue index 260
+Residue to Mutate VALA266 has residue index 265
+Residue to Mutate VALA266 has residue index 265
+Residue to Mutate VALA270 has residue index 269
+Residue to Mutate VALA287 has residue index 286
+Residue to Mutate VALA293 has residue index 292
+Residue to Mutate VALA384 has residue index 383
+Residue to Mutate VALA445 has residue index 444
+Residue to Mutate VALA445 has residue index 444
+Residue to Mutate VALA588 has residue index 587
+Residue to Mutate VALA73 has residue index 72
+Residue to Mutate VALA99 has residue index 98
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA180 into SER
+Mutating residue = ALAA180 into SER
+Mutating residue = ALAA180 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA397 into VAL
+Mutating residue = ALAA397 into VAL
+Mutating residue = ALAA397 into VAL
+Mutating residue = ALAA447 into THR
+Mutating residue = ALAA447 into THR
+Mutating residue = ALAA447 into THR
+Mutating residue = ALAA447 into VAL
+Mutating residue = ALAA447 into VAL
+Mutating residue = ALAA447 into VAL
+Mutating residue = ALAA44 into GLY
+Mutating residue = ALAA44 into GLY
+Mutating residue = ALAA44 into GLY
+Mutating residue = ALAA44 into THR
+Mutating residue = ALAA44 into THR
+Mutating residue = ALAA44 into THR
+Mutating residue = ALAA44 into VAL
+Mutating residue = ALAA44 into VAL
+Mutating residue = ALAA44 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA490 into PRO
+Mutating residue = ALAA490 into PRO
+Mutating residue = ALAA490 into PRO
+Mutating residue = ALAA490 into THR
+Mutating residue = ALAA490 into THR
+Mutating residue = ALAA490 into THR
+Mutating residue = ALAA497 into THR
+Mutating residue = ALAA497 into THR
+Mutating residue = ALAA497 into THR
+Mutating residue = ALAA518 into SER
+Mutating residue = ALAA518 into SER
+Mutating residue = ALAA518 into SER
+Mutating residue = ALAA518 into THR
+Mutating residue = ALAA518 into THR
+Mutating residue = ALAA518 into THR
+Mutating residue = ALAA518 into VAL
+Mutating residue = ALAA518 into VAL
+Mutating residue = ALAA518 into VAL
+Mutating residue = ALAA525 into VAL
+Mutating residue = ALAA525 into VAL
+Mutating residue = ALAA525 into VAL
+Mutating residue = ALAA533 into THR
+Mutating residue = ALAA533 into THR
+Mutating residue = ALAA533 into THR
+Mutating residue = ALAA568 into THR
+Mutating residue = ALAA568 into THR
+Mutating residue = ALAA568 into THR
+Mutating residue = ALAA623 into SER
+Mutating residue = ALAA623 into SER
+Mutating residue = ALAA623 into SER
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into HIS
+Mutating residue = ARGA268 into HIS
+Mutating residue = ARGA268 into HIS
+Mutating residue = ARGA273 into CYS
+Mutating residue = ARGA273 into CYS
+Mutating residue = ARGA273 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into TRP
+Mutating residue = ARGA374 into TRP
+Mutating residue = ARGA374 into TRP
+Mutating residue = ARGA376 into GLN
+Mutating residue = ARGA376 into GLN
+Mutating residue = ARGA376 into GLN
+Mutating residue = ARGA376 into TRP
+Mutating residue = ARGA376 into TRP
+Mutating residue = ARGA376 into TRP
+Mutating residue = ARGA42 into CYS
+Mutating residue = ARGA42 into CYS
+Mutating residue = ARGA42 into CYS
+Mutating residue = ARGA42 into LEU
+Mutating residue = ARGA42 into LEU
+Mutating residue = ARGA42 into LEU
+Mutating residue = ARGA474 into LYS
+Mutating residue = ARGA474 into LYS
+Mutating residue = ARGA474 into LYS
+Mutating residue = ARGA482 into HIS
+Mutating residue = ARGA482 into HIS
+Mutating residue = ARGA482 into HIS
+Mutating residue = ARGA482 into PRO
+Mutating residue = ARGA482 into PRO
+Mutating residue = ARGA482 into PRO
+Mutating residue = ARGA506 into THR
+Mutating residue = ARGA506 into THR
+Mutating residue = ARGA506 into THR
+Mutating residue = ARGA516 into GLN
+Mutating residue = ARGA516 into GLN
+Mutating residue = ARGA516 into GLN
+Mutating residue = ARGA516 into LEU
+Mutating residue = ARGA516 into LEU
+Mutating residue = ARGA516 into LEU
+Mutating residue = ARGA53 into GLY
+Mutating residue = ARGA53 into GLY
+Mutating residue = ARGA53 into GLY
+Mutating residue = ARGA53 into HIS
+Mutating residue = ARGA53 into HIS
+Mutating residue = ARGA53 into HIS
+Mutating residue = ARGA555 into HIS
+Mutating residue = ARGA555 into HIS
+Mutating residue = ARGA555 into HIS
+Mutating residue = ARGA569 into GLN
+Mutating residue = ARGA569 into GLN
+Mutating residue = ARGA569 into GLN
+Mutating residue = ARGA569 into TRP
+Mutating residue = ARGA569 into TRP
+Mutating residue = ARGA569 into TRP
+Mutating residue = ARGA611 into CYS
+Mutating residue = ARGA611 into CYS
+Mutating residue = ARGA611 into CYS
+Mutating residue = ARGA611 into HIS
+Mutating residue = ARGA611 into HIS
+Mutating residue = ARGA611 into HIS
+Mutating residue = ARGA611 into SER
+Mutating residue = ARGA611 into SER
+Mutating residue = ARGA611 into SER
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASNA608 into SER
+Mutating residue = ASNA608 into SER
+Mutating residue = ASNA608 into SER
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA46 into HIS
+Mutating residue = ASPA46 into HIS
+Mutating residue = ASPA46 into HIS
+Mutating residue = ASPA495 into HIS
+Mutating residue = ASPA495 into HIS
+Mutating residue = ASPA495 into HIS
+Mutating residue = ASPA503 into ASN
+Mutating residue = ASPA503 into ASN
+Mutating residue = ASPA503 into ASN
+Mutating residue = ASPA521 into GLY
+Mutating residue = ASPA521 into GLY
+Mutating residue = ASPA521 into GLY
+Mutating residue = ASPA584 into TYR
+Mutating residue = ASPA584 into TYR
+Mutating residue = ASPA584 into TYR
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into GLY
+Mutating residue = CYSA440 into GLY
+Mutating residue = CYSA440 into GLY
+Mutating residue = CYSA548 into TYR
+Mutating residue = CYSA548 into TYR
+Mutating residue = CYSA548 into TYR
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA41 into LYS
+Mutating residue = GLNA41 into LYS
+Mutating residue = GLNA41 into LYS
+Mutating residue = GLNA638 into LYS
+Mutating residue = GLNA638 into LYS
+Mutating residue = GLNA638 into LYS
+Mutating residue = GLNA639 into LYS
+Mutating residue = GLNA639 into LYS
+Mutating residue = GLNA639 into LYS
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLUA5 into GLN
+Mutating residue = GLUA5 into GLN
+Mutating residue = GLUA5 into GLN
+Mutating residue = GLUA621 into GLN
+Mutating residue = GLUA621 into GLN
+Mutating residue = GLUA621 into GLN
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA425 into SER
+Mutating residue = GLYA425 into SER
+Mutating residue = GLYA425 into SER
+Mutating residue = GLYA450 into SER
+Mutating residue = GLYA450 into SER
+Mutating residue = GLYA450 into SER
+Mutating residue = GLYA532 into SER
+Mutating residue = GLYA532 into SER
+Mutating residue = GLYA532 into SER
+Mutating residue = GLYA543 into ARG
+Mutating residue = GLYA543 into ARG
+Mutating residue = GLYA543 into ARG
+Mutating residue = GLYA597 into ARG
+Mutating residue = GLYA597 into ARG
+Mutating residue = GLYA597 into ARG
+Mutating residue = GLYA624 into CYS
+Mutating residue = GLYA624 into CYS
+Mutating residue = GLYA624 into CYS
+Mutating residue = GLYA631 into VAL
+Mutating residue = GLYA631 into VAL
+Mutating residue = GLYA631 into VAL
+Mutating residue = GLYA634 into SER
+Mutating residue = GLYA634 into SER
+Mutating residue = GLYA634 into SER
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA7 into ARG
+Mutating residue = GLYA7 into ARG
+Mutating residue = GLYA7 into ARG
+Mutating residue = GLYA7 into GLU
+Mutating residue = GLYA7 into GLU
+Mutating residue = GLYA7 into GLU
+Mutating residue = GLYA93 into SER
+Mutating residue = GLYA93 into SER
+Mutating residue = GLYA93 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into VAL
+Mutating residue = ILEA229 into VAL
+Mutating residue = ILEA229 into VAL
+Mutating residue = ILEA284 into PHE
+Mutating residue = ILEA284 into PHE
+Mutating residue = ILEA284 into PHE
+Mutating residue = ILEA284 into VAL
+Mutating residue = ILEA284 into VAL
+Mutating residue = ILEA284 into VAL
+Mutating residue = ILEA432 into ASN
+Mutating residue = ILEA432 into ASN
+Mutating residue = ILEA432 into ASN
+Mutating residue = ILEA546 into LEU
+Mutating residue = ILEA546 into LEU
+Mutating residue = ILEA546 into LEU
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA169 into PRO
+Mutating residue = LEUA169 into PRO
+Mutating residue = LEUA169 into PRO
+Mutating residue = LEUA22 into PHE
+Mutating residue = LEUA22 into PHE
+Mutating residue = LEUA22 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA453 into SER
+Mutating residue = LEUA453 into SER
+Mutating residue = LEUA453 into SER
+Mutating residue = LEUA498 into VAL
+Mutating residue = LEUA498 into VAL
+Mutating residue = LEUA498 into VAL
+Mutating residue = LEUA594 into PHE
+Mutating residue = LEUA594 into PHE
+Mutating residue = LEUA594 into PHE
+Mutating residue = LEUA605 into VAL
+Mutating residue = LEUA605 into VAL
+Mutating residue = LEUA605 into VAL
+Mutating residue = LEUA620 into PRO
+Mutating residue = LEUA620 into PRO
+Mutating residue = LEUA620 into PRO
+Mutating residue = LYSA276 into GLU
+Mutating residue = LYSA276 into GLU
+Mutating residue = LYSA276 into GLU
+Mutating residue = LYSA577 into ARG
+Mutating residue = LYSA577 into ARG
+Mutating residue = LYSA577 into ARG
+Mutating residue = LYSA600 into ASN
+Mutating residue = LYSA600 into ASN
+Mutating residue = LYSA600 into ASN
+Mutating residue = META142 into ILE
+Mutating residue = META142 into ILE
+Mutating residue = META142 into ILE
+Mutating residue = META142 into VAL
+Mutating residue = META142 into VAL
+Mutating residue = META142 into VAL
+Mutating residue = META23 into LEU
+Mutating residue = META23 into LEU
+Mutating residue = META23 into LEU
+Mutating residue = META258 into ILE
+Mutating residue = META258 into ILE
+Mutating residue = META258 into ILE
+Mutating residue = META325 into VAL
+Mutating residue = META325 into VAL
+Mutating residue = META325 into VAL
+Mutating residue = META362 into LEU
+Mutating residue = META362 into LEU
+Mutating residue = META362 into LEU
+Mutating residue = META362 into VAL
+Mutating residue = META362 into VAL
+Mutating residue = META362 into VAL
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META435 into THR
+Mutating residue = META435 into THR
+Mutating residue = META435 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into VAL
+Mutating residue = META473 into VAL
+Mutating residue = META473 into VAL
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA177 into SER
+Mutating residue = PHEA177 into SER
+Mutating residue = PHEA177 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = PHEA436 into CYS
+Mutating residue = PHEA436 into CYS
+Mutating residue = PHEA436 into CYS
+Mutating residue = PHEA436 into LEU
+Mutating residue = PHEA436 into LEU
+Mutating residue = PHEA436 into LEU
+Mutating residue = PHEA523 into ILE
+Mutating residue = PHEA523 into ILE
+Mutating residue = PHEA523 into ILE
+Mutating residue = PHEA614 into LEU
+Mutating residue = PHEA614 into LEU
+Mutating residue = PHEA614 into LEU
+Mutating residue = PROA216 into SER
+Mutating residue = PROA216 into SER
+Mutating residue = PROA216 into SER
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA340 into THR
+Mutating residue = PROA340 into THR
+Mutating residue = PROA340 into THR
+Mutating residue = PROA380 into SER
+Mutating residue = PROA380 into SER
+Mutating residue = PROA380 into SER
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into THR
+Mutating residue = PROA443 into THR
+Mutating residue = PROA443 into THR
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA500 into ARG
+Mutating residue = PROA500 into ARG
+Mutating residue = PROA500 into ARG
+Mutating residue = PROA500 into LEU
+Mutating residue = PROA500 into LEU
+Mutating residue = PROA500 into LEU
+Mutating residue = PROA508 into LEU
+Mutating residue = PROA508 into LEU
+Mutating residue = PROA508 into LEU
+Mutating residue = PROA517 into THR
+Mutating residue = PROA517 into THR
+Mutating residue = PROA517 into THR
+Mutating residue = PROA552 into SER
+Mutating residue = PROA552 into SER
+Mutating residue = PROA552 into SER
+Mutating residue = PROA560 into LEU
+Mutating residue = PROA560 into LEU
+Mutating residue = PROA560 into LEU
+Mutating residue = PROA602 into SER
+Mutating residue = PROA602 into SER
+Mutating residue = PROA602 into SER
+Mutating residue = PROA606 into LEU
+Mutating residue = PROA606 into LEU
+Mutating residue = PROA606 into LEU
+Mutating residue = PROA628 into LEU
+Mutating residue = PROA628 into LEU
+Mutating residue = PROA628 into LEU
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA416 into PHE
+Mutating residue = SERA416 into PHE
+Mutating residue = SERA416 into PHE
+Mutating residue = SERA43 into ARG
+Mutating residue = SERA43 into ARG
+Mutating residue = SERA43 into ARG
+Mutating residue = SERA505 into ILE
+Mutating residue = SERA505 into ILE
+Mutating residue = SERA505 into ILE
+Mutating residue = SERA522 into GLY
+Mutating residue = SERA522 into GLY
+Mutating residue = SERA522 into GLY
+Mutating residue = SERA547 into ILE
+Mutating residue = SERA547 into ILE
+Mutating residue = SERA547 into ILE
+Mutating residue = SERA556 into ASN
+Mutating residue = SERA556 into ASN
+Mutating residue = SERA556 into ASN
+Mutating residue = SERA78 into LEU
+Mutating residue = SERA78 into LEU
+Mutating residue = SERA78 into LEU
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA179 into LYS
+Mutating residue = THRA179 into LYS
+Mutating residue = THRA179 into LYS
+Mutating residue = THRA221 into ARG
+Mutating residue = THRA221 into ARG
+Mutating residue = THRA221 into ARG
+Mutating residue = THRA221 into MET
+Mutating residue = THRA221 into MET
+Mutating residue = THRA221 into MET
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA252 into MET
+Mutating residue = THRA252 into MET
+Mutating residue = THRA252 into MET
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA536 into MET
+Mutating residue = THRA536 into MET
+Mutating residue = THRA536 into MET
+Mutating residue = THRA550 into ARG
+Mutating residue = THRA550 into ARG
+Mutating residue = THRA550 into ARG
+Mutating residue = THRA607 into ALA
+Mutating residue = THRA607 into ALA
+Mutating residue = THRA607 into ALA
+Mutating residue = THRA627 into ASN
+Mutating residue = THRA627 into ASN
+Mutating residue = THRA627 into ASN
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA33 into SER
+Mutating residue = TRPA33 into SER
+Mutating residue = TRPA33 into SER
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA307 into CYS
+Mutating residue = TYRA307 into CYS
+Mutating residue = TYRA307 into CYS
+Mutating residue = VALA187 into GLY
+Mutating residue = VALA187 into GLY
+Mutating residue = VALA187 into GLY
+Mutating residue = VALA188 into ILE
+Mutating residue = VALA188 into ILE
+Mutating residue = VALA188 into ILE
+Mutating residue = VALA196 into MET
+Mutating residue = VALA196 into MET
+Mutating residue = VALA196 into MET
+Mutating residue = VALA213 into GLY
+Mutating residue = VALA213 into GLY
+Mutating residue = VALA213 into GLY
+Mutating residue = VALA248 into ALA
+Mutating residue = VALA248 into ALA
+Mutating residue = VALA248 into ALA
+Mutating residue = VALA248 into LEU
+Mutating residue = VALA248 into LEU
+Mutating residue = VALA248 into LEU
+Mutating residue = VALA261 into MET
+Mutating residue = VALA261 into MET
+Mutating residue = VALA261 into MET
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into MET
+Mutating residue = VALA266 into MET
+Mutating residue = VALA266 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = VALA287 into ALA
+Mutating residue = VALA287 into ALA
+Mutating residue = VALA287 into ALA
+Mutating residue = VALA293 into MET
+Mutating residue = VALA293 into MET
+Mutating residue = VALA293 into MET
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA588 into ASP
+Mutating residue = VALA588 into ASP
+Mutating residue = VALA588 into ASP
+Mutating residue = VALA73 into MET
+Mutating residue = VALA73 into MET
+Mutating residue = VALA73 into MET
+Mutating residue = VALA99 into GLY
+Mutating residue = VALA99 into GLY
+Mutating residue = VALA99 into GLY
+Your file run OK
+End time of FoldX: Tue Apr 21 22:35:55 2026
+Total time spend: 4374.29 seconds.
+validated file "AF-Q92911model_Repair_1_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_1_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_1_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_2_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_2_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_2_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_3_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_3_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_3_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_4_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_4_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_4_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_5_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_5_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_5_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_6_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_6_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_6_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_7_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_7_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_7_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_8_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_8_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_8_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_9_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_9_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_9_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_10_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_10_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_10_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_11_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_11_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_11_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_12_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_12_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_12_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_13_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_13_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_13_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_14_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_14_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_14_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_15_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_15_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_15_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_16_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_16_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_16_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_17_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_17_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_17_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_18_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_18_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_18_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_19_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_19_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_19_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_20_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_20_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_20_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_21_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_21_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_21_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_22_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_22_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_22_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_23_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_23_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_23_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_24_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_24_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_24_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_25_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_25_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_25_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_26_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_26_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_26_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_27_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_27_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_27_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_28_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_28_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_28_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_29_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_29_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_29_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_30_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_30_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_30_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_31_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_31_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_31_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_32_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_32_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_32_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_33_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_33_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_33_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_34_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_34_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_34_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_35_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_35_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_35_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_36_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_36_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_36_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_37_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_37_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_37_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_38_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_38_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_38_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_39_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_39_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_39_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_40_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_40_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_40_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_41_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_41_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_41_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_42_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_42_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_42_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_43_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_43_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_43_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_44_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_44_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_44_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_45_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_45_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_45_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_46_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_46_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_46_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_47_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_47_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_47_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_48_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_48_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_48_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_49_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_49_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_49_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_50_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_50_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_50_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_51_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_51_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_51_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_52_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_52_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_52_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_53_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_53_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_53_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_54_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_54_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_54_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_55_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_55_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_55_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_56_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_56_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_56_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_57_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_57_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_57_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_58_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_58_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_58_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_59_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_59_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_59_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_60_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_60_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_60_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_61_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_61_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_61_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_62_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_62_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_62_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_63_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_63_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_63_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_64_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_64_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_64_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_65_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_65_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_65_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_66_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_66_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_66_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_67_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_67_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_67_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_68_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_68_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_68_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_69_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_69_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_69_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_70_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_70_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_70_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_71_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_71_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_71_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_72_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_72_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_72_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_73_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_73_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_73_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_74_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_74_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_74_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_75_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_75_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_75_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_76_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_76_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_76_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_77_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_77_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_77_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_78_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_78_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_78_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_79_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_79_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_79_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_80_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_80_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_80_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_81_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_81_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_81_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_82_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_82_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_82_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_83_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_83_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_83_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_84_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_84_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_84_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_85_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_85_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_85_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_86_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_86_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_86_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_87_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_87_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_87_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_88_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_88_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_88_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_89_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_89_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_89_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_90_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_90_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_90_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_91_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_91_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_91_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_92_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_92_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_92_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_93_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_93_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_93_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_94_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_94_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_94_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_95_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_95_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_95_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_96_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_96_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_96_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_97_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_97_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_97_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_98_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_98_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_98_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_99_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_99_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_99_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_100_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_100_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_100_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_101_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_101_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_101_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_102_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_102_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_102_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_103_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_103_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_103_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_104_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_104_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_104_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_105_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_105_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_105_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_106_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_106_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_106_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_107_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_107_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_107_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_108_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_108_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_108_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_109_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_109_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_109_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_110_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_110_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_110_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_111_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_111_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_111_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_112_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_112_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_112_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_113_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_113_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_113_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_114_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_114_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_114_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_115_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_115_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_115_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_116_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_116_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_116_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_117_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_117_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_117_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_118_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_118_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_118_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_119_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_119_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_119_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_120_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_120_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_120_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_121_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_121_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_121_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_122_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_122_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_122_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_123_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_123_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_123_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_124_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_124_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_124_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_125_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_125_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_125_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_126_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_126_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_126_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_127_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_127_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_127_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_128_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_128_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_128_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_129_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_129_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_129_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_130_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_130_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_130_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_131_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_131_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_131_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_132_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_132_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_132_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_133_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_133_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_133_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_134_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_134_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_134_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_135_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_135_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_135_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_136_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_136_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_136_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_137_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_137_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_137_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_138_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_138_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_138_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_139_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_139_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_139_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_140_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_140_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_140_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_141_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_141_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_141_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_142_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_142_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_142_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_143_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_143_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_143_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_144_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_144_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_144_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_145_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_145_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_145_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_146_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_146_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_146_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_147_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_147_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_147_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_148_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_148_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_148_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_149_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_149_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_149_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_150_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_150_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_150_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_151_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_151_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_151_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_152_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_152_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_152_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_153_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_153_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_153_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_154_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_154_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_154_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_155_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_155_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_155_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_156_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_156_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_156_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_157_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_157_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_157_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_158_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_158_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_158_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_159_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_159_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_159_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_160_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_160_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_160_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_161_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_161_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_161_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_162_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_162_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_162_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_163_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_163_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_163_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_164_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_164_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_164_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_165_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_165_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_165_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_166_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_166_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_166_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_167_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_167_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_167_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_168_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_168_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_168_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_169_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_169_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_169_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_170_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_170_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_170_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_171_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_171_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_171_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_172_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_172_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_172_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_173_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_173_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_173_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_174_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_174_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_174_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_175_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_175_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_175_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_176_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_176_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_176_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_177_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_177_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_177_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_178_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_178_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_178_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_179_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_179_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_179_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_180_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_180_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_180_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_181_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_181_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_181_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_182_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_182_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_182_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_183_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_183_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_183_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_184_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_184_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_184_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_185_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_185_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_185_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_186_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_186_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_186_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_187_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_187_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_187_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_188_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_188_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_188_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_189_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_189_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_189_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_190_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_190_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_190_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_191_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_191_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_191_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_192_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_192_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_192_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_193_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_193_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_193_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_194_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_194_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_194_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_195_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_195_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_195_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_196_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_196_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_196_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_197_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_197_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_197_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_198_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_198_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_198_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_199_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_199_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_199_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_200_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_200_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_200_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_201_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_201_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_201_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_202_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_202_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_202_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_203_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_203_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_203_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_204_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_204_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_204_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_205_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_205_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_205_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_206_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_206_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_206_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_207_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_207_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_207_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_208_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_208_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_208_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_209_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_209_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_209_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_210_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_210_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_210_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_211_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_211_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_211_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_212_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_212_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_212_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_213_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_213_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_213_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_214_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_214_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_214_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_215_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_215_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_215_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_216_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_216_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_216_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_217_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_217_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_217_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_218_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_218_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_218_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_219_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_219_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_219_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_220_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_220_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_220_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_221_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_221_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_221_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_222_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_222_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_222_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_223_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_223_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_223_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_224_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_224_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_224_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_225_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_225_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_225_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_226_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_226_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_226_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_227_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_227_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_227_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_228_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_228_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_228_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_229_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_229_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_229_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_230_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_230_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_230_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_231_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_231_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_231_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_232_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_232_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_232_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_233_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_233_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_233_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_234_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_234_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_234_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_235_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_235_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_235_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_236_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_236_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_236_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_237_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_237_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_237_2.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_238_0.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_238_1.pdb" => successfully finished
+validated file "AF-Q92911model_Repair_238_2.pdb" => successfully finished
+Cleaning BuildModel...DONE

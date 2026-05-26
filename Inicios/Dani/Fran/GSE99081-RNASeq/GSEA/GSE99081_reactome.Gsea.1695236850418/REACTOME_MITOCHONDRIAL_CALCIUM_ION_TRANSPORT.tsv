@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PMPCA	peptidase (mitochondrial processing) alpha	1673	0.5004262328147888	-0.040281285	No	
+row_1	PARL	presenilin associated, rhomboid-like	2007	0.48258188366889954	-2.1441854E-4	No	
+row_2	PMPCB	peptidase (mitochondrial processing) beta	2885	0.35434287786483765	-0.009777157	No	
+row_3	STOML2	stomatin (EPB72)-like 2	3339	0.3052949607372284	6.343891E-4	No	
+row_4	PHB2	prohibitin 2	5191	0.13799864053726196	-0.09612235	No	
+row_5	LETM1	leucine zipper-EF-hand containing transmembrane protein 1	5227	0.13519413769245148	-0.08130516	No	
+row_6	SPG7	spastic paraplegia 7, paraplegin (pure and complicated autosomal recessive)	5769	0.09265673905611038	-0.103015214	No	
+row_7	SLC8A3	solute carrier family 8 (sodium-calcium exchanger), member 3	7281	2.5047500002983725E-6	-0.1961428	No	
+row_8	YME1L1	YME1-like 1 (S. cerevisiae)	9783	-0.01557396911084652	-0.34833226	No	
+row_9	AFG3L2	AFG3 ATPase family gene 3-like 2 (yeast)	9989	-0.02519756369292736	-0.35780337	No	
+row_10	VDAC1	voltage-dependent anion channel 1	10627	-0.06892827153205872	-0.38840947	No	
+row_11	AKAP1	A kinase (PRKA) anchor protein 1	11484	-0.14620836079120636	-0.42281032	No	
+row_12	VDAC2	voltage-dependent anion channel 2	13387	-0.34922540187835693	-0.49618968	No	
+row_13	PHB	prohibitin	15623	-0.8987775444984436	-0.5210937	Yes	
+row_14	VDAC3	voltage-dependent anion channel 3	16224	-4.45220422744751	9.244729E-4	Yes	

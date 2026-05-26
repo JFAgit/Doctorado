@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	-0.017294675	No	
+row_1	OAZ2	ornithine decarboxylase antizyme 2	1311	0.5697261691093445	-0.03375631	No	
+row_2	ODC1	ornithine decarboxylase 1	1448	0.5386582612991333	-0.022730071	No	
+row_3	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.11455302	No	
+row_4	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.14007401	No	
+row_5	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.13268529	No	
+row_6	OAZ1	ornithine decarboxylase antizyme 1	3966	0.2450312077999115	-0.13824387	No	
+row_7	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.13063854	No	
+row_8	OAZ3	ornithine decarboxylase antizyme 3	4070	0.2375498265028	-0.12719856	No	
+row_9	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.13931015	No	
+row_10	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.15989272	No	
+row_11	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.18043956	No	
+row_12	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.18159865	No	
+row_13	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.19807902	No	
+row_14	AGMAT	agmatine ureohydrolase (agmatinase)	6235	0.058303702622652054	-0.2315049	No	
+row_15	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.23664674	No	
+row_16	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.2548882	No	
+row_17	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.25693417	No	
+row_18	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.265128	No	
+row_19	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.27675575	No	
+row_20	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.43314585	No	
+row_21	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.44253147	No	
+row_22	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.46343908	No	
+row_23	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.48123172	No	
+row_24	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.48223165	No	
+row_25	SRM	spermidine synthase	10743	-0.07938259840011597	-0.49598962	No	
+row_26	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.49632588	No	
+row_27	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.49555212	No	
+row_28	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.5023733	No	
+row_29	NQO1	NAD(P)H dehydrogenase, quinone 1	11291	-0.12848256528377533	-0.5150399	No	
+row_30	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.52424496	No	
+row_31	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.5373942	No	
+row_32	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.5346905	No	
+row_33	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.5287242	No	
+row_34	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.57807064	No	
+row_35	AZIN1	antizyme inhibitor 1	12893	-0.2872377336025238	-0.5677717	No	
+row_36	PAOX	polyamine oxidase (exo-N4-amino)	13310	-0.3400178551673889	-0.5812115	No	
+row_37	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.58333653	No	
+row_38	SMOX	spermine oxidase	14092	-0.4602905511856079	-0.5992967	No	
+row_39	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.6025793	Yes	
+row_40	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.597669	Yes	
+row_41	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.58331686	Yes	
+row_42	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.5646088	Yes	
+row_43	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.5526988	Yes	
+row_44	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.5387632	Yes	
+row_45	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.5326187	Yes	
+row_46	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.5031636	Yes	
+row_47	AMD1	adenosylmethionine decarboxylase 1	15544	-0.8555983901023865	-0.47341406	Yes	
+row_48	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.4474725	Yes	
+row_49	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.41321573	Yes	
+row_50	SMS	spermine synthase	15799	-1.118388295173645	-0.37509948	Yes	
+row_51	SAT1	spermidine/spermine N1-acetyltransferase 1	15892	-1.2765653133392334	-0.33473796	Yes	
+row_52	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.28251386	Yes	
+row_53	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.2166468	Yes	
+row_54	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.124905005	Yes	
+row_55	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027186433	Yes	

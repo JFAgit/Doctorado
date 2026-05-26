@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.04257683	No	
+row_1	IL11RA	interleukin 11 receptor, alpha	4337	0.21660323441028595	-0.18448995	No	
+row_2	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.21584243	No	
+row_3	LIFR	leukemia inhibitory factor receptor alpha	5283	0.13137716054916382	-0.22104335	No	
+row_4	CLCF1	cardiotrophin-like cytokine factor 1	6703	0.025990542024374008	-0.30658948	No	
+row_5	IL31	interleukin 31	8556	0.0	-0.42079768	No	
+row_6	IL31RA	interleukin 31 receptor A	9278	-6.866466234169881E-15	-0.46525994	No	
+row_7	CRLF1	cytokine receptor-like factor 1	9538	-0.005004333797842264	-0.48085442	No	
+row_8	IL11	interleukin 11	10305	-0.04486596956849098	-0.5247082	No	
+row_9	IL6R	interleukin 6 receptor	10427	-0.05344764143228531	-0.5281393	No	
+row_10	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.5377571	No	
+row_11	CNTFR	ciliary neurotrophic factor receptor	10855	-0.08918289095163345	-0.54219335	No	
+row_12	CBL	Cas-Br-M (murine) ecotropic retroviral transforming sequence	12092	-0.20235644280910492	-0.60315394	No	
+row_13	OSM	oncostatin M	12667	-0.26125913858413696	-0.6188487	No	
+row_14	CNTF	ciliary neurotrophic factor	13334	-0.3421992361545563	-0.6341128	No	
+row_15	IL6ST	interleukin 6 signal transducer (gp130, oncostatin M receptor)	13439	-0.35675930976867676	-0.6136218	No	
+row_16	IL6	interleukin 6 (interferon, beta 2)	14705	-0.5420752763748169	-0.6507514	Yes	
+row_17	OSMR	oncostatin M receptor	14840	-0.5765029191970825	-0.6155388	Yes	
+row_18	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.5880808	Yes	
+row_19	CTF1	cardiotrophin 1	15350	-0.7638354301452637	-0.53288245	Yes	
+row_20	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	15543	-0.8545937538146973	-0.48027477	Yes	
+row_21	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.41714817	Yes	
+row_22	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.3018122	Yes	
+row_23	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	0.0014799918	Yes	

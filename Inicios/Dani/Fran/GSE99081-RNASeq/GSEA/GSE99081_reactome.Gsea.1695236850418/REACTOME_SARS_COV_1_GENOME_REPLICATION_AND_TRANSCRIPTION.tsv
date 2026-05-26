@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSK3B	glycogen synthase kinase 3 beta	1	2.7414815425872803	0.7104947	Yes	
+row_1	ZCRB1	zinc finger CCHC-type and RNA binding motif 1	1137	0.6120250821113586	0.7992086	Yes	
+row_2	RB1	retinoblastoma 1 (including osteosarcoma)	5587	0.10695108026266098	0.55287445	No	
+row_3	VHL	von Hippel-Lindau tumor suppressor	10790	-0.08399893343448639	0.25420728	No	
+row_4	GSK3A	glycogen synthase kinase 3 alpha	11191	-0.11927041411399841	0.26048097	No	
+row_5	DDX5	DEAD (Asp-Glu-Ala-Asp) box polypeptide 5	12014	-0.19449199736118317	0.26025626	No	

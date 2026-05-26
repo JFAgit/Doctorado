@@ -1,0 +1,93 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CNGA1	cyclic nucleotide gated channel alpha 1	100	1.2795337438583374	0.040396687	Yes	
+row_1	PRKCQ	protein kinase C, theta	145	1.1738370656967163	0.08041275	Yes	
+row_2	RDH12	retinol dehydrogenase 12 (all-trans/9-cis/11-cis)	307	0.9440045356750488	0.10481484	Yes	
+row_3	AKR1C4	aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)	372	0.8921679258346558	0.13333644	Yes	
+row_4	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	390	0.8814048171043396	0.16437672	Yes	
+row_5	GUCA1B	guanylate cyclase activator 1B (retina)	522	0.8201029896736145	0.18612522	Yes	
+row_6	ABCA4	ATP-binding cassette, sub-family A (ABC1), member 4	552	0.8044008612632751	0.21361856	Yes	
+row_7	GUCY2D	guanylate cyclase 2D, membrane (retina-specific)	553	0.8034008145332336	0.24287137	Yes	
+row_8	NMT2	N-myristoyltransferase 2	566	0.7955940961837769	0.27109683	Yes	
+row_9	RDH10	retinol dehydrogenase 10 (all-trans)	610	0.779132068157196	0.29680312	Yes	
+row_10	RDH16	retinol dehydrogenase 16 (all-trans)	660	0.7588115334510803	0.32139793	Yes	
+row_11	GPC6	glypican 6	878	0.6797876358032227	0.33271167	Yes	
+row_12	SDC2	syndecan 2 (heparan sulfate proteoglycan 1, cell surface-associated, fibroglycan)	1154	0.6064179539680481	0.33776212	Yes	
+row_13	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	1331	0.5655260682106018	0.34745443	Yes	
+row_14	GPC5	glypican 5	1536	0.5230094790458679	0.3538647	Yes	
+row_15	CNGB1	cyclic nucleotide gated channel beta 1	1794	0.4999636113643646	0.35615373	Yes	
+row_16	HSD17B6	hydroxysteroid (17-beta) dehydrogenase 6	2089	0.46989956498146057	0.35505673	Yes	
+row_17	RGS9	regulator of G-protein signalling 9	2321	0.43750011920928955	0.3566815	Yes	
+row_18	LRAT	lecithin retinol acyltransferase (phosphatidylcholine--retinol O-acyltransferase)	2427	0.4228096306324005	0.36557415	Yes	
+row_19	FNTA	farnesyltransferase, CAAX box, alpha	2470	0.4167197644710541	0.3781465	Yes	
+row_20	PDE6B	phosphodiesterase 6B, cGMP-specific, rod, beta (congenital stationary night blindness 3, autosomal dominant)	2579	0.4000084698200226	0.38602316	Yes	
+row_21	RETSAT	retinol saturase (all-trans-retinol 13,14-reductase)	2742	0.37613993883132935	0.38968667	Yes	
+row_22	TTR	transthyretin (prealbumin, amyloidosis type I)	2775	0.37106722593307495	0.40121603	Yes	
+row_23	APOA4	apolipoprotein A-IV	2908	0.35222330689430237	0.40586653	Yes	
+row_24	SLC24A1	solute carrier family 24 (sodium/potassium/calcium exchanger), member 1	2920	0.35074007511138916	0.4179562	Yes	
+row_25	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	3144	0.3267757296562195	0.41604477	Yes	
+row_26	DHRS9	dehydrogenase/reductase (SDR family) member 9	3352	0.303789347410202	0.41428718	Yes	
+row_27	LRP2	low density lipoprotein-related protein 2	3454	0.293290376663208	0.4187116	Yes	
+row_28	APOC3	apolipoprotein C-III	3511	0.28789836168289185	0.4257264	Yes	
+row_29	LPL	lipoprotein lipase	3810	0.25722426176071167	0.41663796	No	
+row_30	FNTB	farnesyltransferase, CAAX box, beta	3960	0.2453717291355133	0.41634512	No	
+row_31	PDE6G	phosphodiesterase 6G, cGMP-specific, rod, gamma	4188	0.22800518572330475	0.41058958	No	
+row_32	SDC1	syndecan 1	4458	0.2062709480524063	0.40144175	No	
+row_33	LRP12	low density lipoprotein-related protein 12	4478	0.20420388877391815	0.40770045	No	
+row_34	RDH8	retinol dehydrogenase 8 (all-trans)	4747	0.17955346405506134	0.39764175	No	
+row_35	RBP4	retinol binding protein 4, plasma	4822	0.17300106585025787	0.3993583	No	
+row_36	MYO7A	myosin VIIA	4878	0.1678757220506668	0.4020649	No	
+row_37	AKR1C1	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)	4958	0.16227474808692932	0.40308127	No	
+row_38	LRP1	low density lipoprotein-related protein 1 (alpha-2-macroglobulin receptor)	5040	0.15546652674674988	0.4037259	No	
+row_39	PDE6A	phosphodiesterase 6A, cGMP-specific, rod, alpha	5303	0.12975148856639862	0.39222538	No	
+row_40	RHO	rhodopsin (opsin 2, rod pigment) (retinitis pigmentosa 4, autosomal dominant)	5624	0.10420075058937073	0.37620276	No	
+row_41	APOC2	apolipoprotein C-II	5772	0.09247510880231857	0.3704666	No	
+row_42	PRKCA	protein kinase C, alpha	6084	0.06933151185512543	0.3537317	No	
+row_43	APOA1	apolipoprotein A-I	6105	0.06750495731830597	0.35495108	No	
+row_44	METAP2	methionyl aminopeptidase 2	6230	0.058514393866062164	0.3494027	No	
+row_45	OPN1SW	opsin 1 (cone pigments), short-wave-sensitive (color blindness, tritan)	6312	0.05185456946492195	0.34627467	No	
+row_46	SAG	S-antigen; retina and pineal gland (arrestin)	6659	0.02900194190442562	0.3259039	No	
+row_47	STRA6	stimulated by retinoic acid gene 6 homolog (mouse)	6673	0.027681412175297737	0.32610673	No	
+row_48	GPC1	glypican 1	6678	0.02742721140384674	0.3268577	No	
+row_49	GUCA1A	guanylate cyclase activator 1A (retina)	6711	0.025479722768068314	0.32580376	No	
+row_50	APOM	apolipoprotein M	6760	0.022726519033312798	0.32365876	No	
+row_51	GPC4	glypican 4	7146	0.003469440620392561	0.29994312	No	
+row_52	GRK1	G protein-coupled receptor kinase 1	7499	0.0	0.27814478	No	
+row_53	GRK7	G protein-coupled receptor kinase 7	7500	0.0	0.27814478	No	
+row_54	GNGT1	guanine nucleotide binding protein (G protein), gamma transducing activity polypeptide 1	7577	0.0	0.2734383	No	
+row_55	RLBP1	retinaldehyde binding protein 1	7682	0.0	0.26699787	No	
+row_56	CLPS	colipase, pancreatic	7810	0.0	0.25913313	No	
+row_57	GUCA1C	guanylate cyclase activator 1C	8018	0.0	0.2463142	No	
+row_58	PPEF1	protein phosphatase, EF-hand calcium binding domain 1	8320	0.0	0.22767411	No	
+row_59	RBP3	retinol binding protein 3, interstitial	8353	0.0	0.22569245	No	
+row_60	RCVRN	recoverin	8469	0.0	0.21857083	No	
+row_61	RPE65	retinal pigment epithelium-specific protein 65kDa	8917	0.0	0.19088937	No	
+row_62	OPN1LW	opsin 1 (cone pigments), long-wave-sensitive (color blindness, protan)	8944	0.0	0.18927927	No	
+row_63	OPN1MW	opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)	8945	0.0	0.18927927	No	
+row_64	PNLIP	pancreatic lipase	9112	0.0	0.17899936	No	
+row_65	LRP8	low density lipoprotein receptor-related protein 8, apolipoprotein e receptor	9708	-0.012314456515014172	0.14260107	No	
+row_66	RGS9BP	regulator of G protein signalling 9 binding protein	9825	-0.017817139625549316	0.13606626	No	
+row_67	APOE	apolipoprotein E	10158	-0.03384961187839508	0.11673895	No	
+row_68	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10623	-0.06880590319633484	0.09051005	No	
+row_69	GPC2	glypican 2 (cerebroglycan)	10932	-0.09623920172452927	0.07494067	No	
+row_70	HSPG2	heparan sulfate proteoglycan 2 (perlecan)	10966	-0.09897840023040771	0.076501	No	
+row_71	GNB1	guanine nucleotide binding protein (G protein), beta polypeptide 1	11255	-0.12491840124130249	0.06321441	No	
+row_72	GNB5	guanine nucleotide binding protein (G protein), beta 5	11266	-0.1260261833667755	0.067183904	No	
+row_73	RBP2	retinol binding protein 2, cellular	11468	-0.1454218178987503	0.060031526	No	
+row_74	METAP1	methionyl aminopeptidase 1	11550	-0.15085190534591675	0.060508132	No	
+row_75	SDC3	syndecan 3 (N-syndecan)	11675	-0.1616203486919403	0.058713958	No	
+row_76	APOA2	apolipoprotein A-II	11754	-0.16932381689548492	0.060048927	No	
+row_77	GPC3	glypican 3	11916	-0.1850549280643463	0.05681673	No	
+row_78	APOB	apolipoprotein B (including Ag(x) antigen)	11925	-0.18597908318042755	0.063093044	No	
+row_79	DHRS3	dehydrogenase/reductase (SDR family) member 3	11949	-0.18801505863666534	0.06851458	No	
+row_80	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	12085	-0.20109140872955322	0.06747639	No	
+row_81	CYP4V2	cytochrome P450, family 4, subfamily V, polypeptide 2	12171	-0.21083319187164307	0.069889285	No	
+row_82	GUCY2F	guanylate cyclase 2F, retinal	12435	-0.23697246611118317	0.062230896	No	
+row_83	AKR1B10	aldo-keto reductase family 1, member B10 (aldose reductase)	12722	-0.26735246181488037	0.054254357	No	
+row_84	GNAT1	guanine nucleotide binding protein (G protein), alpha transducing activity polypeptide 1	12851	-0.28214022517204285	0.056600753	No	
+row_85	RBP1	retinol binding protein 1, cellular	13243	-0.3328440487384796	0.04450649	No	
+row_86	GRK4	G protein-coupled receptor kinase 4	14393	-0.49995797872543335	-0.008443744	No	
+row_87	LDLR	low density lipoprotein receptor (familial hypercholesterolemia)	14427	-0.4999811351299286	0.0077175903	No	
+row_88	SDC4	syndecan 4 (amphiglycan, ryudocan)	14611	-0.5196331143379211	0.015305401	No	
+row_89	NMT1	N-myristoyltransferase 1	15096	-0.6515146493911743	0.009055101	No	
+row_90	LRP10	low density lipoprotein receptor-related protein 10	15506	-0.8323498964309692	0.014033776	No	
+row_91	PLB1	phospholipase B1	15553	-0.859541654586792	0.042482097	No	

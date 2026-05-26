@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.031178582	No	
+row_1	IL22RA2	interleukin 22 receptor, alpha 2	1870	0.4987389147281647	-0.028908486	No	
+row_2	STAT5B	signal transducer and activator of transcription 5B	3043	0.33733847737312317	-0.08009131	No	
+row_3	IL20RB	interleukin 20 receptor beta	4053	0.23891636729240417	-0.12737463	No	
+row_4	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.17824624	No	
+row_5	JAK3	Janus kinase 3 (a protein tyrosine kinase, leukocyte)	6358	0.04882300645112991	-0.25658602	No	
+row_6	IL20RA	interleukin 20 receptor, alpha	7421	2.810168852447007E-14	-0.3220688	No	
+row_7	IL22	interleukin 22	8543	0.0	-0.39118955	No	
+row_8	IL20	interleukin 20	8546	0.0	-0.39131287	No	
+row_9	IL24	interleukin 24	8548	0.0	-0.39137453	No	
+row_10	IL19	interleukin 19	8553	0.0	-0.39162117	No	
+row_11	STAT4	signal transducer and activator of transcription 4	9842	-0.018745146691799164	-0.4698676	No	
+row_12	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.516495	No	
+row_13	IL10RB	interleukin 10 receptor, beta	10989	-0.10062118619680405	-0.52962935	No	
+row_14	IL26	interleukin 26	11027	-0.10371506214141846	-0.52542895	No	
+row_15	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.7427332	Yes	
+row_16	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.70610493	Yes	
+row_17	IL22RA1	interleukin 22 receptor, alpha 1	15924	-1.3398174047470093	-0.63803226	Yes	
+row_18	STAT5A	signal transducer and activator of transcription 5A	15943	-1.403607964515686	-0.5514212	Yes	
+row_19	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.44298738	Yes	
+row_20	STAT2	signal transducer and activator of transcription 2, 113kDa	16178	-3.1163220405578613	-0.2558732	Yes	
+row_21	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	0.0014798783	Yes	

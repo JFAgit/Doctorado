@@ -1,0 +1,23 @@
+BUSQUEDAS REALIZADAS / SEARCH LOG
+1. macrophage immunometabolism glycolysis experimental review genes HK2 PFKFB3 LDHA SLC2A1 macrophages
+2. macrophage immunometabolism TCA cycle succinate itaconate IRG1 ACOD1 SDH experimental evidence macrophage activation
+3. macrophage fatty acid oxidation lipid metabolism CPT1A ACACA FASN experimental immunometabolism review
+4. macrophage arginine metabolism immunometabolism NOS2 ARG1 experimental review
+5. TLR-driven early glycolytic reprogramming TBK1 IKKepsilon macrophage dendritic cell experimental
+6. succinate HIF-1alpha IL-1beta macrophages experimental Nature
+7. macrophage pentose phosphate pathway G6PD NADPH ROS experimental
+8. macrophage one carbon metabolism serine glycine SHMT2 IL-1beta experimental
+9. macrophage cholesterol metabolism mevalonate pathway trained immunity experimental HMGCR
+10. macrophage iron metabolism ferritin ferroportin experimental macrophage polarization
+11. macrophage fatty acid synthesis SREBP1 FASN ACACA experimental LPS IL-4 macrophages
+12. macrophage lipid metabolism eicosanoids COX2 PTGS2 ALOX5 prostaglandin lipidomics experimental
+13. tryptophan metabolism IDO1 macrophage immunometabolism experimental kynurenine NAD resolution
+14. AMPK mTOR macrophage immunometabolism experimental review
+
+CRITERIOS:
+- Prioridad a genes con evidencia funcional en macrophages/monocytes/myeloid cells, idealmente perturbacion, knockout, inhibidor, tracer, metabolomics/lipidomics o rescate.
+- Se aceptan reguladores si controlan flujo metabolico o fenotipo inmunometabolico (HIF1A, SREBF1, MTOR, AMPK, AHR).
+- Se separan genes core de genes context/regulator para poder podar despues.
+- No se asume que una lista mas grande separa mejor: primero se cruza contra la matriz Agilent M1 y luego se evalua PCA.
+- Hay cautela con FAO/M2: literatura historica y genetica no siempre coinciden.
+- Hay cautela con genes ausentes: no estar en el PCA puede deberse a plataforma/anotacion/filtro, no a irrelevancia biologica.

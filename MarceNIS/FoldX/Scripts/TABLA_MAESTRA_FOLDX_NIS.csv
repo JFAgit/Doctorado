@@ -1,0 +1,887 @@
+Variante,ClinVar,DDG_7UUY,DDG_7UUZ,DDG_7UV0,DDG_AF
+P.GLU2VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.625
+P.ALA3ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.9457
+P.GLU5GLN,VUS / Sin Clasificar,NaN,NaN,NaN,0.811
+P.THR6ALA,VUS / Sin Clasificar,NaN,NaN,NaN,0.2028
+P.THR6ILE,Uncertain significance,NaN,NaN,NaN,-0.3156
+P.GLY7ARG,Uncertain significance,NaN,NaN,NaN,1.2643
+P.GLY7ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.2643
+P.GLY7GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.8237
+P.GLU8LYS,Uncertain significance,NaN,NaN,NaN,-0.3664
+P.ARG9TRP,VUS / Sin Clasificar,1.5962,NaN,NaN,0.3731
+P.ARG9PRO,VUS / Sin Clasificar,2.5277,NaN,NaN,0.1794
+P.ARG9GLN,VUS / Sin Clasificar,2.2614,NaN,NaN,0.7832
+P.PRO10LEU,VUS / Sin Clasificar,0.3323,-0.8339,0.3115,0.5861
+P.THR11ILE,Uncertain significance,0.84,0.4429,-1.2925,1.9454
+P.PHE12LEU,VUS / Sin Clasificar,1.764,-0.8339,0.3115,3.5318
+P.TRP15LEU,VUS / Sin Clasificar,0.2267,-0.8275,0.0529,-1.2512
+P.TRP15CYS,VUS / Sin Clasificar,1.0401,-0.0947,1.511,-0.1823
+P.TRP15CYS,VUS / Sin Clasificar,1.0401,-0.0947,1.511,-0.1823
+P.ASP16ASN,VUS / Sin Clasificar,0.3896,0.5665,-0.1594,2.1793
+P.ASP16GLY,VUS / Sin Clasificar,1.8277,0.9712,-0.3039,1.8156
+P.GLY18ARG,Likely Pathogenic,-1.5122,-1.0656,-1.3028,2.0984
+P.GLY18ALA,VUS / Sin Clasificar,-0.8817,0.3553,-0.0516,0.5141
+P.VAL19ILE,VUS / Sin Clasificar,0.5418,-1.7848,-0.8481,1.9997
+P.PHE20LEU,VUS / Sin Clasificar,0.6928,-0.8359,-0.6448,1.9156
+P.LEU22PHE,VUS / Sin Clasificar,-0.6418,-0.756,-0.9267,-0.298
+P.LEU22PRO,VUS / Sin Clasificar,2.5745,2.4849,4.3141,1.1826
+P.MET23LEU,Uncertain significance,-0.5664,-0.7312,-1.0717,0.4051
+P.MET23THR,VUS / Sin Clasificar,1.0258,0.0022,-0.0003,1.1329
+P.LEU24VAL,VUS / Sin Clasificar,2.0948,0.6288,0.7227,0.1881
+P.VAL26MET,VUS / Sin Clasificar,-0.8197,0.0812,-0.1873,-0.5164
+P.SER27ALA,VUS / Sin Clasificar,0.218,0.718,1.157,0.5336
+P.THR28ALA,VUS / Sin Clasificar,-0.1259,0.718,1.157,-1.2861
+P.THR28SER,VUS / Sin Clasificar,0.1004,1.2072,0.9511,1.789
+P.THR28ILE,VUS / Sin Clasificar,-1.5625,0.0989,1.339,0.3035
+P.GLY29SER,VUS / Sin Clasificar,0.0822,1.2072,0.9511,0.1307
+P.ILE30MET,VUS / Sin Clasificar,-0.4204,-1.47,-2.02,0.7095
+P.GLY31ARG,VUS / Sin Clasificar,-2.0289,-1.336,-0.4225,0.706
+P.LEU32PRO,VUS / Sin Clasificar,1.7938,2.8427,3.7675,0.7452
+P.LEU32GLN,VUS / Sin Clasificar,-0.1523,-0.1009,-0.1614,-0.1911
+P.TRP33ARG,VUS / Sin Clasificar,-0.0347,1.3061,1.917,0.5465
+P.TRP33SER,VUS / Sin Clasificar,0.7488,2.0379,3.0878,0.4791
+P.VAL34ASP,VUS / Sin Clasificar,NaN,1.1957,0.6719,1.0832
+P.GLY35ARG,Uncertain significance,NaN,10.2307,-0.7048,0.2705
+P.GLY35ARG,VUS / Sin Clasificar,NaN,10.2307,-0.7048,0.2705
+P.LEU36VAL,VUS / Sin Clasificar,NaN,9.4562,7.1422,3.1587
+P.LEU36ARG,VUS / Sin Clasificar,NaN,10.2307,NaN,2.5017
+P.ALA37SER,VUS / Sin Clasificar,NaN,1.1456,NaN,1.5975
+P.ARG38PRO,VUS / Sin Clasificar,NaN,1.0742,NaN,0.4648
+P.ARG38GLN,VUS / Sin Clasificar,NaN,NaN,NaN,0.481
+P.GLY39SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.7189
+P.GLY39ASP,VUS / Sin Clasificar,NaN,NaN,NaN,2.0533
+P.GLY40ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.1285
+P.GLN41LYS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.4726
+P.GLN41ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.4224
+P.ARG42CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.2227
+P.ARG42LEU,Uncertain significance,NaN,NaN,NaN,1.4407
+P.ARG42HIS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2358
+P.SER43ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1993
+P.SER43ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1993
+P.ALA44THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.1066
+P.ALA44GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.7956
+P.ALA44VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.4437
+P.GLU45LYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.4281
+P.ASP46TYR,VUS / Sin Clasificar,NaN,NaN,NaN,1.289
+P.ASP46HIS,VUS / Sin Clasificar,NaN,NaN,NaN,9.8967
+P.ASP46VAL,VUS / Sin Clasificar,NaN,NaN,NaN,9.5883
+P.PHE48SER,VUS / Sin Clasificar,NaN,NaN,NaN,7.137
+P.THR49ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.1415
+P.THR49PRO,VUS / Sin Clasificar,NaN,NaN,NaN,3.1844
+P.GLY50ARG,VUS / Sin Clasificar,NaN,NaN,NaN,6.8699
+P.GLY50ARG,VUS / Sin Clasificar,NaN,NaN,NaN,6.8699
+P.GLY50GLU,VUS / Sin Clasificar,NaN,NaN,NaN,3.9268
+P.GLY51CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.8337
+P.GLY51ASP,Uncertain significance,NaN,NaN,NaN,4.2181
+P.GLY51ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.3466
+P.ARG52GLY,VUS / Sin Clasificar,NaN,NaN,NaN,1.3185
+P.ARG52GLN,VUS / Sin Clasificar,NaN,NaN,NaN,1.0441
+P.ARG53GLY,Uncertain significance,NaN,NaN,NaN,0.3639
+P.ARG53PRO,VUS / Sin Clasificar,NaN,NaN,NaN,4.1479
+P.ARG53LEU,VUS / Sin Clasificar,-0.0132,NaN,NaN,2.4672
+P.ARG53HIS,Likely Benign,NaN,NaN,NaN,1.4673
+P.ALA55VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.8939
+P.ALA55GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.2609
+P.ALA56THR,VUS / Sin Clasificar,NaN,NaN,NaN,4.891
+P.PRO58SER,VUS / Sin Clasificar,2.4107,NaN,1.194,2.6301
+P.PRO58LEU,VUS / Sin Clasificar,1.0471,0.1397,1.4147,1.9155
+P.VAL59LEU,VUS / Sin Clasificar,-1.3373,0.1397,1.4147,2.05
+P.VAL59MET,VUS / Sin Clasificar,NaN,0.3556,NaN,2.9912
+P.VAL59GLU,Pathogenic,NaN,NaN,NaN,2.287
+P.ALA65THR,VUS / Sin Clasificar,NaN,NaN,NaN,3.3425
+P.ALA65SER,VUS / Sin Clasificar,NaN,NaN,NaN,4.1134
+P.SER66GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.3363
+P.SER66ILE,VUS / Sin Clasificar,NaN,NaN,NaN,7.6522
+P.PHE67LEU,VUS / Sin Clasificar,NaN,NaN,NaN,1.4965
+P.MET68VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.714
+P.MET68THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.9992
+P.MET68ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.9236
+P.SER69LEU,VUS / Sin Clasificar,NaN,NaN,NaN,4.3751
+P.ALA70GLY,VUS / Sin Clasificar,NaN,NaN,NaN,9.0062
+P.GLN72GLU,VUS / Sin Clasificar,NaN,NaN,NaN,9.3686
+P.GLN72ARG,VUS / Sin Clasificar,6.0017,NaN,0.7667,1.4253
+P.VAL73LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.7039
+P.VAL73MET,VUS / Sin Clasificar,NaN,NaN,NaN,3.2496
+P.GLY75ARG,VUS / Sin Clasificar,5.0062,9.3233,NaN,7.5598
+P.GLY75ASP,Uncertain significance,NaN,NaN,NaN,5.9032
+P.VAL76MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.74
+P.VAL76LEU,VUS / Sin Clasificar,NaN,NaN,NaN,3.6364
+P.PRO77SER,VUS / Sin Clasificar,0.6131,3.4322,3.483,3.3759
+P.PRO77LEU,VUS / Sin Clasificar,NaN,NaN,4.5147,3.0995
+P.SER78PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.3917
+P.SER78LEU,VUS / Sin Clasificar,2.0505,NaN,4.5147,2.1015
+P.GLU79GLY,VUS / Sin Clasificar,1.5681,NaN,4.052,2.9418
+P.TYR81ASN,VUS / Sin Clasificar,NaN,NaN,NaN,3.8352
+P.ARG82CYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.207
+P.ARG82LEU,VUS / Sin Clasificar,NaN,0.9027,NaN,0.134
+P.TYR83CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.3305
+P.LYS86ASN,VUS / Sin Clasificar,NaN,NaN,NaN,1.5914
+P.LEU88PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.3074
+P.MET90THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.4514
+P.MET90ILE,VUS / Sin Clasificar,2.1851,-0.5265,NaN,1.446
+P.CYS91TYR,VUS / Sin Clasificar,NaN,NaN,NaN,-0.7022
+P.LEU92GLN,VUS / Sin Clasificar,NaN,NaN,NaN,0.4322
+P.LEU92ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-1.1669
+P.GLY93SER,VUS / Sin Clasificar,NaN,1.1091,NaN,-0.207
+P.GLN94LYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.1036
+P.ASN97SER,VUS / Sin Clasificar,0.0027,NaN,0.1004,-0.1653
+P.SER98THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.6358
+P.SER98LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-0.147
+P.VAL99ILE,VUS / Sin Clasificar,NaN,-2.4652,NaN,-0.1153
+P.VAL99PHE,VUS / Sin Clasificar,0.2304,NaN,3.4009,1.1322
+P.VAL99ALA,Uncertain significance,2.0839,NaN,1.0705,1.3238
+P.VAL99GLY,Uncertain significance,NaN,NaN,NaN,0.6502
+P.LEU100VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.8957
+P.LEU100PHE,VUS / Sin Clasificar,0.2304,14.6342,NaN,0.9477
+P.THR101ILE,VUS / Sin Clasificar,NaN,NaN,NaN,3.9084
+P.ALA102THR,VUS / Sin Clasificar,NaN,NaN,NaN,3.2197
+P.ALA102SER,Uncertain significance,NaN,NaN,NaN,1.8741
+P.ALA102ASP,VUS / Sin Clasificar,NaN,NaN,NaN,1.3485
+P.ALA102VAL,VUS / Sin Clasificar,NaN,NaN,0.4138,1.8191
+P.PHE105CYS,VUS / Sin Clasificar,NaN,NaN,NaN,4.2935
+P.PHE105SER,VUS / Sin Clasificar,4.1023,NaN,2.752,4.4964
+P.MET106VAL,VUS / Sin Clasificar,NaN,2.0022,NaN,3.0592
+P.VAL108ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.6892
+P.VAL108ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.3966
+P.PHE109SER,VUS / Sin Clasificar,3.32,NaN,2.5032,3.8917
+P.ARG111HIS,VUS / Sin Clasificar,NaN,NaN,NaN,3.523
+P.LEU112VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.6319
+P.GLY113CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.7372
+P.GLY113ALA,VUS / Sin Clasificar,NaN,NaN,NaN,3.511
+P.GLY113VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.3445
+P.GLY113ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.5925
+P.THR115ILE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.3159
+P.THR117SER,VUS / Sin Clasificar,NaN,1.9954,NaN,0.6229
+P.TYR118CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.459
+P.TYR118PHE,VUS / Sin Clasificar,0.4794,NaN,-0.9883,1.6646
+P.GLU119LYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.4236
+P.GLU119ALA,VUS / Sin Clasificar,4.4108,NaN,0.8065,3.2072
+P.GLU122LYS,VUS / Sin Clasificar,2.0595,NaN,3.1549,1.7878
+P.GLU122ALA,VUS / Sin Clasificar,NaN,0.6843,NaN,3.5935
+P.MET123VAL,VUS / Sin Clasificar,1.7702,1.8319,1.8575,1.2289
+P.ARG124SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.1402
+P.ARG124GLY,VUS / Sin Clasificar,NaN,NaN,NaN,1.8384
+P.ARG124LEU,VUS / Sin Clasificar,-0.003,2.0289,NaN,2.2423
+P.ARG124HIS,Likely Pathogenic,NaN,NaN,NaN,6.911
+P.ARG127CYS,VUS / Sin Clasificar,2.4462,NaN,0.9187,5.948
+P.ALA128THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.3338
+P.ALA128SER,Uncertain significance,1.9694,2.703,NaN,-1.1695
+P.VAL129MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.6918
+P.ARG130PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.7552
+P.GLY133ARG,VUS / Sin Clasificar,NaN,NaN,NaN,5.672
+P.THR134SER,Uncertain significance,NaN,1.646,NaN,1.8758
+P.GLN136LEU,VUS / Sin Clasificar,NaN,-0.0087,NaN,-0.8837
+P.GLN136ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.8407
+P.GLN136HIS,VUS / Sin Clasificar,NaN,NaN,NaN,1.0973
+P.TYR137HIS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0932
+P.ILE138PHE,VUS / Sin Clasificar,NaN,NaN,NaN,1.11
+P.ILE138LEU,VUS / Sin Clasificar,NaN,NaN,NaN,1.8372
+P.ILE138VAL,VUS / Sin Clasificar,NaN,1.7916,NaN,1.1592
+P.ILE138THR,VUS / Sin Clasificar,NaN,NaN,NaN,3.7192
+P.VAL139ILE,VUS / Sin Clasificar,NaN,NaN,NaN,-1.4894
+P.VAL139ALA,VUS / Sin Clasificar,NaN,NaN,NaN,0.4754
+P.ALA140THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.9825
+P.ALA140VAL,VUS / Sin Clasificar,NaN,NaN,-0.2736,0.0238
+P.THR141PRO,VUS / Sin Clasificar,NaN,5.2977,NaN,2.516
+P.THR141MET,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2383
+P.THR141LYS,VUS / Sin Clasificar,NaN,4.6495,NaN,0.1923
+P.MET142VAL,VUS / Sin Clasificar,0.5375,NaN,-0.2736,2.4943
+P.MET142LEU,VUS / Sin Clasificar,NaN,NaN,NaN,12.4961
+P.MET142THR,VUS / Sin Clasificar,NaN,NaN,NaN,6.7452
+P.MET142ILE,VUS / Sin Clasificar,NaN,NaN,NaN,5.04
+P.THR145ALA,VUS / Sin Clasificar,NaN,NaN,NaN,14.267
+P.THR145ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.6936
+P.GLY146ARG,VUS / Sin Clasificar,15.4585,NaN,9.081,8.0237
+P.GLY146CYS,VUS / Sin Clasificar,NaN,NaN,NaN,4.0147
+P.GLY146SER,VUS / Sin Clasificar,2.7619,NaN,4.6603,3.7883
+P.GLY146ASP,VUS / Sin Clasificar,NaN,NaN,NaN,6.6523
+P.ILE147VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.7526
+P.VAL148ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.0025
+P.ILE149VAL,VUS / Sin Clasificar,NaN,NaN,NaN,3.2869
+P.TYR150CYS,VUS / Sin Clasificar,2.8224,NaN,2.0181,2.1431
+P.TYR150PHE,VUS / Sin Clasificar,5.7335,22.578,NaN,0.8163
+P.TYR150SER,Uncertain significance,NaN,3.0881,2.046,0.6839
+P.ALA151SER,VUS / Sin Clasificar,2.9367,NaN,2.046,3.8935
+P.PRO152LEU,VUS / Sin Clasificar,NaN,NaN,NaN,2.6398
+P.ALA153THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.6142
+P.ILE155VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.418
+P.ASN157LYS,Uncertain significance,NaN,NaN,NaN,3.038
+P.GLN158PRO,VUS / Sin Clasificar,3.7342,9.0247,NaN,2.68
+P.THR160SER,VUS / Sin Clasificar,2.5154,1.0591,0.969,1.393
+P.GLY161ARG,VUS / Sin Clasificar,1.3207,-0.603,NaN,1.2341
+P.GLY161GLU,Uncertain significance,NaN,NaN,NaN,1.2987
+P.GLY161VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.4436
+P.ASP163GLU,VUS / Sin Clasificar,NaN,NaN,NaN,4.5955
+P.ILE164PHE,VUS / Sin Clasificar,NaN,NaN,NaN,3.3292
+P.TRP165ARG,VUS / Sin Clasificar,-0.9608,NaN,NaN,0.4273
+P.ALA166THR,VUS / Sin Clasificar,NaN,NaN,NaN,2.9871
+P.ALA166SER,VUS / Sin Clasificar,0.4013,-0.2582,NaN,0.3136
+P.LEU168PHE,VUS / Sin Clasificar,NaN,NaN,0.0253,2.5228
+P.LEU169PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.064
+P.SER170CYS,VUS / Sin Clasificar,NaN,NaN,NaN,3.0821
+P.THR171PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.2422
+P.THR171ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.1995
+P.THR171SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.1346
+P.CYS175SER,VUS / Sin Clasificar,NaN,NaN,0.5479,0.9082
+P.THR176PRO,VUS / Sin Clasificar,3.6642,4.3039,NaN,7.5536
+P.PHE177LEU,VUS / Sin Clasificar,NaN,NaN,NaN,3.2122
+P.PHE177SER,VUS / Sin Clasificar,1.0327,NaN,NaN,2.1916
+P.PHE177LEU,VUS / Sin Clasificar,NaN,NaN,NaN,3.2122
+P.TYR178HIS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.7463
+P.THR179LYS,VUS / Sin Clasificar,NaN,NaN,NaN,3.0739
+P.THR179ARG,VUS / Sin Clasificar,NaN,2.0435,NaN,2.2061
+P.THR179MET,Uncertain significance,NaN,NaN,NaN,1.8301
+P.ALA180SER,VUS / Sin Clasificar,NaN,0.6634,NaN,0.8805
+P.VAL181MET,VUS / Sin Clasificar,NaN,NaN,NaN,-2.4978
+P.VAL181ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.5556
+P.GLY182ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.1118
+P.GLY182ASP,VUS / Sin Clasificar,NaN,NaN,0.1074,0.6332
+P.GLY183SER,VUS / Sin Clasificar,NaN,NaN,0.17,0.4626
+P.GLY183ASP,VUS / Sin Clasificar,NaN,NaN,0.1074,0.5355
+P.MET184VAL,VUS / Sin Clasificar,1.7337,NaN,NaN,2.3117
+P.MET184THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.3155
+P.LYS185GLN,VUS / Sin Clasificar,NaN,NaN,NaN,1.3088
+P.ALA186THR,VUS / Sin Clasificar,NaN,NaN,NaN,2.5767
+P.ALA186VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.6273
+P.VAL187GLY,VUS / Sin Clasificar,NaN,NaN,NaN,4.5057
+P.VAL188ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.0373
+P.TRP189ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.2629
+P.TRP189GLY,Uncertain significance,0.3339,NaN,NaN,2.0182
+P.THR190SER,VUS / Sin Clasificar,-0.305,NaN,0.1493,-0.7843
+P.ASP191VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.818
+P.VAL192LEU,VUS / Sin Clasificar,NaN,-0.1909,NaN,-0.8521
+P.PHE193LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0313
+P.PHE193LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0313
+P.GLN194HIS,VUS / Sin Clasificar,0.6434,2.4927,NaN,1.5418
+P.VAL195PHE,VUS / Sin Clasificar,NaN,NaN,NaN,0.8687
+P.VAL196MET,VUS / Sin Clasificar,-0.1943,-1.0573,-1.6214,0.966
+P.VAL196LEU,VUS / Sin Clasificar,NaN,NaN,NaN,3.1167
+P.VAL197LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-0.6258
+P.VAL197GLY,VUS / Sin Clasificar,NaN,1.8091,NaN,3.2166
+P.MET198VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.4604
+P.MET198THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.9139
+P.LEU199PRO,VUS / Sin Clasificar,NaN,6.3211,NaN,1.3853
+P.SER200ARG,VUS / Sin Clasificar,NaN,2.808,NaN,2.6339
+P.GLY201SER,Uncertain significance,NaN,0.3046,NaN,1.3626
+P.GLY201ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.1108
+P.TRP203CYS,VUS / Sin Clasificar,NaN,NaN,NaN,3.4433
+P.VAL204ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.7742
+P.VAL205PHE,VUS / Sin Clasificar,NaN,4.7821,NaN,2.8028
+P.ALA207VAL,VUS / Sin Clasificar,NaN,0.0235,NaN,4.9293
+P.ARG208CYS,Uncertain significance,NaN,NaN,1.3872,1.7808
+P.ARG208SER,VUS / Sin Clasificar,NaN,2.3575,NaN,1.4647
+P.ARG208GLY,VUS / Sin Clasificar,NaN,NaN,NaN,3.9944
+P.ARG208HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.3864
+P.ARG208PRO,VUS / Sin Clasificar,3.2441,4.9969,NaN,2.5605
+P.GLY209SER,VUS / Sin Clasificar,NaN,2.3575,2.179,0.526
+P.GLY209CYS,VUS / Sin Clasificar,1.183,NaN,1.3872,0.6716
+P.GLY209ASP,VUS / Sin Clasificar,NaN,NaN,3.9919,3.9012
+P.VAL210ILE,VUS / Sin Clasificar,NaN,-0.8959,NaN,-1.2292
+P.VAL210PHE,VUS / Sin Clasificar,NaN,NaN,NaN,2.0917
+P.MET211LEU,VUS / Sin Clasificar,-1.3059,0.0039,0.0669,0.8386
+P.MET211THR,VUS / Sin Clasificar,1.1186,NaN,0.9407,3.244
+P.LEU212PRO,VUS / Sin Clasificar,NaN,NaN,NaN,4.3922
+P.VAL213LEU,VUS / Sin Clasificar,0.0,0.0039,-0.0054,1.2936
+P.VAL213GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.068
+P.VAL213ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.5564
+P.GLY214SER,VUS / Sin Clasificar,NaN,2.5671,NaN,1.8083
+P.GLY214ASP,VUS / Sin Clasificar,NaN,3.5692,NaN,1.5567
+P.GLY215ARG,Uncertain significance,2.6346,1.303,NaN,0.9981
+P.PRO216THR,VUS / Sin Clasificar,1.295,NaN,NaN,3.7161
+P.PRO216SER,VUS / Sin Clasificar,NaN,NaN,1.5036,2.713
+P.ARG217CYS,Uncertain significance,0.526,1.0481,1.8718,-0.0246
+P.ARG217HIS,Uncertain significance,0.4047,NaN,NaN,-0.0594
+P.VAL219MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.1468
+P.VAL219GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.0422
+P.THR221PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.2837
+P.THR221MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.6088
+P.THR221LYS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.5225
+P.THR221ARG,VUS / Sin Clasificar,NaN,NaN,NaN,4.9339
+P.ALA223SER,VUS / Sin Clasificar,NaN,2.8221,NaN,7.336
+P.HIS226GLN,VUS / Sin Clasificar,NaN,NaN,NaN,3.1442
+P.SER227THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.5918
+P.SER227PHE,VUS / Sin Clasificar,NaN,NaN,NaN,1.8205
+P.ARG228GLY,VUS / Sin Clasificar,NaN,NaN,NaN,3.893
+P.ARG228TRP,VUS / Sin Clasificar,NaN,NaN,NaN,3.3692
+P.ARG228GLN,Uncertain significance,NaN,NaN,NaN,1.5067
+P.ILE229VAL,VUS / Sin Clasificar,NaN,5.3894,NaN,2.3976
+P.ILE229SER,Uncertain significance,NaN,3.1294,NaN,2.8733
+P.ASN230SER,VUS / Sin Clasificar,NaN,3.1294,NaN,2.3492
+P.LEU231PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.8464
+P.MET232ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.9315
+P.MET232ILE,VUS / Sin Clasificar,0.3434,NaN,0.6644,1.1991
+P.ASP233ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.2221
+P.ASP233GLU,VUS / Sin Clasificar,NaN,NaN,NaN,1.3078
+P.PHE234CYS,VUS / Sin Clasificar,0.5773,NaN,0.443,-0.4047
+P.PHE234LEU,VUS / Sin Clasificar,1.5981,NaN,NaN,0.602
+P.ASN235ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.2931
+P.PRO236SER,VUS / Sin Clasificar,NaN,NaN,1.0201,-0.7034
+P.PRO236THR,VUS / Sin Clasificar,NaN,NaN,NaN,2.0016
+P.PRO236ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.0141
+P.PRO236LEU,Likely Benign,NaN,-0.2869,2.4314,-0.6776
+P.PRO238LEU,VUS / Sin Clasificar,1.9261,NaN,2.4314,0.1278
+P.PRO238ARG,VUS / Sin Clasificar,NaN,NaN,0.0465,-0.2056
+P.ARG239LYS,VUS / Sin Clasificar,1.2858,-1.729,NaN,3.2201
+P.SER240CYS,VUS / Sin Clasificar,NaN,NaN,NaN,3.4355
+P.SER240ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.7429
+P.SER240ASN,VUS / Sin Clasificar,NaN,NaN,NaN,3.1091
+P.SER240THR,VUS / Sin Clasificar,NaN,NaN,NaN,4.3887
+P.ARG241CYS,VUS / Sin Clasificar,NaN,NaN,4.9075,5.2583
+P.ARG241HIS,Uncertain significance,NaN,NaN,2.4791,4.2808
+P.TYR242CYS,VUS / Sin Clasificar,NaN,NaN,4.9075,4.0846
+P.TYR242SER,VUS / Sin Clasificar,NaN,4.7077,7.2334,0.9423
+P.THR243ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.0903
+P.THR243ILE,VUS / Sin Clasificar,NaN,NaN,NaN,3.4362
+P.PHE244SER,VUS / Sin Clasificar,2.2481,NaN,NaN,7.6708
+P.PHE247ILE,VUS / Sin Clasificar,NaN,NaN,NaN,3.5502
+P.PHE247LEU,VUS / Sin Clasificar,0.8197,-0.8225,NaN,0.8952
+P.VAL248LEU,VUS / Sin Clasificar,NaN,-0.8225,NaN,2.5964
+P.VAL248ALA,Uncertain significance,NaN,NaN,NaN,0.2209
+P.GLY250CYS,VUS / Sin Clasificar,0.5124,0.7997,NaN,2.1829
+P.GLY250ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.6507
+P.GLY251SER,VUS / Sin Clasificar,NaN,NaN,NaN,2.2586
+P.GLY251ASP,VUS / Sin Clasificar,NaN,NaN,NaN,1.6857
+P.THR252LYS,VUS / Sin Clasificar,8.1681,1.3444,NaN,3.087
+P.THR252MET,VUS / Sin Clasificar,NaN,NaN,NaN,2.2158
+P.LEU256ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.3154
+P.LEU256PHE,VUS / Sin Clasificar,NaN,NaN,NaN,3.9158
+P.MET258LEU,VUS / Sin Clasificar,NaN,NaN,NaN,1.9359
+P.MET258VAL,VUS / Sin Clasificar,1.2245,4.9674,0.8853,2.2422
+P.MET258ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.6824
+P.TYR259CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.9989
+P.VAL261MET,VUS / Sin Clasificar,NaN,NaN,NaN,1.2994
+P.VAL261ALA,VUS / Sin Clasificar,NaN,NaN,2.3666,1.5741
+P.ASN262SER,VUS / Sin Clasificar,1.5372,3.2298,1.6571,-0.4657
+P.ASN262LYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.7973
+P.ALA264SER,VUS / Sin Clasificar,-0.3908,3.2298,NaN,-0.145
+P.ALA264GLU,VUS / Sin Clasificar,NaN,NaN,NaN,2.1994
+P.ALA264VAL,Uncertain significance,-0.1244,NaN,NaN,2.8857
+P.GLN265LEU,VUS / Sin Clasificar,NaN,NaN,NaN,2.23
+P.GLN265PRO,VUS / Sin Clasificar,-0.0997,NaN,NaN,1.4921
+P.VAL266MET,VUS / Sin Clasificar,NaN,NaN,-0.2559,0.7303
+P.VAL266LEU,VUS / Sin Clasificar,NaN,NaN,-0.646,2.766
+P.VAL266GLY,VUS / Sin Clasificar,NaN,NaN,NaN,3.7961
+P.VAL266GLU,VUS / Sin Clasificar,NaN,NaN,NaN,3.339
+P.GLN267GLU,Likely Pathogenic,NaN,NaN,NaN,1.906
+P.GLN267ARG,VUS / Sin Clasificar,0.1446,-0.7992,NaN,0.4015
+P.GLN267HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.9057
+P.ARG268SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.9559
+P.ARG268CYS,Uncertain significance,NaN,NaN,NaN,1.6885
+P.ARG268HIS,VUS / Sin Clasificar,NaN,NaN,NaN,1.3387
+P.VAL270LEU,VUS / Sin Clasificar,-0.1099,-0.9086,NaN,1.77
+P.VAL270MET,Uncertain significance,0.4601,-1.1739,NaN,2.9181
+P.ARG273CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.1923
+P.ARG273HIS,Likely Benign,NaN,NaN,NaN,0.0239
+P.ARG273PRO,VUS / Sin Clasificar,1.8196,3.8398,NaN,2.3337
+P.THR274ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.3812
+P.GLU275LYS,VUS / Sin Clasificar,NaN,NaN,NaN,7.1983
+P.LYS276GLN,VUS / Sin Clasificar,NaN,NaN,NaN,3.6321
+P.LYS276GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.9705
+P.ALA278THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.0926
+P.ALA281SER,VUS / Sin Clasificar,1.8116,3.603,NaN,0.9003
+P.ALA281ASP,VUS / Sin Clasificar,NaN,NaN,NaN,3.0754
+P.ALA281VAL,VUS / Sin Clasificar,NaN,2.5971,NaN,1.7903
+P.ALA281GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.3543
+P.ILE284PHE,VUS / Sin Clasificar,NaN,NaN,-0.3893,1.7793
+P.ILE284VAL,VUS / Sin Clasificar,NaN,NaN,NaN,3.4801
+P.ASN285SER,VUS / Sin Clasificar,NaN,NaN,0.4738,2.0303
+P.VAL287ALA,VUS / Sin Clasificar,NaN,0.4644,NaN,2.0324
+P.GLY288SER,Pathogenic,1.2645,NaN,NaN,5.5295
+P.GLY288CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.8242
+P.GLY288ASP,VUS / Sin Clasificar,NaN,NaN,NaN,2.1005
+P.GLY288VAL,VUS / Sin Clasificar,NaN,NaN,-2.0907,0.6259
+P.LEU289ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.5045
+P.LEU289PRO,VUS / Sin Clasificar,5.5467,NaN,NaN,0.6598
+P.PHE290TYR,VUS / Sin Clasificar,NaN,NaN,NaN,1.2719
+P.LEU291ARG,VUS / Sin Clasificar,NaN,NaN,NaN,4.3798
+P.VAL293MET,VUS / Sin Clasificar,NaN,NaN,NaN,1.1333
+P.VAL293LEU,VUS / Sin Clasificar,-0.8108,NaN,NaN,-0.9288
+P.SER294PHE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.3108
+P.ALA296THR,Uncertain significance,1.8775,NaN,NaN,0.6523
+P.ALA296PRO,VUS / Sin Clasificar,2.8534,3.873,NaN,3.4365
+P.ALA296VAL,VUS / Sin Clasificar,NaN,NaN,4.4106,18.0717
+P.ALA297VAL,VUS / Sin Clasificar,-0.1166,NaN,4.4106,14.1843
+P.CYS298GLY,Likely Benign,NaN,NaN,NaN,0.9284
+P.CYS298SER,VUS / Sin Clasificar,1.0448,0.3983,NaN,-0.2634
+P.CYS299GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.7526
+P.CYS299TYR,Uncertain significance,NaN,NaN,NaN,7.2525
+P.GLY300ASP,VUS / Sin Clasificar,NaN,NaN,NaN,6.6323
+P.ILE301VAL,VUS / Sin Clasificar,1.0638,19.5533,NaN,-0.3169
+P.ILE301MET,VUS / Sin Clasificar,NaN,NaN,NaN,1.1691
+P.VAL302ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.3597
+P.VAL302LEU,VUS / Sin Clasificar,-1.2155,NaN,NaN,2.5747
+P.MET303LEU,VUS / Sin Clasificar,-1.2155,2.1264,NaN,1.7836
+P.MET303LEU,VUS / Sin Clasificar,-1.2155,2.1264,NaN,1.7836
+P.MET303VAL,VUS / Sin Clasificar,NaN,2.4614,NaN,3.4755
+P.PHE304CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.3714
+P.PHE304SER,VUS / Sin Clasificar,NaN,3.9824,NaN,1.0503
+P.VAL305MET,VUS / Sin Clasificar,NaN,NaN,NaN,4.6322
+P.VAL305ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.9083
+P.TYR307CYS,Uncertain significance,NaN,NaN,NaN,4.24
+P.THR308ALA,VUS / Sin Clasificar,NaN,NaN,NaN,3.0281
+P.ASP309TYR,VUS / Sin Clasificar,NaN,NaN,-1.1993,0.5727
+P.CYS310PHE,VUS / Sin Clasificar,NaN,NaN,NaN,9.5281
+P.ASP311ASN,VUS / Sin Clasificar,NaN,NaN,NaN,0.8933
+P.PRO312SER,VUS / Sin Clasificar,2.5371,NaN,4.2408,1.9788
+P.PRO312LEU,VUS / Sin Clasificar,-0.004,1.5482,3.6777,1.4618
+P.LEU313PHE,VUS / Sin Clasificar,NaN,NaN,NaN,1.362
+P.LEU313PRO,VUS / Sin Clasificar,NaN,NaN,NaN,7.0707
+P.LEU314PHE,VUS / Sin Clasificar,NaN,NaN,NaN,3.5519
+P.LEU314VAL,VUS / Sin Clasificar,NaN,1.4488,NaN,3.143
+P.LEU314ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.8054
+P.LEU315GLN,VUS / Sin Clasificar,NaN,NaN,NaN,3.3385
+P.ARG317SER,VUS / Sin Clasificar,2.6733,4.2135,NaN,1.3453
+P.ARG317GLY,VUS / Sin Clasificar,NaN,NaN,NaN,1.8772
+P.ARG317CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.3733
+P.ARG317LEU,VUS / Sin Clasificar,2.7861,0.8922,2.6516,2.4167
+P.ARG317HIS,Uncertain significance,NaN,NaN,NaN,0.9789
+P.SER319PRO,VUS / Sin Clasificar,NaN,NaN,NaN,3.4619
+P.SER319CYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.3306
+P.ALA320THR,Uncertain significance,2.9427,NaN,-0.2132,1.0963
+P.PRO321SER,VUS / Sin Clasificar,NaN,NaN,NaN,3.2345
+P.ASP322VAL,VUS / Sin Clasificar,1.2114,NaN,2.1736,0.3096
+P.TYR324ASN,VUS / Sin Clasificar,NaN,NaN,3.4803,2.5862
+P.TYR324HIS,VUS / Sin Clasificar,NaN,NaN,NaN,2.1522
+P.MET325VAL,VUS / Sin Clasificar,NaN,1.6825,NaN,0.0383
+P.PRO326SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.3423
+P.PRO326LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.3698
+P.ILE332VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.7736
+P.PHE333LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.6506
+P.GLU334GLN,VUS / Sin Clasificar,NaN,NaN,NaN,0.6653
+P.GLU334LYS,Uncertain significance,NaN,NaN,NaN,-0.2912
+P.ASP335TYR,VUS / Sin Clasificar,NaN,NaN,NaN,1.1467
+P.ASP335VAL,VUS / Sin Clasificar,NaN,NaN,-0.1703,3.3925
+P.ASP335GLY,VUS / Sin Clasificar,NaN,NaN,NaN,4.1908
+P.PRO337SER,VUS / Sin Clasificar,NaN,NaN,-0.7632,1.8555
+P.PRO337LEU,VUS / Sin Clasificar,-0.3031,NaN,-0.0084,41.3015
+P.VAL339ALA,VUS / Sin Clasificar,NaN,NaN,2.6936,19.4631
+P.PRO340SER,VUS / Sin Clasificar,3.8328,NaN,NaN,19.5332
+P.PRO340THR,VUS / Sin Clasificar,3.4659,3.5094,NaN,2.7235
+P.PRO340LEU,VUS / Sin Clasificar,NaN,2.5242,NaN,0.8981
+P.GLY341TRP,VUS / Sin Clasificar,NaN,NaN,NaN,21.9704
+P.GLY341ARG,Likely Pathogenic,NaN,NaN,NaN,13.7735
+P.GLY341GLU,VUS / Sin Clasificar,NaN,NaN,NaN,11.3102
+P.LEU342PHE,VUS / Sin Clasificar,NaN,NaN,NaN,11.7332
+P.LEU342ILE,VUS / Sin Clasificar,1.194,NaN,22.1092,0.5691
+P.PHE343LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.4911
+P.ALA345THR,VUS / Sin Clasificar,NaN,NaN,NaN,9.5661
+P.CYS346ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.4822
+P.CYS346TYR,VUS / Sin Clasificar,NaN,NaN,NaN,7.8098
+P.ALA347VAL,VUS / Sin Clasificar,NaN,-0.6096,NaN,1.0406
+P.SER349GLY,VUS / Sin Clasificar,NaN,NaN,NaN,4.4472
+P.SER349ARG,VUS / Sin Clasificar,NaN,NaN,0.3308,5.8115
+P.THR351ALA,VUS / Sin Clasificar,NaN,NaN,NaN,3.5517
+P.THR351ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.6592
+P.THR351ASN,VUS / Sin Clasificar,NaN,NaN,2.3169,3.9473
+P.SER353ASN,VUS / Sin Clasificar,-0.1261,NaN,NaN,4.7863
+P.THR354PRO,Pathogenic,NaN,NaN,NaN,1.6404
+P.ALA355GLU,VUS / Sin Clasificar,9.1492,NaN,NaN,3.6457
+P.SER358ASN,VUS / Sin Clasificar,NaN,NaN,NaN,0.9091
+P.ALA361VAL,VUS / Sin Clasificar,NaN,-0.1466,NaN,6.7993
+P.MET362VAL,VUS / Sin Clasificar,NaN,-0.1466,2.558,1.793
+P.MET362LEU,Uncertain significance,NaN,-0.2482,NaN,0.5322
+P.MET362THR,VUS / Sin Clasificar,0.4325,3.7621,NaN,1.098
+P.MET362ILE,VUS / Sin Clasificar,NaN,NaN,NaN,3.3208
+P.ALA364PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.9223
+P.ALA364SER,VUS / Sin Clasificar,NaN,0.8747,NaN,1.8774
+P.ALA364THR,VUS / Sin Clasificar,NaN,3.7621,NaN,4.1708
+P.THR366ALA,VUS / Sin Clasificar,0.9849,2.3797,NaN,0.5954
+P.THR366PRO,VUS / Sin Clasificar,NaN,NaN,NaN,4.0164
+P.VAL367ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.7791
+P.VAL367ALA,VUS / Sin Clasificar,NaN,2.3797,NaN,2.7689
+P.ASP369GLY,VUS / Sin Clasificar,NaN,NaN,NaN,3.9369
+P.LEU370PHE,VUS / Sin Clasificar,NaN,3.2415,NaN,0.7296
+P.LEU370PRO,VUS / Sin Clasificar,NaN,NaN,3.0504,1.5809
+P.PRO373SER,VUS / Sin Clasificar,2.3833,NaN,0.5646,1.2028
+P.PRO373THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.0804
+P.PRO373LEU,VUS / Sin Clasificar,-0.3117,0.7761,NaN,1.5726
+P.ARG374TRP,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0226
+P.ARG374GLN,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1522
+P.LEU375ARG,VUS / Sin Clasificar,-0.031,-0.2298,NaN,0.0445
+P.ARG376TRP,Uncertain significance,NaN,NaN,NaN,-0.7436
+P.ARG376GLN,VUS / Sin Clasificar,NaN,NaN,NaN,1.212
+P.SER377ASN,VUS / Sin Clasificar,NaN,NaN,NaN,0.5595
+P.SER377ARG,VUS / Sin Clasificar,NaN,-0.2298,NaN,0.3759
+P.ALA379SER,VUS / Sin Clasificar,2.6516,1.1432,NaN,0.4543
+P.ALA379GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.366
+P.PRO380SER,VUS / Sin Clasificar,NaN,1.6402,NaN,0.7915
+P.ARG381GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.0696
+P.ARG381SER,VUS / Sin Clasificar,NaN,1.6402,NaN,1.243
+P.LYS382THR,VUS / Sin Clasificar,1.3239,NaN,NaN,0.3017
+P.LEU383VAL,Uncertain significance,NaN,NaN,NaN,0.6989
+P.VAL384MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.5317
+P.VAL384LEU,Uncertain significance,NaN,NaN,NaN,-0.9085
+P.VAL384ALA,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2949
+P.ILE385PHE,VUS / Sin Clasificar,0.1872,0.8608,NaN,-0.5262
+P.ILE385THR,VUS / Sin Clasificar,NaN,-0.3107,NaN,1.4081
+P.ILE385SER,VUS / Sin Clasificar,NaN,NaN,0.5503,-1.8836
+P.GLY389ARG,VUS / Sin Clasificar,NaN,-0.2456,NaN,-0.5417
+P.GLY389VAL,VUS / Sin Clasificar,NaN,-1.2406,NaN,-0.012
+P.GLY389ALA,VUS / Sin Clasificar,NaN,NaN,NaN,7.6707
+P.LEU390PHE,VUS / Sin Clasificar,NaN,NaN,0.9207,8.8029
+P.SER391LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-1.4192
+P.LEU392PHE,VUS / Sin Clasificar,0.0223,NaN,NaN,2.1004
+P.ILE393SER,VUS / Sin Clasificar,0.187,NaN,NaN,0.3969
+P.GLY395ARG,Likely Pathogenic,NaN,NaN,-1.5579,4.6059
+P.GLY395GLU,VUS / Sin Clasificar,NaN,NaN,NaN,7.4963
+P.SER396LEU,VUS / Sin Clasificar,-0.5851,NaN,-0.7363,8.3608
+P.ALA397PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.7072
+P.ALA397SER,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1036
+P.ALA397VAL,VUS / Sin Clasificar,0.3373,0.29,NaN,-0.0599
+P.CYS398ARG,Uncertain significance,-0.6722,0.6548,7.1713,1.2711
+P.CYS398TYR,VUS / Sin Clasificar,NaN,NaN,NaN,4.8613
+P.THR400SER,VUS / Sin Clasificar,2.3491,NaN,2.6038,2.616
+P.VAL401MET,VUS / Sin Clasificar,NaN,NaN,4.5724,0.3606
+P.VAL401LEU,VUS / Sin Clasificar,5.6801,-0.7585,-0.7438,2.2282
+P.VAL401LEU,VUS / Sin Clasificar,5.6801,-0.7585,-0.7438,2.2282
+P.VAL401ALA,VUS / Sin Clasificar,1.2275,NaN,NaN,1.1934
+P.ALA402THR,VUS / Sin Clasificar,NaN,1.5434,NaN,3.749
+P.ALA402SER,VUS / Sin Clasificar,2.3491,0.2352,NaN,0.0804
+P.ALA402VAL,VUS / Sin Clasificar,NaN,NaN,NaN,2.5934
+P.ALA403ASP,VUS / Sin Clasificar,NaN,NaN,1.4008,0.7474
+P.SER405PHE,VUS / Sin Clasificar,NaN,NaN,NaN,0.7861
+P.SER405TYR,VUS / Sin Clasificar,NaN,NaN,NaN,2.5164
+P.SER405CYS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.8269
+P.SER406THR,VUS / Sin Clasificar,NaN,NaN,0.0599,1.9768
+P.LEU408PHE,VUS / Sin Clasificar,NaN,NaN,NaN,1.5794
+P.LEU408ILE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.9229
+P.LEU408PRO,VUS / Sin Clasificar,NaN,4.8631,NaN,0.2887
+P.GLY409ARG,Uncertain significance,NaN,NaN,NaN,-0.8936
+P.GLY410ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.7566
+P.GLY410ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.7566
+P.GLY411SER,VUS / Sin Clasificar,NaN,NaN,NaN,2.6051
+P.GLY411VAL,VUS / Sin Clasificar,NaN,2.3868,NaN,2.3755
+P.VAL412ILE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.6805
+P.GLN414HIS,VUS / Sin Clasificar,NaN,NaN,NaN,1.2747
+P.GLN414HIS,VUS / Sin Clasificar,NaN,NaN,NaN,1.2747
+P.SER416PHE,VUS / Sin Clasificar,NaN,NaN,NaN,2.4725
+P.PHE417SER,VUS / Sin Clasificar,4.28,-0.0592,2.5785,3.3255
+P.VAL419ILE,VUS / Sin Clasificar,NaN,NaN,0.7745,1.4441
+P.VAL419ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.9998
+P.MET420LEU,VUS / Sin Clasificar,0.0846,4.9525,NaN,-0.1059
+P.MET420VAL,VUS / Sin Clasificar,1.8391,NaN,3.9081,1.5348
+P.MET420THR,VUS / Sin Clasificar,1.6649,5.4192,2.769,1.4724
+P.MET420LYS,VUS / Sin Clasificar,NaN,1.0919,NaN,2.4823
+P.MET420ILE,VUS / Sin Clasificar,9.2291,NaN,-0.0823,2.4145
+P.MET420ILE,Uncertain significance,9.2291,NaN,-0.0823,2.4145
+P.VAL422LEU,VUS / Sin Clasificar,NaN,4.9525,NaN,6.5761
+P.VAL422ILE,VUS / Sin Clasificar,-0.6499,-0.0322,-0.0023,3.2955
+P.ILE423THR,VUS / Sin Clasificar,1.9831,NaN,NaN,8.5776
+P.SER424ARG,VUS / Sin Clasificar,NaN,NaN,-3.0811,0.4776
+P.GLY425CYS,VUS / Sin Clasificar,NaN,NaN,NaN,3.1906
+P.GLY425SER,VUS / Sin Clasificar,3.8949,NaN,0.0029,6.9118
+P.GLY425ALA,VUS / Sin Clasificar,NaN,NaN,NaN,7.8514
+P.PRO426LEU,VUS / Sin Clasificar,NaN,NaN,NaN,6.3452
+P.LEU427GLN,VUS / Sin Clasificar,NaN,NaN,NaN,0.8352
+P.LEU428MET,VUS / Sin Clasificar,NaN,NaN,NaN,4.028
+P.LEU428ARG,VUS / Sin Clasificar,3.6088,4.1232,NaN,4.2126
+P.LEU428PRO,VUS / Sin Clasificar,NaN,NaN,8.9402,6.0582
+P.ALA430PRO,VUS / Sin Clasificar,7.1554,NaN,6.2465,2.5193
+P.ALA430SER,VUS / Sin Clasificar,5.3886,0.596,NaN,2.2303
+P.ALA430ASP,VUS / Sin Clasificar,NaN,7.4069,NaN,3.2476
+P.PHE431LEU,VUS / Sin Clasificar,NaN,NaN,-2.4034,0.5828
+P.PHE431SER,VUS / Sin Clasificar,NaN,5.1099,0.5561,1.3715
+P.ILE432VAL,VUS / Sin Clasificar,NaN,0.1265,NaN,3.0683
+P.ILE432THR,VUS / Sin Clasificar,NaN,-0.0024,NaN,0.699
+P.ILE432ASN,VUS / Sin Clasificar,NaN,NaN,NaN,2.8238
+P.GLY434ALA,VUS / Sin Clasificar,NaN,NaN,NaN,0.7996
+P.MET435LEU,Likely Benign,11.6655,-0.0365,NaN,2.9733
+P.MET435THR,VUS / Sin Clasificar,NaN,NaN,NaN,2.1463
+P.PHE436TYR,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1818
+P.PHE436CYS,Uncertain significance,NaN,NaN,NaN,1.0509
+P.PHE436LEU,VUS / Sin Clasificar,NaN,-0.0365,NaN,1.6146
+P.LEU437PRO,Uncertain significance,NaN,NaN,NaN,2.8568
+P.PRO438LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.7575
+P.ALA439PRO,VUS / Sin Clasificar,NaN,NaN,NaN,6.4197
+P.ALA439ASP,VUS / Sin Clasificar,0.4631,NaN,NaN,1.6786
+P.CYS440GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.6944
+P.CYS440ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.9868
+P.CYS440SER,VUS / Sin Clasificar,NaN,NaN,NaN,-0.4541
+P.CYS440TYR,Uncertain significance,NaN,NaN,NaN,4.93
+P.ASN441SER,VUS / Sin Clasificar,NaN,NaN,NaN,2.2016
+P.ASN441LYS,Uncertain significance,NaN,NaN,NaN,2.8291
+P.THR442ALA,VUS / Sin Clasificar,0.0138,-0.426,-0.6597,0.9783
+P.THR442LYS,VUS / Sin Clasificar,NaN,NaN,NaN,10.6144
+P.PRO443THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.41
+P.PRO443ALA,VUS / Sin Clasificar,0.0138,-0.426,-0.6597,8.3532
+P.PRO443SER,VUS / Sin Clasificar,NaN,NaN,NaN,2.6668
+P.PRO443LEU,VUS / Sin Clasificar,-0.5525,NaN,-1.8592,0.8553
+P.GLY444VAL,VUS / Sin Clasificar,NaN,NaN,NaN,6.2119
+P.VAL445ILE,VUS / Sin Clasificar,NaN,NaN,NaN,2.2625
+P.VAL445PHE,VUS / Sin Clasificar,NaN,NaN,NaN,4.2845
+P.VAL445ALA,VUS / Sin Clasificar,2.4698,1.7573,NaN,1.7569
+P.LEU446ILE,VUS / Sin Clasificar,NaN,NaN,-1.2669,-0.059
+P.LEU446PHE,Uncertain significance,NaN,NaN,NaN,0.9691
+P.ALA447PRO,VUS / Sin Clasificar,9.8023,NaN,6.0494,0.1387
+P.ALA447THR,VUS / Sin Clasificar,NaN,NaN,-0.618,-0.4501
+P.ALA447GLY,Uncertain significance,3.3708,0.7412,NaN,0.253
+P.ALA447VAL,VUS / Sin Clasificar,NaN,NaN,-0.7732,0.1758
+P.LEU449ILE,VUS / Sin Clasificar,0.3722,NaN,NaN,3.9094
+P.GLY450ARG,VUS / Sin Clasificar,NaN,NaN,NaN,27.6013
+P.GLY450SER,VUS / Sin Clasificar,NaN,NaN,NaN,11.7419
+P.ALA451THR,VUS / Sin Clasificar,NaN,-0.1396,NaN,8.7357
+P.ALA451VAL,VUS / Sin Clasificar,12.7253,-0.2816,0.2563,1.7831
+P.GLY452SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.7495
+P.GLY452ARG,VUS / Sin Clasificar,NaN,NaN,NaN,14.1764
+P.GLY452ASP,VUS / Sin Clasificar,NaN,NaN,NaN,5.9223
+P.GLY452VAL,VUS / Sin Clasificar,12.7253,-0.2816,NaN,4.7537
+P.LEU453SER,VUS / Sin Clasificar,NaN,NaN,NaN,3.2924
+P.ALA454THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.4503
+P.ALA454PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.8843
+P.ALA454GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.2229
+P.ALA454VAL,VUS / Sin Clasificar,NaN,0.2541,-0.0056,3.6223
+P.SER456PRO,VUS / Sin Clasificar,NaN,NaN,6.9377,1.7316
+P.TRP458SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.9692
+P.TRP458LEU,VUS / Sin Clasificar,NaN,NaN,0.3873,-0.1024
+P.ALA460VAL,VUS / Sin Clasificar,NaN,0.0035,0.0003,1.2917
+P.GLY462ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.2149
+P.ALA463THR,VUS / Sin Clasificar,2.2487,17.8563,NaN,1.1589
+P.ALA463ASP,VUS / Sin Clasificar,NaN,NaN,NaN,3.5238
+P.THR464ALA,VUS / Sin Clasificar,NaN,0.6404,0.4688,1.4542
+P.PRO467ALA,VUS / Sin Clasificar,1.5724,NaN,NaN,1.9272
+P.PRO467LEU,VUS / Sin Clasificar,NaN,NaN,NaN,1.6743
+P.PRO468ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.3065
+P.PRO468LEU,VUS / Sin Clasificar,NaN,NaN,NaN,2.9688
+P.SER469GLY,VUS / Sin Clasificar,NaN,NaN,NaN,1.2939
+P.SER469ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.0238
+P.SER469ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.0238
+P.GLU470LYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.5158
+P.GLU470GLY,Uncertain significance,NaN,NaN,NaN,2.7416
+P.GLU470ASP,VUS / Sin Clasificar,NaN,NaN,NaN,2.1147
+P.THR472PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.9177
+P.THR472ASN,VUS / Sin Clasificar,NaN,NaN,NaN,1.3701
+P.MET473VAL,Uncertain significance,NaN,NaN,NaN,1.3129
+P.MET473THR,Uncertain significance,NaN,NaN,NaN,2.0562
+P.MET473ILE,Uncertain significance,NaN,NaN,NaN,1.4481
+P.MET473ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.4481
+P.ARG474MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.8547
+P.ARG474LYS,Uncertain significance,NaN,NaN,NaN,2.5835
+P.VAL475ALA,VUS / Sin Clasificar,NaN,NaN,NaN,1.2075
+P.LEU476VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.3714
+P.ALA481ASP,VUS / Sin Clasificar,0.4561,NaN,NaN,0.1833
+P.ALA481VAL,Uncertain significance,4.895,0.245,0.4568,0.5226
+P.ARG482PRO,VUS / Sin Clasificar,7.8598,5.2561,NaN,1.041
+P.ARG482HIS,VUS / Sin Clasificar,NaN,NaN,NaN,2.7006
+P.VAL484MET,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2396
+P.ALA485THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.0153
+P.LEU486VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.2637
+P.VAL488LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-0.4843
+P.ALA490PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.6527
+P.ALA490THR,Uncertain significance,NaN,NaN,NaN,0.5575
+P.ALA490VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.4026
+P.LEU493ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.934
+P.LEU493PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.4935
+P.LEU494VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.8679
+P.LEU494ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.3346
+P.ASP495HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.4889
+P.ASP495TYR,VUS / Sin Clasificar,NaN,NaN,NaN,0.4469
+P.PRO496THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.1412
+P.PRO496GLN,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0637
+P.PRO496ARG,Uncertain significance,NaN,NaN,NaN,0.3981
+P.PRO496LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.0856
+P.ALA497THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.434
+P.ALA497VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.409
+P.LEU498PHE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.3396
+P.LEU498VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.2366
+P.PRO500ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.0155
+P.PRO500LEU,Uncertain significance,NaN,NaN,NaN,0.6074
+P.ALA501VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.7922
+P.ASN502ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.7302
+P.ASN502LYS,Uncertain significance,NaN,NaN,NaN,0.5287
+P.ASP503ASN,Likely Benign,NaN,NaN,NaN,0.3356
+P.SER504PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.1764
+P.SER505GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.8003
+P.SER505ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.7452
+P.ARG506THR,Uncertain significance,NaN,NaN,NaN,0.6423
+P.ALA507VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.1811
+P.ALA507ASP,VUS / Sin Clasificar,NaN,NaN,NaN,1.0153
+P.PRO508THR,VUS / Sin Clasificar,NaN,NaN,NaN,-1.1892
+P.PRO508ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.5106
+P.PRO508LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.4321
+P.SER509GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.457
+P.SER510LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.8197
+P.GLY511GLU,VUS / Sin Clasificar,-0.344,NaN,NaN,-0.7146
+P.MET512ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.3459
+P.ALA514THR,Likely Benign,NaN,NaN,NaN,0.9983
+P.ALA514SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.5703
+P.ALA514VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.9647
+P.SER515ASN,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0664
+P.SER515THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.056
+P.ARG516LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.6781
+P.ARG516GLN,VUS / Sin Clasificar,NaN,NaN,NaN,1.9404
+P.PRO517THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.7245
+P.ALA518SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.0681
+P.ALA518THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.0145
+P.ALA518VAL,Uncertain significance,NaN,NaN,NaN,0.1634
+P.LEU519ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.1553
+P.ALA520GLY,VUS / Sin Clasificar,NaN,NaN,NaN,1.2743
+P.ASP521GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.7251
+P.ASP521ALA,VUS / Sin Clasificar,NaN,NaN,NaN,2.8492
+P.SER522GLY,Uncertain significance,NaN,NaN,NaN,2.0588
+P.SER522ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.7529
+P.PHE523ILE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0547
+P.TYR524HIS,VUS / Sin Clasificar,NaN,NaN,NaN,3.6183
+P.TYR524CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.9222
+P.ALA525VAL,VUS / Sin Clasificar,NaN,NaN,NaN,4.6136
+P.ILE526VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.2467
+P.SER527CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.7295
+P.TYR528HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.936
+P.LEU529PHE,VUS / Sin Clasificar,NaN,NaN,NaN,1.4144
+P.LEU529ARG,VUS / Sin Clasificar,NaN,NaN,NaN,1.828
+P.TYR530HIS,VUS / Sin Clasificar,NaN,NaN,NaN,1.1275
+P.TYR530CYS,Uncertain significance,NaN,NaN,NaN,4.8387
+P.GLY532CYS,VUS / Sin Clasificar,NaN,NaN,NaN,1.5104
+P.GLY532SER,VUS / Sin Clasificar,NaN,NaN,NaN,10.3493
+P.ALA533THR,Uncertain significance,NaN,NaN,NaN,-2.1385
+P.ALA533ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.9028
+P.LEU534PRO,VUS / Sin Clasificar,NaN,NaN,NaN,4.9908
+P.GLY535SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.3652
+P.GLY535ASP,VUS / Sin Clasificar,NaN,NaN,NaN,7.8758
+P.THR536MET,VUS / Sin Clasificar,NaN,NaN,NaN,12.3908
+P.LEU537VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.6815
+P.LEU537PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.4489
+P.THR538SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.4284
+P.LEU541PRO,VUS / Sin Clasificar,NaN,NaN,NaN,2.7183
+P.GLY543ARG,VUS / Sin Clasificar,NaN,NaN,NaN,9.4513
+P.ALA544ASP,VUS / Sin Clasificar,NaN,NaN,NaN,-0.8942
+P.LEU545PHE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.6886
+P.ILE546LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.9921
+P.SER547GLY,VUS / Sin Clasificar,NaN,NaN,NaN,2.112
+P.SER547ILE,Uncertain significance,NaN,NaN,NaN,2.524
+P.CYS548TYR,Uncertain significance,NaN,NaN,NaN,0.6748
+P.THR550ARG,Uncertain significance,NaN,NaN,NaN,-0.1676
+P.GLY551ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.3319
+P.GLY551CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.644
+P.GLY551ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.935
+P.PRO552SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.6703
+P.PRO552LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.218
+P.THR553ASN,VUS / Sin Clasificar,NaN,NaN,NaN,1.2967
+P.LYS554ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.3978
+P.LYS554ASN,VUS / Sin Clasificar,NaN,NaN,NaN,0.1943
+P.ARG555CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.1429
+P.ARG555LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.0803
+P.ARG555HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.9604
+P.ARG555PRO,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1276
+P.SER556ASN,VUS / Sin Clasificar,NaN,NaN,NaN,2.2561
+P.THR557ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.5368
+P.ALA559ASP,VUS / Sin Clasificar,NaN,NaN,NaN,1.8615
+P.PRO560ALA,VUS / Sin Clasificar,NaN,NaN,NaN,0.0462
+P.PRO560LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.7398
+P.GLY561GLU,VUS / Sin Clasificar,NaN,NaN,NaN,2.0573
+P.TRP564ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.8941
+P.TRP564SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.1406
+P.ASP566GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.2404
+P.LEU567ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.7091
+P.ALA568PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.6348
+P.ALA568THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.7321
+P.ARG569TRP,Uncertain significance,NaN,NaN,NaN,0.4764
+P.ARG569GLN,Uncertain significance,NaN,NaN,NaN,0.3566
+P.GLN570HIS,VUS / Sin Clasificar,NaN,NaN,NaN,0.0261
+P.THR571ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.9912
+P.ALA572VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.0544
+P.PRO576SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.0997
+P.LYS577GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.3116
+P.LYS577ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2454
+P.ALA581ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.3606
+P.ASP584TYR,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1468
+P.ASP584ALA,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0132
+P.ASP585GLY,VUS / Sin Clasificar,NaN,NaN,NaN,0.2927
+P.ASP585GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.6701
+P.ASN586SER,VUS / Sin Clasificar,NaN,NaN,NaN,-0.4132
+P.LEU587PHE,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1634
+P.VAL588ILE,VUS / Sin Clasificar,NaN,NaN,NaN,0.2373
+P.VAL588ASP,VUS / Sin Clasificar,NaN,NaN,NaN,0.0182
+P.LYS589GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.3135
+P.LYS589ASN,VUS / Sin Clasificar,NaN,NaN,NaN,-0.9046
+P.GLY590ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-1.7788
+P.GLY590SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.183
+P.GLU592VAL,Uncertain significance,NaN,NaN,NaN,0.34
+P.LEU594PHE,Pathogenic,NaN,NaN,NaN,-0.1958
+P.LEU594PRO,VUS / Sin Clasificar,NaN,NaN,NaN,-0.1862
+P.PRO595ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.8979
+P.THR596ALA,VUS / Sin Clasificar,NaN,NaN,NaN,0.0848
+P.GLY597ARG,Uncertain significance,NaN,NaN,NaN,1.2982
+P.ASN598LYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.9565
+P.LYS599GLU,VUS / Sin Clasificar,NaN,NaN,NaN,-1.0982
+P.LYS599GLN,VUS / Sin Clasificar,NaN,NaN,NaN,-1.1256
+P.LYS600ASN,VUS / Sin Clasificar,NaN,NaN,NaN,0.5635
+P.PRO601THR,VUS / Sin Clasificar,NaN,NaN,NaN,1.3604
+P.PRO601SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.9859
+P.PRO602SER,VUS / Sin Clasificar,NaN,NaN,NaN,-0.5007
+P.PRO602THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.0747
+P.PHE604LEU,VUS / Sin Clasificar,NaN,NaN,NaN,1.266
+P.LEU605VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.4946
+P.PRO606THR,VUS / Sin Clasificar,NaN,NaN,NaN,0.9873
+P.PRO606LEU,VUS / Sin Clasificar,NaN,NaN,NaN,-1.484
+P.THR607ALA,Uncertain significance,NaN,NaN,NaN,1.2767
+P.THR607ILE,VUS / Sin Clasificar,NaN,NaN,NaN,1.4041
+P.ASN608SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.471
+P.ASN608LYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.6816
+P.GLU609LYS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.3901
+P.ARG611SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.894
+P.ARG611CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.1641
+P.ARG611HIS,Likely Benign,NaN,NaN,NaN,0.838
+P.PHE614SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.0969
+P.PHE614LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.2424
+P.LEU615PHE,VUS / Sin Clasificar,NaN,NaN,NaN,0.9928
+P.GLN617ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.1826
+P.LYS618MET,VUS / Sin Clasificar,NaN,NaN,NaN,0.3833
+P.LYS618ARG,VUS / Sin Clasificar,NaN,NaN,NaN,0.0592
+P.LEU620VAL,VUS / Sin Clasificar,NaN,NaN,NaN,0.9547
+P.LEU620PRO,VUS / Sin Clasificar,NaN,NaN,NaN,1.6124
+P.GLU621LYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.2464
+P.GLU621GLN,VUS / Sin Clasificar,NaN,NaN,NaN,1.4219
+P.GLU621ASP,VUS / Sin Clasificar,NaN,NaN,NaN,-0.7134
+P.GLY622ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2456
+P.GLY622GLU,VUS / Sin Clasificar,NaN,NaN,NaN,0.6616
+P.GLY622VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.4192
+P.ALA623PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.8923
+P.ALA623THR,VUS / Sin Clasificar,NaN,NaN,NaN,-0.0021
+P.ALA623SER,VUS / Sin Clasificar,NaN,NaN,NaN,0.0718
+P.GLY624CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.6566
+P.SER625CYS,VUS / Sin Clasificar,NaN,NaN,NaN,-0.2228
+P.TRP626LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.1243
+P.THR627ASN,VUS / Sin Clasificar,NaN,NaN,NaN,2.9418
+P.PRO628LEU,VUS / Sin Clasificar,NaN,NaN,NaN,2.4287
+P.PRO628HIS,VUS / Sin Clasificar,NaN,NaN,NaN,2.2772
+P.CYS629ARG,VUS / Sin Clasificar,NaN,NaN,NaN,-0.138
+P.CYS629TYR,VUS / Sin Clasificar,NaN,NaN,NaN,1.3707
+P.GLY631VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.7376
+P.GLY634SER,VUS / Sin Clasificar,NaN,NaN,NaN,1.2917
+P.GLY635CYS,VUS / Sin Clasificar,NaN,NaN,NaN,0.7599
+P.ARG636GLN,Uncertain significance,NaN,NaN,NaN,0.2792
+P.ARG636PRO,VUS / Sin Clasificar,NaN,NaN,NaN,0.7153
+P.ARG636LEU,VUS / Sin Clasificar,NaN,NaN,NaN,0.1382
+P.GLN638LYS,VUS / Sin Clasificar,NaN,NaN,NaN,2.7356
+P.GLN639LYS,VUS / Sin Clasificar,NaN,NaN,NaN,8.9418
+P.GLU640ALA,VUS / Sin Clasificar,NaN,NaN,NaN,8.6571
+P.THR641ILE,VUS / Sin Clasificar,NaN,NaN,NaN,4.584
+P.LEU643VAL,VUS / Sin Clasificar,NaN,NaN,NaN,1.5811
+P.GLY51ALAFS*45,Pathogenic,NaN,NaN,NaN,NaN
+P.LEU54PRO,Uncertain significance,NaN,NaN,NaN,7.2039
+P.GLY93ARG,Likely Pathogenic,NaN,NaN,NaN,8.2085
+P.TYR137*,Likely Pathogenic,NaN,NaN,NaN,2.9786
+P.MET142_GLN323DEL,Likely Pathogenic,NaN,NaN,NaN,NaN
+P.ASN157THRFS*3,Pathogenic,NaN,NaN,NaN,NaN
+P.ASP191GLY,Likely Pathogenic,NaN,1.7,NaN,3.6116
+P.GLY250VAL,Likely Pathogenic,NaN,NaN,NaN,7.1932
+P.GLN263LEU,Likely Pathogenic,NaN,NaN,NaN,5.0858
+P.GLN265ARG,Likely Pathogenic,-0.9916,NaN,0.8581,7.086
+P.VAL270GLU,Likely Pathogenic,NaN,NaN,NaN,5.7932
+P.CYS272*,Pathogenic,NaN,NaN,NaN,5.8982
+P.VAL287_GLY288DEL,Likely Pathogenic,NaN,-0.2997,NaN,NaN
+P.Y324HFS*148,Pathogenic,NaN,NaN,NaN,NaN
+P.ASP331ASN,Likely Pathogenic,NaN,3.6425,2.9156,7.7611
+P.TYR348ASP,Likely Pathogenic,NaN,NaN,NaN,5.1099
+P.GLY350ASP,Likely Pathogenic,NaN,NaN,NaN,6.2781
+P.SER356PHE,Pathogenic,NaN,NaN,NaN,4.1824
+P.ASP369VAL,Likely Pathogenic,NaN,NaN,NaN,2.4338
+P.LYS388*,Likely Pathogenic,NaN,NaN,NaN,1.34
+P.GLY421ARG,Likely Pathogenic,NaN,NaN,NaN,9.1225
+P.ALA439_PRO443DEL,Likely Pathogenic,NaN,NaN,NaN,NaN
+P.ARG516*,Pathogenic,NaN,NaN,NaN,2.4136
+P.SER509ARGFS*6,Pathogenic,NaN,NaN,NaN,NaN
+P.GLY543GLU,Pathogenic,NaN,NaN,NaN,13.6456
+P.SER547ARG,Likely Pathogenic,NaN,NaN,NaN,4.8613
+P.LEU562MET,Likely Pathogenic,NaN,NaN,NaN,0.6414
+P.ARG636*,Likely Pathogenic,NaN,NaN,NaN,-0.7699

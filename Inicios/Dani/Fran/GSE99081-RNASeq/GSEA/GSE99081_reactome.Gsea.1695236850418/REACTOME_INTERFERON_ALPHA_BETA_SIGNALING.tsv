@@ -1,0 +1,71 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IRF4	interferon regulatory factor 4	70	1.4176325798034668	0.006881511	No	
+row_1	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	-0.0058044256	No	
+row_2	ABCE1	ATP-binding cassette, sub-family E (OABP), member 1	1710	0.5000072121620178	-0.08348306	No	
+row_3	IRF6	interferon regulatory factor 6	1989	0.48551446199417114	-0.096835986	No	
+row_4	IFI27	interferon, alpha-inducible protein 27	2743	0.3758923411369324	-0.14043118	No	
+row_5	PTPN1	protein tyrosine phosphatase, non-receptor type 1	3310	0.3082939088344574	-0.17299631	No	
+row_6	IFNAR1	interferon (alpha, beta and omega) receptor 1	3602	0.27808159589767456	-0.18879355	No	
+row_7	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.20255983	No	
+row_8	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.27417836	No	
+row_9	IRF5	interferon regulatory factor 5	5311	0.12924136221408844	-0.29003942	No	
+row_10	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	6165	0.06314482539892197	-0.3422921	No	
+row_11	IFNA17	interferon, alpha 17	7874	0.0	-0.44791982	No	
+row_12	IFNA6	interferon, alpha 6	8160	0.0	-0.46554503	No	
+row_13	IFNA21	interferon, alpha 21	9399	-1.727731500977825E-6	-0.54210657	No	
+row_14	IFNA4	interferon, alpha 4	9401	-1.8230683735964703E-6	-0.5421684	No	
+row_15	IFNA10	interferon, alpha 10	9402	-1.8661804688235861E-6	-0.5421684	No	
+row_16	IFNA16	interferon, alpha 16	9404	-1.9269425592938205E-6	-0.5422302	No	
+row_17	IFNA7	interferon, alpha 7	9419	-2.654248419275973E-6	-0.543096	No	
+row_18	IFNA13	interferon, alpha 13	9446	-2.8573462259373628E-5	-0.54470366	No	
+row_19	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.6199473	No	
+row_20	PTPN6	protein tyrosine phosphatase, non-receptor type 6	10935	-0.09642089158296585	-0.63532585	No	
+row_21	IFNA5	interferon, alpha 5	11441	-0.14333227276802063	-0.66542304	No	
+row_22	IFNA14	interferon, alpha 14	11459	-0.1443299800157547	-0.66533303	No	
+row_23	IFNA1	interferon, alpha 1	11781	-0.17263290286064148	-0.6838194	No	
+row_24	IFNA8	interferon, alpha 8	12508	-0.24569764733314514	-0.72677445	No	
+row_25	IFNA2	interferon, alpha 2	12634	-0.2577002942562103	-0.73246694	No	
+row_26	IRF2	interferon regulatory factor 2	13674	-0.3907041847705841	-0.7936321	No	
+row_27	IRF8	interferon regulatory factor 8	13798	-0.41098830103874207	-0.7979887	No	
+row_28	KPNA1	karyopherin alpha 1 (importin alpha 5)	13898	-0.4246748387813568	-0.8007529	No	
+row_29	IFNAR2	interferon (alpha, beta and omega) receptor 2	14588	-0.5131731629371643	-0.8393045	No	
+row_30	KPNB1	karyopherin (importin) beta 1	15038	-0.634635865688324	-0.86205333	No	
+row_31	EGR1	early growth response 1	15267	-0.7187111973762512	-0.87047	No	
+row_32	HLA-H	major histocompatibility complex, class I, H (pseudogene)	15430	-0.79853355884552	-0.8741738	Yes	
+row_33	IFITM3	interferon induced transmembrane protein 3 (1-8U)	15437	-0.8014351725578308	-0.8682072	Yes	
+row_34	HLA-A	major histocompatibility complex, class I, A	15527	-0.8441747426986694	-0.86703557	Yes	
+row_35	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.86832756	Yes	
+row_36	HLA-G	HLA-G histocompatibility antigen, class I, G	15750	-1.0374876260757446	-0.86507064	Yes	
+row_37	HLA-B	major histocompatibility complex, class I, B	15985	-1.5467902421951294	-0.86731005	Yes	
+row_38	HLA-C	major histocompatibility complex, class I, C	15993	-1.5655981302261353	-0.8553623	Yes	
+row_39	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.8435107	Yes	
+row_40	HLA-F	major histocompatibility complex, class I, F	16048	-1.8253265619277954	-0.831117	Yes	
+row_41	IRF1	interferon regulatory factor 1	16089	-2.0871143341064453	-0.8170859	Yes	
+row_42	IFIT5	interferon-induced protein with tetratricopeptide repeats 5	16097	-2.1982407569885254	-0.8001354	Yes	
+row_43	IFNB1	interferon, beta 1, fibroblast	16102	-2.252572774887085	-0.7825696	Yes	
+row_44	GBP2	guanylate binding protein 2, interferon-inducible	16108	-2.3213677406311035	-0.7645216	Yes	
+row_45	ADAR	adenosine deaminase, RNA-specific	16111	-2.3418095111846924	-0.7461265	Yes	
+row_46	IFITM2	interferon induced transmembrane protein 2 (1-8D)	16126	-2.432886838912964	-0.7277532	Yes	
+row_47	SOCS1	suppressor of cytokine signaling 1	16143	-2.593221426010132	-0.70823574	Yes	
+row_48	IFIT2	interferon-induced protein with tetratricopeptide repeats 2	16149	-2.6941051483154297	-0.6872402	Yes	
+row_49	IFIT3	interferon-induced protein with tetratricopeptide repeats 3	16157	-2.7514026165008545	-0.66591525	Yes	
+row_50	HLA-E	major histocompatibility complex, class I, E	16160	-2.828178644180298	-0.64367396	Yes	
+row_51	SAMHD1	SAM domain and HD domain 1	16172	-3.03285551071167	-0.6203706	Yes	
+row_52	BST2	bone marrow stromal cell antigen 2	16173	-3.0331666469573975	-0.59638464	Yes	
+row_53	STAT2	signal transducer and activator of transcription 2, 113kDa	16178	-3.1163220405578613	-0.5719884	Yes	
+row_54	IRF7	interferon regulatory factor 7	16202	-3.79117751121521	-0.5434305	Yes	
+row_55	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	-0.51132804	Yes	
+row_56	USP18	ubiquitin specific peptidase 18	16216	-4.179571151733398	-0.47827634	Yes	
+row_57	IFI35	interferon-induced protein 35	16220	-4.236086845397949	-0.44496325	Yes	
+row_58	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	16221	-4.297661304473877	-0.41097772	Yes	
+row_59	IFITM1	interferon induced transmembrane protein 1 (9-27)	16222	-4.364451885223389	-0.376464	Yes	
+row_60	ISG20	interferon stimulated exonuclease gene 20kDa	16226	-4.623706817626953	-0.3400857	Yes	
+row_61	IFI6	interferon, alpha-inducible protein 6	16227	-4.643519401550293	-0.30336514	Yes	
+row_62	OASL	2'-5'-oligoadenylate synthetase-like	16228	-4.654289722442627	-0.26655942	Yes	
+row_63	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	16229	-4.70388650894165	-0.22936149	Yes	
+row_64	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	16231	-4.784234523773193	-0.19159001	Yes	
+row_65	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	16232	-4.808309555053711	-0.15356632	Yes	
+row_66	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	16233	-4.80935001373291	-0.115534395	Yes	
+row_67	MX2	myxovirus (influenza virus) resistance 2 (mouse)	16234	-4.817452907562256	-0.0774384	Yes	
+row_68	ISG15	ISG15 ubiquitin-like modifier	16236	-4.880467414855957	-0.03890593	Yes	
+row_69	RSAD2	radical S-adenosyl methionine domain containing 2	16238	-4.935521602630615	6.190443E-5	Yes	

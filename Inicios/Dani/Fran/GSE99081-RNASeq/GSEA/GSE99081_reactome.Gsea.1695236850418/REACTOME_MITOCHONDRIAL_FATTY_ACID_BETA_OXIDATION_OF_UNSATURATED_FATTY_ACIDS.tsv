@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACADM	acyl-Coenzyme A dehydrogenase, C-4 to C-12 straight chain	666	0.7566208243370056	0.36417055	Yes	
+row_1	HADHB	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), beta subunit	2310	0.43871361017227173	0.49791366	Yes	
+row_2	HADHA	hydroxyacyl-Coenzyme A dehydrogenase/3-ketoacyl-Coenzyme A thiolase/enoyl-Coenzyme A hydratase (trifunctional protein), alpha subunit	3192	0.3207184076309204	0.61540246	Yes	
+row_3	ACADL	acyl-Coenzyme A dehydrogenase, long chain	3335	0.3056967258453369	0.77036566	Yes	
+row_4	DECR1	2,4-dienoyl CoA reductase 1, mitochondrial	6399	0.04556015506386757	0.606098	No	

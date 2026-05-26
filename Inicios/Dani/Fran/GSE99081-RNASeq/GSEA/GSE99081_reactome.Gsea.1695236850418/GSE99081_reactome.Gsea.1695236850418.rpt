@@ -1,0 +1,33 @@
+producer_class	xtools.gsea.Gsea
+producer_timestamp	1695236850418
+param	zip_report	false
+param	num	100
+param	scoring_scheme	weighted
+param	norm	meandiv
+param	out	/home/fran/Documents/fran-labo/RNAseq/GSE99081/GSEA
+param	mode	Max_probe
+param	include_only_symbols	true
+param	set_max	500
+param	gmx	/home/fran/Documents/fran-labo/RNAseq/GSEA_Linux_4.3.2/GMT/msigdb_v7.4_GMTs/c2.cp.reactome.v7.4.symbols.gmt
+param	plot_top_x	100
+param	nperm	1000
+param	order	descending
+param	rnd_seed	timestamp
+param	rpt_label	GSE99081_reactome
+param	set_min	5
+param	res	/home/fran/Documents/fran-labo/RNAseq/GSE99081/GSEA/MATRIZ_GSE99081_COLAPSADA.CollapseDataset.1695236057090/MATRIZ_GSE99081_collapsed_to_symbols.gct
+param	create_svgs	false
+param	cls	/home/fran/Documents/fran-labo/RNAseq/GSE99081/GSEA/gsea_CLASE_99081.cls#CONTROL_versus_YFV
+param	sort	real
+param	create_gcts	false
+param	help	false
+param	save_rnd_lists	false
+param	median	false
+param	metric	Signal2Noise
+param	make_sets	true
+param	rnd_type	no_balance
+param	gui	false
+param	permute	phenotype
+param	collapse	No_Collapse
+
+file	/home/fran/Documents/fran-labo/RNAseq/GSE99081/GSEA/GSE99081_reactome.Gsea.1695236850418/index.html

@@ -1,0 +1,53 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDK3	pyruvate dehydrogenase kinase, isozyme 3	24	1.683024525642395	0.09120235	Yes	
+row_1	PPARD	peroxisome proliferative activated receptor, delta	236	1.0137914419174194	0.13399795	Yes	
+row_2	PDK4	pyruvate dehydrogenase kinase, isozyme 4	631	0.7680419683456421	0.15195535	Yes	
+row_3	L2HGDH	L-2-hydroxyglutarate dehydrogenase	798	0.7031156420707703	0.18042174	Yes	
+row_4	LDHB	lactate dehydrogenase B	985	0.64765465259552	0.20459838	Yes	
+row_5	ADHFE1	alcohol dehydrogenase, iron containing, 1	1198	0.5935632586479187	0.22419006	Yes	
+row_6	LDHC	lactate dehydrogenase C	1230	0.5889896750450134	0.254711	Yes	
+row_7	ACO2	aconitase 2, mitochondrial	1256	0.5816937685012817	0.28520077	Yes	
+row_8	SDHC	succinate dehydrogenase complex, subunit C, integral membrane protein, 15kDa	1487	0.5321829915046692	0.30030027	Yes	
+row_9	GLO1	glyoxalase I	1516	0.5262476801872253	0.3275513	Yes	
+row_10	LDHA	lactate dehydrogenase A	2001	0.4838203489780426	0.3242968	Yes	
+row_11	PDK2	pyruvate dehydrogenase kinase, isozyme 2	2119	0.46582573652267456	0.34272248	Yes	
+row_12	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	2153	0.4618176817893982	0.36611643	Yes	
+row_13	HAGH	hydroxyacylglutathione hydrolase	2431	0.4225160479545593	0.37227315	Yes	
+row_14	SUCLA2	succinate-CoA ligase, ADP-forming, beta subunit	2937	0.3492579162120819	0.360311	Yes	
+row_15	PDHA2	pyruvate dehydrogenase (lipoamide) alpha 2	2941	0.3490283191204071	0.37934682	Yes	
+row_16	NNT	nicotinamide nucleotide transhydrogenase	3365	0.3020821809768677	0.36985216	Yes	
+row_17	SUCLG1	succinate-CoA ligase, GDP-forming, alpha subunit	3566	0.28134918212890625	0.37299135	Yes	
+row_18	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	3648	0.27265578508377075	0.3830029	Yes	
+row_19	DLD	dihydrolipoamide dehydrogenase	3861	0.2531155049800873	0.38384598	Yes	
+row_20	DLST	dihydrolipoamide S-succinyltransferase (E2 component of 2-oxo-glutarate complex)	3863	0.252806693315506	0.3977064	Yes	
+row_21	D2HGDH	D-2-hydroxyglutarate dehydrogenase	3971	0.24456332623958588	0.40456477	Yes	
+row_22	FH	fumarate hydratase	4342	0.21623685956001282	0.3936166	No	
+row_23	PDP2	-	4560	0.19592751562595367	0.3910014	No	
+row_24	SDHD	succinate dehydrogenase complex, subunit D, integral membrane protein	4675	0.1848583221435547	0.39413938	No	
+row_25	SUCLG2	succinate-CoA ligase, GDP-forming, beta subunit	4740	0.18015369772911072	0.400107	No	
+row_26	FAHD1	fumarylacetoacetate hydrolase domain containing 1	4927	0.1643557995557785	0.39766815	No	
+row_27	MDH2	malate dehydrogenase 2, NAD (mitochondrial)	5200	0.13735869526863098	0.38842997	No	
+row_28	CS	citrate synthase	5829	0.08950541913509369	0.3545649	No	
+row_29	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	5854	0.08796253055334091	0.3579265	No	
+row_30	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.34806162	No	
+row_31	SDHB	succinate dehydrogenase complex, subunit B, iron sulfur (Ip)	6170	0.06242721900343895	0.34581628	No	
+row_32	SLC16A8	solute carrier family 16, member 8 (monocarboxylic acid transporter 3)	6296	0.05338086187839508	0.34103423	No	
+row_33	PDPR	-	6443	0.04270506650209427	0.33436698	No	
+row_34	SLC16A3	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)	6551	0.03512340039014816	0.3296914	No	
+row_35	PDHX	pyruvate dehydrogenase complex, component X	7054	0.008122919127345085	0.29912812	No	
+row_36	PDHB	pyruvate dehydrogenase (lipoamide) beta	9815	-0.01745983213186264	0.12959297	No	
+row_37	VDAC1	voltage-dependent anion channel 1	10627	-0.06892827153205872	0.08329005	No	
+row_38	BSG	basigin (Ok blood group)	10692	-0.07429718971252441	0.083428085	No	
+row_39	IDH3G	isocitrate dehydrogenase 3 (NAD+) gamma	11078	-0.1076095774769783	0.065571144	No	
+row_40	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.048026662	No	
+row_41	LDHAL6A	lactate dehydrogenase A-like 6A	11541	-0.150166317820549	0.05345478	No	
+row_42	IDH3A	isocitrate dehydrogenase 3 (NAD+) alpha	11880	-0.18087951838970184	0.042536233	No	
+row_43	PDK1	pyruvate dehydrogenase kinase, isozyme 1	12413	-0.23478099703788757	0.022601878	No	
+row_44	SDHA	succinate dehydrogenase complex, subunit A, flavoprotein (Fp)	12433	-0.23660841584205627	0.034458302	No	
+row_45	ME2	malic enzyme 2, NAD(+)-dependent, mitochondrial	12575	-0.2521580457687378	0.039634604	No	
+row_46	IDH3B	isocitrate dehydrogenase 3 (NAD+) beta	13532	-0.3685387969017029	8.741105E-4	No	
+row_47	OGDH	oxoglutarate (alpha-ketoglutarate) dehydrogenase (lipoamide)	13668	-0.389941930770874	0.01400888	No	
+row_48	LDHAL6B	lactate dehydrogenase A-like 6B	14552	-0.505918562412262	-0.012676533	No	
+row_49	ME3	malic enzyme 3, NADP(+)-dependent, mitochondrial	15048	-0.6381809115409851	-0.008109829	No	
+row_50	IDH2	isocitrate dehydrogenase 2 (NADP+), mitochondrial	15126	-0.6637585163116455	0.023687044	No	
+row_51	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	15475	-0.8172411322593689	0.04719548	No	

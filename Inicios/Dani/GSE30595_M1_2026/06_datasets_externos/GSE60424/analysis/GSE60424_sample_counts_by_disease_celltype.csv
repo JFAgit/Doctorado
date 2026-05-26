@@ -1,0 +1,43 @@
+"disease_status","celltype","n_samples"
+"ALS","B-cells",3
+"Healthy Control","B-cells",4
+"MS posttreatment","B-cells",3
+"MS pretreatment","B-cells",3
+"Sepsis","B-cells",3
+"Type 1 Diabetes","B-cells",4
+"ALS","CD4",3
+"Healthy Control","CD4",4
+"MS posttreatment","CD4",3
+"MS pretreatment","CD4",3
+"Sepsis","CD4",3
+"Type 1 Diabetes","CD4",4
+"ALS","CD8",3
+"Healthy Control","CD8",4
+"MS posttreatment","CD8",3
+"MS pretreatment","CD8",3
+"Sepsis","CD8",3
+"Type 1 Diabetes","CD8",4
+"ALS","Monocytes",3
+"Healthy Control","Monocytes",4
+"MS posttreatment","Monocytes",3
+"MS pretreatment","Monocytes",3
+"Sepsis","Monocytes",3
+"Type 1 Diabetes","Monocytes",4
+"ALS","Neutrophils",3
+"Healthy Control","Neutrophils",4
+"MS posttreatment","Neutrophils",3
+"MS pretreatment","Neutrophils",3
+"Sepsis","Neutrophils",3
+"Type 1 Diabetes","Neutrophils",4
+"ALS","NK",3
+"Healthy Control","NK",4
+"MS posttreatment","NK",2
+"MS pretreatment","NK",1
+"Sepsis","NK",2
+"Type 1 Diabetes","NK",2
+"ALS","Whole Blood",3
+"Healthy Control","Whole Blood",4
+"MS posttreatment","Whole Blood",3
+"MS pretreatment","Whole Blood",3
+"Sepsis","Whole Blood",3
+"Type 1 Diabetes","Whole Blood",4

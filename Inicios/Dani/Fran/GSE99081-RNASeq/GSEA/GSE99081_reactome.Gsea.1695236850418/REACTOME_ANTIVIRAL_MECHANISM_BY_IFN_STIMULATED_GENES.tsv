@@ -1,0 +1,73 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NEDD4	neural precursor cell expressed, developmentally down-regulated 4	725	0.7309113144874573	-0.035345573	No	
+row_1	PLCG1	phospholipase C, gamma 1	1364	0.5577214956283569	-0.06756025	No	
+row_2	MAPK3	mitogen-activated protein kinase 3	1456	0.5379591584205627	-0.06619942	No	
+row_3	ABCE1	ATP-binding cassette, sub-family E (OABP), member 1	1710	0.5000072121620178	-0.07535146	No	
+row_4	NUP85	nucleoporin 85kDa	1902	0.49599769711494446	-0.080720864	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.078461945	No	
+row_6	NUP37	nucleoporin 37kDa	2593	0.39764827489852905	-0.11182855	No	
+row_7	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	2766	0.3723543584346771	-0.11762918	No	
+row_8	NUP54	nucleoporin 54kDa	2828	0.36314940452575684	-0.11668398	No	
+row_9	NUP107	nucleoporin 107kDa	2975	0.34579503536224365	-0.12122155	No	
+row_10	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.17248186	No	
+row_11	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.18648015	No	
+row_12	NUP133	nucleoporin 133kDa	4450	0.20703673362731934	-0.20327324	No	
+row_13	NUP88	nucleoporin 88kDa	4544	0.19846251606941223	-0.20644689	No	
+row_14	KPNA3	karyopherin alpha 3 (importin alpha 4)	4699	0.18307004868984222	-0.21359341	No	
+row_15	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	4883	0.16735047101974487	-0.22273783	No	
+row_16	EIF4G2	eukaryotic translation initiation factor 4 gamma, 2	5000	0.15875156223773956	-0.22784998	No	
+row_17	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.22805178	No	
+row_18	RANBP2	RAN binding protein 2	5581	0.10741816461086273	-0.26024106	No	
+row_19	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	5622	0.10431190580129623	-0.26135984	No	
+row_20	SEH1L	SEH1-like (S. cerevisiae)	5687	0.10003748536109924	-0.26401857	No	
+row_21	NUP153	nucleoporin 153kDa	5902	0.0841740146279335	-0.27616102	No	
+row_22	EIF4A2	eukaryotic translation initiation factor 4A, isoform 2	5974	0.07802466303110123	-0.2795387	No	
+row_23	TPR	translocated promoter region (to activated MET oncogene)	6048	0.07193361967802048	-0.2831192	No	
+row_24	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	6165	0.06314482539892197	-0.28947347	No	
+row_25	NUP35	nucleoporin 35kDa	6808	0.020706167444586754	-0.32891253	No	
+row_26	EIF4E3	eukaryotic translation initiation factor 4E member 3	9451	-3.8348247471731156E-5	-0.49232122	No	
+row_27	NUP43	nucleoporin 43kDa	9760	-0.01447797566652298	-0.5111831	No	
+row_28	NUP214	nucleoporin 214kDa	10733	-0.07828941941261292	-0.5702847	No	
+row_29	NUP155	nucleoporin 155kDa	10739	-0.07889607548713684	-0.56956893	No	
+row_30	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	10897	-0.09362619370222092	-0.5780631	No	
+row_31	EIF4G3	eukaryotic translation initiation factor 4 gamma, 3	10945	-0.09776061773300171	-0.57969993	No	
+row_32	EIF4E2	eukaryotic translation initiation factor 4E member 2	11057	-0.10620191693305969	-0.5851855	No	
+row_33	NUP50	nucleoporin 50kDa	11180	-0.11821708083152771	-0.5911954	No	
+row_34	POM121	POM121 membrane glycoprotein (rat)	11246	-0.12406289577484131	-0.5936039	No	
+row_35	RAE1	RAE1 RNA export 1 homolog (S. pombe)	11252	-0.12442994862794876	-0.59229654	No	
+row_36	KPNA4	karyopherin alpha 4 (importin alpha 3)	11273	-0.12694156169891357	-0.5918843	No	
+row_37	NUP188	nucleoporin 188kDa	11329	-0.131568044424057	-0.5935767	No	
+row_38	FLNB	filamin B, beta (actin binding protein 278)	11510	-0.14810842275619507	-0.6027856	No	
+row_39	NUP210	nucleoporin 210kDa	11772	-0.17175135016441345	-0.6166972	No	
+row_40	KPNA5	karyopherin alpha 5 (importin alpha 6)	11877	-0.1807260662317276	-0.6207816	No	
+row_41	PPM1B	protein phosphatase 1B (formerly 2C), magnesium-dependent, beta isoform	12068	-0.19959773123264313	-0.62994003	No	
+row_42	NUP98	nucleoporin 98kDa	12083	-0.20092123746871948	-0.6281955	No	
+row_43	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	12104	-0.20313334465026855	-0.62679344	No	
+row_44	KPNA2	karyopherin alpha 2 (RAG cohort 1, importin alpha 1)	12666	-0.2609875202178955	-0.6581008	No	
+row_45	ARIH1	ariadne homolog, ubiquitin-conjugating enzyme E2 binding protein, 1 (Drosophila)	13567	-0.37513554096221924	-0.7088925	No	
+row_46	KPNA1	karyopherin alpha 1 (importin alpha 5)	13898	-0.4246748387813568	-0.72378576	No	
+row_47	UBC	ubiquitin C	14182	-0.47944867610931396	-0.73506045	No	
+row_48	NUP93	nucleoporin 93kDa	14495	-0.5000032782554626	-0.7478617	No	
+row_49	EIF4E	eukaryotic translation initiation factor 4E	14505	-0.5000383257865906	-0.7419218	No	
+row_50	EIF2AK2	eukaryotic translation initiation factor 2-alpha kinase 2	14757	-0.5552170276641846	-0.7502329	No	
+row_51	KPNB1	karyopherin (importin) beta 1	15038	-0.634635865688324	-0.7593057	Yes	
+row_52	EIF4A1	eukaryotic translation initiation factor 4A, isoform 1	15149	-0.6724252700805664	-0.7573731	Yes	
+row_53	NUP205	nucleoporin 205kDa	15295	-0.7395066022872925	-0.75673366	Yes	
+row_54	NUP160	nucleoporin 160kDa	15312	-0.7492915987968445	-0.7479884	Yes	
+row_55	UBB	ubiquitin B	15642	-0.9178993105888367	-0.75641173	Yes	
+row_56	NUP62	nucleoporin 62kDa	15644	-0.9199814796447754	-0.7445211	Yes	
+row_57	FLNA	filamin A, alpha (actin binding protein 280)	15764	-1.0543973445892334	-0.7381825	Yes	
+row_58	UBE2L6	ubiquitin-conjugating enzyme E2L 6	16021	-1.6785660982131958	-0.7322081	Yes	
+row_59	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.7072359	Yes	
+row_60	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.66070396	Yes	
+row_61	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	-0.6068664	Yes	
+row_62	USP18	ubiquitin specific peptidase 18	16216	-4.179571151733398	-0.5525649	Yes	
+row_63	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	16221	-4.297661304473877	-0.4969766	Yes	
+row_64	OASL	2'-5'-oligoadenylate synthetase-like	16228	-4.654289722442627	-0.43687865	Yes	
+row_65	MX1	myxovirus (influenza virus) resistance 1, interferon-inducible protein p78 (mouse)	16229	-4.70388650894165	-0.37576517	Yes	
+row_66	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	16231	-4.784234523773193	-0.3136697	Yes	
+row_67	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	16232	-4.808309555053711	-0.25119957	Yes	
+row_68	IFIT1	interferon-induced protein with tetratricopeptide repeats 1	16233	-4.80935001373291	-0.18871592	Yes	
+row_69	MX2	myxovirus (influenza virus) resistance 2 (mouse)	16234	-4.817452907562256	-0.126127	Yes	
+row_70	HERC5	hect domain and RLD 5	16235	-4.841777801513672	-0.06322206	Yes	
+row_71	ISG15	ISG15 ubiquitin-like modifier	16236	-4.880467414855957	1.8555245E-4	Yes	

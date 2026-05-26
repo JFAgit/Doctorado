@@ -1,0 +1,10 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC4A5	solute carrier family 4, sodium bicarbonate cotransporter, member 5	801	0.7025070190429688	0.21038355	Yes	
+row_1	SLC4A4	solute carrier family 4, sodium bicarbonate cotransporter, member 4	1252	0.5827465057373047	0.39811406	Yes	
+row_2	SLC4A1	solute carrier family 4, anion exchanger, member 1 (erythrocyte membrane protein band 3, Diego blood group)	1781	0.49997392296791077	0.55043596	Yes	
+row_3	SLC4A10	solute carrier family 4, sodium bicarbonate transporter-like, member 10	3015	0.34070923924446106	0.60043854	Yes	
+row_4	SLC4A7	solute carrier family 4, sodium bicarbonate cotransporter, member 7	3163	0.32489699125289917	0.7115039	Yes	
+row_5	SLC4A2	solute carrier family 4, anion exchanger, member 2 (erythrocyte membrane protein band 3-like 1)	5459	0.11688775569200516	0.61332405	No	
+row_6	SLC4A3	solute carrier family 4, anion exchanger, member 3	6567	0.034157365560531616	0.55775	No	
+row_7	SLC4A9	solute carrier family 4, sodium bicarbonate cotransporter, member 9	9743	-0.01385175809264183	0.367258	No	
+row_8	SLC4A8	solute carrier family 4, sodium bicarbonate cotransporter, member 8	10852	-0.08899126201868057	0.33189577	No	

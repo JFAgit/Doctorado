@@ -1,0 +1,140 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLCO1B3	solute carrier organic anion transporter family, member 1B3	28	1.5962647199630737	0.029048095	Yes	
+row_1	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	109	1.2591644525527954	0.048364934	Yes	
+row_2	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	213	1.0462958812713623	0.0621477	Yes	
+row_3	TSPO	translocator protein (18kDa)	238	1.010727882385254	0.08015099	Yes	
+row_4	SRD5A2	steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)	260	0.9932379722595215	0.09800328	Yes	
+row_5	TM7SF2	transmembrane 7 superfamily member 2	346	0.9143291115760803	0.11035875	Yes	
+row_6	AKR1C4	aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)	372	0.8921679258346558	0.12601326	Yes	
+row_7	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	406	0.8715651631355286	0.14077356	Yes	
+row_8	CYP11A1	cytochrome P450, family 11, subfamily A, polypeptide 1	421	0.86444491147995	0.15657657	Yes	
+row_9	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	459	0.8524973392486572	0.17072068	Yes	
+row_10	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	639	0.764853298664093	0.17435507	Yes	
+row_11	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	693	0.7440686821937561	0.18541418	Yes	
+row_12	FDFT1	farnesyl-diphosphate farnesyltransferase 1	824	0.6946921944618225	0.19073866	Yes	
+row_13	SCP2	sterol carrier protein 2	840	0.69069504737854	0.20312846	Yes	
+row_14	NFYC	nuclear transcription factor Y, gamma	845	0.6897292137145996	0.21618281	Yes	
+row_15	IDI1	isopentenyl-diphosphate delta isomerase 1	867	0.6830364465713501	0.22805226	Yes	
+row_16	FDXR	ferredoxin reductase	874	0.680429220199585	0.24080303	Yes	
+row_17	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	976	0.6497333645820618	0.24706152	Yes	
+row_18	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial	1040	0.633725643157959	0.25537136	Yes	
+row_19	OSBPL1A	oxysterol binding protein-like 1A	1121	0.6159247159957886	0.26228207	Yes	
+row_20	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	1207	0.592311680316925	0.26842678	Yes	
+row_21	SLC10A1	solute carrier family 10 (sodium/bile acid cotransporter family), member 1	1216	0.5911265015602112	0.27933097	Yes	
+row_22	EBP	emopamil binding protein (sterol isomerase)	1257	0.5816598534584045	0.2880651	Yes	
+row_23	SQLE	squalene epoxidase	1273	0.5780948996543884	0.2982832	Yes	
+row_24	MVD	mevalonate (diphospho) decarboxylase	1300	0.5726819634437561	0.3077137	Yes	
+row_25	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	1305	0.5709208250045776	0.3184766	Yes	
+row_26	INSIG1	insulin induced gene 1	1308	0.5701708793640137	0.32934925	Yes	
+row_27	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	1329	0.5658037662506104	0.33901975	Yes	
+row_28	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	1331	0.5655260682106018	0.3498649	Yes	
+row_29	NFYA	nuclear transcription factor Y, alpha	1489	0.5316014885902405	0.35036695	Yes	
+row_30	TBL1X	transducin (beta)-like 1X-linked	1603	0.5079867243766785	0.35314628	Yes	
+row_31	SAR1B	SAR1 gene homolog B (S. cerevisiae)	1626	0.504737377166748	0.36151475	Yes	
+row_32	GC	group-specific component (vitamin D binding protein)	1701	0.5000280141830444	0.3665628	Yes	
+row_33	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	1925	0.49372196197509766	0.36223513	Yes	
+row_34	OSBPL2	oxysterol binding protein-like 2	1933	0.4931328594684601	0.37131143	Yes	
+row_35	SLCO1B1	solute carrier organic anion transporter family, member 1B1	2012	0.4816657602787018	0.37575686	Yes	
+row_36	ACACB	acetyl-Coenzyme A carboxylase beta	2133	0.4639711380004883	0.37725252	Yes	
+row_37	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	2228	0.45135602355003357	0.38011968	Yes	
+row_38	LBR	lamin B receptor	2335	0.4351349174976349	0.38192865	Yes	
+row_39	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	2467	0.4172992706298828	0.38184097	Yes	
+row_40	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	2529	0.408863365650177	0.3859381	Yes	
+row_41	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	2565	0.4023895859718323	0.3915252	Yes	
+row_42	SERPINA6	serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 6	2578	0.40028440952301025	0.3985002	Yes	
+row_43	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	2708	0.38198336958885193	0.39785558	Yes	
+row_44	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	2710	0.3814935088157654	0.4051513	Yes	
+row_45	HSD11B2	hydroxysteroid (11-beta) dehydrogenase 2	2720	0.3803318440914154	0.4119278	Yes	
+row_46	MBTPS1	membrane-bound transcription factor peptidase, site 1	2811	0.3643662929534912	0.4133656	Yes	
+row_47	SEC23A	Sec23 homolog A (S. cerevisiae)	2812	0.3642289340496063	0.4203905	Yes	
+row_48	NSDHL	NAD(P) dependent steroid dehydrogenase-like	2835	0.36242154240608215	0.42601413	Yes	
+row_49	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	2956	0.3473958373069763	0.42526138	No	
+row_50	LGMN	legumain	3437	0.2946467995643616	0.4011324	No	
+row_51	LRP2	low density lipoprotein-related protein 2	3454	0.293290376663208	0.40579537	No	
+row_52	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	3472	0.2914355993270874	0.41036046	No	
+row_53	CYP46A1	cytochrome P450, family 46, subfamily A, polypeptide 1	3681	0.2683316469192505	0.4026173	No	
+row_54	STAR	steroidogenic acute regulator	3875	0.25238296389579773	0.3954982	No	
+row_55	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	3936	0.24729464948177338	0.39654127	No	
+row_56	FASN	fatty acid synthase	4050	0.23894807696342468	0.39413166	No	
+row_57	NFYB	nuclear transcription factor Y, beta	4150	0.23050318658351898	0.39242867	No	
+row_58	ACOT8	acyl-CoA thioesterase 8	4220	0.22543030977249146	0.3924911	No	
+row_59	ACACA	acetyl-Coenzyme A carboxylase alpha	4336	0.2166752964258194	0.38952768	No	
+row_60	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	4494	0.20277251303195953	0.38368762	No	
+row_61	FABP6	fatty acid binding protein 6, ileal (gastrotropin)	4510	0.2011076658964157	0.38663477	No	
+row_62	PPARA	peroxisome proliferative activated receptor, alpha	4525	0.19996310770511627	0.3896219	No	
+row_63	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	4615	0.1901681274175644	0.3877621	No	
+row_64	PMVK	phosphomevalonate kinase	4776	0.1768389642238617	0.3812355	No	
+row_65	STARD3	START domain containing 3	4795	0.17519044876098633	0.38349646	No	
+row_66	OSBPL7	oxysterol binding protein-like 7	4948	0.16313786804676056	0.37720248	No	
+row_67	AKR1C1	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)	4958	0.16227474808692932	0.3797733	No	
+row_68	STARD6	START domain containing 6	5023	0.15698665380477905	0.3788262	No	
+row_69	SREBF2	sterol regulatory element binding transcription factor 2	5071	0.15207096934318542	0.37884012	No	
+row_70	MBTPS2	membrane-bound transcription factor peptidase, site 2	5167	0.1403256207704544	0.37564632	No	
+row_71	CHD9	chromodomain helicase DNA binding protein 9	5413	0.11991685628890991	0.3627427	No	
+row_72	LHB	luteinizing hormone beta polypeptide	5434	0.11831843107938766	0.36378255	No	
+row_73	STARD3NL	STARD3 N-terminal like	5457	0.11696172505617142	0.364672	No	
+row_74	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	5565	0.10849612206220627	0.36011901	No	
+row_75	ARV1	ARV1 homolog (S. cerevisiae)	5623	0.10423477739095688	0.35858923	No	
+row_76	PTGIS	prostaglandin I2 (prostacyclin) synthase	5655	0.10176952928304672	0.35862672	No	
+row_77	HSD3B2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	5667	0.10091733932495117	0.35988992	No	
+row_78	DHCR24	24-dehydrocholesterol reductase	5890	0.08507972955703735	0.3477429	No	
+row_79	CARM1	coactivator-associated arginine methyltransferase 1	5894	0.08470311760902405	0.34919024	No	
+row_80	SLCO1A2	solute carrier organic anion transporter family, member 1A2	5966	0.07854549586772919	0.34629548	No	
+row_81	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.3408116	No	
+row_82	FDX1	ferredoxin 1	6249	0.057092856615781784	0.3312923	No	
+row_83	SEC24D	SEC24 related gene family, member D (S. cerevisiae)	6269	0.05539269372820854	0.3311806	No	
+row_84	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	6392	0.04601512476801872	0.32449093	No	
+row_85	AKR1C2	aldo-keto reductase family 1, member C2 (dihydrodiol dehydrogenase 2; bile acid binding protein; 3-alpha hydroxysteroid dehydrogenase, type III)	6417	0.04442852362990379	0.32385722	No	
+row_86	INSIG2	insulin induced gene 2	6557	0.034587111324071884	0.3158913	No	
+row_87	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	6610	0.03179985284805298	0.313275	No	
+row_88	SRD5A1	steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)	6916	0.014827866107225418	0.29461807	No	
+row_89	SEC24A	SEC24 related gene family, member A (S. cerevisiae)	7170	0.001629622420296073	0.2789362	No	
+row_90	CYP24A1	cytochrome P450, family 24, subfamily A, polypeptide 1	7269	3.620498773670988E-6	0.27284968	No	
+row_91	CYP11B2	cytochrome P450, family 11, subfamily B, polypeptide 2	8690	0.0	0.18465641	No	
+row_92	CYP11B1	cytochrome P450, family 11, subfamily B, polypeptide 1	8691	0.0	0.18465641	No	
+row_93	ALB	albumin	9209	0.0	0.1525466	No	
+row_94	SLC10A2	solute carrier family 10 (sodium/bile acid cotransporter family), member 2	9364	-4.677382889894943E-7	0.14298198	No	
+row_95	CGA	glycoprotein hormones, alpha polypeptide	9418	-2.622848796818289E-6	0.13969031	No	
+row_96	HSD11B1	hydroxysteroid (11-beta) dehydrogenase 1	9757	-0.014344282448291779	0.118974485	No	
+row_97	SCAP	-	10041	-0.027566784992814064	0.10192961	No	
+row_98	SUMO2	SMT3 suppressor of mif two 3 homolog 2 (S. cerevisiae)	10042	-0.02762925624847412	0.1024625	No	
+row_99	CYP2R1	cytochrome P450, family 2, subfamily R, polypeptide 1	10135	-0.03246456757187843	0.097374715	No	
+row_100	VDR	vitamin D (1,25- dihydroxyvitamin D3) receptor	10273	-0.04285807907581329	0.089692526	No	
+row_101	OSBP	oxysterol binding protein	10442	-0.05529670789837837	0.080324896	No	
+row_102	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	10601	-0.06751232594251633	0.07181395	No	
+row_103	DHCR7	7-dehydrocholesterol reductase	10610	-0.06814708560705185	0.07263144	No	
+row_104	SEC24C	SEC24 related gene family, member C (S. cerevisiae)	10745	-0.07981718331575394	0.0658484	No	
+row_105	RAN	RAN, member RAS oncogene family	10781	-0.08312058448791504	0.06527777	No	
+row_106	IDI2	isopentenyl-diphosphate delta isomerase 2	10831	-0.08765590935945511	0.0639251	No	
+row_107	ABCC3	ATP-binding cassette, sub-family C (CFTR/MRP), member 3	10863	-0.08980581164360046	0.063731834	No	
+row_108	NCOA1	nuclear receptor coactivator 1	10884	-0.09165199846029282	0.06425737	No	
+row_109	CUBN	cubilin (intrinsic factor-cobalamin receptor)	11015	-0.10235577821731567	0.05815747	No	
+row_110	SP1	Sp1 transcription factor	11084	-0.10799834132194519	0.05601709	No	
+row_111	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	11135	-0.11347819864749908	0.055100344	No	
+row_112	PIAS4	protein inhibitor of activated STAT, 4	11172	-0.11760996282100677	0.0551328	No	
+row_113	HSD17B2	hydroxysteroid (17-beta) dehydrogenase 2	11341	-0.13250434398651123	0.04725427	No	
+row_114	CYP27B1	cytochrome P450, family 27, subfamily B, polypeptide 1	11366	-0.13507574796676636	0.048368882	No	
+row_115	OSBPL3	oxysterol binding protein-like 3	11623	-0.15727810561656952	0.03550267	No	
+row_116	CYP17A1	cytochrome P450, family 17, subfamily A, polypeptide 1	11644	-0.15930111706256866	0.037332945	No	
+row_117	HSD17B1	hydroxysteroid (17-beta) dehydrogenase 1	12085	-0.20109140872955322	0.013883895	No	
+row_118	CH25H	cholesterol 25-hydroxylase	12156	-0.2088920772075653	0.013565235	No	
+row_119	GGPS1	geranylgeranyl diphosphate synthase 1	12325	-0.22618551552295685	0.007493535	No	
+row_120	SREBF1	sterol regulatory element binding transcription factor 1	12786	-0.27547141909599304	-0.01576311	No	
+row_121	NR1H4	nuclear receptor subfamily 1, group H, member 4	12981	-0.2981492578983307	-0.022061653	No	
+row_122	SEC24B	SEC24 related gene family, member B (S. cerevisiae)	13067	-0.30894291400909424	-0.021382255	No	
+row_123	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	13497	-0.36397871375083923	-0.041006513	No	
+row_124	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	13781	-0.4074195623397827	-0.050725173	No	
+row_125	NCOA6	nuclear receptor coactivator 6	13791	-0.40925800800323486	-0.043390796	No	
+row_126	OSBPL6	oxysterol binding protein-like 6	13887	-0.42263537645339966	-0.041139692	No	
+row_127	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	14125	-0.46714115142822266	-0.046849534	No	
+row_128	MVK	mevalonate kinase (mevalonic aciduria)	14435	-0.499985933303833	-0.056397673	No	
+row_129	AMACR	alpha-methylacyl-CoA racemase	14492	-0.5000019073486328	-0.050232194	No	
+row_130	CYP21A2	cytochrome P450, family 21, subfamily A, polypeptide 2	14521	-0.5001886487007141	-0.04232409	No	
+row_131	UBE2I	ubiquitin-conjugating enzyme E2I (UBC9 homolog, yeast)	14603	-0.5176827907562256	-0.037370298	No	
+row_132	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	14682	-0.5366663932800293	-0.031864047	No	
+row_133	STARD4	START domain containing 4, sterol regulated	14999	-0.6233446002006531	-0.039467726	No	
+row_134	KPNB1	karyopherin (importin) beta 1	15038	-0.634635865688324	-0.029587619	No	
+row_135	MTF1	metal-regulatory transcription factor 1	15463	-0.8104208111763	-0.04029082	No	
+row_136	OSBPL9	oxysterol binding protein-like 9	15487	-0.8230270743370056	-0.025845604	No	
+row_137	NCOA2	nuclear receptor coactivator 2	15592	-0.8684393763542175	-0.015555262	No	
+row_138	STARD5	START domain containing 5	16163	-2.886767625808716	0.0047202255	No	

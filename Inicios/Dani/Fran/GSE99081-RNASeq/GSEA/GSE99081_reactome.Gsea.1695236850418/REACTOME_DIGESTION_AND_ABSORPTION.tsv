@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GUCY2C	guanylate cyclase 2C (heat stable enterotoxin receptor)	35	1.5486652851104736	0.16706127	Yes	
+row_1	GUCA2B	guanylate cyclase activator 2B (uroguanylin)	197	1.071800947189331	0.27424434	Yes	
+row_2	AMY2A	amylase, alpha 2A; pancreatic	256	0.9940143823623657	0.37928107	Yes	
+row_3	CHIT1	chitinase 1 (chitotriosidase)	386	0.8837305307388306	0.46788782	Yes	
+row_4	TREH	trehalase (brush-border membrane glycoprotein)	834	0.6912164092063904	0.51584375	Yes	
+row_5	MGAM	maltase-glucoamylase (alpha-glucosidase)	944	0.6612396836280823	0.581373	Yes	
+row_6	AMY2B	amylase, alpha 2B (pancreatic)	1881	0.49807173013687134	0.57806146	No	
+row_7	PIR	pirin (iron-binding nuclear protein)	2889	0.3536528944969177	0.55459005	No	
+row_8	NPC1L1	NPC1 (Niemann-Pick disease, type C1, gene)-like 1	4313	0.21849091351032257	0.49068972	No	
+row_9	SLC2A2	solute carrier family 2 (facilitated glucose transporter), member 2	4799	0.17481184005737305	0.479875	No	
+row_10	LCT	lactase	5123	0.14616455137729645	0.47592267	No	
+row_11	SLC5A1	solute carrier family 5 (sodium/glucose cotransporter), member 1	5467	0.11563480645418167	0.46740073	No	
+row_12	AMY1B	amylase, alpha 1B; salivary	6649	0.02969411574304104	0.3977981	No	
+row_13	PNLIPRP3	pancreatic lipase-related protein 3	6787	0.02163764461874962	0.39171186	No	
+row_14	SI	sucrase-isomaltase (alpha-glucosidase)	7576	0.0	0.34310588	No	
+row_15	CLPS	colipase, pancreatic	7810	0.0	0.32873383	No	
+row_16	LIPF	lipase, gastric	7946	0.0	0.32040668	No	
+row_17	PNLIPRP1	pancreatic lipase-related protein 1	7997	0.0	0.31732252	No	
+row_18	PNLIPRP2	pancreatic lipase-related protein 2	7998	0.0	0.31732252	No	
+row_19	PNLIP	pancreatic lipase	9112	0.0	0.24866968	No	
+row_20	CHIA	chitinase, acidic	9274	-2.170658723160126E-15	0.23873876	No	
+row_21	GUCA2A	guanylate cyclase activator 2A (guanylin)	9496	-0.001550697023048997	0.22527634	No	
+row_22	RSC1A1	regulatory solute carrier protein, family 1, member 1	10071	-0.028832584619522095	0.19302095	No	
+row_23	ALPI	alkaline phosphatase, intestinal	11282	-0.12758572399616241	0.13232596	No	
+row_24	SLC2A5	solute carrier family 2 (facilitated glucose/fructose transporter), member 5	13009	-0.3012528717517853	0.058779042	No	
+row_25	AMY1C	amylase, alpha 1C; salivary	13349	-0.34384727478027344	0.07544024	No	
+row_26	AMY1A	amylase, alpha 1A; salivary	13589	-0.378277063369751	0.102031805	No	
+row_27	CEL	carboxyl ester lipase (bile salt-stimulated lipase)	14783	-0.5616055130958557	0.08981007	No	

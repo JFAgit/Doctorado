@@ -1,0 +1,9 @@
+"score_name","condition","n","mean_delta_score","sd_delta_score"
+"Inmunometabolico M2","GM-CSF+IL4/13",2,-0.325776524985342,1.82792068970845
+"M2 canonico","GM-CSF+IL4/13",2,-0.274489125857738,1.35227727913835
+"Inmunometabolico M2","GM-CSF+E",2,-0.835685640337767,1.16964499053348
+"M2 canonico","GM-CSF+E",2,-0.702090926563525,0.848426752540906
+"Inmunometabolico M2","GM-CSF+P",2,-0.639851097639667,0.547107495137575
+"M2 canonico","GM-CSF+P",2,-0.54692410300364,0.351817574948139
+"Inmunometabolico M2","Combo_separado",1,-0.445458839866255,NA
+"M2 canonico","Combo_separado",1,0.00561779881714858,NA

@@ -1,0 +1,10 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	OPN3	opsin 3 (encephalopsin, panopsin)	628	0.7701817750930786	0.77155954	Yes	
+row_1	RHO	rhodopsin (opsin 2, rod pigment) (retinitis pigmentosa 4, autosomal dominant)	5624	0.10420075058937073	0.573437	No	
+row_2	OPN1SW	opsin 1 (cone pigments), short-wave-sensitive (color blindness, tritan)	6312	0.05185456946492195	0.5856629	No	
+row_3	OPN4	opsin 4 (melanopsin)	7856	0.0	0.4905979	No	
+row_4	OPN5	opsin 5	7857	0.0	0.4905979	No	
+row_5	RGR	retinal G protein coupled receptor	8226	0.0	0.46792525	No	
+row_6	OPN1LW	opsin 1 (cone pigments), long-wave-sensitive (color blindness, protan)	8944	0.0	0.42375052	No	
+row_7	OPN1MW	opsin 1 (cone pigments), medium-wave-sensitive (color blindness, deutan)	8945	0.0	0.42375052	No	
+row_8	RRH	retinal pigment epithelium-derived rhodopsin homolog	9979	-0.024310117587447166	0.38568175	No	

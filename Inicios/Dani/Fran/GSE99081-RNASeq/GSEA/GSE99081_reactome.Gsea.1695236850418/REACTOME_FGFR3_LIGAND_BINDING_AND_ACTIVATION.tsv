@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGF17	fibroblast growth factor 17	517	0.8234770894050598	0.22337611	Yes	
+row_1	FGF18	fibroblast growth factor 18	806	0.7012233138084412	0.42297196	Yes	
+row_2	FGF1	fibroblast growth factor 1 (acidic)	1807	0.4999425709247589	0.5163034	Yes	
+row_3	FGF5	fibroblast growth factor 5	2883	0.3551464080810547	0.56013334	Yes	
+row_4	FGF2	fibroblast growth factor 2 (basic)	3073	0.3343360722064972	0.6521135	Yes	
+row_5	GALNT3	UDP-N-acetyl-alpha-D-galactosamine:polypeptide N-acetylgalactosaminyltransferase 3 (GalNAc-T3)	3913	0.24925033748149872	0.67766464	Yes	
+row_6	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	5860	0.087526835501194	0.58487	No	
+row_7	FGF8	fibroblast growth factor 8 (androgen-induced)	6109	0.06736326962709427	0.590466	No	
+row_8	FGF23	fibroblast growth factor 23	8299	0.0	0.45556742	No	
+row_9	FGF16	fibroblast growth factor 16	8300	0.0	0.45556742	No	
+row_10	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8821	0.0	0.42352206	No	
+row_11	FGF9	fibroblast growth factor 9 (glia-activating factor)	8824	0.0	0.4233988	No	
+row_12	FGF20	fibroblast growth factor 20	11086	-0.10806290060281754	0.31755722	No	

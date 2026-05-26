@@ -1,0 +1,1169 @@
+{
+  "accno" : "E-MTAB-7572",
+  "attributes" : [ {
+    "name" : "Title",
+    "value" : "RNA-seq of M-CSF differentiated human peripheral monocyte-derived macrophages (MDMs) activated with short exposure (3hours) to LPS, or long exposure (24 hours) to LPS, LPS with IFNγ, IFNγ, IL-4, IL-10, and dexamethasone"
+  }, {
+    "name" : "ReleaseDate",
+    "value" : "2020-01-06"
+  }, {
+    "name" : "RootPath",
+    "value" : "E-MTAB-7572"
+  }, {
+    "name" : "AttachTo",
+    "value" : "ArrayExpress"
+  } ],
+  "section" : {
+    "accno" : "s-E-MTAB-7572",
+    "type" : "Study",
+    "attributes" : [ {
+      "name" : "Title",
+      "value" : "RNA-seq of M-CSF differentiated human peripheral monocyte-derived macrophages (MDMs) activated with short exposure (3hours) to LPS, or long exposure (24 hours) to LPS, LPS with IFNγ, IFNγ, IL-4, IL-10, and dexamethasone"
+    }, {
+      "name" : "Study type",
+      "value" : "RNA-seq of coding RNA",
+      "valqual" : [ {
+        "name" : "Ontology",
+        "value" : "EFO"
+      }, {
+        "name" : "TermId",
+        "value" : "EFO_0003738"
+      } ]
+    }, {
+      "name" : "Study type",
+      "value" : "Human - High-throughput sequencing"
+    }, {
+      "name" : "Organism",
+      "value" : "Homo sapiens"
+    }, {
+      "name" : "Description",
+      "value" : "The goal of this experiment was to validate a classification model built on other bulk transcriptomic data that was capable of identifying in vitro stimulated M-CSF differentiated macrophages. Specifically, the classification model was capable of distinguishing: M-LPSearly (2-4 hours) M-LPSlate  (18-24 hours)  M-LPS+IFNγ M-IFNγ M-IL4 M-IL-10 M-dex"
+    } ],
+    "subsections" : [ [ {
+      "accno" : "P-MTAB-82183",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82183"
+      }, {
+        "name" : "Type",
+        "value" : "nucleic acid library construction protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0004184"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "RNA sequencing libraries were prepared using the standard protocols of NuGEN Ovation RNA-Seq System V2 kit with 100ng starting RNA per sample."
+      }, {
+        "name" : "Hardware"
+      }, {
+        "name" : "Software"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82182",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82182"
+      }, {
+        "name" : "Type",
+        "value" : "nucleic acid extraction protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0002944"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "Total RNA was isolated with Qiagen RNeasy Mini Kit per the manufacturer's recommended protocol."
+      }, {
+        "name" : "Hardware"
+      }, {
+        "name" : "Software"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82181",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82181"
+      }, {
+        "name" : "Type",
+        "value" : "treatment protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0003969"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "After differentiation, the medium was replaced by IMDM culture medium without M-CSF and supplemented with the following stimuli: nothing, 10ng/mL LPS (Sigma, E. coli E55:O5), 10ng/mL LPS plus 50ng/mL IFNγ (R&D), 50ng/mL IFNγ, 50ng/mL IL4 (PeproTech), 50ng/mL IL10 (R&D), 100nM dexamethasone (Sigma) for 24 hours. LPSearly macrophages were first cultured with culture medium for 21 hours and then stimulated with 10ng/mL LPS for 3 hours prior to harvest."
+      }, {
+        "name" : "Hardware"
+      }, {
+        "name" : "Software"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82180",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82180"
+      }, {
+        "name" : "Type",
+        "value" : "growth protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0003789"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "Peripheral blood mononuclear cells (PBMCs) were isolated through density centrifugation using Lymphoprep™ (Axis-Shield, Dundee, Scotland). Monocytes were purified through human CD14 magnetic beads and the MACS® cell separation columns (Miltenyi, Bergisch Gladbach, Germany). The resulting monocytes were seeded on 24-well tissue culture plates at a density of 0.8 million cells/well. Cells were subsequently differentiated to macrophages for 6 days in the presence of 50ng/mL human M-CSF (Miltenyi, Germany) with Iscove's Modified Dulbecco's Medium (IMDM) containing 10% heat-inactivated fetal bovine serum (FCS), 1% Penicillin/Streptomycin solution (Gibco) and 1% L-glutamine solution (Gibco). The medium was renewed on the third day."
+      }, {
+        "name" : "Hardware"
+      }, {
+        "name" : "Software"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82186",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82186"
+      }, {
+        "name" : "Type",
+        "value" : "high throughput sequence alignment protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0004917"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "All raw fastq files were first checked for quality using FastQC (v0.11.7)  and MultiQC (v1.4). The sequencing reads were aligned against the human genome GRCh38 using STAR (v2.5.4). Post-alignment processing was performed using SAMtools (v1.7) after which reads overlapping gene features obtained from Ensembl (v91) were counted using the featureCounts  program in the Subread (v1.6.1) package."
+      }, {
+        "name" : "Hardware",
+        "value" : "Dell T8310"
+      }, {
+        "name" : "Software",
+        "value" : "STAR"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82185",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82185"
+      }, {
+        "name" : "Type",
+        "value" : "normalization data transformation protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0003816"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "Gene annotations were converted from Ensembl IDs to Entrez IDs using biomaRt. For our analysis, raw reads were imported in R and normalized according to the library size using the edgeR package (raw read counts are uploaded though)."
+      }, {
+        "name" : "Hardware",
+        "value" : "Dell T8310"
+      }, {
+        "name" : "Software",
+        "value" : "R; edgeR"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82184",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82184"
+      }, {
+        "name" : "Type",
+        "value" : "nucleic acid sequencing protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0004170"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "Size-selected cDNA library samples were pooled at equimolar quantities and sequenced on a HiSeq 4000 sequencer (Illumina) to a depth of 16M per sample according to the 50 bp single-end protocol at the Amsterdam University Medical Centers, location Vrije Universiteit medical center (VUmc)."
+      }, {
+        "name" : "Hardware",
+        "value" : "Illumina HiSeq 4000"
+      }, {
+        "name" : "Software"
+      } ]
+    }, {
+      "accno" : "P-MTAB-82179",
+      "type" : "Protocols",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "P-MTAB-82179"
+      }, {
+        "name" : "Type",
+        "value" : "sample collection protocol",
+        "valqual" : [ {
+          "name" : "Ontology",
+          "value" : "EFO"
+        }, {
+          "name" : "TermId",
+          "value" : "EFO_0005518"
+        } ]
+      }, {
+        "name" : "Description",
+        "value" : "Buffy coats from three healthy anonymous donors were acquired for research purposes from the Sanquin blood bank in Amsterdam, the Netherlands."
+      }, {
+        "name" : "Hardware"
+      }, {
+        "name" : "Software"
+      } ]
+    } ], {
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Hung-Jen Chen"
+      }, {
+        "name" : "Email",
+        "value" : "h.j.chen@amc.uva.nl"
+      }, {
+        "name" : "Role",
+        "value" : "experiment performer"
+      }, {
+        "name" : "affiliation",
+        "value" : "o1",
+        "reference" : true
+      } ]
+    }, {
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Andrew Li Yim"
+      }, {
+        "name" : "Email",
+        "value" : "a.y.liyim@amc.uva.nl"
+      }, {
+        "name" : "Role",
+        "value" : "data analyst;data coder;submitter"
+      }, {
+        "name" : "affiliation",
+        "value" : "o2",
+        "reference" : true
+      } ]
+    }, {
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Peter Henneman"
+      }, {
+        "name" : "Email",
+        "value" : "p.henneman@amc.uva.nl"
+      }, {
+        "name" : "Role",
+        "value" : "investigator"
+      }, {
+        "name" : "affiliation",
+        "value" : "o3",
+        "reference" : true
+      } ]
+    }, {
+      "type" : "Author",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Menno de Winther"
+      }, {
+        "name" : "Email",
+        "value" : "m.dewinther@amc.uva.nl"
+      }, {
+        "name" : "Role",
+        "value" : "investigator"
+      }, {
+        "name" : "affiliation",
+        "value" : "o4",
+        "reference" : true
+      } ]
+    }, {
+      "accno" : "o1",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Department of Medical Biochemistry, Experimental Vascular Biology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands."
+      }, {
+        "name" : "Address",
+        "value" : "Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam"
+      } ]
+    }, {
+      "accno" : "o2",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Genome Diagnostics Laboratory, Department of Clinical Genetics, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands."
+      }, {
+        "name" : "Address",
+        "value" : "Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam"
+      } ]
+    }, {
+      "accno" : "o3",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Genome Diagnostics Laboratory, Department of Clinical Genetics, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands."
+      }, {
+        "name" : "Address",
+        "value" : "Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam"
+      } ]
+    }, {
+      "accno" : "o4",
+      "type" : "Organization",
+      "attributes" : [ {
+        "name" : "Name",
+        "value" : "Department of Medical Biochemistry, Experimental Vascular Biology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands."
+      }, {
+        "name" : "Address",
+        "value" : "Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam"
+      } ]
+    }, {
+      "type" : "Publication",
+      "attributes" : [ {
+        "name" : "Title",
+        "value" : "Meta-Analysis of in vitro-Differentiated Macrophages Identifies Transcriptomic Signatures That Classify Disease Macrophages in vivo"
+      }, {
+        "name" : "Authors",
+        "value" : "Hung-Jen Chen, Andrew Y.F. Li Yim, Guillermo R. Griffith, Wouter J. de Jonge, Marcel M.A.M. Mannens, Enrico Ferrero, Peter Henneman, Menno P.J. de Winther"
+      }, {
+        "name" : "DOI",
+        "value" : "10.3389/fimmu.2019.02887"
+      } ],
+      "links" : [ {
+        "url" : "10.3389/fimmu.2019.02887",
+        "attributes" : [ {
+          "name" : "Type",
+          "value" : "DOI"
+        } ]
+      } ]
+    }, {
+      "accno" : "s-samples-factors-E-MTAB-7572",
+      "type" : "Samples",
+      "attributes" : [ {
+        "name" : "Sample count",
+        "value" : "24"
+      }, {
+        "name" : "Experimental Designs",
+        "value" : "cell type comparison design",
+        "valqual" : [ {
+          "name" : "TermId",
+          "value" : "EFO:0001745"
+        } ]
+      }, {
+        "name" : "Experimental Factors",
+        "value" : "time",
+        "valqual" : [ {
+          "name" : "TermName",
+          "value" : "time"
+        } ]
+      }, {
+        "name" : "Experimental Factors",
+        "value" : "compound",
+        "valqual" : [ {
+          "name" : "TermName",
+          "value" : "compound"
+        } ]
+      }, {
+        "name" : "Experimental Factors",
+        "value" : "dose",
+        "valqual" : [ {
+          "name" : "TermName",
+          "value" : "dose"
+        } ]
+      } ],
+      "subsections" : [ {
+        "accno" : "exp_factor-E-MTAB-7572",
+        "type" : "Experimental Factors",
+        "attributes" : [ {
+          "name" : "Compound",
+          "value" : "lipopolysaccharide"
+        }, {
+          "name" : "Compound",
+          "value" : "none"
+        }, {
+          "name" : "Compound",
+          "value" : "lipopolysaccharide (10 nanogram per milliliter) and interferon gamma (50 nanogram per milliliter)"
+        }, {
+          "name" : "Compound",
+          "value" : "interleukin-4 (Homo sapiens)"
+        }, {
+          "name" : "Compound",
+          "value" : "dexamethasone"
+        }, {
+          "name" : "Compound",
+          "value" : "interferon gamma"
+        }, {
+          "name" : "Compound",
+          "value" : "interleukin-10 (Homo sapiens)"
+        }, {
+          "name" : "Dose",
+          "value" : "100 nanomolar"
+        }, {
+          "name" : "Dose",
+          "value" : "10 nanogram per milliliter"
+        }, {
+          "name" : "Dose",
+          "value" : "50 nanogram per milliliter"
+        }, {
+          "name" : "Time",
+          "value" : "24 hour"
+        }, {
+          "name" : "Time",
+          "value" : "3 hour"
+        } ],
+        "subsections" : [ [ {
+          "accno" : "factors_0",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "dexamethasone"
+          }, {
+            "name" : "dose",
+            "value" : "100 nanomolar"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_1",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "interferon gamma"
+          }, {
+            "name" : "dose",
+            "value" : "50 nanogram per milliliter"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_2",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "interleukin-10 (Homo sapiens)"
+          }, {
+            "name" : "dose",
+            "value" : "50 nanogram per milliliter"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_3",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "interleukin-4 (Homo sapiens)"
+          }, {
+            "name" : "dose",
+            "value" : "50 nanogram per milliliter"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_4",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "lipopolysaccharide"
+          }, {
+            "name" : "dose",
+            "value" : "10 nanogram per milliliter"
+          }, {
+            "name" : "time",
+            "value" : "3 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_5",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "lipopolysaccharide (10 nanogram per milliliter) and interferon gamma (50 nanogram per milliliter)"
+          }, {
+            "name" : "dose"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_6",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "lipopolysaccharide"
+          }, {
+            "name" : "dose",
+            "value" : "10 nanogram per milliliter"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        }, {
+          "accno" : "factors_7",
+          "type" : "Factors Table",
+          "attributes" : [ {
+            "name" : "compound",
+            "value" : "none"
+          }, {
+            "name" : "dose"
+          }, {
+            "name" : "time",
+            "value" : "24 hour"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "3"
+          } ]
+        } ] ]
+      }, {
+        "accno" : "source_chars-E-MTAB-7572",
+        "type" : "Source Characteristics",
+        "attributes" : [ {
+          "name" : "Organism",
+          "value" : "Homo sapiens"
+        }, {
+          "name" : "Developmental stage",
+          "value" : "adult"
+        }, {
+          "name" : "Disease",
+          "value" : "normal"
+        }, {
+          "name" : "Organism part",
+          "value" : "blood"
+        }, {
+          "name" : "Progenitor cell type",
+          "value" : "monocyte"
+        }, {
+          "name" : "Sex",
+          "value" : "male"
+        }, {
+          "name" : "Sex",
+          "value" : "female"
+        }, {
+          "name" : "Individual",
+          "value" : "d54"
+        }, {
+          "name" : "Individual",
+          "value" : "d55"
+        }, {
+          "name" : "Individual",
+          "value" : "d57"
+        }, {
+          "name" : "Cell type",
+          "value" : "macrophage"
+        }, {
+          "name" : "Cell type",
+          "value" : "alternatively activated macrophage"
+        }, {
+          "name" : "Cell type",
+          "value" : "inflammatory macrophage"
+        }, {
+          "name" : "Stimulus",
+          "value" : "IFNg"
+        }, {
+          "name" : "Stimulus",
+          "value" : "dex"
+        }, {
+          "name" : "Stimulus",
+          "value" : "LPSIFNg"
+        }, {
+          "name" : "Stimulus",
+          "value" : "none"
+        }, {
+          "name" : "Stimulus",
+          "value" : "IL10"
+        }, {
+          "name" : "Stimulus",
+          "value" : "LPSlate"
+        }, {
+          "name" : "Stimulus",
+          "value" : "LPSearly"
+        }, {
+          "name" : "Stimulus",
+          "value" : "IL4"
+        } ],
+        "subsections" : [ [ {
+          "accno" : "source_0",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "dex"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_1",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_2",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL10"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_3",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL4"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_4",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSearly"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_5",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSIFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_6",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSlate"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_7",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d54"
+          }, {
+            "name" : "cell type",
+            "value" : "macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "none"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_8",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "dex"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_9",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_10",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL10"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_11",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL4"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_12",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSearly"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_13",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSIFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_14",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSlate"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_15",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "female"
+          }, {
+            "name" : "individual",
+            "value" : "d55"
+          }, {
+            "name" : "cell type",
+            "value" : "macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "none"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_16",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "dex"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_17",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_18",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL10"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_19",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "alternatively activated macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "IL4"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_20",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSearly"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_21",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSIFNg"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_22",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "inflammatory macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "LPSlate"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        }, {
+          "accno" : "source_23",
+          "type" : "Characteristics Table",
+          "attributes" : [ {
+            "name" : "sex",
+            "value" : "male"
+          }, {
+            "name" : "individual",
+            "value" : "d57"
+          }, {
+            "name" : "cell type",
+            "value" : "macrophage"
+          }, {
+            "name" : "stimulus",
+            "value" : "none"
+          }, {
+            "name" : "No. of Samples",
+            "value" : "1"
+          } ]
+        } ] ]
+      } ]
+    }, {
+      "accno" : "s-assays-data-E-MTAB-7572",
+      "type" : "Assays and Data",
+      "attributes" : [ {
+        "name" : "Assay count",
+        "value" : "24"
+      }, {
+        "name" : "Technology",
+        "value" : "Sequencing assay"
+      }, {
+        "name" : "Assay by Molecule",
+        "value" : "RNA assay"
+      } ],
+      "subsections" : [ {
+        "accno" : "processed-data",
+        "type" : "Processed Data",
+        "files" : [ [ {
+          "path" : "entrez_counts.csv",
+          "size" : 1932194,
+          "attributes" : [ {
+            "name" : "Description",
+            "value" : "Processed Data"
+          } ],
+          "type" : "file"
+        } ] ]
+      }, {
+        "accno" : "mt-E-MTAB-7572",
+        "type" : "MAGE-TAB Files",
+        "files" : [ [ {
+          "path" : "E-MTAB-7572.idf.txt",
+          "size" : 6838,
+          "attributes" : [ {
+            "name" : "Type",
+            "value" : "IDF File"
+          }, {
+            "name" : "Format",
+            "value" : "tab-delimited text"
+          }, {
+            "name" : "Description",
+            "value" : "Investigation Design Format (IDF)"
+          } ],
+          "type" : "file"
+        }, {
+          "path" : "E-MTAB-7572.sdrf.txt",
+          "size" : 17523,
+          "attributes" : [ {
+            "name" : "Type",
+            "value" : "SDRF File"
+          }, {
+            "name" : "Format",
+            "value" : "tab-delimited text"
+          }, {
+            "name" : "Description",
+            "value" : "Sample and Data Relationship Format (SDRF)"
+          } ],
+          "type" : "file"
+        } ] ]
+      } ]
+    }, {
+      "accno" : "score-E-MTAB-7572",
+      "type" : "MINSEQE Score",
+      "attributes" : [ {
+        "name" : "Exp. Design",
+        "value" : "*"
+      }, {
+        "name" : "Protocols",
+        "value" : "*"
+      }, {
+        "name" : "Processed",
+        "value" : "*"
+      }, {
+        "name" : "Raw",
+        "value" : "-"
+      }, {
+        "name" : "Variables",
+        "value" : "*"
+      } ]
+    } ]
+  },
+  "type" : "submission"
+}

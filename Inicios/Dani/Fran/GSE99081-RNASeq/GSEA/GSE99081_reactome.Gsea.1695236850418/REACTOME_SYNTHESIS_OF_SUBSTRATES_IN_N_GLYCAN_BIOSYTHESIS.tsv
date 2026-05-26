@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MPI	mannose phosphate isomerase	204	1.0619237422943115	0.049436346	Yes	
+row_1	ST6GALNAC3	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 3	399	0.8760592937469482	0.08863172	Yes	
+row_2	ST6GALNAC2	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 2	452	0.8539584279060364	0.13530998	Yes	
+row_3	DPM3	dolichyl-phosphate mannosyltransferase polypeptide 3	920	0.6686300039291382	0.14551808	Yes	
+row_4	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	975	0.6501161456108093	0.18016356	Yes	
+row_5	MVD	mevalonate (diphospho) decarboxylase	1300	0.5726819634437561	0.19360192	Yes	
+row_6	DPM1	dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit	1363	0.5579034686088562	0.22236569	Yes	
+row_7	NPL	N-acetylneuraminate pyruvate lyase (dihydrodipicolinate synthase)	1639	0.5034745931625366	0.23478839	Yes	
+row_8	ST6GAL2	ST6 beta-galactosamide alpha-2,6-sialyltranferase 2	1776	0.49997860193252563	0.25559556	Yes	
+row_9	GFPT1	glutamine-fructose-6-phosphate transaminase 1	1777	0.49997854232788086	0.2848061	Yes	
+row_10	DHDDS	dehydrodolichyl diphosphate synthase	2032	0.47918230295181274	0.29710713	Yes	
+row_11	GMPPA	GDP-mannose pyrophosphorylase A	2296	0.44102978706359863	0.30662307	Yes	
+row_12	PGM3	phosphoglucomutase 3	2518	0.4099092185497284	0.31691596	Yes	
+row_13	ST3GAL6	ST3 beta-galactoside alpha-2,3-sialyltransferase 6	2627	0.39348721504211426	0.33323163	Yes	
+row_14	RENBP	renin binding protein	2636	0.3926844894886017	0.35567936	Yes	
+row_15	DOLPP1	dolichyl pyrophosphate phosphatase 1	2686	0.38517042994499207	0.3751547	Yes	
+row_16	PMM1	phosphomannomutase 1	2741	0.37615007162094116	0.39379412	Yes	
+row_17	ST3GAL4	ST3 beta-galactoside alpha-2,3-sialyltransferase 4	3394	0.29958248138427734	0.3710101	Yes	
+row_18	NEU1	sialidase 1 (lysosomal sialidase)	3491	0.28984713554382324	0.38201222	Yes	
+row_19	UAP1	UDP-N-acteylglucosamine pyrophosphorylase 1	3611	0.2768332064151764	0.39083287	Yes	
+row_20	ST6GALNAC4	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 4	3720	0.2642211318016052	0.39959633	Yes	
+row_21	ST8SIA6	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 6	3924	0.24835821986198425	0.40156308	Yes	
+row_22	ALG5	asparagine-linked glycosylation 5 homolog (S. cerevisiae, dolichyl-phosphate beta-glucosyltransferase)	4239	0.22478531301021576	0.39529395	No	
+row_23	SLC17A5	solute carrier family 17 (anion/sugar transporter), member 5	4392	0.21236170828342438	0.3983089	No	
+row_24	GNPNAT1	glucosamine-phosphate N-acetyltransferase 1	4763	0.1784062385559082	0.38586995	No	
+row_25	ST3GAL3	ST3 beta-galactoside alpha-2,3-sialyltransferase 3	5139	0.14422497153282166	0.37112504	No	
+row_26	SLC35A1	solute carrier family 35 (CMP-sialic acid transporter), member A1	5339	0.12655535340309143	0.36622277	No	
+row_27	GLB1	galactosidase, beta 1	5430	0.1186109259724617	0.3675914	No	
+row_28	CMAS	cytidine monophosphate N-acetylneuraminic acid synthetase	5446	0.11755982041358948	0.37353283	No	
+row_29	GMPPB	GDP-mannose pyrophosphorylase B	5479	0.1148315891623497	0.37826443	No	
+row_30	AMDHD2	amidohydrolase domain containing 2	5757	0.09368398785591125	0.36662212	No	
+row_31	NUDT14	nudix (nucleoside diphosphate linked moiety X)-type motif 14	5845	0.0884234830737114	0.36641246	No	
+row_32	ST6GALNAC6	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 6	6506	0.03779018670320511	0.3278393	No	
+row_33	ST8SIA5	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 5	6509	0.03771531209349632	0.32991916	No	
+row_34	ST3GAL5	ST3 beta-galactoside alpha-2,3-sialyltransferase 5	6514	0.03718925267457962	0.33184475	No	
+row_35	DPM2	dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit	6562	0.03435665741562843	0.33094788	No	
+row_36	ST6GALNAC1	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 1	6813	0.020387720316648483	0.31669164	No	
+row_37	ST8SIA2	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 2	6856	0.017705513164401054	0.3151309	No	
+row_38	NANS	N-acetylneuraminic acid synthase (sialic acid synthase)	6883	0.016380587592720985	0.31448138	No	
+row_39	NEU2	sialidase 2 (cytosolic sialidase)	7486	0.0	0.27728418	No	
+row_40	ST6GALNAC5	ST6 (alpha-N-acetyl-neuraminyl-2,3-beta-galactosyl-1,3)-N-acetylgalactosaminide alpha-2,6-sialyltransferase 5	7566	0.0	0.2724028	No	
+row_41	GFPT2	glutamine-fructose-6-phosphate transaminase 2	10968	-0.09924985468387604	0.06805552	No	
+row_42	PMM2	phosphomannomutase 2	11400	-0.1387033611536026	0.049527824	No	
+row_43	NEU3	sialidase 3 (membrane sialidase)	11657	-0.1603841632604599	0.04307995	No	
+row_44	NANP	N-acetylneuraminic acid phosphatase	11730	-0.16724064946174622	0.04840191	No	
+row_45	ST8SIA1	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 1	11947	-0.18792270123958588	0.04603451	No	
+row_46	ST8SIA3	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 3	12097	-0.20274455845355988	0.04867295	No	
+row_47	NEU4	sialidase 4	12177	-0.2111351490020752	0.05612686	No	
+row_48	NAGK	N-acetylglucosamine kinase	12665	-0.2609710693359375	0.041282274	No	
+row_49	ST6GAL1	ST6 beta-galactosamide alpha-2,6-sialyltranferase 1	12850	-0.2821166515350342	0.046395287	No	
+row_50	ST8SIA4	ST8 alpha-N-acetyl-neuraminide alpha-2,8-sialyltransferase 4	12985	-0.2986848056316376	0.05556574	No	
+row_51	GMDS	GDP-mannose 4,6-dehydratase	13181	-0.3254903554916382	0.06253312	No	
+row_52	FPGT	fucose-1-phosphate guanylyltransferase	14157	-0.47414258122444153	0.029989539	No	
+row_53	ST3GAL1	ST3 beta-galactoside alpha-2,3-sialyltransferase 1	14560	-0.5074847936630249	0.03479927	No	
+row_54	SLC35C1	solute carrier family 35, member C1	14756	-0.5552041530609131	0.05518735	No	
+row_55	ST3GAL2	ST3 beta-galactoside alpha-2,3-sialyltransferase 2	14995	-0.6227712631225586	0.07686599	No	

@@ -1,0 +1,15 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NUDT9	nudix (nucleoside diphosphate linked moiety X)-type motif 9	2588	0.3984924256801605	-0.106544934	No	
+row_1	NUDT5	nudix (nucleoside diphosphate linked moiety X)-type motif 5	2774	0.3711770176887512	-0.068623915	No	
+row_2	NUDT15	nudix (nucleoside diphosphate linked moiety X)-type motif 15	3239	0.3155606687068939	-0.055287898	No	
+row_3	ITPA	inosine triphosphatase (nucleoside triphosphate pyrophosphatase)	3395	0.29939645528793335	-0.02505629	No	
+row_4	NUDT16	nudix (nucleoside diphosphate linked moiety X)-type motif 16	4202	0.22710652649402618	-0.04455145	No	
+row_5	NT5C	5', 3'-nucleotidase, cytosolic	6316	0.05134432390332222	-0.16795185	No	
+row_6	NUDT1	nudix (nucleoside diphosphate linked moiety X)-type motif 1	7412	8.6441400912185E-13	-0.23543614	No	
+row_7	NT5C1A	5'-nucleotidase, cytosolic IA	10376	-0.04950886219739914	-0.4114655	No	
+row_8	NT5C1B	5'-nucleotidase, cytosolic IB	10694	-0.07452540099620819	-0.42109904	No	
+row_9	NUDT18	nudix (nucleoside diphosphate linked moiety X)-type motif 18	10770	-0.08202941715717316	-0.41482106	No	
+row_10	NT5C2	5'-nucleotidase, cytosolic II	11402	-0.13913492858409882	-0.43522084	No	
+row_11	GDA	guanine deaminase	15768	-1.0601216554641724	-0.56336325	Yes	
+row_12	XDH	xanthine dehydrogenase	15981	-1.511112928390503	-0.3756301	Yes	
+row_13	NT5E	5'-nucleotidase, ecto (CD73)	16167	-2.946004629135132	0.0044372547	Yes	

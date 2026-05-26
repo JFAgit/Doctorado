@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PYCR1	pyrroline-5-carboxylate reductase 1	554	0.8031790256500244	0.21529117	Yes	
+row_1	OAT	ornithine aminotransferase (gyrate atrophy)	754	0.718544065952301	0.4261722	Yes	
+row_2	GLS2	glutaminase 2 (liver, mitochondrial)	1654	0.5024642944335938	0.5268201	Yes	
+row_3	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	3677	0.26892489194869995	0.48575008	Yes	
+row_4	GLS	glutaminase	4535	0.19911137223243713	0.4947802	Yes	
+row_5	GLUL	glutamate-ammonia ligase (glutamine synthetase)	4627	0.18913306295871735	0.5479082	Yes	
+row_6	GLUD1	glutamate dehydrogenase 1	10363	-0.048641953617334366	0.20965585	No	
+row_7	GLUD2	glutamate dehydrogenase 2	11150	-0.11584693193435669	0.19720303	No	
+row_8	ALDH18A1	aldehyde dehydrogenase 18 family, member A1	11275	-0.1269993633031845	0.22900224	No	
+row_9	PYCR2	pyrroline-5-carboxylate reductase family, member 2	12523	-0.24727116525173187	0.22895873	No	

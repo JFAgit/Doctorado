@@ -1,0 +1,14 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.036765542	No	
+row_1	MIB1	mindbomb homolog 1 (Drosophila)	2357	0.43217912316322327	0.014275767	No	
+row_2	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.055016614	No	
+row_3	DLL4	delta-like 4 (Drosophila)	4346	0.21593889594078064	-0.03060052	No	
+row_4	JAG2	jagged 2	5460	0.1167299896478653	-0.078962274	No	
+row_5	MIB2	mindbomb homolog 2 (Drosophila)	9834	-0.01812431961297989	-0.34531072	No	
+row_6	NOTCH1	Notch homolog 1, translocation-associated (Drosophila)	10684	-0.07359664142131805	-0.38487768	No	
+row_7	ADAM10	ADAM metallopeptidase domain 10	11737	-0.16800203919410706	-0.42059556	No	
+row_8	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	14055	-0.45162373781204224	-0.48512235	Yes	
+row_9	UBC	ubiquitin C	14182	-0.47944867610931396	-0.40980563	Yes	
+row_10	DLL1	delta-like 1 (Drosophila)	15479	-0.8182746767997742	-0.34787723	Yes	
+row_11	UBB	ubiquitin B	15642	-0.9178993105888367	-0.1988018	Yes	
+row_12	JAG1	jagged 1 (Alagille syndrome)	15931	-1.3592045307159424	0.018980663	Yes	

@@ -1,0 +1,104 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	-0.03065796	No	
+row_1	SNAP23	synaptosomal-associated protein, 23kDa	1090	0.6202883720397949	-0.042825263	No	
+row_2	HMGB1	high-mobility group box 1	1447	0.5391134023666382	-0.05510242	No	
+row_3	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.078530885	No	
+row_4	TLR6	toll-like receptor 6	2302	0.44044625759124756	-0.09111141	No	
+row_5	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.11272682	No	
+row_6	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.12937863	No	
+row_7	ITGAV	integrin, alpha V (vitronectin receptor, alpha polypeptide, antigen CD51)	3607	0.2776263356208801	-0.15402354	No	
+row_8	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.15469003	No	
+row_9	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.15202248	No	
+row_10	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.16328356	No	
+row_11	SEC22B	SEC22 vesicle trafficking protein homolog B (S. cerevisiae)	4063	0.2381199151277542	-0.16367178	No	
+row_12	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.16380422	No	
+row_13	S100A1	S100 calcium binding protein A1	4206	0.226856991648674	-0.164087	No	
+row_14	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.17163484	No	
+row_15	S100A8	S100 calcium binding protein A8	4515	0.2008284628391266	-0.1756124	No	
+row_16	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.19168636	No	
+row_17	CYBB	cytochrome b-245, beta polypeptide (chronic granulomatous disease)	4913	0.16523852944374084	-0.19401693	No	
+row_18	MYD88	myeloid differentiation primary response gene (88)	5233	0.13488861918449402	-0.2113372	No	
+row_19	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.20914556	No	
+row_20	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.21260068	No	
+row_21	CYBA	cytochrome b-245, alpha polypeptide	5352	0.12588337063789368	-0.21149354	No	
+row_22	S100A9	S100 calcium binding protein A9	5461	0.11663345992565155	-0.21606955	No	
+row_23	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.22643454	No	
+row_24	SEC61A1	Sec61 alpha 1 subunit (S. cerevisiae)	5847	0.08829180151224136	-0.23642048	No	
+row_25	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.23507127	No	
+row_26	SEC61B	Sec61 beta subunit	6283	0.05422047898173332	-0.2607341	No	
+row_27	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.26380527	No	
+row_28	TLR1	toll-like receptor 1	6498	0.03834755718708038	-0.27234277	No	
+row_29	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.28186017	No	
+row_30	FGA	fibrinogen alpha chain	6671	0.028008995577692986	-0.28190958	No	
+row_31	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.28380156	No	
+row_32	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.29234013	No	
+row_33	CD36	CD36 molecule (thrombospondin receptor)	7039	0.008430051617324352	-0.30358952	No	
+row_34	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.30393553	No	
+row_35	FGG	fibrinogen gamma chain	7174	0.0010925731621682644	-0.3116619	No	
+row_36	VAMP3	vesicle-associated membrane protein 3 (cellubrevin)	9535	-0.00486086355522275	-0.45782143	No	
+row_37	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.46067214	No	
+row_38	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.47033533	No	
+row_39	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.49184832	No	
+row_40	VAMP8	vesicle-associated membrane protein 8 (endobrevin)	10122	-0.03159916773438454	-0.49245226	No	
+row_41	LY96	lymphocyte antigen 96	10196	-0.03728052228689194	-0.49629945	No	
+row_42	SEC61G	Sec61 gamma subunit	10387	-0.05042192339897156	-0.5071586	No	
+row_43	STX4	syntaxin 4	10414	-0.05237721651792526	-0.50781924	No	
+row_44	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.5072879	No	
+row_45	FCGR1A	Fc fragment of IgG, high affinity Ia, receptor (CD64)	10433	-0.054464004933834076	-0.50691915	No	
+row_46	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.5082846	No	
+row_47	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.526884	No	
+row_48	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.52769905	No	
+row_49	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.5363808	No	
+row_50	FGB	fibrinogen beta chain	11121	-0.11200802028179169	-0.5411647	No	
+row_51	MRC2	mannose receptor, C type 2	11162	-0.11690060794353485	-0.54152197	No	
+row_52	NCF4	neutrophil cytosolic factor 4, 40kDa	11187	-0.11878188699483871	-0.5408535	No	
+row_53	NCF2	neutrophil cytosolic factor 2 (65kDa, chronic granulomatous disease, autosomal 2)	11213	-0.12139194458723068	-0.5401997	No	
+row_54	CD207	CD207 molecule, langerin	11352	-0.13367481529712677	-0.5463255	No	
+row_55	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.5544647	No	
+row_56	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.5708698	No	
+row_57	BTK	Bruton agammaglobulinemia tyrosine kinase	11860	-0.17941230535507202	-0.5684194	No	
+row_58	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.5681679	No	
+row_59	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.5655366	No	
+row_60	TLR4	toll-like receptor 4	11969	-0.1898326277732849	-0.56481814	No	
+row_61	ITGB5	integrin, beta 5	12019	-0.19502370059490204	-0.5643153	No	
+row_62	SEC61A2	Sec61 alpha 2 subunit (S. cerevisiae)	12205	-0.21431510150432587	-0.57189023	No	
+row_63	MRC1	mannose receptor, C type 1	12438	-0.23712415993213654	-0.5819637	No	
+row_64	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.58672625	No	
+row_65	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.6001136	No	
+row_66	LNPEP	leucyl/cystinyl aminopeptidase	13052	-0.3073563575744629	-0.6044507	No	
+row_67	CD14	CD14 molecule	13468	-0.3595741391181946	-0.6236424	No	
+row_68	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.6227333	No	
+row_69	PDIA3	protein disulfide isomerase family A, member 3	13568	-0.3753085434436798	-0.616108	No	
+row_70	CTSL	cathepsin L	13933	-0.4294191002845764	-0.6308717	No	
+row_71	CALR	calreticulin	14016	-0.44373491406440735	-0.6279002	No	
+row_72	FCGR1B	Fc fragment of IgG, high affinity Ib, receptor (CD64)	14175	-0.47825050354003906	-0.6290119	No	
+row_73	UBC	ubiquitin C	14182	-0.47944867610931396	-0.62068266	No	
+row_74	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.62741095	No	
+row_75	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.6321357	Yes	
+row_76	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.6277866	Yes	
+row_77	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.61920774	Yes	
+row_78	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.618249	Yes	
+row_79	TIRAP	toll-interleukin 1 receptor (TIR) domain containing adaptor protein	15030	-0.6325106620788574	-0.6111699	Yes	
+row_80	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.6046685	Yes	
+row_81	CTSS	cathepsin S	15345	-0.7616065144538879	-0.6047278	Yes	
+row_82	B2M	beta-2-microglobulin	15466	-0.8106110095977783	-0.597453	Yes	
+row_83	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.58487105	Yes	
+row_84	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.57054526	Yes	
+row_85	HLA-A	major histocompatibility complex, class I, A	15527	-0.8441747426986694	-0.555287	Yes	
+row_86	UBB	ubiquitin B	15642	-0.9178993105888367	-0.5456933	Yes	
+row_87	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.53138566	Yes	
+row_88	HLA-G	HLA-G histocompatibility antigen, class I, G	15750	-1.0374876260757446	-0.5155316	Yes	
+row_89	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.49711224	Yes	
+row_90	TAPBP	TAP binding protein (tapasin)	15917	-1.3266470432281494	-0.48257926	Yes	
+row_91	TLR2	toll-like receptor 2	15980	-1.5076619386672974	-0.45905998	Yes	
+row_92	HLA-B	major histocompatibility complex, class I, B	15985	-1.5467902421951294	-0.4312364	Yes	
+row_93	HLA-C	major histocompatibility complex, class I, C	15993	-1.5655981302261353	-0.40325737	Yes	
+row_94	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.37445936	Yes	
+row_95	HLA-F	major histocompatibility complex, class I, F	16048	-1.8253265619277954	-0.34337795	Yes	
+row_96	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.30955157	Yes	
+row_97	NCF1	neutrophil cytosolic factor 1, (chronic granulomatous disease, autosomal 1)	16120	-2.377009630203247	-0.2700073	Yes	
+row_98	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.22291026	Yes	
+row_99	TAP1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	16153	-2.7244369983673096	-0.17359053	Yes	
+row_100	HLA-E	major histocompatibility complex, class I, E	16160	-2.828178644180298	-0.122635946	Yes	
+row_101	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	16188	-3.4068291187286377	-0.062481247	Yes	
+row_102	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027265886	Yes	

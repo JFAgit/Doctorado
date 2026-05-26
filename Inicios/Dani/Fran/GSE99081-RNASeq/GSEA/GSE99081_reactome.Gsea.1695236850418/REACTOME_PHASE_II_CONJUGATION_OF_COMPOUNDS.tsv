@@ -1,0 +1,95 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GSTA4	glutathione S-transferase A4	136	1.188332200050354	0.026891	Yes	
+row_1	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	240	1.0087536573410034	0.050489247	Yes	
+row_2	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	288	0.9595756530761719	0.0760944	Yes	
+row_3	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	518	0.8228452801704407	0.08636414	Yes	
+row_4	NAT2	N-acetyltransferase 2 (arylamine N-acetyltransferase)	557	0.8006616830825806	0.1078042	Yes	
+row_5	SULT4A1	sulfotransferase family 4A, member 1	571	0.7942863702774048	0.13060316	Yes	
+row_6	SULT1E1	sulfotransferase family 1E, estrogen-preferring, member 1	661	0.7585474252700806	0.14763303	Yes	
+row_7	GSTM4	glutathione S-transferase M4	710	0.7385808825492859	0.16660886	Yes	
+row_8	PODXL2	podocalyxin-like 2	775	0.7103542685508728	0.1837549	Yes	
+row_9	UGT2B10	UDP glucuronosyltransferase 2 family, polypeptide B10	849	0.6890363097190857	0.19971003	Yes	
+row_10	CYP1A2	cytochrome P450, family 1, subfamily A, polypeptide 2	873	0.6809648275375366	0.21852203	Yes	
+row_11	GLYAT	glycine-N-acyltransferase	926	0.6666602492332458	0.23511283	Yes	
+row_12	GSTA2	glutathione S-transferase A2	989	0.6469473242759705	0.25049844	Yes	
+row_13	PAPSS1	3'-phosphoadenosine 5'-phosphosulfate synthase 1	1099	0.6182475090026855	0.26212028	Yes	
+row_14	MGST2	microsomal glutathione S-transferase 2	1175	0.6013235449790955	0.27534494	Yes	
+row_15	GSTM2	glutathione S-transferase M2 (muscle)	1195	0.5942338705062866	0.29182726	Yes	
+row_16	MGST3	microsomal glutathione S-transferase 3	1227	0.5895490050315857	0.30742714	Yes	
+row_17	UGT1A8	UDP glucuronosyltransferase 1 family, polypeptide A8	1237	0.5878660082817078	0.32433957	Yes	
+row_18	SULT1A1	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1	1293	0.5734164714813232	0.3379736	Yes	
+row_19	GSTM3	glutathione S-transferase M3 (brain)	1435	0.5431491732597351	0.34538177	Yes	
+row_20	UGT2B15	UDP glucuronosyltransferase 2 family, polypeptide B15	1594	0.5096853971481323	0.35074258	Yes	
+row_21	GSTM5	glutathione S-transferase M5	1600	0.5084382891654968	0.36554235	Yes	
+row_22	ACSM1	acyl-CoA synthetase medium-chain family member 1	2013	0.48154616355895996	0.35433552	Yes	
+row_23	UGT2B28	UDP glucuronosyltransferase 2 family, polypeptide B28	2112	0.4664521813392639	0.36212763	Yes	
+row_24	SLC35B3	solute carrier family 35, member B3	2184	0.4577173590660095	0.37133244	Yes	
+row_25	AS3MT	arsenic (+3 oxidation state) methyltransferase	2251	0.4482465088367462	0.38056546	Yes	
+row_26	UGT3A1	UDP glycosyltransferase 3 family, polypeptide A1	2283	0.443304181098938	0.39181933	Yes	
+row_27	MAT1A	methionine adenosyltransferase I, alpha	2288	0.4428934156894684	0.4047332	Yes	
+row_28	SLC35D1	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1	2684	0.38532009720802307	0.39171967	Yes	
+row_29	NAT1	N-acetyltransferase 1 (arylamine N-acetyltransferase)	2757	0.373279333114624	0.39835325	Yes	
+row_30	UGDH	UDP-glucose dehydrogenase	2803	0.3656925857067108	0.4064336	Yes	
+row_31	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6	2872	0.3567996621131897	0.4128252	Yes	
+row_32	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1	2986	0.34449443221092224	0.41606405	Yes	
+row_33	TPST2	tyrosylprotein sulfotransferase 2	3132	0.32823148369789124	0.41683766	Yes	
+row_34	OPLAH	5-oxoprolinase (ATP-hydrolysing)	3233	0.31671884655952454	0.42005625	Yes	
+row_35	SULT1C2	sulfotransferase family, cytosolic, 1C, member 2	3275	0.31256750226020813	0.42680562	Yes	
+row_36	SULT1A3	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 3	3498	0.28906843066215515	0.42164645	No	
+row_37	GSTP1	glutathione S-transferase pi	3572	0.2808307707309723	0.42547077	No	
+row_38	GSTT1	glutathione S-transferase theta 1	3758	0.26132020354270935	0.42177856	No	
+row_39	GLYATL1	glycine-N-acyltransferase-like 1	3941	0.2468881905078888	0.4178433	No	
+row_40	SULT2B1	sulfotransferase family, cytosolic, 2B, member 1	4029	0.24116913974285126	0.41962188	No	
+row_41	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli)	4074	0.23738834261894226	0.42395133	No	
+row_42	ABHD14B	abhydrolase domain containing 14B	4314	0.2183832973241806	0.4156387	No	
+row_43	UGP2	UDP-glucose pyrophosphorylase 2	4332	0.21701379120349884	0.42103487	No	
+row_44	SULT2A1	sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone (DHEA)-preferring, member 1	4404	0.21112270653247833	0.42291152	No	
+row_45	TPST1	tyrosylprotein sulfotransferase 1	4530	0.19962356984615326	0.42110196	No	
+row_46	GCLM	glutamate-cysteine ligase, modifier subunit	4633	0.1886100023984909	0.4203896	No	
+row_47	UGT2B17	UDP glucuronosyltransferase 2 family, polypeptide B17	4702	0.18252286314964294	0.42160213	No	
+row_48	ABHD10	abhydrolase domain containing 10	4879	0.1678154170513153	0.41568863	No	
+row_49	UGT2B4	UDP glucuronosyltransferase 2 family, polypeptide B4	5045	0.15493597090244293	0.41007367	No	
+row_50	UGT1A9	UDP glucuronosyltransferase 1 family, polypeptide A9	5090	0.14958560466766357	0.41179383	No	
+row_51	UGT2B7	UDP glucuronosyltransferase 2 family, polypeptide B7	5411	0.1199813187122345	0.39554024	No	
+row_52	MGST1	microsomal glutathione S-transferase 1	5627	0.10396447032690048	0.38531378	No	
+row_53	ESD	esterase D/formylglutathione hydrolase	5648	0.10217124968767166	0.38711137	No	
+row_54	UGT1A3	UDP glucuronosyltransferase 1 family, polypeptide A3	5788	0.09141960740089417	0.38121915	No	
+row_55	GSTM1	glutathione S-transferase M1	5851	0.0881265252828598	0.3799981	No	
+row_56	UGT2B11	UDP glucuronosyltransferase 2 family, polypeptide B11	6128	0.06627169996500015	0.3648735	No	
+row_57	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	6143	0.06475111842155457	0.36593065	No	
+row_58	TPMT	thiopurine S-methyltransferase	6152	0.06436695158481598	0.367348	No	
+row_59	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	6359	0.048725634813308716	0.3560374	No	
+row_60	GSS	glutathione synthetase	6499	0.038092855364084244	0.34856048	No	
+row_61	GLYATL2	glycine-N-acyltransferase-like 2	6535	0.03605286777019501	0.34746417	No	
+row_62	AHCY	S-adenosylhomocysteine hydrolase	6657	0.02908695675432682	0.34083444	No	
+row_63	CHAC2	ChaC, cation transport regulator homolog 2 (E. coli)	6672	0.0277168620377779	0.34079102	No	
+row_64	GSTO2	glutathione S-transferase omega 2	6682	0.02728029526770115	0.3410443	No	
+row_65	GSTA1	glutathione S-transferase A1	6864	0.01712612248957157	0.33034304	No	
+row_66	GSTT2	glutathione S-transferase theta 2	7132	0.003913337364792824	0.31392273	No	
+row_67	GCLC	glutamate-cysteine ligase, catalytic subunit	7134	0.0038190013729035854	0.3139743	No	
+row_68	UGT1A7	UDP glucuronosyltransferase 1 family, polypeptide A7	7143	0.0036096367985010147	0.3135861	No	
+row_69	GSTO1	glutathione S-transferase omega 1	7166	0.0017563056899234653	0.3122757	No	
+row_70	UGT2A1	UDP glucuronosyltransferase 2 family, polypeptide A1	7449	4.2053618967934426E-33	0.2948101	No	
+row_71	SULT6B1	-	7888	0.0	0.2676826	No	
+row_72	SLC35B2	solute carrier family 35, member B2	9632	-0.008746320381760597	0.1599901	No	
+row_73	GSTA3	glutathione S-transferase A3	10736	-0.07856884598731995	0.09401084	No	
+row_74	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	10933	-0.09631738811731339	0.08473391	No	
+row_75	GGT1	gamma-glutamyltransferase 1	11395	-0.13824714720249176	0.060290292	No	
+row_76	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.058587212	No	
+row_77	UGT2A2	UDP glucuronosyltransferase 2 family, polypeptide A2	11805	-0.1747034192085266	0.044579145	No	
+row_78	GSTK1	glutathione S-transferase kappa 1	12084	-0.20100972056388855	0.033334743	No	
+row_79	UGT1A5	UDP glucuronosyltransferase 1 family, polypeptide A5	12236	-0.21758043766021729	0.030448506	No	
+row_80	MAT2B	methionine adenosyltransferase II, beta	12602	-0.2542986571788788	0.015399382	No	
+row_81	GSTA5	glutathione S-transferase A5	12668	-0.26125985383987427	0.01913758	No	
+row_82	MAT2A	methionine adenosyltransferase II, alpha	12733	-0.2687509059906006	0.023160327	No	
+row_83	GGT6	gamma-glutamyltransferase 6 homolog (rat)	12822	-0.2798134386539459	0.026025388	No	
+row_84	SULT1A2	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 2	13170	-0.32383766770362854	0.014157612	No	
+row_85	SULT1B1	sulfotransferase family, cytosolic, 1B, member 1	13293	-0.3383641839027405	0.016656864	No	
+row_86	COMT	catechol-O-methyltransferase	14122	-0.46691974997520447	-0.020749547	No	
+row_87	SLC26A1	solute carrier family 26 (sulfate transporter), member 1	14128	-0.46732357144355774	-0.00717158	No	
+row_88	UGT1A1	UDP glucuronosyltransferase 1 family, polypeptide A1	14608	-0.518248438835144	-0.021437375	No	
+row_89	UGT3A2	UDP glycosyltransferase 3 family, polypeptide A2	14949	-0.6068059206008911	-0.02446253	No	
+row_90	NNMT	nicotinamide N-methyltransferase	15277	-0.7268626093864441	-0.02311476	No	
+row_91	UGT1A4	UDP glucuronosyltransferase 1 family, polypeptide A4	15290	-0.7329031825065613	-0.0020780023	No	
+row_92	UGT2A3	UDP glucuronosyltransferase 2 family, polypeptide A3	15666	-0.9366596341133118	0.0025315175	No	
+row_93	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	15796	-1.1069375276565552	0.027437227	No	

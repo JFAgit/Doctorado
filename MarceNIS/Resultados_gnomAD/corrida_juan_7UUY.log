@@ -1,0 +1,114 @@
+nohup: ignoring input
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: 7UUY_Repair.pdb
+1 models read: 7UUY_Repair.pdb
+
+BackHbond       =               -384.20
+SideHbond       =               -108.60
+Energy_VdW      =               -585.80
+Electro         =               -9.59
+Energy_SolvP    =               778.99
+Energy_SolvH    =               -775.90
+Energy_vdwclash =               44.52
+energy_torsion  =               19.43
+backbone_vdwclash=              536.61
+Entropy_sidec   =               252.07
+Entropy_mainc   =               794.12
+water bonds     =               0.00
+helix dipole    =               0.24
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -5.16
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.16
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  20.26
+
+
+BackHbond       =               -384.20
+SideHbond       =               -108.60
+Energy_VdW      =               -585.80
+Electro         =               -9.59
+Energy_SolvP    =               778.99
+Energy_SolvH    =               -775.90
+Energy_vdwclash =               44.52
+energy_torsion  =               19.43
+backbone_vdwclash=              536.61
+Entropy_sidec   =               252.07
+Entropy_mainc   =               794.12
+water bonds     =               0.00
+helix dipole    =               0.24
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               -5.16
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.16
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  20.26
+
+Starting BuildModel
+Reading GA18R;
+Reading LA54P;
+Reading VA59E;
+Reading GA93R;
+Reading YA137X;
+Reading NA157T;
+Reading DA191G;
+Reading TA221T;
+Reading GA250V;
+Reading QA263L;
+Reading QA265R;
+Reading VA270E;
+Reading CA272X;
+Reading RA273H;
+Reading CA310C;
+Reading YA324H;
+Reading YA324H;
+Reading YA324L;
+Reading DA331N;
+Reading YA348D;
+Reading GA350D;
+Reading TA354P;
+Reading SA356F;
+Reading DA369V;
+Reading IA386S;
+Reading KA388X;
+Reading LA408L;
+Reading GA421R;
+Reading MA435L;
+Reading GA415L;
+Reading AA514T;
+Reading RA516X;
+Reading CA542C;
+Reading GA543E;
+Reading SA547R;
+Reading TA557T;
+Reading GA561E;
+Residue to Mutate GLYA18 has residue index 9
+Residue to Mutate LEUA54 has residue index 45
+Residue to Mutate VALA59 has residue index 50
+Residue to Mutate GLYA93 has residue index 84
+Residue to Mutate TYRA137 has residue index 128
+Residue to Mutate ASNA157 has residue index 148
+Residue to Mutate ASPA191 has residue index 182
+TA221T	Specified residue not found.
+no mutations performed.

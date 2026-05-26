@@ -1,0 +1,137 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL9	ribosomal protein L9	39	1.5361515283584595	0.027076086	Yes	
+row_1	RPS3A	ribosomal protein S3A	243	1.0022635459899902	0.03371642	Yes	
+row_2	RPL4	ribosomal protein L4	245	1.000382661819458	0.052864105	Yes	
+row_3	RPL6	ribosomal protein L6	258	0.9935503602027893	0.07119753	Yes	
+row_4	RPL3	ribosomal protein L3	271	0.9794660210609436	0.0892605	Yes	
+row_5	RPL5	ribosomal protein L5	331	0.9277858734130859	0.10341256	Yes	
+row_6	RRAGD	Ras-related GTP binding D	487	0.8403680920600891	0.10992473	Yes	
+row_7	RPS27	ribosomal protein S27 (metallopanstimulin 1)	531	0.8146605491638184	0.12289806	Yes	
+row_8	RPS4X	ribosomal protein S4, X-linked	540	0.8105456829071045	0.13796574	Yes	
+row_9	RPS6	ribosomal protein S6	556	0.8007972836494446	0.15241154	Yes	
+row_10	RPLP0	ribosomal protein, large, P0	638	0.7651219367980957	0.16207394	Yes	
+row_11	RPL23	ribosomal protein L23	694	0.7438819408416748	0.17294298	Yes	
+row_12	RPS23	ribosomal protein S23	783	0.7075502276420593	0.18106519	Yes	
+row_13	RPLP1	ribosomal protein, large, P1	785	0.7074151039123535	0.19458717	Yes	
+row_14	RPL22	ribosomal protein L22	823	0.695253312587738	0.20564017	Yes	
+row_15	ATP6V0E2	ATPase, H+ transporting V0 subunit e2	826	0.6945673227310181	0.21885335	Yes	
+row_16	RPL10A	ribosomal protein L10a	1031	0.6357442736625671	0.21839353	Yes	
+row_17	RPS8	ribosomal protein S8	1045	0.6313222050666809	0.2297092	Yes	
+row_18	RPL36	ribosomal protein L36	1103	0.6178390979766846	0.23803371	Yes	
+row_19	RPL7A	ribosomal protein L7a	1114	0.6166254281997681	0.24925347	Yes	
+row_20	RPL26	ribosomal protein L26	1288	0.5752943754196167	0.24955784	Yes	
+row_21	RPL27A	ribosomal protein L27a	1398	0.5509680509567261	0.25336927	Yes	
+row_22	RPL14	ribosomal protein L14	1446	0.5392379760742188	0.26080543	Yes	
+row_23	RPS7	ribosomal protein S7	1477	0.5339829921722412	0.2691963	Yes	
+row_24	RPL37A	ribosomal protein L37a	1562	0.5173519253730774	0.2739146	Yes	
+row_25	RPL24	ribosomal protein L24	1574	0.5137394070625305	0.2830966	Yes	
+row_26	RPL30	ribosomal protein L30	1608	0.5074865818023682	0.2907924	Yes	
+row_27	ATP6V1D	ATPase, H+ transporting, lysosomal 34kDa, V1 subunit D	1616	0.5061336159706116	0.30007672	Yes	
+row_28	RPL35A	ribosomal protein L35a	1658	0.502102792263031	0.30717236	Yes	
+row_29	RPL10L	ribosomal protein L10-like	1670	0.5006934404373169	0.31610385	Yes	
+row_30	RPL41	ribosomal protein L41	1720	0.5	0.32266232	Yes	
+row_31	RPL13A	ribosomal protein L13a	1740	0.4999961256980896	0.33108363	Yes	
+row_32	RPL10	ribosomal protein L10	1836	0.4998035132884979	0.33478191	Yes	
+row_33	DDIT3	DNA-damage-inducible transcript 3	1877	0.4982519745826721	0.34186572	Yes	
+row_34	RPS25	ribosomal protein S25	1908	0.4953848123550415	0.3495154	Yes	
+row_35	RPS13	ribosomal protein S13	1927	0.4936053454875946	0.35787612	Yes	
+row_36	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.36470228	Yes	
+row_37	RPL38	ribosomal protein L38	1981	0.4868263304233551	0.37336746	Yes	
+row_38	RPS20	ribosomal protein S20	1985	0.4861117899417877	0.3825157	Yes	
+row_39	RPL23A	ribosomal protein L23a	2018	0.48025116324424744	0.38975063	Yes	
+row_40	RPS3	ribosomal protein S3	2085	0.4701753854751587	0.39468077	Yes	
+row_41	FNIP1	folliculin interacting protein 1	2187	0.45717528462409973	0.39718792	Yes	
+row_42	RPL7	ribosomal protein L7	2215	0.4538779556751251	0.40422687	Yes	
+row_43	RPS21	ribosomal protein S21	2236	0.45031997561454773	0.41163218	Yes	
+row_44	RPL36A	ribosomal protein L36a	2245	0.448848694562912	0.4197544	Yes	
+row_45	ASNS	asparagine synthetase	2388	0.4273218810558319	0.41914234	Yes	
+row_46	RPL12	ribosomal protein L12	2400	0.42537349462509155	0.4266275	Yes	
+row_47	RPS11	ribosomal protein S11	2405	0.424914687871933	0.43453848	Yes	
+row_48	CEBPG	CCAAT/enhancer binding protein (C/EBP), gamma	2418	0.4232647120952606	0.44192103	Yes	
+row_49	IMPACT	Impact homolog (mouse)	2423	0.42294302582740784	0.4497942	Yes	
+row_50	RPL18A	ribosomal protein L18a	2439	0.42073288559913635	0.45694184	Yes	
+row_51	RPLP2	ribosomal protein, large, P2	2474	0.4164752960205078	0.4628279	Yes	
+row_52	ATP6V1E2	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E2	2549	0.4053843021392822	0.46601713	Yes	
+row_53	RPS9	ribosomal protein S9	2713	0.3809557855129242	0.4632107	Yes	
+row_54	EIF2AK4	eukaryotic translation initiation factor 2 alpha kinase 4	2747	0.37530359625816345	0.46836826	Yes	
+row_55	RPS14	ribosomal protein S14	2782	0.36977317929267883	0.47335753	Yes	
+row_56	ATP6V1C1	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C1	2802	0.36622515320777893	0.4792101	Yes	
+row_57	RPS15A	ribosomal protein S15a	2897	0.3527907431125641	0.48014748	Yes	
+row_58	RPL18	ribosomal protein L18	2912	0.3517703413963318	0.486033	Yes	
+row_59	RPS16	ribosomal protein S16	2921	0.3507094383239746	0.4922707	Yes	
+row_60	RPL31	ribosomal protein L31	2998	0.34298932552337646	0.4941376	Yes	
+row_61	RPS12	ribosomal protein S12	3083	0.333535373210907	0.4953262	Yes	
+row_62	RPS18	ribosomal protein S18	3094	0.3324241042137146	0.50108856	Yes	
+row_63	RPS26	ribosomal protein S26	3104	0.3315961956977844	0.50689715	Yes	
+row_64	RPL29	ribosomal protein L29	3224	0.31726759672164917	0.50560004	Yes	
+row_65	RPL8	ribosomal protein L8	3265	0.3132043480873108	0.5091304	Yes	
+row_66	ATP6V1G2	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G2	3300	0.30921974778175354	0.5129569	Yes	
+row_67	RPL26L1	ribosomal protein L26-like 1	3380	0.3008856773376465	0.51382905	Yes	
+row_68	RPS2	ribosomal protein S2	3429	0.29581061005592346	0.5165287	Yes	
+row_69	RPL27	ribosomal protein L27	3451	0.293727844953537	0.52086496	Yes	
+row_70	ATP6V1B2	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B2	3471	0.29148349165916443	0.5252823	Yes	
+row_71	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	3683	0.26809626817703247	0.5173281	Yes	
+row_72	ATP6V1A	ATPase, H+ transporting, lysosomal 70kDa, V1 subunit A	3703	0.26583224534988403	0.5212529	Yes	
+row_73	ATP6V0E1	ATPase, H+ transporting, lysosomal 9kDa, V0 subunit e1	3726	0.26366370916366577	0.5249498	Yes	
+row_74	RPS5	ribosomal protein S5	3819	0.2567075192928314	0.5241663	Yes	
+row_75	RPS27L	ribosomal protein S27-like	3849	0.2542915344238281	0.5272485	Yes	
+row_76	RPL19	ribosomal protein L19	3896	0.2506605088710785	0.5292054	Yes	
+row_77	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.51893824	No	
+row_78	ATP6V0D2	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d2	4625	0.18933552503585815	0.49214673	No	
+row_79	RPS19	ribosomal protein S19	4912	0.16532190144062042	0.47756174	No	
+row_80	ATP6V1G1	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G1	4922	0.16465550661087036	0.48016468	No	
+row_81	WDR59	WD repeat domain 59	4930	0.16406795382499695	0.4828805	No	
+row_82	RPS15	ribosomal protein S15	4986	0.15971440076828003	0.48253208	No	
+row_83	SESN2	sestrin 2	5042	0.15516038239002228	0.48209625	No	
+row_84	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed (fox derived); ribosomal protein S30	5050	0.15407945215702057	0.48462027	No	
+row_85	TRIB3	tribbles homolog 3 (Drosophila)	5108	0.14764218032360077	0.48391587	No	
+row_86	ATP6V0C	ATPase, H+ transporting, lysosomal 16kDa, V0 subunit c	5184	0.13844022154808044	0.48191702	No	
+row_87	RPSA	ribosomal protein SA	5235	0.13464482128620148	0.48139772	No	
+row_88	RPL28	ribosomal protein L28	5254	0.13348470628261566	0.48284322	No	
+row_89	RPL39	ribosomal protein L39	5334	0.12686114013195038	0.48037365	No	
+row_90	RPL37	ribosomal protein L37	5525	0.11117787659168243	0.47071022	No	
+row_91	DEPDC5	DEP domain containing 5	5560	0.10900906473398209	0.4706922	No	
+row_92	SEH1L	SEH1-like (S. cerevisiae)	5687	0.10003748536109924	0.464789	No	
+row_93	ATP6V1E1	ATPase, H+ transporting, lysosomal 31kDa, V1 subunit E1	5770	0.0925905629992485	0.46147507	No	
+row_94	ATP6V0D1	ATPase, H+ transporting, lysosomal 38kDa, V0 subunit d1	5946	0.08026524633169174	0.45214948	No	
+row_95	RPL35	ribosomal protein L35	6021	0.07403422892093658	0.44897598	No	
+row_96	ATP6V0B	ATPase, H+ transporting, lysosomal 21kDa, V0 subunit b	6081	0.06961530447006226	0.4466491	No	
+row_97	RPS29	ribosomal protein S29	6686	0.02683265693485737	0.40965813	No	
+row_98	RPL36AL	ribosomal protein L36a-like	6788	0.021571433171629906	0.40380064	No	
+row_99	RPL17	ribosomal protein L17	7410	1.847012560257655E-12	0.3652388	No	
+row_100	RPL3L	ribosomal protein L3-like	7592	0.0	0.35399932	No	
+row_101	ATP6V1G3	ATPase, H+ transporting, lysosomal 13kDa, V1 subunit G3	7692	0.0	0.34785178	No	
+row_102	ATP6V1B1	ATPase, H+ transporting, lysosomal 56/58kDa, V1 subunit B1 (Renal tubular acidosis with deafness)	7706	0.0	0.34704453	No	
+row_103	ATF2	activating transcription factor 2	8501	0.0	0.29774	No	
+row_104	RPS4Y2	ribosomal protein S4, Y-linked 2	8583	0.0	0.2927102	No	
+row_105	RPS4Y1	ribosomal protein S4, Y-linked 1	8584	0.0	0.2927102	No	
+row_106	RRAGA	Ras-related GTP binding A	9705	-0.012216431088745594	0.22339685	No	
+row_107	EIF2S3	eukaryotic translation initiation factor 2, subunit 3 gamma, 52kDa	10115	-0.03095811791718006	0.1985939	No	
+row_108	RPS10	ribosomal protein S10	10390	-0.050578780472278595	0.18255073	No	
+row_109	ATP6V1C2	ATPase, H+ transporting, lysosomal 42kDa, V1 subunit C2	10472	-0.057925816625356674	0.17863324	No	
+row_110	RHEB	Ras homolog enriched in brain	10508	-0.06042015925049782	0.17762008	No	
+row_111	WDR24	WD repeat domain 24	10915	-0.095067597925663	0.15423448	No	
+row_112	RPL34	ribosomal protein L34	11119	-0.11157242953777313	0.14377138	No	
+row_113	RPS24	ribosomal protein S24	11178	-0.11811399459838867	0.14243786	No	
+row_114	ATF4	activating transcription factor 4 (tax-responsive enhancer element B67)	11708	-0.16452310979366302	0.11274812	No	
+row_115	SESN1	sestrin 1	11726	-0.1666434109210968	0.114892446	No	
+row_116	RPL11	ribosomal protein L11	11759	-0.1700637936592102	0.116171	No	
+row_117	ITFG2	integrin alpha FG-GAP repeat containing 2	11789	-0.17329370975494385	0.117697865	No	
+row_118	RPL39L	ribosomal protein L39-like	11855	-0.17916682362556458	0.11710204	No	
+row_119	RPL13	ribosomal protein L13	12065	-0.19935928285121918	0.10795208	No	
+row_120	KPTN	kaptin (actin binding protein)	12197	-0.21339237689971924	0.10391511	No	
+row_121	RPL22L1	ribosomal protein L22-like 1	12387	-0.23164191842079163	0.09662698	No	
+row_122	SH3BP4	SH3-domain binding protein 4	12706	-0.265529990196228	0.081979156	No	
+row_123	RRAGB	Ras-related GTP binding B	13010	-0.3013905882835388	0.06895138	No	
+row_124	RPS28	ribosomal protein S28	13382	-0.3484305143356323	0.052604344	No	
+row_125	EIF2S2	eukaryotic translation initiation factor 2, subunit 2 beta, 38kDa	13597	-0.3794587552547455	0.04660225	No	
+row_126	EIF2S1	eukaryotic translation initiation factor 2, subunit 1 alpha, 35kDa	13618	-0.38282594084739685	0.052711513	No	
+row_127	CEBPB	CCAAT/enhancer binding protein (C/EBP), beta	13994	-0.4393181800842285	0.037861347	No	
+row_128	RPL21	ribosomal protein L21	14215	-0.4848707914352417	0.03351084	No	
+row_129	RPL32	ribosomal protein L32	14623	-0.5227237343788147	0.018275185	No	
+row_130	RRAGC	Ras-related GTP binding C	14798	-0.5666204690933228	0.018350907	No	
+row_131	ATP6V1F	ATPase, H+ transporting, lysosomal 14kDa, V1 subunit F	14834	-0.5751646757125854	0.027222095	No	
+row_132	RPL15	ribosomal protein L15	14863	-0.5822853446006775	0.03666469	No	
+row_133	FLCN	folliculin	15330	-0.7565808892250061	0.022255972	No	
+row_134	TCIRG1	T-cell, immune regulator 1, ATPase, H+ transporting, lysosomal V0 subunit A3	15473	-0.8167557120323181	0.029121982	No	
+row_135	ATF3	activating transcription factor 3	15684	-0.9572535157203674	0.03446334	No	

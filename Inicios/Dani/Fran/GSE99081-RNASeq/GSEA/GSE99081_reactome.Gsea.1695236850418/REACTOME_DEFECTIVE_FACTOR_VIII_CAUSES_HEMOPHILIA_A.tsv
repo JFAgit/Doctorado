@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	F8	coagulation factor VIII, procoagulant component (hemophilia A)	1088	0.620670735836029	0.20038077	Yes	
+row_1	F9	coagulation factor IX (plasma thromboplastic component, Christmas disease, hemophilia B)	2604	0.39553102850914	0.27745974	Yes	
+row_2	TPST2	tyrosylprotein sulfotransferase 2	3132	0.32823148369789124	0.3864076	Yes	
+row_3	F10	coagulation factor X	3470	0.2915102541446686	0.49123934	Yes	
+row_4	VWF	von Willebrand factor	4444	0.20745299756526947	0.5206771	Yes	
+row_5	TPST1	tyrosylprotein sulfotransferase 1	4530	0.19962356984615326	0.601445	Yes	
+row_6	F2	coagulation factor II (thrombin)	12810	-0.27807095646858215	0.2112364	No	

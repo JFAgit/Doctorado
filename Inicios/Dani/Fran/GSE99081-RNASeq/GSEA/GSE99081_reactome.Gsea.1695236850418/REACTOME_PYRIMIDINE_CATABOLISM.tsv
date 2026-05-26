@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DPYS	dihydropyrimidinase	2566	0.4023819863796234	-0.092824236	No	
+row_1	AGXT2	alanine-glyoxylate aminotransferase 2	3220	0.3175548017024994	-0.08154176	No	
+row_2	NT5M	5',3'-nucleotidase, mitochondrial	4384	0.2134426385164261	-0.11857259	No	
+row_3	UPB1	ureidopropionase, beta	4869	0.16888290643692017	-0.12099621	No	
+row_4	UPP1	uridine phosphorylase 1	5861	0.08745739609003067	-0.16786784	No	
+row_5	NT5C	5', 3'-nucleotidase, cytosolic	6316	0.05134432390332222	-0.18751119	No	
+row_6	NT5C1A	5'-nucleotidase, cytosolic IA	10376	-0.04950886219739914	-0.42957184	No	
+row_7	UPP2	uridine phosphorylase 2	12664	-0.26080235838890076	-0.528174	Yes	
+row_8	DPYD	dihydropyrimidine dehydrogenase	16018	-1.6667450666427612	-0.46437228	Yes	
+row_9	NT5E	5'-nucleotidase, ecto (CD73)	16167	-2.946004629135132	0.00443627	Yes	

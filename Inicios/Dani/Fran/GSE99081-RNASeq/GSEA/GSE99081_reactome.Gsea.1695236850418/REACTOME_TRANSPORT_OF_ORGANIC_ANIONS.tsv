@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AVP	arginine vasopressin (neurophysin II, antidiuretic hormone, diabetes insipidus, neurohypophyseal)	23	1.686776876449585	0.2851539	Yes	
+row_1	SLCO1B3	solute carrier organic anion transporter family, member 1B3	28	1.5962647199630737	0.55610126	Yes	
+row_2	SLCO1B1	solute carrier organic anion transporter family, member 1B1	2012	0.4816657602787018	0.5157366	Yes	
+row_3	SLC16A2	solute carrier family 16, member 2 (monocarboxylic acid transporter 8)	2237	0.45018959045410156	0.57841724	Yes	
+row_4	SLCO2B1	solute carrier organic anion transporter family, member 2B1	2393	0.42655473947525024	0.6413344	Yes	
+row_5	SLCO3A1	solute carrier organic anion transporter family, member 3A1	5240	0.1343706250190735	0.4887871	No	
+row_6	SLCO1A2	solute carrier organic anion transporter family, member 1A2	5966	0.07854549586772919	0.45745555	No	
+row_7	SLCO2A1	solute carrier organic anion transporter family, member 2A1	9073	0.0	0.26605797	No	
+row_8	SLCO1C1	solute carrier organic anion transporter family, member 1C1	9129	0.0	0.26266876	No	
+row_9	ALB	albumin	9209	0.0	0.2578006	No	
+row_10	SLCO4C1	solute carrier organic anion transporter family, member 4C1	11941	-0.18710234761238098	0.12129858	No	
+row_11	SLCO4A1	solute carrier organic anion transporter family, member 4A1	15528	-0.8445951342582703	0.043813094	No	

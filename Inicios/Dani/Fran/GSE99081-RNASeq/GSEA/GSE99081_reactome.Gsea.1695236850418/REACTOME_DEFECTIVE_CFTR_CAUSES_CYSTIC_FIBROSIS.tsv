@@ -1,0 +1,57 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RNF185	ring finger protein 185	230	1.020383358001709	0.023838403	No	
+row_1	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.021717684	No	
+row_2	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.037751567	No	
+row_3	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.09698126	No	
+row_4	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.12217643	No	
+row_5	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.11446687	No	
+row_6	DERL2	Der1-like domain family, member 2	3884	0.2516091465950012	-0.1144146	No	
+row_7	OS9	-	3976	0.24427388608455658	-0.11092849	No	
+row_8	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.102408454	No	
+row_9	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.10285045	No	
+row_10	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.1107485	No	
+row_11	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.13112031	No	
+row_12	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.15150322	No	
+row_13	SEL1L	sel-1 suppressor of lin-12-like (C. elegans)	5245	0.13422830402851105	-0.1468686	No	
+row_14	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.14744008	No	
+row_15	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.1637966	No	
+row_16	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.20446901	No	
+row_17	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.22267543	No	
+row_18	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.22469027	No	
+row_19	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.2328624	No	
+row_20	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.2444801	No	
+row_21	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.40086186	No	
+row_22	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.41023058	No	
+row_23	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.43110135	No	
+row_24	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.44882914	No	
+row_25	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.4497584	No	
+row_26	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.46667427	No	
+row_27	VCP	valosin-containing protein	10836	-0.08797656744718552	-0.46561804	No	
+row_28	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.46245044	No	
+row_29	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.4691471	No	
+row_30	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.49553314	No	
+row_31	RNF5	ring finger protein 5	11676	-0.16169218719005585	-0.4985867	No	
+row_32	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.50237346	No	
+row_33	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.49944466	No	
+row_34	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.49325156	No	
+row_35	CFTR	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)	11929	-0.18639028072357178	-0.48654824	No	
+row_36	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.53523606	No	
+row_37	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.5627942	No	
+row_38	DERL1	Der1-like domain family, member 1	14159	-0.4744296967983246	-0.58180565	Yes	
+row_39	UBC	ubiquitin C	14182	-0.47944867610931396	-0.56528646	Yes	
+row_40	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.56239825	Yes	
+row_41	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.55683523	Yes	
+row_42	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.5418036	Yes	
+row_43	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.5224066	Yes	
+row_44	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.5097534	Yes	
+row_45	DERL3	Der1-like domain family, member 3	14963	-0.6104427576065063	-0.48723724	Yes	
+row_46	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.4721852	Yes	
+row_47	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.46502444	Yes	
+row_48	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.43454006	Yes	
+row_49	UBB	ubiquitin B	15642	-0.9178993105888367	-0.4074793	Yes	
+row_50	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.37427944	Yes	
+row_51	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.3387391	Yes	
+row_52	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.29252923	Yes	
+row_53	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.22433914	Yes	
+row_54	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.12931176	Yes	
+row_55	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027187	Yes	

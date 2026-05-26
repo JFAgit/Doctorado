@@ -1,0 +1,5 @@
+Structure,Expected_Input_Count,Actual_List_Count,Dif_Index_Count,Length_Matches,Line_By_Line_Mismatches,Max_Runs_Per_Index,Min_Runs_Per_Index
+7UUY,632,632,632,True,0,3,3
+7UUZ,631,631,631,True,0,3,3
+7UV0,627,627,627,True,0,3,3
+AF,888,888,888,True,0,3,3

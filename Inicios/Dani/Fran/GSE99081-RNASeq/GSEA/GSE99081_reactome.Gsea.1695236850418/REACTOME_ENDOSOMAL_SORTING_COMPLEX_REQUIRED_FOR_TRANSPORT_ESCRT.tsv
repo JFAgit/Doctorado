@@ -1,0 +1,28 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VPS36	vacuolar protein sorting 36 (yeast)	1217	0.591121256351471	-0.0024353897	No	
+row_1	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.011210174	No	
+row_2	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.09379202	No	
+row_3	CHMP2B	chromatin modifying protein 2B	4433	0.2083459496498108	-0.08657401	No	
+row_4	UBAP1	ubiquitin associated protein 1	4639	0.18808560073375702	-0.07610914	No	
+row_5	TSG101	tumor susceptibility gene 101	5095	0.14905795454978943	-0.085859105	No	
+row_6	VPS37D	vacuolar protein sorting 37 homolog D (S. cerevisiae)	5163	0.1408856362104416	-0.07268175	No	
+row_7	CHMP6	chromatin modifying protein 6	5579	0.10750044882297516	-0.0850705	No	
+row_8	CHMP2A	chromatin modifying protein 2A	5720	0.0964645966887474	-0.081853464	No	
+row_9	STAM	signal transducing adaptor molecule (SH3 domain and ITAM motif) 1	5812	0.09044583886861801	-0.07635366	No	
+row_10	SNF8	SNF8, ESCRT-II complex subunit, homolog (S. cerevisiae)	6085	0.06928817182779312	-0.084617265	No	
+row_11	VPS28	vacuolar protein sorting 28 homolog (S. cerevisiae)	6375	0.04731118679046631	-0.096629605	No	
+row_12	VPS25	vacuolar protein sorting 25 homolog (S. cerevisiae)	7057	0.007896196097135544	-0.13766277	No	
+row_13	CHMP7	CHMP family, member 7	10690	-0.0740177184343338	-0.35258636	No	
+row_14	VPS4B	vacuolar protein sorting 4 homolog B (S. cerevisiae)	10838	-0.08810127526521683	-0.35082865	No	
+row_15	STAM2	signal transducing adaptor molecule (SH3 domain and ITAM motif) 2	11137	-0.11374723166227341	-0.35523346	No	
+row_16	CHMP4A	chromatin modifying protein 4A	11558	-0.15136109292507172	-0.36254168	No	
+row_17	VPS4A	vacuolar protein sorting 4 homolog A (S. cerevisiae)	12088	-0.20180116593837738	-0.37037563	No	
+row_18	CHMP4B	chromatin modifying protein 4B	12996	-0.29998597502708435	-0.38946074	Yes	
+row_19	VPS37A	vacuolar protein sorting 37 homolog A (S. cerevisiae)	13247	-0.33346283435821533	-0.36390972	Yes	
+row_20	VPS37C	vacuolar protein sorting 37 homolog C (S. cerevisiae)	13252	-0.33390456438064575	-0.3231314	Yes	
+row_21	VPS37B	vacuolar protein sorting 37 homolog B (S. cerevisiae)	13548	-0.3709156811237335	-0.2957543	Yes	
+row_22	CHMP4C	chromatin modifying protein 4C	14110	-0.46504366397857666	-0.2732188	Yes	
+row_23	UBC	ubiquitin C	14182	-0.47944867610931396	-0.2186908	Yes	
+row_24	HGS	hepatocyte growth factor-regulated tyrosine kinase substrate	14569	-0.5097606778144836	-0.17986736	Yes	
+row_25	UBB	ubiquitin B	15642	-0.9178993105888367	-0.13320988	Yes	
+row_26	CHMP5	chromatin modifying protein 5	15938	-1.3833980560302734	0.018565372	Yes	

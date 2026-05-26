@@ -1,0 +1,324 @@
+Pathway,Gene
+Glycogen metabolism,PRKACB
+Glycogen metabolism,PGK1
+Glycogen metabolism,GPI
+Glycogen metabolism,HK3
+Glycogen metabolism,SEC13
+Glycosaminoglycan metabolism,PAPSS2
+Glycosaminoglycan metabolism,HEXB
+Glycosaminoglycan metabolism,NAGLU
+Glycosaminoglycan metabolism,VCAN
+Glycosaminoglycan metabolism,HYAL2
+Glycosaminoglycan metabolism,UST
+Glycosaminoglycan metabolism,HS3ST1
+Glycosaminoglycan metabolism,HS3ST2
+Inositol phosphate metabolism,SYNJ1
+Inositol phosphate metabolism,PPIP5K2
+Inositol phosphate metabolism,INPP5A
+Inositol phosphate metabolism,PLD4
+Inositol phosphate metabolism,NUDT3
+Inositol phosphate metabolism,INPP4B
+Fatty AcylCoA biosynthesis,HACD4
+Fatty AcylCoA biosynthesis,HSD17B8
+Arachdonic Acid metabolism,HPGD
+Arachdonic Acid metabolism,LTA4H
+Arachdonic Acid metabolism,ALOX5
+Arachdonic Acid metabolism,HPGDS
+Arachdonic Acid metabolism,DPEP2
+Arachdonic Acid metabolism,PTGS1
+Carnitine metabolism,RXRA
+Carnitine metabolism,SLC22A5
+B oxidation,ACOT11
+B oxidation,MECR
+B oxidation,PCCA
+Triglyceride biosynthesis,GPAM
+Triglyceride catabolism,FABP3
+Triglyceride catabolism,PRKACB
+Phospholipid metabolism,PTDSS1
+Phospholipid metabolism,PLB1
+Phospholipid metabolism,GDPD3
+Phospholipid metabolism,PTPN13
+Phospholipid metabolism,INPP4B
+Phospholipid metabolism,PIK3R2
+Phospholipid metabolism,LPCAT2
+Phospholipid metabolism,CHPT1
+Phospholipid metabolism,PLD4
+Phospholipid metabolism,OSBPL8
+Phospholipid metabolism,MTMR2
+Phospholipid metabolism,PIK3R1
+Phospholipid metabolism,RAB4A
+Phospholipid metabolism,PIK3C3
+Phospholipid metabolism,GPD1L
+Phospholipid metabolism,GPAM
+Phospholipid metabolism,SYNJ1
+Phospholipid metabolism,PLA2G12A
+Sphingolipid metabolism,HEXB
+Sphingolipid metabolism,CERK
+Sphingolipid metabolism,SMPD3
+Sphingolipid metabolism,CERT1
+Sphingolipid metabolism,PPM1L
+Steroids metabolism,HSD17B14
+Steroids metabolism,HSD17B1
+Steroids metabolism,GPAM
+Steroids metabolism,TSPO
+Steroids metabolism,RXRA
+Steroids metabolism,OSBPL7
+Steroids metabolism,HMGCR
+Ketone Body metabolism,ACAT1
+Pyruvate metabolism,RXRA
+Pyruvate metabolism,PDK4
+Pyruvate metabolism,PDK3
+TCA,SUCLG2
+TCA,NNT
+TCA,IDH3G
+ETC,MT-CYB
+ETC,LRPPRC
+ETC,TIMMDC1
+ETC,NDUFB8
+ETC,UCP2
+ETC,UQCRC2
+ETC,NDUFV3
+ETC,MT-ND1
+Nucleotides metabolism,IMPDH1
+Nucleotides metabolism,IMPDH2
+Nucleotides metabolism,ADA
+Nucleotides metabolism,DHODH
+Nucleotides metabolism,NUDT1
+Nucleotides metabolism,RRM2
+Nucleotides metabolism,SAMHD1
+Nucleotides metabolism,TYMS
+Nucleotides metabolism,ATIC
+Nucleotides metabolism,DUT
+Nucleotides metabolism,NME2P1
+Ascorbate metabolism,SLC2A3
+Panthotenate metabolism,VNN2
+Panthotenate metabolism,SLC25A16
+Panthotenate metabolism,VNN1
+Cobalamin metabolism,MMAB
+Biotin metabolism,PCCA
+Nicotinate metabolism,QPRT
+Nicotinate metabolism,BST1
+Folate metabolism,DHFR
+Folate metabolism,SLC46A1
+Folate metabolism,FOLR2
+Folate metabolism,SHMT1
+Retinoid metabolism,PLB1
+CoFactors metabolism,PDSS1
+CoFactors metabolism,DHFR
+Aspartate asparigine metabolism,SLC25A13
+Aspartate asparigine metabolism,NAT8L
+Glutamate glutamine metabolism,OAT
+Glutamate glutamine metabolism,RIMKLB
+Branched chain aa catabolism,ACAT1
+Branched chain aa catabolism,ALDH6A1
+Lysine catabolism,ALDH7A1
+Proline catabolism,ALDH4A1
+Methionine salvage pathway,ADI1
+Sulfur aa metabolism,ETHE1
+Sulfur aa metabolism,AHCY
+Sulfur aa metabolism,ADI1
+Sulfur aa metabolism,TXN2
+Selenoamino acid metabolism,AHCY
+Selenoamino acid metabolism,PAPSS2
+Selenoamino acid metabolism,RPS6
+Selenoamino acid metabolism,RPS4X
+Selenoamino acid metabolism,RPL3
+Selenoamino acid metabolism,RPL14
+Selenoamino acid metabolism,RPL18
+Glyoxylate metabolism,ALDH4A1
+Glyoxylate metabolism,GRHPR
+Urea cycle,ARG1
+Carnitine synthesis,SHMT1
+Creatine metabolism,GATM
+Choline catabolism,CHDH
+Choline catabolism,ALDH7A1
+Polyamines metabolism,OAZ3
+Eukaryotic Translation Initiation,RPS6
+Eukaryotic Translation Initiation,RPS4X
+Eukaryotic Translation Initiation,RPL3
+Eukaryotic Translation Initiation,RPL14
+Eukaryotic Translation Initiation,EIF3D
+Eukaryotic Translation Initiation,EIF2S3
+Eukaryotic Translation Initiation,EIF3E
+Eukaryotic Translation Initiation,RPL18
+SRP-dependent co translational protein targeting to membrane,RPS6
+SRP-dependent co translational protein targeting to membrane,RPS4X
+SRP-dependent co translational protein targeting to membrane,RPL3
+SRP-dependent co translational protein targeting to membrane,RPL14
+SRP-dependent co translational protein targeting to membrane,RPL18
+Eukaryotic Translation Elongation,RPS6
+Eukaryotic Translation Elongation,RPS4X
+Eukaryotic Translation Elongation,RPL3
+Eukaryotic Translation Elongation,RPL14
+Eukaryotic Translation Elongation,EEF2
+Eukaryotic Translation Elongation,RPL18
+Eukaryotic Translation Termination,RPS6
+Eukaryotic Translation Termination,RPS4X
+Eukaryotic Translation Termination,RPL3
+Eukaryotic Translation Termination,RPL14
+Eukaryotic Translation Termination,RPL18
+Mitochondrial translation,MRPL23
+Mitochondrial translation,MRPS34
+Mitochondrial translation,MRPL24
+Mitochondrial translation,MRPL3
+protein folding,GNG10
+protein folding,GNG7
+Gamma carboxylation hypusine formation and arylsulfatase activation,DPH2
+Gamma carboxylation hypusine formation and arylsulfatase activation,EEF2
+Gamma carboxylation hypusine formation and arylsulfatase activation,PROS1
+Gamma carboxylation hypusine formation and arylsulfatase activation,TPST2
+Post-translational modification: synthesis of GPI-anchored proteins,VNN2
+Post-translational modification: synthesis of GPI-anchored proteins,BST1
+Post-translational modification: synthesis of GPI-anchored proteins,PIGQ
+Post-translational modification: synthesis of GPI-anchored proteins,VNN1
+Post-translational modification: synthesis of GPI-anchored proteins,PIGT
+Post-translational modification: synthesis of GPI-anchored proteins,FOLR2
+Asparagine N-linked glycosylation,RENBP
+Asparagine N-linked glycosylation,CAPZB
+Asparagine N-linked glycosylation,DAD1
+Asparagine N-linked glycosylation,ALG3
+Asparagine N-linked glycosylation,ASGR1
+Asparagine N-linked glycosylation,MAN1C1
+Asparagine N-linked glycosylation,ASGR2
+Asparagine N-linked glycosylation,PPP6C
+Asparagine N-linked glycosylation,MAN1A2
+Asparagine N-linked glycosylation,CALR
+Asparagine N-linked glycosylation,SEC13
+Asparagine N-linked glycosylation,MAN2A1
+Asparagine N-linked glycosylation,CTSC
+Asparagine N-linked glycosylation,DYNC1I2
+Asparagine N-linked glycosylation,FUCA1
+O-linked glycosylation,GALNT2
+O-linked glycosylation,POMT2
+O-linked glycosylation,POMGNT2
+SUMOylation,BIRC5
+SUMOylation,ING2
+SUMOylation,BRCA1
+SUMOylation,TOP2A
+SUMOylation,SEC13
+SUMOylation,SMC1A
+SUMOylation,RXRA
+SUMOylation,SATB1
+Deubiquitination,USP2
+Deubiquitination,BRCA1
+Deubiquitination,CCNA2
+Deubiquitination,TGFBR2
+Deubiquitination,CDC20
+Deubiquitination,TGFB1
+Deubiquitination,RNF128
+Deubiquitination,SMAD3
+Deubiquitination,RUVBL1
+Deubiquitination,TGFBR1
+Deubiquitination,ARRB1
+Protein ubiquitination,UBE2G2
+Protein ubiquitination,HLTF
+RAB geranylgeranylation,RAB42
+RAB geranylgeranylation,RAB4A
+RAB geranylgeranylation,RAB37
+RAB geranylgeranylation,RAB40B
+Protein methylation,EEF2
+Protein methylation,CAMKMT
+Neddylation,DTL
+Neddylation,BIRC5
+Neddylation,EPAS1
+Neddylation,KLHL5
+Neddylation,DCAF4
+Post-translational protein phosphorylation,APLP2
+Post-translational protein phosphorylation,ADAM10
+Post-translational protein phosphorylation,VCAN
+Post-translational protein phosphorylation,SPP1
+Post-translational protein phosphorylation,FN1
+Post-translational protein phosphorylation,TIMP1
+Peptide hormone metabolism,LEP
+Peptide hormone metabolism,IGF1
+Peptide hormone metabolism,CTSG
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),APLP2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),ADAM10
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),VCAN
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),SPP1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),FN1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),IGF1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),TIMP1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),CTSG
+Unfolded Protein Response (UPR),CALR
+Unfolded Protein Response (UPR),EIF2S3
+Surfactant metabolism,ADORA2B
+Surfactant metabolism,SFTPD
+Surfactant metabolism,ADA2
+Amyloid fiber formation,H3C1
+Amyloid fiber formation,ADAM10
+Amyloid fiber formation,PRL
+Amyloid fiber formation,TGFBI
+Amyloid fiber formation,H3-3A
+Processing of Capped Intron-Containing Pre-mRNA,PCBP2
+Processing of Capped Intron-Containing Pre-mRNA,DDX39A
+Processing of Capped Intron-Containing Pre-mRNA,YBX1
+Processing of Capped Intron-Containing Pre-mRNA,SRSF6
+Processing of Capped Intron-Containing Pre-mRNA,SEC13
+Processing of Capped Intron-Containing Pre-mRNA,CPSF1
+Processing of Capped Intron-Containing Pre-mRNA,SRSF9
+Processing of Capped Intron-Containing Pre-mRNA,THOC1
+Processing of Capped Intronless Pre-mRNA,CPSF1
+Regulation of mRNA stability by proteins that bind AU-rich elements,ZFP36
+Regulation of mRNA stability by proteins that bind AU-rich elements,TNFSF13
+Nonsense-Mediated Decay (NMD),RPS6
+Nonsense-Mediated Decay (NMD),RPS4X
+Nonsense-Mediated Decay (NMD),RPL3
+Nonsense-Mediated Decay (NMD),RPL14
+Nonsense-Mediated Decay (NMD),RPL18
+rRNA processing in the nucleus and cytosol,RPS6
+rRNA processing in the nucleus and cytosol,RPS4X
+rRNA processing in the nucleus and cytosol,RPL3
+rRNA processing in the nucleus and cytosol,RIOK2
+rRNA processing in the nucleus and cytosol,RPL14
+rRNA processing in the nucleus and cytosol,WDR3
+rRNA processing in the nucleus and cytosol,RPL18
+rRNA processing in the nucleus and cytosol,FBL
+rRNA processing in the nucleus and cytosol,RPP40
+rRNA processing in the mitochondrion,MT-CYB
+rRNA processing in the mitochondrion,MT-ND1
+rRNA processing in the mitochondrion,PRORP
+tRNA processing in the nucleus,CPSF1
+tRNA processing in the nucleus,SEC13
+tRNA processing in the nucleus,RPP40
+tRNA processing in the nucleus,POP5
+tRNA modification in the nucleus and cytosol,PUS7
+tRNA modification in the nucleus and cytosol,WDR4
+tRNA modification in the nucleus and cytosol,URM1
+tRNA modification in the nucleus and cytosol,ADAT2
+tRNA processing in the mitochondrion,MT-CYB
+tRNA processing in the mitochondrion,MT-ND1
+tRNA modification in the mitochondrion,PRORP
+Metabolism of non-coding RNA,GEMIN6
+Metabolism of non-coding RNA,WDR77
+Metabolism of non-coding RNA,SEC13
+PRC2 methylates histones and DNA,H3C1
+PRC2 methylates histones and DNA,RBBP4
+PRC2 methylates histones and DNA,H3-3A
+Positive epigenetic regulation of rRNA expression,POLR1G
+Positive epigenetic regulation of rRNA expression,GSK3B
+Positive epigenetic regulation of rRNA expression,H3C1
+Positive epigenetic regulation of rRNA expression,RBBP4
+Positive epigenetic regulation of rRNA expression,H3-3A
+Negative epigenetic regulation of rRNA expression,POLR1G
+Negative epigenetic regulation of rRNA expression,H3C1
+Negative epigenetic regulation of rRNA expression,H3-3A
+DNA methylation,H3C1
+DNA methylation,H3-3A
+HATs acetylate histones,H3C1
+HATs acetylate histones,RUVBL1
+HDACs deacetylate histones,H3C1
+HDACs deacetylate histones,RBBP4
+HDMs demethylate histones,H3C1
+HDMs demethylate histones,RIOX2
+PKMTs methylate histone lysine,H3C1
+PKMTs methylate histone lysine,RBBP4
+RMTs methylate histone arginine,H3C1
+RMTs methylate histone arginine,WDR77
+RMTs methylate histone arginine,CDK4
+Cellular response to hypoxia,EPAS1
+Detoxification of Reactive Oxygen Species,CYBB
+Detoxification of Reactive Oxygen Species,CAT
+Detoxification of Reactive Oxygen Species,TXN2
+UPR,CALR
+UPR,EIF2S3

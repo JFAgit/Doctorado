@@ -1,0 +1,25 @@
+"count_col","source_name","sex_metadata","disease","individual","cell_type","stimulus","assay_name","xist_score","y_marker_score","sex_inferred","sex_match_metadata"
+"exp068.d54D_S13_R1_001","exp068-d54D","male","normal","d54","alternatively activated macrophage","dex","exp068-d54D_S13_R1_001",-0.876026054299197,5.0929024997678,"male",TRUE
+"exp068.d54G_S14_R1_001","exp068-d54G","male","normal","d54","inflammatory macrophage","IFNg","exp068-d54G_S14_R1_001",-2.14443630153979,4.62374802323714,"male",TRUE
+"exp068.d54IL10_S15_R1_001","exp068-d54IL10","male","normal","d54","alternatively activated macrophage","IL10","exp068-d54IL10_S15_R1_001",-4.3126541384092,5.29652459973278,"male",TRUE
+"exp068.d54IL4_S16_R1_001","exp068-d54IL4","male","normal","d54","alternatively activated macrophage","IL4","exp068-d54IL4_S16_R1_001",-0.434574890854483,4.95085614633904,"male",TRUE
+"exp068.d54Le_S17_R1_001","exp068-d54Le","male","normal","d54","inflammatory macrophage","LPSearly","exp068-d54Le_S17_R1_001",-1.11229979187891,4.65146586163101,"male",TRUE
+"exp068.d54Lg_S18_R1_001","exp068-d54Lg","male","normal","d54","inflammatory macrophage","LPSIFNg","exp068-d54Lg_S18_R1_001",-1.56403903178346,4.93010224114148,"male",TRUE
+"exp068.d54Ll_S19_R1_001","exp068-d54Ll","male","normal","d54","inflammatory macrophage","LPSlate","exp068-d54Ll_S19_R1_001",-0.666312045272819,5.07638015992034,"male",TRUE
+"exp068.d54M0_S20_R1_001","exp068-d54M0","male","normal","d54","macrophage","none","exp068-d54M0_S20_R1_001",-2.12819743813904,5.34266476127466,"male",TRUE
+"exp068.d55D_S21_R1_001","exp068-d55D","female","normal","d55","alternatively activated macrophage","dex","exp068-d55D_S21_R1_001",8.85674897568278,-2.41101308404374,"female",TRUE
+"exp068.d55G_S22_R1_001","exp068-d55G","female","normal","d55","inflammatory macrophage","IFNg","exp068-d55G_S22_R1_001",7.90285564732485,-4.23509608739051,"female",TRUE
+"exp068.d55IL10_S23_R1_001","exp068-d55IL10","female","normal","d55","alternatively activated macrophage","IL10","exp068-d55IL10_S23_R1_001",9.05720681922448,-4.19944416506261,"female",TRUE
+"exp068.d55IL4_S24_R1_001","exp068-d55IL4","female","normal","d55","alternatively activated macrophage","IL4","exp068-d55IL4_S24_R1_001",8.77260218820261,-3.9610487286361,"female",TRUE
+"exp068.d55Le_S25_R1_001","exp068-d55Le","female","normal","d55","inflammatory macrophage","LPSearly","exp068-d55Le_S25_R1_001",8.66329520698646,-4.52822673114169,"female",TRUE
+"exp068.d55Lg_S26_R1_001","exp068-d55Lg","female","normal","d55","inflammatory macrophage","LPSIFNg","exp068-d55Lg_S26_R1_001",8.52024999181927,-4.35107774431474,"female",TRUE
+"exp068.d55Ll_S27_R1_001","exp068-d55Ll","female","normal","d55","inflammatory macrophage","LPSlate","exp068-d55Ll_S27_R1_001",8.60253537855059,-2.69571816078045,"female",TRUE
+"exp068.d55M0_S28_R1_001","exp068-d55M0","female","normal","d55","macrophage","none","exp068-d55M0_S28_R1_001",8.46129154020884,-4.2954732491953,"female",TRUE
+"exp068.d57D_S29_R1_001","exp068-d57D","male","normal","d57","alternatively activated macrophage","dex","exp068-d57D_S29_R1_001",-0.379648599300197,5.31008063875889,"male",TRUE
+"exp068.d57G_S30_R1_001","exp068-d57G","male","normal","d57","inflammatory macrophage","IFNg","exp068-d57G_S30_R1_001",-0.777960012241647,4.78219909747894,"male",TRUE
+"exp068.d57IL10_S31_R1_001","exp068-d57IL10","male","normal","d57","alternatively activated macrophage","IL10","exp068-d57IL10_S31_R1_001",-1.7529069794973,5.31962762022565,"male",TRUE
+"exp068.d57IL4_S32_R1_001","exp068-d57IL4","male","normal","d57","alternatively activated macrophage","IL4","exp068-d57IL4_S32_R1_001",0.0590834846350616,5.14452432830019,"male",TRUE
+"exp068.d57Le_S33_R1_001","exp068-d57Le","male","normal","d57","inflammatory macrophage","LPSearly","exp068-d57Le_S33_R1_001",-2.8413141981044,4.49556423824894,"male",TRUE
+"exp068.d57Lg_S34_R1_001","exp068-d57Lg","male","normal","d57","inflammatory macrophage","LPSIFNg","exp068-d57Lg_S34_R1_001",-0.560814416122493,4.88085292303897,"male",TRUE
+"exp068.d57Ll_S35_R1_001","exp068-d57Ll","male","normal","d57","inflammatory macrophage","LPSlate","exp068-d57Ll_S35_R1_001",-1.46709565650593,5.1746980668119,"male",TRUE
+"exp068.d57M0_S36_R1_001","exp068-d57M0","male","normal","d57","macrophage","none","exp068-d57M0_S36_R1_001",-2.60774425111597,5.21880423617495,"male",TRUE

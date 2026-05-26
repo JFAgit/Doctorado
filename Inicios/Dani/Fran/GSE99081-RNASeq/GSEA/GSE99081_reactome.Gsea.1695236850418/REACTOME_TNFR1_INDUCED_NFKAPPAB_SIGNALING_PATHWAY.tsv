@@ -1,0 +1,26 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.08691596	No	
+row_1	USP4	ubiquitin specific peptidase 4 (proto-oncogene)	2640	0.39220482110977173	-0.100500174	No	
+row_2	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.08153387	No	
+row_3	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.1497599	No	
+row_4	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.18883143	No	
+row_5	USP21	ubiquitin specific peptidase 21	5314	0.129059299826622	-0.20178308	No	
+row_6	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.22867727	No	
+row_7	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10616	-0.06843732297420502	-0.51757795	No	
+row_8	USP2	ubiquitin specific peptidase 2	10677	-0.07323095947504044	-0.5160996	No	
+row_9	SHARPIN	SHANK-associated RH domain interactor	11237	-0.12321413308382034	-0.54186046	No	
+row_10	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.5792261	No	
+row_11	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	12354	-0.2293039858341217	-0.58027834	No	
+row_12	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.57686657	No	
+row_13	UBC	ubiquitin C	14182	-0.47944867610931396	-0.6410804	Yes	
+row_14	OTUD7B	OTU domain containing 7B	14191	-0.4805022180080414	-0.6075941	Yes	
+row_15	TRADD	TNFRSF1A-associated via death domain	14235	-0.48908931016921997	-0.57565904	Yes	
+row_16	TRAF1	TNF receptor-associated factor 1	14728	-0.5486502647399902	-0.5672024	Yes	
+row_17	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.5436341	Yes	
+row_18	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.5030945	Yes	
+row_19	UBB	ubiquitin B	15642	-0.9178993105888367	-0.4621735	Yes	
+row_20	TNF	tumor necrosis factor (TNF superfamily, member 2)	15727	-1.013060450553894	-0.39571327	Yes	
+row_21	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.31784382	Yes	
+row_22	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	15872	-1.2410012483596802	-0.23150235	Yes	
+row_23	RNF31	ring finger protein 31	16006	-1.617134690284729	-0.12534569	Yes	
+row_24	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	0.010052429	Yes	

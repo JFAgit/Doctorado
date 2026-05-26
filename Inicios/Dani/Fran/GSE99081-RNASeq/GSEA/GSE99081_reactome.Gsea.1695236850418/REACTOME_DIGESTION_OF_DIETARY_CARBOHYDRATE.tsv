@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AMY2A	amylase, alpha 2A; pancreatic	256	0.9940143823623657	0.19908947	Yes	
+row_1	CHIT1	chitinase 1 (chitotriosidase)	386	0.8837305307388306	0.38216576	Yes	
+row_2	TREH	trehalase (brush-border membrane glycoprotein)	834	0.6912164092063904	0.5040341	Yes	
+row_3	MGAM	maltase-glucoamylase (alpha-glucosidase)	944	0.6612396836280823	0.64024967	Yes	
+row_4	AMY2B	amylase, alpha 2B (pancreatic)	1881	0.49807173013687134	0.6902371	Yes	
+row_5	LCT	lactase	5123	0.14616455137729645	0.52212745	No	
+row_6	AMY1B	amylase, alpha 1B; salivary	6649	0.02969411574304104	0.43457845	No	
+row_7	SI	sucrase-isomaltase (alpha-glucosidase)	7576	0.0	0.37752008	No	
+row_8	CHIA	chitinase, acidic	9274	-2.170658723160126E-15	0.2729542	No	
+row_9	AMY1C	amylase, alpha 1C; salivary	13349	-0.34384727478027344	0.09624727	No	
+row_10	AMY1A	amylase, alpha 1A; salivary	13589	-0.378277063369751	0.16328798	No	

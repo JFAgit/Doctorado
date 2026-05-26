@@ -1,0 +1,871 @@
+Variante,Clasificacion_integrada,Fuente_clasificacion,Frecuencia_alelica,DDG_7UUY_apo,DDG_7UUZ_ReO4_Na,DDG_7UV0_I_Na,DDG_AF,Clasificacion_estructural
+p.Met1?,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.065347598e-05,,,,-0.045322,superficie
+p.Glu2Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.464199324879023e-07,,,,1.003219,superficie
+p.Ala3Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.404254474332388e-07,,,,1.00412,superficie
+p.Glu5Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2645054582e-06,,,,-0.232479,superficie
+p.Thr6Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8977108546e-06,,,,-0.191791,superficie
+p.Thr6Ile,Uncertain significance,NCBI ClinVar,2.5281701357e-06,,,,-0.212203,superficie
+p.Gly7Arg,Uncertain significance,NCBI ClinVar,2.5348638841e-06,,,,1.66733,superficie
+p.Gly7Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2634350524e-06,,,,1.857443,superficie
+p.Glu8Lys,Uncertain significance,NCBI ClinVar,6.3158665937e-06,,,,0.206611,core
+p.Arg9Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2625911906e-06,2.261437,,,0.885513,core
+p.Arg9Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2625911906e-06,2.527697,,,1.611387,core
+p.Arg9Trp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.31468606538226e-07,1.596203,,,-0.787256,core
+p.Pro10Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.307015419391297e-07,0.33228,,,0.306875,core
+p.Thr11Ile,Uncertain significance,NCBI ClinVar,1.8908285989e-06,0.839993,0.442896,-1.292457,-0.652834,core
+p.Phe12Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.295984295296773e-07,1.763973,-0.833879,0.311488,0.953331,core
+p.Trp15Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5111873395e-06,1.037467,-0.062194,1.516413,0.731975,core
+p.Trp15Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.280026376110779e-07,0.22672,-0.827501,0.05291,-0.536565,core
+p.Asp16Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2548106302e-06,0.389607,0.566464,-0.159394,3.244453,core
+p.Asp16Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.19185473925e-05,1.827703,0.971195,-0.303856,4.821003,core
+p.Gly18Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2522101509e-06,-0.881724,0.355342,-0.051643,-0.845267,core
+p.Gly18Arg,Likely Pathogenic,PaperMariano_SupplementaryTable2_ACMG,1.2526791675e-06,-1.512153,-1.06561,-1.302833,-1.608537,core
+p.Val19Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.256287569006852e-07,0.541767,-1.7848,-0.848107,-0.430383,core
+p.Phe20Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.252743391162873e-07,0.692774,-0.83586,-0.644785,1.646687,core
+p.Leu22Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8739248356e-06,-0.641764,-0.75599,-0.926746,0.312922,core
+p.Leu22Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.244840200784102e-07,2.574537,2.484857,4.314137,3.951853,core
+p.Met23Leu,Uncertain significance,NCBI ClinVar,1.8727737402e-06,-0.566375,-0.731219,-1.07169,1.193847,core
+p.Met23Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.241581666727002e-07,1.025819,0.002217,-0.000318,3.214807,core
+p.Leu24Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.237594982977604e-07,2.094753,0.62876,0.722666,2.05001,core
+p.Val26Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.23165556393367e-07,-0.819674,0.081161,-0.187302,-0.604361,core
+p.Ser27Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.229241054186922e-07,0.218019,-0.27511,-0.031255,-0.202083,core
+p.Thr28Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9812270007e-06,-0.125923,0.717974,1.156957,0.010748,core
+p.Thr28Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.225890240045424e-07,-1.562523,0.098868,1.33903,-0.742845,core
+p.Thr28Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.226533750926197e-07,0.100424,-0.002389,-0.000158,0.091977,core
+p.Gly29Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.224262673843656e-07,0.082195,1.207207,0.951105,-0.472394,core
+p.Ile30Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.222868294237126e-07,-0.420431,-1.47004,-2.020047,0.889444,core
+p.Gly31Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.222264257074092e-07,-2.0289,-1.33604,-0.422467,-1.934527,core
+p.Leu32Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.219269036871558e-07,-0.15227,-0.10087,-0.161377,0.826606,core
+p.Leu32Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5973421331e-06,1.79378,2.84266,3.76748,2.666397,core
+p.Trp33Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.487565283e-06,-0.034747,1.30609,1.91698,0.432233,core
+p.Trp33Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2437671717e-06,0.748795,2.037917,3.087827,0.619564,core
+p.Val34Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2437192179e-06,,1.19569,0.671917,2.218793,core
+p.Gly35Arg,Uncertain significance,NCBI ClinVar,2.36282847979e-05,,-0.185212,-0.691458,-0.215402,core
+p.Leu36Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8645422486e-06,,10.230677,,0.408899,core
+p.Leu36Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.216137590475883e-07,,9.456167,,0.603642,core
+p.Ala37Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.081039147e-06,,1.145627,,0.515435,core
+p.Arg38Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.21653174720598e-07,,,,0.4251,superficie
+p.Arg38Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2433063494e-06,,,,0.844006,superficie
+p.Gly39Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2431456059e-06,,,,3.548173,superficie
+p.Gly39Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2431316973e-06,,,,4.43623,superficie
+p.Gly40Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8646071459e-06,,,,2.138487,superficie
+p.Gln41Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8647925915e-06,,,,0.508908,superficie
+p.Gln41Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.21677135709632e-07,,,,0.275205,superficie
+p.Arg42Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1065779925e-06,,,,0.360214,superficie
+p.Arg42His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2424999596e-06,,,,0.623477,superficie
+p.Arg42Leu,Uncertain significance,NCBI ClinVar,1.2425910508e-06,,,,1.305813,superficie
+p.Ser43Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.67673327644e-05,,,,-0.846451,superficie
+p.Ala44Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3460714618e-06,,,,1.508127,superficie
+p.Ala44Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2419290138e-06,,,,1.65388,superficie
+p.Ala44Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.24182568244e-05,,,,-0.665469,superficie
+p.Glu45Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20784099981004e-07,,,,0.122639,superficie
+p.Asp46His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2414772586e-06,,,,0.832981,superficie
+p.Asp46Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206931652992796e-07,,,,0.146703,superficie
+p.Asp46Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8625002948e-06,,,,0.439345,superficie
+p.Phe48Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206507895919345e-07,,,,3.998217,core
+p.Thr49Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2415373708e-06,,,,0.580884,superficie
+p.Thr49Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.207686854478163e-07,,,,1.860083,superficie
+p.Gly50Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.208534748548134e-07,,,,16.399167,core
+p.Gly50Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2412106768e-06,,,,8.73973,core
+p.Gly51Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206346113027493e-07,,,,2.92788,superficie
+p.Gly51Asp,Uncertain significance,NCBI ClinVar,6.206346113027493e-07,,,,3.846503,superficie
+p.Gly51Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.205922435899027e-07,,,,2.92174,superficie
+p.Arg52Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206323001874309e-07,,,,1.520407,superficie
+p.Arg52Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206700505597823e-07,,,,2.388353,superficie
+p.Arg53Gly,Uncertain significance,NCBI ClinVar,1.73779416821e-05,,,,1.289647,superficie
+p.Arg53His,Likely benign,NCBI ClinVar,0.0001781068790213,,,,0.783626,superficie
+p.Arg53Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20580689763025e-07,,,,0.556008,superficie
+p.Arg53Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20580689763025e-07,,,,4.403957,superficie
+p.Leu54Pro,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,,,1.074237,,4.59742,core
+p.Ala55Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.205444905577951e-07,,,0.0,-0.098946,core
+p.Ala55Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2410889811e-06,,,7.142207,0.874148,core
+p.Ala56Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.204012755450225e-07,,,0.679576,4.01992,core
+p.Pro58Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201758074378924e-07,,,,1.78647,core
+p.Pro58Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202488934759741e-07,,,,3.433803,core
+p.Val59Glu,Pathogenic/Likely pathogenic,NCBI ClinVar,6.201719612814241e-07,,,,5.3265,core
+p.Val59Leu,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,1.2403962321e-06,,,,2.403763,core
+p.Val59Met,Functional intermediate,PaperMariano_SupplementaryTable3_FunctionalActivity,1.8605943482e-06,,,,3.431627,core
+p.Ala65Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200935101013233e-07,,,,1.958233,core
+p.Ala65Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200935101013233e-07,,,,2.228247,core
+p.Ser66Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4802110163e-06,,,,1.755933,core
+p.Ser66Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200612124428924e-07,,,,3.242857,core
+p.Phe67Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200619813956604e-07,,,,0.645313,core
+p.Met68Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20055060889407e-07,,,,2.701717,core
+p.Met68Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401039703e-06,,,,5.19205,core
+p.Met68Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1003944941e-06,,,,3.899617,core
+p.Ser69Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1003214413e-06,,,,8.610703,core
+p.Ala70Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200704400019842e-07,,,,1.92499,core
+p.Gln72Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201042767351757e-07,-0.204377,-0.157875,,0.672987,core
+p.Gln72Glu,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,6.200935101013233e-07,-0.152171,-0.725468,,0.634568,core
+p.Val73Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401085839e-05,-0.01324,0.366556,,2.161776,core
+p.Val73Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401993248e-06,-0.336784,-0.356506,,2.257233,core
+p.Gly75Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20035069183513e-07,0.729593,2.384817,,12.52,core
+p.Gly75Asp,Uncertain significance,NCBI ClinVar,8.0611856391e-06,0.648582,3.66978,,13.681833,core
+p.Val76Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200466027026591e-07,-0.652582,0.139684,-1.398423,-0.099126,core
+p.Val76Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200466027026591e-07,0.046223,0.355582,-0.983397,1.559573,core
+p.Pro77Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1003022174e-06,1.047123,31.185533,-0.795734,5.085643,core
+p.Pro77Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201081220521611e-07,2.410727,8.178203,1.194,3.74907,core
+p.Ser78Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2402254729e-06,-1.337313,-0.048229,1.414723,-0.01623,core
+p.Ser78Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401577976e-06,-0.474507,5.632323,0.001028,2.000247,core
+p.Glu79Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200773608515398e-07,0.0,1.002539,1.507787,5.826767,core
+p.Tyr81Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2406439934e-06,0.432597,3.934743,2.0836,3.189303,core
+p.Arg82Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202881362450485e-07,1.589523,2.276877,2.37276,2.119083,core
+p.Arg82Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20322766341783e-07,-0.015605,6.272547,1.29128,-0.488754,core
+p.Tyr83Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203289232082419e-07,-0.270875,0.349578,2.96125,3.123563,core
+p.Lys86Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200081593073764e-07,1.789367,1.152059,0.094173,1.418837,core
+p.Leu88Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.240053223e-06,1.072547,1.213873,7.298683,3.783753,core
+p.Met90Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200450648753152e-07,0.847943,-0.471124,3.921763,0.490237,core
+p.Met90Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8600683017e-06,1.912437,1.406633,2.638303,2.271453,core
+p.Cys91Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200773608515398e-07,6.56553,12.437733,16.0415,-0.275016,sitio activo
+p.Leu92Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200927410703545e-07,6.00175,9.3233,0.766651,1.572797,sitio activo
+p.Leu92Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200927410703545e-07,2.168003,7.430343,-0.03009,1.68786,sitio activo
+p.Gly93Arg,Pathogenic,NCBI ClinVar,,5.006217,4.543643,4.03453,21.470467,core
+p.Gly93Ser,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,2.4805093974e-06,3.97346,3.4322,2.89364,1.04039,core
+p.Gln94Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2402393165e-06,9.47089,10.015523,5.18313,2.111333,core
+p.Asn97Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2405993583e-06,0.613062,0.055714,3.48299,-0.918621,core
+p.Ser98Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203204575483694e-07,2.050457,0.902734,4.514707,-2.226747,core
+p.Ser98Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2404654722e-06,2.3758,2.80955,1.258657,-0.198526,core
+p.Val99Ala,Uncertain significance,NCBI ClinVar,2.41912073025e-05,0.0,1.329313,2.249157,0.211408,core
+p.Val99Gly,Uncertain significance,NCBI ClinVar,9.3049915696e-06,1.56809,2.458793,4.051977,1.057923,core
+p.Val99Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20275824253529e-07,5.156077,1.232868,3.354003,-0.822005,core
+p.Val99Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20275824253529e-07,13.554833,-0.678513,1.897387,-0.900638,core
+p.Leu100Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.9260139733e-06,4.23158,-0.90073,21.3832,0.240336,core
+p.Leu100Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1016523122e-06,2.835373,2.347453,2.6708,0.894269,core
+p.Thr101Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20462095350133e-07,-0.719151,20.8107,1.447823,2.149103,core
+p.Ala102Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.204851946027716e-07,1.071616,1.153907,1.83154,3.896693,core
+p.Ala102Ser,Uncertain significance,NCBI ClinVar,3.1028071717e-06,4.10144,0.63553,1.397427,0.446368,core
+p.Ala102Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.205159962818681e-07,3.326243,0.628092,2.431757,1.880157,core
+p.Ala102Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.204851946027716e-07,3.018357,1.928993,0.548457,1.096331,core
+p.Phe105Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.207170523388618e-07,-0.151503,1.530443,2.97059,4.802527,core
+p.Phe105Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9661001587e-06,0.314248,1.807637,3.047533,3.895747,core
+p.Met106Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.207825584932366e-07,1.90412,1.57779,-0.120305,2.585693,core
+p.Val108Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.214484222667456e-07,3.248993,-0.291714,1.93898,2.186047,core
+p.Val108Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.215650759987618e-07,2.185147,-0.526452,1.090513,-0.023049,core
+p.Phe109Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.216222600444833e-07,4.20954,1.109083,3.383587,4.054753,core
+p.Arg111His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.245573543e-06,1.82383,6.585027,6.618453,4.707953,core
+p.Leu112Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.228837524510475e-07,2.374617,1.54045,-1.066083,3.25323,core
+p.Gly113Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.42821182569e-05,-0.165353,1.88013,-1.29207,2.50185,core
+p.Gly113Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2473836128e-06,0.852473,2.43913,6.156623,2.919853,core
+p.Gly113Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.233862089515766e-07,-1.093363,2.29483,0.381673,2.544497,core
+p.Gly113Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2473836128e-06,-1.28815,1.199157,4.95624,3.810177,core
+p.Thr115Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2536041118e-06,1.6251,-2.465243,-0.043587,-0.68868,core
+p.Thr117Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.292022847593364e-07,0.002651,3.042157,0.100358,1.332273,core
+p.Tyr118Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1604044306e-06,0.654598,0.577973,-0.232533,4.01656,core
+p.Tyr118Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.320808861268358e-07,0.230409,14.6342,3.40086,1.775573,core
+p.Glu119Ala,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,1.8992366334e-06,2.083883,0.0,1.070537,-0.12944,core
+p.Glu119Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9009238489e-06,0.258652,1.548063,0.43699,-0.570384,core
+p.Glu122Ala,Functional intermediate,PaperMariano_SupplementaryTable3_FunctionalActivity,6.205606641488451e-07,0.447926,4.25258,0.0,0.185922,core
+p.Glu122Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203443159091022e-07,-0.148376,3.126997,0.59068,0.273118,core
+p.Met123Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8612453965e-06,1.150447,2.002177,0.413822,1.606547,core
+p.Arg124Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2405885848e-06,5.078687,3.122347,3.300933,5.23723,core
+p.Arg124His,Likely pathogenic,NCBI ClinVar,3.10112905906e-05,2.824967,5.99556,0.98366,5.538117,core
+p.Arg124Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2404516236e-06,0.602511,3.172067,-0.007517,2.446733,core
+p.Arg124Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.05457748663e-05,4.102317,3.05972,2.751983,3.872117,core
+p.Arg127Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.860557423e-06,1.319194,0.244563,2.354677,1.046789,superficie
+p.Ala128Ser,Uncertain significance,NCBI ClinVar,1.8607374474e-06,3.319973,2.159803,2.50324,0.138934,core
+p.Ala128Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202004239690098e-07,3.972357,1.9296,2.063227,-0.252691,core
+p.Val129Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200258426771228e-07,0.197104,0.745274,1.821557,2.335103,core
+p.Arg130Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201119674168368e-07,6.40773,3.16835,4.472623,7.537283,core
+p.Gly133Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201765766749108e-07,3.221847,0.367447,-0.405148,14.162333,core
+p.Thr134Ser,Uncertain significance,NCBI ClinVar,3.7217242003e-06,0.139277,1.995427,3.832673,2.13775,core
+p.Gln136Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2411090053e-06,5.156383,-0.033232,1.095909,-0.168677,core
+p.Gln136His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20580689763025e-07,7.765213,0.792869,2.63062,0.388012,core
+p.Gln136Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.20554502681416e-07,-0.252075,-0.473454,0.924378,-1.824207,core
+p.Tyr137*,Likely Pathogenic,gnomAD extract,,1.205753,0.925617,0.085924,1.69306,core
+p.Tyr137His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8619777928e-06,3.530677,2.405523,16.475697,1.17421,core
+p.Ile138Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.207948906097324e-07,0.282264,-0.001239,-0.520138,-0.43666,core
+p.Ile138Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.207948906097324e-07,0.479434,0.294508,-0.98828,2.275553,core
+p.Ile138Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2419320986e-06,1.17264,3.63531,2.742767,1.52425,core
+p.Ile138Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.8287437967e-06,1.125,3.706177,0.899995,1.361043,core
+p.Val139Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.864243316e-06,4.410813,0.684284,0.806471,0.603612,core
+p.Val139Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2425786987e-06,3.90914,2.277503,0.471583,-0.727343,core
+p.Ala140Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2435568212e-06,2.078047,2.685997,4.691387,2.972733,core
+p.Ala140Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2441849904e-06,4.015093,1.83186,5.730837,1.056245,core
+p.Thr141Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2461571628e-06,2.05946,3.012303,3.15489,0.709849,core
+p.Thr141Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.230778049716624e-07,2.19378,1.122457,0.043689,-2.128163,core
+p.Thr141Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.244669702e-06,8.574437,12.485567,1.44879,4.834723,core
+p.Met142Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.9143646751e-06,1.340427,6.954213,1.672813,0.608508,core
+p.Met142Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196301303825721e-07,-0.002965,2.0289,-0.07523,-0.513236,core
+p.Met142Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196040234606868e-07,1.15616,5.408117,2.981697,1.296967,core
+p.Met142Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196754387921782e-07,1.770203,7.743117,1.857543,1.390963,core
+p.Thr145Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19663151111056e-07,0.980704,0.0,4.089437,0.035552,core
+p.Thr145Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.6740586168e-06,1.90923,-0.420468,5.38238,2.89893,core
+p.Gly146Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2393662376e-06,-0.092427,9.003633,1.075921,20.971933,core
+p.Gly146Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391957619e-06,1.56686,4.22366,-1.626577,20.970533,core
+p.Gly146Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196378093077035e-07,2.446177,2.209887,0.918703,9.539503,core
+p.Gly146Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392756186e-06,1.969353,2.70302,-0.002684,7.235473,core
+p.Ile147Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196186123517253e-07,-0.021211,3.859963,0.895013,1.09661,core
+p.Val148Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19584828598053e-07,0.434392,0.090596,-1.274567,1.94271,core
+p.Ile149Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195802220079852e-07,4.189893,-1.270497,0.002168,1.251973,core
+p.Tyr150Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196639190768495e-07,1.72968,2.58832,2.897753,2.234617,core
+p.Tyr150Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4788369297e-06,-0.222142,8.08301,0.528484,-0.509153,core
+p.Tyr150Ser,Uncertain significance,NCBI ClinVar,4.3376474335e-06,1.288387,1.1151,1.806147,1.97463,core
+p.Ala151Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392879051e-06,-0.251965,1.64601,1.47345,2.035537,core
+p.Pro152Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391665861e-06,0.033995,-0.008688,-1.88938,4.69375,core
+p.Ala153Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196017200143747e-07,0.008632,0.963949,4.236687,2.10835,core
+p.Ile155Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8591415228e-06,-0.140367,1.79157,1.009207,1.440797,core
+p.Asn157Lys,Uncertain significance,NCBI ClinVar,6.38272821351e-05,1.951743,4.649517,1.412433,0.817113,core
+p.Gln158Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197453342472511e-07,3.743763,5.297663,7.528777,4.43288,core
+p.Thr160Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195188073519536e-07,0.793097,3.577373,1.327633,1.616117,core
+p.Gly161Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585748448e-06,1.060873,0.641674,-1.52248,1.72402,core
+p.Gly161Glu,Uncertain significance,NCBI ClinVar,2.35436983432e-05,1.881157,2.1625,-0.008155,3.004027,core
+p.Gly161Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390514317e-06,0.537504,2.163293,-0.273581,4.169423,core
+p.Asp163Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195111313760086e-07,1.775143,18.5729,1.960407,1.802623,core
+p.Ile164Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391312698e-06,6.98517,0.385164,-0.645903,1.258616,sitio activo
+p.Trp165Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.1955719008e-06,15.4585,4.677927,9.08102,0.842888,core
+p.Ala166Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195234130288251e-07,2.761853,3.088073,4.660257,0.085489,core
+p.Ala166Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.858570239e-06,1.774007,1.893957,10.467067,0.473556,core
+p.Leu168Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390606433e-06,5.733523,22.577967,5.43567,5.88056,core
+p.Leu169Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195640994821683e-07,9.743863,-0.000889,6.705423,4.257313,core
+p.Ser170Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0976362557e-06,2.822397,3.663877,2.018063,0.221973,core
+p.Thr171Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195633317637729e-07,1.539173,1.98468,0.0,0.694713,core
+p.Thr171Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196086304046912e-07,0.014111,9.589633,6.912727,4.15248,core
+p.Thr171Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391266635e-06,2.9367,2.182717,2.046037,0.819513,core
+p.Cys175Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391220572e-06,3.075917,1.60531,4.2794,0.973592,core
+p.Thr176Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392264748e-06,3.734177,9.024727,8.121663,4.562747,core
+p.Phe177Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195264835181174e-07,-0.807779,-0.695445,0.807713,-0.211999,core
+p.Phe177Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391573729e-06,0.401604,1.059127,-0.682171,1.47441,core
+p.Tyr178His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4782840361e-06,11.958667,3.876673,-0.344954,0.566701,core
+p.Thr179Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195341598745072e-07,1.320665,-0.602996,6.46667,8.293337,core
+p.Thr179Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587383627e-06,1.166107,0.196876,5.414573,9.083083,core
+p.Thr179Met,Uncertain significance,NCBI ClinVar,9.2930123981e-06,-0.692648,-0.398486,0.17356,3.013947,core
+p.Ala180Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.05329420861e-05,2.515423,1.59145,0.969026,0.982125,core
+p.Val181Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390913495e-06,0.920262,2.35859,3.31702,0.167607,core
+p.Val181Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390944202e-06,-0.253414,0.696226,3.39221,-1.529303,core
+p.Gly182Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4782993909e-06,1.41873,1.509857,1.231237,-0.823895,core
+p.Gly182Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195295540378459e-07,-0.025594,1.96961,1.39238,1.230217,core
+p.Gly183Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195510485281946e-07,0.089832,0.49299,-0.130325,-2.964493,core
+p.Gly183Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.85880746348e-05,0.43902,-0.258153,0.486688,0.8317,core
+p.Met184Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390974909e-06,,,,2.057097,core
+p.Met184Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586162973e-06,,,,2.156863,core
+p.Lys185Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390974909e-06,,,,0.334575,superficie
+p.Ala186Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195349275206088e-07,,,,0.407405,core
+p.Ala186Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390376147e-06,,,,1.067493,core
+p.Val187Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391328052e-06,,,,2.394437,core
+p.Val188Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4782318311e-06,,,,0.922477,core
+p.Trp189Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195556546844603e-07,-0.960778,9.4302,,1.815973,core
+p.Trp189Gly,Uncertain significance,NCBI ClinVar,8.0536347292e-06,1.316883,0.372657,,3.679287,core
+p.Thr190Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195387657796524e-07,0.401308,3.476723,2.13861,0.625727,core
+p.Asp191Gly,Likely Pathogenic,gnomAD extract,,1.212703,1.21912,2.229473,3.652663,core
+p.Asp191Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195525839060065e-07,1.383163,0.712303,1.690563,5.609913,core
+p.Val192Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195134341488195e-07,-0.098121,-1.890113,-0.995656,-0.377033,core
+p.Phe193Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585633305e-06,0.011029,3.04782,2.428037,0.933795,core
+p.Gln194His,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,6.195057583060235e-07,-0.431668,6.88518,3.932657,-1.54357,core
+p.Val195Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195111313760086e-07,18.468,-0.107183,0.025279,1.33923,core
+p.Val196Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195149693402042e-07,0.479162,-0.675991,-1.724613,-0.866978,core
+p.Val196Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,0.0002081570296983,0.599975,-0.07944,-1.55792,-1.07045,core
+p.Val197Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195226454112577e-07,1.281347,1.15305,3.630943,3.076687,core
+p.Val197Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195088286203166e-07,0.047329,-0.426034,3.355267,-0.398663,core
+p.Met198Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390145869e-06,2.071137,0.008568,1.934943,2.021383,core
+p.Met198Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390575728e-06,0.820561,-0.152277,1.438553,0.571084,core
+p.Leu199Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195126665559804e-07,3.66418,4.30391,3.20914,5.094427,core
+p.Ser200Arg,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,6.195095962036452e-07,-0.05555,2.04354,1.558373,-0.710254,core
+p.Gly201Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0975211158e-06,0.980977,0.238852,-0.307168,0.404884,core
+p.Gly201Ser,Uncertain significance,NCBI ClinVar,7.4345941578e-06,1.032691,0.663423,0.547872,3.286357,core
+p.Trp203Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195019204559534e-07,-0.468286,0.656081,2.033873,1.86801,core
+p.Val204Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390130517e-06,-1.051973,3.007717,0.64472,-0.46881,core
+p.Val205Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4779861901e-06,-0.75406,0.706616,11.5107,3.555423,core
+p.Ala207Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195095962036452e-07,1.73367,,-0.006523,0.421439,core
+p.Arg208Cys,Uncertain significance,NCBI ClinVar,1.9826345992e-05,,,3.236713,2.902243,core
+p.Arg208Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.478293249e-06,,,0.0,4.33488,core
+p.Arg208His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.67279197654e-05,,,9.939413,2.430393,core
+p.Arg208Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195072934593659e-07,,,8.142857,7.08602,core
+p.Arg208Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587199367e-06,,,2.179743,4.309427,core
+p.Gly209Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7170161281e-06,,,0.107438,3.525323,core
+p.Gly209Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390345442e-06,,,-0.227604,-0.181089,core
+p.Gly209Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.2934384607e-06,,,0.169952,1.22361,core
+p.Val210Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194996177687358e-07,,,,-0.635202,superficie
+p.Val210Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194996177687358e-07,,,,0.619566,superficie
+p.Met211Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195126665559804e-07,,0.928683,,0.185605,core
+p.Met211Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389977004e-06,,0.953154,,1.098177,core
+p.Leu212Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195049907322053e-07,,-0.137567,,4.437353,core
+p.Val213Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390406851e-06,0.449288,0.375884,,1.16494,core
+p.Val213Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195203425699686e-07,0.333898,1.699987,,2.843373,core
+p.Val213Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194973150986364e-07,0.252324,-0.190917,,-1.54464,core
+p.Gly214Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8584896426e-06,-0.628943,1.87923,,4.363917,core
+p.Gly214Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585126694e-06,-0.305026,1.718007,,4.31859,core
+p.Gly215Arg,Uncertain significance,NCBI ClinVar,5.5756070906e-06,-0.122941,0.144208,,2.713277,core
+p.Pro216Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.67281892292e-05,1.239933,0.73154,0.149278,1.752083,core
+p.Pro216Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390360794e-06,0.674152,1.013359,0.000117,1.679963,core
+p.Arg217Cys,Uncertain significance,NCBI ClinVar,4.02709179538e-05,1.20242,1.814673,2.020257,0.535449,core
+p.Arg217His,Uncertain significance,NCBI ClinVar,8.6739188889e-06,0.643403,2.49267,2.21763,0.153005,core
+p.Val219Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3366047853e-06,2.341297,1.80909,1.33833,4.732283,core
+p.Val219Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194896396552664e-07,-0.19425,-1.057275,0.048808,0.20103,core
+p.Thr221=,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,,0.300689,1.08859,0.317309,-0.130737,core
+p.Thr221Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7173201095e-06,0.249651,2.808017,0.195097,0.087422,core
+p.Thr221Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195072934593659e-07,0.108611,2.491987,0.217814,-0.139945,core
+p.Thr221Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,0.0001034654097168,-0.475803,1.092118,-1.621377,-0.346282,core
+p.Thr221Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195026880221633e-07,4.64397,6.321093,6.634387,3.234397,core
+p.Ala223Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585541192e-06,3.867177,0.304599,0.810571,0.697013,core
+p.His226Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195142017435608e-07,3.241527,-0.165433,-0.614414,0.306825,core
+p.Ser227Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7172418065e-06,0.171197,4.78207,-3.497,-0.702126,core
+p.Ser227Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195510485281946e-07,1.338367,2.200577,1.546023,1.09465,core
+p.Arg228Gln,Uncertain significance,NCBI ClinVar,6.5056568235e-05,-0.494396,0.793344,2.84831,4.853563,core
+p.Arg228Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390744609e-06,1.034802,3.25975,4.77068,7.51151,core
+p.Arg228Trp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0976899906e-06,-1.197643,3.953073,2.245423,9.016437,core
+p.Ile229Ser,Uncertain significance,NCBI ClinVar,3.28385249182e-05,3.48791,-0.12425,2.7136,3.063153,core
+p.Ile229Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587798225e-06,1.25806,0.023512,2.428443,1.82613,core
+p.Asn230Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195487454757453e-07,2.711263,2.357523,0.013843,2.200373,core
+p.Leu231Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586738733e-06,3.244097,4.99691,6.768787,0.537394,core
+p.Met232Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195863641432979e-07,-0.53968,0.062108,1.174381,0.030857,core
+p.Met232Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195640994821683e-07,0.672655,-0.895913,-0.2008,2.686557,core
+p.Asp233Ala,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,1.2391773349e-06,-0.60784,1.08535,-0.0,2.785513,core
+p.Asp233Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195479777954005e-07,5.371237,0.883111,-0.203895,2.480457,core
+p.Phe234Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195487454757453e-07,1.18298,2.03671,1.38717,1.964523,core
+p.Phe234Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195472101169581e-07,-1.305917,0.003852,-1.14167,1.37704,core
+p.Asn235Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195525839060065e-07,0.459064,3.56924,3.991887,0.456184,core
+p.Pro236Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9565987819e-06,-0.491309,1.303047,0.945868,-1.240552,core
+p.Pro236Leu,Likely benign,NCBI ClinVar,1.2391496954e-06,0.0,2.443507,0.066946,0.195805,core
+p.Pro236Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390545022e-06,0.992283,2.56709,2.178967,0.440447,core
+p.Pro236Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195272511451961e-07,1.11856,3.32751,0.940669,0.721561,core
+p.Pro238Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585794505e-06,2.634623,1.325263,0.456181,-1.22202,superficie
+p.Pro238Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.36305790889e-05,3.305267,0.985926,-0.005408,0.101349,superficie
+p.Arg239Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195019204559534e-07,1.439403,-0.267567,1.247613,2.386977,superficie
+p.Ser240Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8584827346e-06,1.692993,0.007755,1.53012,0.214791,core
+p.Ser240Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195226454112577e-07,2.026137,1.04812,1.749713,0.611681,core
+p.Ser240Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194942448984649e-07,0.635313,-0.40085,3.532643,-1.544187,core
+p.Ser240Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194942448984649e-07,1.295017,1.137433,3.78627,0.104694,core
+p.Arg241Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7172924728e-06,0.525995,2.6874,-0.617299,3.719777,superficie
+p.Arg241His,Uncertain significance,NCBI ClinVar,2.78777591237e-05,0.404665,2.962693,-0.280965,5.105017,superficie
+p.Tyr242Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4779861901e-06,0.649618,1.680213,1.87181,3.188913,superficie
+p.Tyr242Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194965475457405e-07,0.217338,1.076697,1.503577,4.583493,superficie
+p.Thr243Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7172325946e-06,2.517973,-0.042206,0.429646,6.535117,core
+p.Thr243Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8584781294e-06,0.554388,-0.521081,0.09325,6.132287,core
+p.Phe244Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195019204559534e-07,0.961775,2.822113,-0.340122,3.901437,superficie
+p.Phe247Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195103637888758e-07,0.542052,0.002799,-0.144526,4.454557,core
+p.Phe247Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19485034480537e-07,-1.105357,0.037233,-0.346124,-0.834185,core
+p.Val248Ala,Uncertain significance,NCBI ClinVar,5.32753829323e-05,0.450503,1.090604,1.40887,2.134297,core
+p.Val248Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.1953646281e-06,-0.85884,-1.046996,0.007351,-0.160128,core
+p.Gly250Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.238971604e-06,0.57983,5.970987,0.408954,3.11228,core
+p.Gly250Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194996177687358e-07,0.908215,5.764537,0.758104,9.53643,core
+p.Gly250Val,Likely Pathogenic,gnomAD extract,,0.972716,5.38938,1.09695,13.016493,core
+p.Gly251Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194858020049038e-07,-1.157117,2.1371,0.846051,4.94116,core
+p.Gly251Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.238971604e-06,-0.0,3.12938,0.130173,1.760177,core
+p.Thr252Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195019204559534e-07,7.52241,-0.227548,0.406246,-0.711809,core
+p.Thr252Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.02676248296e-05,5.500873,0.706414,-0.284667,-1.493793,core
+p.Leu256Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0974021468e-06,0.343395,1.393957,-0.984564,2.42429,core
+p.Leu256Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19525715892941e-07,0.193386,-0.05631,-0.749448,2.64288,core
+p.Met258Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195303216725336e-07,1.704087,0.543442,0.664407,4.124673,core
+p.Met258Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195034555902752e-07,1.59811,-0.286888,0.218754,0.088299,core
+p.Met258Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390069111e-06,2.11719,0.883545,0.713086,4.91377,core
+p.Tyr259Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389992355e-06,0.57733,3.553823,0.442985,2.25991,core
+p.Val261Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389884897e-06,3.286747,3.59159,0.461889,2.859703,core
+p.Val261Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7171957475e-06,3.960853,3.98551,0.9474,3.467917,core
+p.Asn262Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195003853292397e-07,1.28579,-1.728983,0.585872,2.062173,core
+p.Asn262Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195487454757453e-07,2.27426,0.000717,1.020105,0.823686,core
+p.Gln263Leu,Likely Pathogenic,gnomAD extract,,1.926093,0.107306,2.431353,0.672843,core
+p.Ala264Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390023057e-06,0.940248,3.548157,0.427094,-0.659637,core
+p.Ala264Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194873370593432e-07,0.000407,4.707713,1.23509,0.311696,core
+p.Ala264Val,Uncertain significance,NCBI ClinVar,7.4345573092e-06,-0.44114,0.619588,0.93037,0.920006,core
+p.Gln265Arg,Likely pathogenic,NCBI ClinVar,,0.0,6.23098,0.046491,3.677757,core
+p.Gln265Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194957799947467e-07,-1.372923,1.96656,2.901547,-0.758418,core
+p.Gln265Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194957799947467e-07,5.594493,3.50424,4.486693,0.651444,core
+p.Val266Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194957799947467e-07,6.480357,0.222832,1.197777,3.68601,core
+p.Val266Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194957799947467e-07,7.251653,2.147597,-0.117393,3.879477,core
+p.Val266Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195410687579069e-07,1.763873,-0.529729,-1.206553,3.524463,core
+p.Val266Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390821375e-06,3.17352,-0.712493,-0.757323,-0.555536,core
+p.Gln267Arg,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,6.195356951686129e-07,2.485523,0.049166,0.0,1.928357,core
+p.Gln267Glu,Likely pathogenic,NCBI ClinVar,3.53140597043e-05,5.56063,0.107834,0.924432,2.0982,core
+p.Gln267His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194819644020884e-07,4.744137,0.46086,2.479147,2.674847,core
+p.Arg268Cys,Uncertain significance,NCBI ClinVar,3.34553835287e-05,1.617037,0.81589,4.907537,2.464637,core
+p.Arg268His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.10628826165e-05,0.988247,10.076557,3.364663,2.59161,core
+p.Arg268Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19498850210134e-07,2.248103,0.262919,7.233407,3.016333,core
+p.Val270Glu,Likely Pathogenic,gnomAD extract,,3.39465,1.063695,1.97163,2.00697,core
+p.Val270Leu,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,6.194858020049038e-07,0.81966,-0.822453,0.355565,-0.375819,core
+p.Val270Met,Uncertain significance,NCBI ClinVar,6.8148419824e-06,5.50353,0.439481,0.184533,0.059041,core
+p.Cys272*,Pathogenic,NCBI ClinVar,,0.93858,1.134143,0.465017,-0.013255,core
+p.Arg273Cys,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,3.09746738676e-05,0.512369,0.799657,4.49145,1.399453,core
+p.Arg273His,Likely Benign,gnomAD extract,3.7170023119e-06,-0.151426,13.376733,2.725587,1.25406,core
+p.Arg273Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195003853292397e-07,2.79983,2.4583,8.472873,0.645452,core
+p.Thr274Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389777442e-06,21.8803,-1.270957,1.619263,2.810297,core
+p.Glu275Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389577887e-06,8.168143,1.344407,-0.090585,4.65515,core
+p.Lys276Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195188073519536e-07,-0.222018,1.703027,12.749667,-0.407938,core
+p.Lys276Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586922984e-06,-0.065988,2.132367,13.5305,-0.587106,core
+p.Ala278Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586255092e-06,1.325187,2.876613,-0.008667,2.664537,core
+p.Ala281Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.239555198e-06,4.839127,1.730683,2.44228,8.284743,core
+p.Ala281Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2394645513e-06,1.0261,4.23798,3.336977,1.74935,core
+p.Ala281Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2395398332e-06,0.007769,4.00393,3.104873,0.66652,core
+p.Ala281Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0986613782e-06,1.22447,4.96736,3.363977,5.22658,core
+p.Ile284Phe,Uncertain significance / not classified in gnomAD extract,NCBI ClinVar,1.23951217758e-05,30.668433,1.019966,7.535177,0.326121,core
+p.Ile284Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7185365327e-06,3.358513,3.638973,0.885317,0.93876,core
+p.Asn285Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2395843921e-06,1.537197,3.229803,1.746798,0.453979,core
+p.Val287Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198129404545708e-07,0.970728,-0.135209,2.366627,0.068674,core
+p.Gly288Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198160138144593e-07,-0.518145,3.405243,1.241207,4.709467,core
+p.Gly288Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198375281871116e-07,0.09436,2.007173,2.95288,2.573753,core
+p.Gly288Ser,Conflicting classifications of pathogenicity,NCBI ClinVar,0.000299359630703,-0.390818,3.559027,1.65714,2.340057,core
+p.Gly288Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198167821591938e-07,-0.124386,0.001419,5.759007,2.786763,core
+p.Leu289Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197983424113131e-07,-0.991595,-0.799175,-0.062104,4.11452,core
+p.Leu289Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197983424113131e-07,-0.099728,4.772793,3.68094,7.106657,core
+p.Phe290Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197476387614964e-07,6.3788,0.776035,-1.214907,-0.112939,core
+p.Leu291Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197545524070647e-07,0.144624,4.99868,0.858092,0.763421,core
+p.Val293Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198152454716299e-07,-0.109904,-0.908635,-0.645975,-1.303707,core
+p.Val293Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8595817428e-06,0.460104,-1.173923,-0.255943,-0.470479,core
+p.Ser294Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197822085319219e-07,1.67748,11.6133,0.278853,-2.571883,core
+p.Ala296Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198298443111397e-07,1.819563,3.839833,3.507847,6.142353,core
+p.Ala296Thr,Uncertain significance,NCBI ClinVar,6.1987518193e-06,0.83814,-1.954833,0.370461,2.511263,core
+p.Ala296Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197630026277951e-07,1.509227,0.911049,-5.4e-05,1.857597,core
+p.Ala297Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198175505058332e-07,2.761927,-0.103571,0.310366,-0.779584,core
+p.Cys298Gly,Likely benign,NCBI ClinVar,0.0003910917844693,-1.086505,0.0,0.169595,0.81978,superficie
+p.Cys298Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197968058151816e-07,-1.295857,-1.243957,0.272623,-0.276993,superficie
+p.Cys299Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198513596439574e-07,4.322667,0.40958,0.270523,2.083473,core
+p.Cys299Tyr,Uncertain significance,NCBI ClinVar,5.08298909512e-05,1.290463,-0.004515,-0.56159,20.28669,core
+p.Gly300Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198613494133633e-07,-0.584533,5.002553,0.669177,21.8917,core
+p.Ile301Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198644232533461e-07,-0.615037,-0.210735,-1.68346,-0.273707,core
+p.Ile301Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198436754250578e-07,0.702247,0.351126,1.777667,0.958412,core
+p.Val302Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.2984505062e-06,2.95033,0.196521,0.11906,0.10985,core
+p.Val302Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198959318709575e-07,5.416507,0.0,-0.322097,0.666988,core
+p.Met303Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.36381332123e-05,-0.162498,6.060383,-0.400805,-0.930195,core
+p.Met303Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.2987271902e-06,0.41008,2.597057,0.13522,1.859907,core
+p.Phe304Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198636547904923e-07,2.066407,3.24953,2.379193,3.497833,core
+p.Phe304Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5787728931e-06,1.811633,3.603013,1.160894,3.889843,core
+p.Val305Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2398026234e-06,0.0,1.25763,0.788864,1.943673,core
+p.Val305Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5789250527e-06,4.32009,-0.30542,-0.291596,3.849373,core
+p.Tyr307Cys,Uncertain significance,NCBI ClinVar,3.0998562906e-06,1.779627,0.852548,0.096181,4.270293,core
+p.Thr308Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4798419844e-06,1.273983,0.464406,2.729187,0.339394,core
+p.Asp309Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.199681832328365e-07,7.444503,0.331029,0.619007,-0.267904,core
+p.Cys310=,Uncertain significance,gnomAD extract,,0.242475,-0.299682,0.43176,2.014327,core
+p.Cys310Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200096969516604e-07,2.1964,9.693047,-0.389346,5.138107,core
+p.Asp311Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9603851243e-06,1.34504,2.57085,-0.011475,1.806497,core
+p.Pro312Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200581366508924e-07,-0.419004,0.364994,-1.44674,3.66657,core
+p.Pro312Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401347282e-06,1.26449,2.158823,0.473827,4.224003,core
+p.Leu313Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8602828374e-06,11.341133,0.050515,-0.556215,1.01857,core
+p.Leu313Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201311949556048e-07,5.546697,4.540683,3.757467,11.859233,core
+p.Leu314Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9613510751e-06,-0.408944,0.003824,-2.129407,0.361009,core
+p.Leu314Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2403377687e-06,0.004652,6.700323,7.87328,0.436366,core
+p.Leu314Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8605066531e-06,0.266308,1.274283,-2.090663,0.856745,core
+p.Leu315Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202288892692959e-07,0.751933,1.34131,1.764897,1.652687,core
+p.Arg317Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.79917932606e-05,0.825388,1.307377,1.772683,4.260713,core
+p.Arg317Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2408133283e-06,2.47271,1.69496,2.33477,5.10904,core
+p.Arg317His,Uncertain significance,NCBI ClinVar,2.3577442592e-05,11.415,0.553494,1.075333,4.196647,core
+p.Arg317Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.2041359251e-06,-0.810775,-1.2508,0.0,2.461617,core
+p.Arg317Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203612487623793e-07,0.595929,-0.011279,1.291537,4.64878,core
+p.Ser319Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.204882746330743e-07,0.057569,0.228827,1.720723,0.261253,sitio activo
+p.Ser319Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.204351483956788e-07,2.853353,3.872957,5.543343,-0.172007,sitio activo
+p.Ala320Thr,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,3.90923137065e-05,1.87746,-0.586614,-0.219687,-0.083097,core
+p.Pro321Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.205591237705173e-07,1.04477,0.398266,-0.005017,2.394667,core
+p.Asp322Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9658905393e-06,-0.116565,19.553267,4.410603,-0.632821,core
+p.Tyr324Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2402839257e-06,18.321067,1.466643,-0.767455,4.480093,core
+p.Tyr324His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8604258886e-06,34.970733,1.246788,-0.891245,3.247167,core
+p.Met325Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2399056183e-06,1.06382,2.4614,-1.0428,1.725703,core
+p.Pro326Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2396934981e-06,-1.215453,2.126367,27.927233,0.761972,core
+p.Pro326Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2396151242e-06,2.511677,3.982413,4.90024,3.658123,core
+p.Asp331Asn,Likely Pathogenic,gnomAD extract,,2.240543,-0.18552,3.441013,3.485783,superficie
+p.Ile332Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392372247e-06,0.493099,0.744099,1.077053,1.623277,superficie
+p.Phe333Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391972975e-06,-1.57315,1.548213,1.842393,1.82852,core
+p.Glu334Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195871319187746e-07,4.377287,6.766353,0.215127,-0.894586,superficie
+p.Glu334Lys,Uncertain significance,NCBI ClinVar,3.7177946042e-06,4.176303,7.75076,-0.00109,-1.319027,superficie
+p.Asp335Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195917386115941e-07,3.994167,2.597013,-0.616247,0.061652,core
+p.Asp335Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586462364e-06,4.926743,1.72744,-1.19933,0.180792,core
+p.Asp335Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195917386115941e-07,2.224383,1.44884,-0.984129,0.348193,core
+p.Pro337Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.858763699e-06,-0.004046,-1.961037,3.677677,0.251577,core
+p.Pro337Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391297344e-06,2.537087,-2.96809,4.24078,1.369847,core
+p.Val339Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196593113106414e-07,0.299431,4.399577,2.334763,1.66505,core
+p.Pro340Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195633317637729e-07,2.786137,0.892218,-0.011954,1.619057,core
+p.Pro340Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195817575303966e-07,2.673253,4.213457,1.03129,4.913377,core
+p.Pro340Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196270588658098e-07,3.51859,3.99468,2.784263,6.239163,core
+p.Gly341Arg,Likely pathogenic,NCBI ClinVar,9.2939451805e-06,-0.6293,-0.174702,-1.035734,32.336633,core
+p.Gly341Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391543019e-06,2.68238,-0.126708,-0.363416,27.177067,core
+p.Gly341Trp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195963453729165e-07,1.935838,0.032827,-1.38461,62.181133,core
+p.Leu342Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195671703747762e-07,-0.004653,-0.317328,4.88064,0.536697,core
+p.Leu342Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195664026487703e-07,13.423537,-0.845284,4.09907,0.941689,core
+p.Phe343Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195794542496335e-07,-0.502839,1.330787,2.6516,2.040187,core
+p.Ala345Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391896195e-06,2.942723,3.00337,-0.213189,4.490727,core
+p.Cys346Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8588834802e-06,0.634487,2.6802,-1.174793,4.781883,core
+p.Cys346Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196485601226409e-07,6.799593,-0.0,-0.725538,17.441867,core
+p.Ala347Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7184996597e-06,1.211376,1.682543,2.173623,0.582238,core
+p.Tyr348Asp,Likely Pathogenic,gnomAD extract,,5.763523,6.256127,-0.044452,5.08241,core
+p.Ser349Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2397042561e-06,5.122733,2.447797,-1.896487,9.011287,core
+p.Ser349Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.05363759081e-05,5.34502,4.13794,-0.228878,-0.283411,core
+p.Gly350Asp,Likely Pathogenic,gnomAD extract,,5.92533,6.054273,3.34388,11.921133,core
+p.Thr351Ala,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,6.200765918606267e-07,1.395995,2.88229,3.169333,-0.1649,core
+p.Thr351Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200689020563965e-07,2.743963,3.74841,3.48026,1.24796,core
+p.Thr351Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401378041e-06,1.410287,-0.725628,2.286547,2.99672,core
+p.Ser353Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2413062016e-06,2.43154,3.642457,2.9295,7.33002,core
+p.Thr354Pro,Pathogenic,NCBI ClinVar,4.3390617212e-06,5.803303,7.45501,8.663883,4.1453,core
+p.Ala355Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198160138144593e-07,-0.2678,5.310067,3.807833,6.230147,core
+p.Ser356Phe,Pathogenic,gnomAD extract,,0.305726,-0.535422,1.93311,4.18244,core
+p.Ser358Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197199857216516e-07,0.384026,0.931881,2.915557,-0.509348,core
+p.Ala361Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.41647365857e-05,0.177294,0.003761,-0.170279,5.29704,core
+p.Met362Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195165045391975e-07,0.673913,3.814633,-0.134372,1.794597,core
+p.Met362Leu,Uncertain significance,NCBI ClinVar,1.2393140149e-06,-0.303085,2.524183,-0.008445,0.381045,core
+p.Met362Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195011528916455e-07,1.07031,3.50941,0.998981,2.346127,core
+p.Met362Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196570074532345e-07,1.027611,2.355447,0.335197,3.485047,core
+p.Ala364Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195157369387497e-07,-0.006006,5.482377,0.09175,8.13202,core
+p.Ala364Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195157369387497e-07,3.832753,1.28788,-0.763208,0.930988,core
+p.Ala364Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195157369387497e-07,3.465877,2.499197,-2.072863,0.863104,core
+p.Thr366Ala,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,1.2390345442e-06,1.165213,4.510087,2.69361,0.47719,core
+p.Thr366Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195172721415473e-07,6.218667,7.153987,0.021574,4.189327,core
+p.Val367Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19491942268307e-07,3.775567,0.0,1.776483,2.355087,core
+p.Val367Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19498850210134e-07,1.194037,1.394323,22.109167,0.316179,core
+p.Asp369Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195533515977661e-07,1.985773,1.94011,4.51686,5.78359,core
+p.Asp369Val,Likely Pathogenic,gnomAD extract,,3.38952,-0.609633,1.946017,2.433813,core
+p.Leu370Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.17706239917e-05,-1.4266,-0.638131,0.71421,0.599206,core
+p.Leu370Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195157369387497e-07,3.351167,7.560627,7.237167,3.86365,core
+p.Pro373Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195003853292397e-07,-0.310109,5.840953,1.13117,3.055627,core
+p.Pro373Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2389792793e-06,0.00063,1.327573,0.41903,2.52906,core
+p.Pro373Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5754067568e-06,-1.816783,0.003618,1.080053,3.035803,core
+p.Arg374Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.15969860192e-05,2.040457,2.36048,3.316547,0.448762,core
+p.Arg374Trp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.93897174351e-05,0.884602,18.192767,4.22583,0.888529,core
+p.Leu375Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195095962036452e-07,13.798313,-0.832599,0.330793,0.606174,core
+p.Arg376Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.65541006885e-05,3.78709,-0.633946,1.746483,0.741648,core
+p.Arg376Trp,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,4.52285155257e-05,17.648833,3.544133,-0.601901,0.038189,core
+p.Ser377Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195172721415473e-07,-2.948477,12.0205,13.544633,-0.461665,core
+p.Ser377Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.194980826534342e-07,-0.126089,5.14489,2.316897,-0.478181,core
+p.Ala379Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390376147e-06,9.149197,-1.838058,-0.077304,-1.10537,core
+p.Ala379Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195188073519536e-07,0.689447,-0.206768,-0.000808,-0.237579,core
+p.Pro380Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195733122513187e-07,0.00889,0.003742,0.287159,1.445777,core
+p.Arg381Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195249482696668e-07,0.034691,4.359883,1.863787,1.084393,core
+p.Arg381Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4780782998e-06,-0.697893,4.038947,1.72094,0.794207,core
+p.Lys382Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390944202e-06,0.628693,-0.294195,-0.109673,0.818861,core
+p.Leu383Val,Uncertain significance,NCBI ClinVar,2.4781090045e-06,0.950044,-0.146646,0.326933,1.112433,core
+p.Val384Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195671703747762e-07,0.741354,2.12325,-0.506371,1.45839,core
+p.Val384Leu,Uncertain significance,NCBI ClinVar,9.9128781917e-06,-0.058059,-0.248155,-1.93488,-0.564484,core
+p.Val384Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7173293219e-06,-0.175102,-0.00297,-1.978703,0.480158,core
+p.Ile385Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587015111e-06,0.000436,9.249853,6.988497,0.042057,core
+p.Ile385Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0978588838e-06,0.678053,0.874735,3.450257,0.546742,core
+p.Ile385Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195717767707671e-07,0.432517,3.7621,2.81843,0.492259,core
+p.Lys388*,Likely Pathogenic,gnomAD extract,,0.0,0.57782,0.82893,1.34003,core
+p.Gly389Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196608472250967e-07,0.984864,2.379683,0.0,-0.838252,core
+p.Gly389Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7177946042e-06,-0.084266,1.858075,2.653237,-1.191187,core
+p.Gly389Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196608472250967e-07,0.001016,0.003232,2.558037,-1.093372,core
+p.Leu390Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8591207845e-06,-0.04855,-0.377139,-0.400205,1.503797,core
+p.Ser391Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195410687579069e-07,-1.04164,-0.728898,-0.789763,-3.14311,core
+p.Leu392Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2390560375e-06,-0.47406,3.241527,-1.059435,-0.207762,core
+p.Ile393Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195456747657807e-07,1.560597,3.850797,1.415733,0.528568,core
+p.Gly395Arg,Pathogenic/Likely pathogenic,NCBI ClinVar,1.17724035034e-05,1.884503,1.917593,1.924597,12.737967,core
+p.Gly395Glu,Functional pathogenic,PaperMariano_SupplementaryTable3_FunctionalActivity,1.2390575728e-06,2.257703,1.428757,0.146227,11.804243,core
+p.Ser396Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.0538941817e-06,-0.311699,0.776145,0.022498,-0.727653,core
+p.Ala397Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195510485281946e-07,-0.002814,5.302003,3.050443,3.2001,core
+p.Ala397Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195510485281946e-07,2.383273,1.717823,1.7734,0.331078,core
+p.Ala397Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391343407e-06,1.889973,1.826627,1.47578,0.109768,core
+p.Cys398Arg,Uncertain significance,NCBI ClinVar,1.2391297344e-05,-0.031035,-0.229769,-0.345315,4.069223,core
+p.Cys398Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195387657796524e-07,0.57585,0.085231,0.787327,11.6519,core
+p.Thr400Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587107238e-06,0.401206,1.143183,0.564556,-0.540463,core
+p.Val401Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195333922303078e-07,0.166983,0.0,1.118517,1.415377,core
+p.Val401Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391558374e-06,0.064378,-0.335253,-0.017319,0.000405,core
+p.Val401Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.67286038059e-05,0.179987,-0.706588,-0.009834,-0.402434,core
+p.Ala402Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195802220079852e-07,2.651627,1.640247,-0.074529,0.742342,core
+p.Ala402Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.09790111e-06,2.339087,1.648237,-0.287804,4.297437,core
+p.Ala402Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195356951686129e-07,1.815687,1.86466,0.347583,4.924853,core
+p.Ala403Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4782840361e-06,-1.14609,-0.88978,2.54447,1.927287,core
+p.Ser405Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195955775746055e-07,0.211723,1.939773,-0.596677,-0.250422,core
+p.Ser405Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195502808421423e-07,-0.075431,1.142157,0.334012,1.522029,core
+p.Ser405Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195502808421423e-07,-0.066533,3.377993,-0.03963,2.62769,core
+p.Ser406Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392065112e-06,1.323933,-0.310734,0.396092,1.478797,core
+p.Leu408=,Benign,PaperMariano_SupplementaryTable2_ACMG,,0.134467,0.668333,0.261062,1.24006,core
+p.Leu408Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195917386115941e-07,-0.353843,0.00526,-0.647548,0.41894,core
+p.Leu408Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391834772e-06,0.187159,0.860844,-0.361158,0.132013,core
+p.Leu408Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196362735074511e-07,2.181087,5.674253,-1.396677,2.50078,core
+p.Gly409Arg,Uncertain significance,NCBI ClinVar,2.16903070355e-05,-0.133017,-1.135295,1.586154,-1.117,core
+p.Gly410Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.17736290538e-05,1.69071,-0.282397,-0.350313,2.24617,core
+p.Gly411Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8591392185e-06,0.007733,-1.017617,0.550314,-1.59368,core
+p.Gly411Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197568569898657e-07,-0.576567,-1.240597,0.828426,-0.818893,core
+p.Val412Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2394015673e-06,0.004363,1.60571,-0.000476,-0.724209,core
+p.Gln414His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.199335927135486e-07,2.180067,0.695374,0.935807,1.383907,core
+p.Ser416Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4794976537e-06,0.022277,0.47493,0.920694,4.400723,core
+p.Phe417Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.209128412226519e-07,0.187039,-1.171077,0.000569,3.973423,core
+p.Val419Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8602297755e-06,0.823989,0.494812,0.521148,2.833347,core
+p.Val419Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8599229991e-06,-1.56268,-0.397698,0.000895,-0.661961,core
+p.Met420Ile,Uncertain significance,NCBI ClinVar,7.436197426e-06,-0.242781,1.174472,0.940916,0.096228,core
+p.Met420Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8687001446e-06,-0.585077,1.69634,1.511997,-0.39633,core
+p.Met420Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.296507579106172e-07,-0.301673,4.722293,2.855493,2.611293,core
+p.Met420Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.296507579106172e-07,0.021319,-0.388439,2.45436,2.941287,core
+p.Met420Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2458000964e-06,0.337261,0.289983,1.891493,1.542593,core
+p.Gly421Arg,Pathogenic,NCBI ClinVar,,-0.67221,0.654763,-1.55792,9.122487,core
+p.Val422Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202042704785248e-07,1.478677,-0.84261,-0.543822,0.737801,core
+p.Val422Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202042704785248e-07,1.440277,-0.758474,-0.736292,1.164982,core
+p.Ile423Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2474489668e-06,2.483193,1.543387,0.95842,2.408833,core
+p.Ser424Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.220375461862878e-07,-0.877361,13.9846,7.171323,-0.254778,core
+p.Gly425Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.64598436332799e-07,1.227477,0.0,2.51764,4.611097,core
+p.Gly425Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200073904880946e-07,1.899137,0.324788,2.849677,7.73744,core
+p.Gly425Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2401039703e-06,2.349067,0.235154,2.603807,9.166477,core
+p.Pro426Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4786986831e-06,5.680113,0.001228,-0.743841,10.13309,core
+p.Leu427Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.387915086722335e-07,-0.41053,-1.085887,0.710595,0.865889,core
+p.Leu428Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.3519414555e-06,0.402506,0.928963,12.6255,9.150097,core
+p.Leu428Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.485689973642156e-07,-0.309801,0.565599,4.572403,0.895844,core
+p.Leu428Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.759707277636049e-07,4.103517,5.458487,8.2263,9.37015,core
+p.Ala430Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19800647319796e-07,-1.263623,0.412091,1.400813,5.602587,core
+p.Ala430Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.262846664219982e-07,6.00699,4.863083,4.362637,4.83012,core
+p.Ala430Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.262846664219982e-07,0.00111,1.540297,1.191513,0.819908,core
+p.Phe431Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2400439967e-06,0.018573,3.703113,-2.863147,1.600047,core
+p.Phe431Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.310621406889936e-07,0.374212,2.68185,0.000423,4.40706,core
+p.Ile432Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.6852837792e-06,0.310019,-0.302661,3.51805,2.065777,core
+p.Ile432Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203774128028527e-07,0.330899,2.382573,0.059872,2.942417,core
+p.Ile432Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.343720541347736e-07,0.849462,2.38678,-0.434326,1.349283,core
+p.Gly434Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.538913729495601e-07,1.806933,2.535997,0.542335,0.104268,core
+p.Met435Leu,Likely Benign,gnomAD extract,2.846529369e-06,2.30814,-0.010867,3.141197,-0.137691,sitio activo
+p.Met435Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.2335589881e-06,4.183043,2.6126,4.443763,3.896443,sitio activo
+p.Phe436Cys,Uncertain significance,NCBI ClinVar,7.1044702389e-05,2.163493,0.943919,1.420143,3.218483,core
+p.Phe436Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4798665831e-06,-0.665325,0.184298,0.758897,1.171523,core
+p.Phe436Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.639392044149301e-07,9.673077,1.748503,1.445887,-0.407325,core
+p.Leu437Pro,Uncertain significance,NCBI ClinVar,6.3705087913e-06,1.42668,4.41648,6.74419,4.400337,core
+p.Pro438Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.741533644971962e-07,0.353108,0.936072,1.95775,1.381553,sitio activo
+p.Ala439Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.199920145028532e-07,-0.017399,3.162293,4.12323,-0.002723,sitio activo
+p.Ala439Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.73383442039867e-07,1.889397,5.060143,3.046747,-0.081999,sitio activo
+p.Cys440Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.53769376688e-05,4.235773,-1.095303,-0.085485,2.040663,core
+p.Cys440Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,7.6884688344e-06,0.618477,1.095703,1.887343,1.832057,core
+p.Cys440Ser,Functional benign,PaperMariano_SupplementaryTable3_FunctionalActivity,8.240993006693335e-07,0.015587,-0.059246,0.419178,0.423057,core
+p.Cys440Tyr,Uncertain significance,NCBI ClinVar,8.240993006693335e-07,6.66356,4.360813,0.567191,9.86633,core
+p.Asn441Lys,Uncertain significance,NCBI ClinVar,1.24209407123e-05,3.189213,-0.180377,-0.359201,3.382823,core
+p.Asn441Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7020090062e-06,4.28003,1.646963,0.560789,2.492907,core
+p.Thr442Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,9.984803129636694e-07,0.857502,2.485807,-1.274933,0.452637,sitio activo
+p.Thr442Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.201881154591811e-07,-0.819911,1.091905,5.554933,-0.673785,sitio activo
+p.Pro443Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2950163884e-06,1.650373,0.794265,1.57416,2.05596,sitio activo
+p.Pro443Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.3823080276e-06,0.084591,4.952463,0.00059,1.24183,sitio activo
+p.Pro443Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.475081942161978e-07,1.915357,2.913993,2.57854,2.551413,sitio activo
+p.Pro443Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.8854064135e-06,1.66491,5.419173,1.38541,2.448947,sitio activo
+p.Gly444Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.252064341e-06,1.83907,-0.001164,-0.313935,15.888767,core
+p.Val445Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.6365408173e-06,1.55997,3.221697,1.41713,2.735253,core
+p.Val445Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.8893556949e-06,9.229097,-0.032218,0.774455,0.938463,core
+p.Val445Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.252702706e-06,27.5383,1.085263,0.094104,13.2798,core
+p.Leu446Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.26663792368739e-07,-0.649928,1.361877,-0.08233,0.666742,core
+p.Leu446Phe,Uncertain significance,NCBI ClinVar,1.8799913771e-06,9.307703,1.82273,-0.385327,1.342183,core
+p.Ala447Gly,Uncertain significance,NCBI ClinVar,6.281825297413019e-07,3.483443,0.0,0.0,1.26776,core
+p.Ala447Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.281533297151701e-07,4.224677,13.031967,5.703803,2.854627,core
+p.Ala447Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.1665883511e-06,1.983103,9.300773,2.76903,-0.212674,core
+p.Ala447Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5127301189e-06,0.847685,11.903167,3.90807,-0.538603,core
+p.Leu449Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.6595586801e-06,15.264367,2.37261,-0.002306,0.755795,core
+p.Gly450Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.664944943e-06,13.496333,4.123173,-3.081087,-1.204933,core
+p.Gly450Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2589701624e-06,3.89489,5.267563,0.002907,-0.547028,core
+p.Ala451Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2625864082e-06,2.247193,16.7186,10.396067,-0.197589,core
+p.Ala451Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.311840254897357e-07,2.543207,18.944933,9.78567,0.535784,core
+p.Gly452Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.312358208653738e-07,3.60885,8.443107,18.097867,36.887767,core
+p.Gly452Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.317941564094886e-07,4.715337,7.40695,6.963047,17.8388,core
+p.Gly452Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.26247164173e-05,3.918433,0.595977,3.13939,5.34703,core
+p.Gly452Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.317941564094886e-07,1.728117,2.252447,5.1515,13.2091,core
+p.Leu453Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5296602666e-06,5.388623,5.109857,3.27755,2.56009,core
+p.Ala454Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.335898950014826e-07,4.71318,0.04806,4.8365,-0.034583,core
+p.Ala454Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2655120135e-06,7.155353,4.15595,8.940237,2.86716,core
+p.Ala454Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.531024027e-06,2.732697,-0.002389,5.062023,-0.048744,core
+p.Ala454Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.267276142e-06,1.044365,0.126539,4.378043,0.526207,core
+p.Ser456Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.338742393509127e-07,3.178733,7.59225,6.24646,3.909457,core
+p.Trp458Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.355767922947754e-07,11.665533,-0.036468,-2.403433,-0.106724,core
+p.Trp458Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2711535845e-06,1.902283,1.910803,0.5561,2.375337,core
+p.Ala460Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.92680443856e-05,1.525453,3.81,11.0955,0.733704,core
+p.Gly462Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2748727676e-06,2.650483,0.490151,1.993257,4.8886,core
+p.Ala463Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.379585326953748e-07,0.463107,-0.456314,1.911987,1.739433,core
+p.Ala463Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,7.6523486971e-06,2.4381,-1.209268,1.37392,0.642916,core
+p.Thr464Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9130066598e-06,0.411618,-0.426011,1.976197,-0.101593,core
+p.Pro467Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.98023343758e-05,0.013758,1.757313,2.916323,1.61489,core
+p.Pro467Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.387743708391834e-07,-0.552459,3.520207,2.211163,0.878712,core
+p.Pro468Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9167663385e-06,2.46979,2.08012,-0.6597,1.421767,core
+p.Pro468Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2780614364e-06,16.573567,-0.009165,-1.859167,4.044437,core
+p.Ser469Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.393976362748182e-07,11.558133,-1.09526,-0.166768,2.17014,core
+p.Ser469Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.391238379130817e-07,4.980863,0.741159,2.42374,2.235183,core
+p.Glu470Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2787118768e-06,2.53217,13.898367,13.624503,0.827887,core
+p.Glu470Gly,Uncertain significance,NCBI ClinVar,4.4750623951e-06,3.370793,0.0,0.0,2.40507,core
+p.Glu470Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.1148344264e-06,1.238703,18.5879,19.225067,1.255967,core
+p.Thr472Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.4768654778e-06,11.623467,0.013251,1.926627,0.367802,core
+p.Thr472Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2785189636e-06,9.80226,3.432083,6.049357,0.417078,core
+p.Met473Ile,Uncertain significance,NCBI ClinVar,2.5577998828e-06,0.28606,-0.829811,-1.274113,2.701097,core
+p.Met473Thr,Uncertain significance,NCBI ClinVar,6.71465406102e-05,2.994493,-0.139601,-0.617967,3.300727,core
+p.Met473Val,Uncertain significance,NCBI ClinVar,1.34266979018e-05,1.702547,-0.281638,-0.773238,2.636437,core
+p.Arg474Lys,Uncertain significance,NCBI ClinVar,1.40689429363e-05,-0.069017,28.563767,14.054367,0.631561,core
+p.Arg474Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2789948123e-06,-0.262909,19.550133,8.119457,1.894923,core
+p.Val475Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2794808378e-06,0.0,1.88749,2.511207,1.46092,core
+p.Leu476Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2798967891e-06,12.725333,0.254103,0.25632,1.617027,core
+p.Ala481Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.391311906247124e-07,1.699753,3.89188,1.96321,0.400013,core
+p.Ala481Val,Uncertain significance,NCBI ClinVar,1.40619467103e-05,0.903635,0.003458,-0.005627,0.334283,core
+p.Arg482His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.27841272276e-05,0.896331,0.355511,21.2565,1.082447,core
+p.Arg482Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9176190841e-06,5.31212,6.437163,6.937683,3.52172,core
+p.Val484Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.381490614103604e-07,,,,-0.179344,superficie
+p.Ala485Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.379105113618241e-07,,,,0.075033,superficie
+p.Leu486Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5499145778e-06,,,,0.591024,superficie
+p.Val488Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.370359989042981e-07,,,,-0.209012,superficie
+p.Ala490Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.367309722499908e-07,,,,3.549097,superficie
+p.Ala490Thr,Uncertain significance,NCBI ClinVar,2.1013700933e-05,,,,-0.269771,superficie
+p.Ala490Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.366215259563328e-07,,,,-0.014266,superficie
+p.Leu493Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.361582150927264e-07,,,,0.105514,superficie
+p.Leu493Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.3604896559e-06,,,,-0.625039,superficie
+p.Leu494Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2718859779e-06,,,,0.989537,superficie
+p.Leu494Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.361137015074623e-07,,,,2.162667,superficie
+p.Asp495His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5434064096e-06,,,,0.589079,superficie
+p.Asp495Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2716077954e-06,,,,1.50698,superficie
+p.Pro496Arg,Uncertain significance,NCBI ClinVar,1.2716530726e-06,,,,-0.001482,superficie
+p.Pro496Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.0866122907e-06,,,,0.252289,superficie
+p.Pro496Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9074820346e-06,,,,0.451718,superficie
+p.Pro496Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.357844944877485e-07,,,,1.054033,superficie
+p.Ala497Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.7216675736e-06,,,,-0.097282,superficie
+p.Ala497Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.8142704572e-06,,,,1.186823,superficie
+p.Leu498Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2716061784e-06,,,,-0.221334,superficie
+p.Leu498Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.3580308924005e-07,,,,0.602927,superficie
+p.Pro500Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.362594055046619e-07,,,,-0.081421,superficie
+p.Pro500Leu,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,6.9983280358e-06,,,,0.694491,superficie
+p.Ala501Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.36437578838705e-07,,,,0.020123,superficie
+p.Asn502Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.3660450435e-06,,,,-0.400154,superficie
+p.Asn502Lys,Uncertain significance,NCBI ClinVar,1.9106381786e-06,,,,0.033828,superficie
+p.Asp503Asn,Benign/Likely benign,NCBI ClinVar,0.0030884571859675,,,,0.058193,superficie
+p.Ser504Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.375688733775466e-07,,,,0.561425,superficie
+p.Ser505Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9139683965e-06,,,,1.178773,superficie
+p.Ser505Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.5529742149e-06,,,,1.298773,superficie
+p.Arg506Thr,Uncertain significance,NCBI ClinVar,0.0001642445390288,,,,0.793928,superficie
+p.Ala507Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2800655393e-06,,,,-0.022197,superficie
+p.Ala507Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.400327696778075e-07,,,,0.466498,superficie
+p.Pro508Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.8404915829e-06,,,,0.409831,superficie
+p.Pro508Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.840786593e-06,,,,0.569722,superficie
+p.Pro508Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.401073331976306e-07,,,,0.611554,superficie
+p.Ser509Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9219557822e-06,,,,1.541323,superficie
+p.Ser510Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4785543088e-06,,,,1.540137,superficie
+p.Gly511Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196209159236379e-07,,,,-2.112967,superficie
+p.Met512Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196308982665206e-07,,,,0.593703,superficie
+p.Ala514Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19652399789814e-07,,,,-0.074284,superficie
+p.Ala514Thr,Likely Benign,gnomAD extract,8.675133597e-06,,,,0.366187,superficie
+p.Ala514Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8588512299e-06,,,,0.459946,superficie
+p.Ser515Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196147731032662e-07,1.516593,,1.972617,-0.015535,core
+p.Ser515Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196147731e-06,1.44331,,1.72013,0.221943,core
+p.Arg516*,Pathogenic/Likely pathogenic,NCBI ClinVar,,0.084642,,0.56127,2.41357,core
+p.Arg516Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.15172253108e-05,-0.338299,,4.664227,2.581243,core
+p.Arg516Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8589802378e-06,-0.627077,,0.387309,1.716537,core
+p.Pro517Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196247552482217e-07,18.316833,0.346658,2.24763,1.216693,core
+p.Ala518Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7180249851e-06,0.099311,11.6099,0.854796,-0.093108,core
+p.Ala518Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.92097957564e-05,2.248713,17.8563,-0.031092,-0.02831,core
+p.Ala518Val,Uncertain significance,NCBI ClinVar,3.46987282916e-05,2.875093,22.128933,0.000279,0.159356,core
+p.Leu519Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,8.6740156231e-06,0.549958,2.870277,16.033767,1.287179,core
+p.Ala520Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195748477394811e-07,1.411677,0.410021,-0.167268,2.028293,core
+p.Asp521Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195948097781974e-07,1.572387,0.640431,0.468777,1.8916,core
+p.Asp521Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.478560452e-06,3.67444,1.726653,0.850335,2.058407,core
+p.Ser522Gly,Uncertain significance,NCBI ClinVar,1.36316263645e-05,1.089377,2.24685,1.510103,0.177573,superficie
+p.Ser522Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195840608282848e-07,1.019277,1.44046,-0.146307,1.090277,superficie
+p.Phe523Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392234034e-06,0.69529,1.022983,2.015493,0.974846,core
+p.Tyr524Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8587567891e-06,0.137361,2.783963,0.679771,3.480507,core
+p.Tyr524His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391205218e-06,-0.147547,7.532033,0.234608,3.055597,core
+p.Ala525Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196332019297856e-07,0.559467,1.22901,2.10471,2.937777,superficie
+p.Ile526Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195802220079852e-07,0.657065,1.105223,-0.040183,0.618447,core
+p.Ser527Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195548869869931e-07,0.25118,0.470748,1.204307,-0.559143,core
+p.Tyr528His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3369486963e-06,2.597883,0.358208,0.255866,3.92639,core
+p.Leu529Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391972975e-06,3.63812,0.486324,-1.502597,6.75121,core
+p.Leu529Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0978780774e-06,4.328157,1.805398,-0.641834,1.800598,core
+p.Tyr530Cys,Uncertain significance,NCBI ClinVar,1.2392141894e-06,1.133323,3.618587,1.316003,1.360637,core
+p.Tyr530His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195925064003906e-07,0.636979,3.793593,1.331243,1.517253,core
+p.Gly532Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196739028053877e-07,1.541977,0.962463,0.844623,-0.545476,core
+p.Gly532Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.92112481238e-05,1.35346,1.643457,1.882197,1.069387,core
+p.Ala533Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196086304046912e-07,-1.475083,1.37007,2.033147,0.957172,core
+p.Ala533Thr,Uncertain significance,NCBI ClinVar,8.0555111469e-06,0.003706,1.815977,3.610823,-0.632724,core
+p.Leu534Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196063269241255e-07,-1.01624,-0.589484,-0.00027,6.42294,core
+p.Gly535Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196278267421456e-07,0.456135,1.040661,2.210413,14.615,core
+p.Gly535Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196201480644306e-07,0.965906,1e-06,0.303103,2.747793,core
+p.Thr536Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.39108945862e-05,0.03523,-0.468878,0.365415,-2.867877,core
+p.Leu537Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392019044e-06,7.859757,5.2561,0.590168,4.39775,core
+p.Leu537Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.478456021e-06,4.894963,0.245046,0.456778,0.869261,core
+p.Thr538Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196285946203845e-07,5.94516,-0.215906,-0.134383,0.678133,core
+p.Leu541Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196170766466323e-07,,,,4.44527,core
+p.Cys542=,Benign/Likely benign,NCBI ClinVar,,,,,-0.440107,core
+p.Gly543Arg,Likely Pathogenic,PaperMariano_SupplementaryTable2_ACMG,1.0535200584e-05,,,,20.330333,core
+p.Gly543Glu,Pathogenic,NCBI ClinVar,,,,,13.645633,core
+p.Ala544Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.1967083085465e-07,,,,0.568924,core
+p.Leu545Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19652399789814e-07,,,,0.018303,core
+p.Ile546Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7182093103e-06,,,,0.274147,core
+p.Ser547Arg,Likely Pathogenic,gnomAD extract,,,,,4.861317,core
+p.Ser547Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196600792669173e-07,,,,1.85495,core
+p.Ser547Ile,Uncertain significance,NCBI ClinVar,2.4787877736e-06,,,,3.444843,core
+p.Cys548Tyr,Uncertain significance,NCBI ClinVar,8.6760690466e-06,,,,-1.61866,core
+p.Thr550Arg,Uncertain significance,NCBI ClinVar,2.66471997511e-05,,,,-0.973117,core
+p.Gly551Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197038559213323e-07,,,,1.356793,core
+p.Gly551Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.9668092968e-06,,,,2.054843,core
+p.Gly551Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197038559213323e-07,,,,2.240733,core
+p.Pro552Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.203658669737064e-07,,,,0.234355,core
+p.Pro552Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3441618808e-06,,,,1.831553,core
+p.Thr553Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200066216707194e-07,,,,-0.206307,core
+p.Lys554Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0992836935e-06,,,,-0.204038,core
+p.Lys554Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.0990454939e-06,,,,0.375911,core
+p.Arg555Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.30172658534e-05,,,,1.287767,core
+p.Arg555His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.66529145891e-05,,,,1.68239,core
+p.Arg555Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.9213486628e-05,,,,-0.092508,core
+p.Arg555Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.197898912268741e-07,,,,-0.448575,core
+p.Ser556Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2394845231e-06,,,,0.104512,superficie
+p.Thr557Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4784130225e-06,,,,-0.458502,superficie
+p.Ala559Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5769683599e-06,,,,0.163586,superficie
+p.Pro560Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.09790111e-06,,,,0.599703,superficie
+p.Pro560Leu,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,6.8160919255e-06,,,,0.065995,superficie
+p.Gly561Glu,Functional intermediate,PaperMariano_SupplementaryTable3_FunctionalActivity,5.5758212565e-06,,,,3.298393,core
+p.Leu562Met,Likely Pathogenic,gnomAD extract,,,,,0.641403,core
+p.Trp564Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586301152e-06,,,,0.985459,core
+p.Trp564Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8586162973e-06,,,,2.715307,core
+p.Asp566Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195502808421423e-07,-0.344012,,,-0.134298,core
+p.Leu567Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,5.5759179819e-06,,,,1.05369,core
+p.Ala568Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195633317637729e-07,,,,1.382007,core
+p.Ala568Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.5489102487e-05,,,,0.852389,core
+p.Arg569Gln,Uncertain significance,NCBI ClinVar,2.04464767003e-05,,,,0.433424,core
+p.Arg569Trp,Likely Benign,PaperMariano_SupplementaryTable2_ACMG,0.0001201911162656,,,,0.344543,core
+p.Gln570His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8585656333e-06,,,,0.492609,core
+p.Thr571Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7171589011e-06,,,,1.42067,core
+p.Ala572Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195395334371682e-07,,,,0.671724,core
+p.Pro576Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195902030397095e-07,,,,0.542348,core
+p.Lys577Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8591000468e-06,,,,-0.189031,superficie
+p.Lys577Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.19653935670007e-07,,,,0.313714,superficie
+p.Ala581Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8608667172e-06,,,,0.758289,core
+p.Asp584Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2409827093e-06,,,,-0.121563,core
+p.Asp584Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,7.4454804692e-06,,,,-0.250221,core
+p.Asp585Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2423872719e-06,,,,-0.273771,core
+p.Asp585Gly,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.209938136596284e-07,,,,0.303746,core
+p.Asn586Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,7.4521201281e-06,,,,0.16596,core
+p.Leu587Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2455813003e-06,,,,-0.114555,core
+p.Val588Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.240880513349868e-07,,,,0.287978,core
+p.Val588Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.242680457163975e-07,,,,0.041467,core
+p.Lys589Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2492379648e-06,,,,-0.677388,core
+p.Lys589Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.240047124835887e-07,,,,1.13503,core
+p.Gly590Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2394138563e-06,,,,-0.220095,core
+p.Gly590Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8591207845e-06,,,,0.331187,core
+p.Glu592Val,Uncertain significance,NCBI ClinVar,6.196332019297856e-07,,,,-0.122129,core
+p.Leu594Phe,Conflicting classifications of pathogenicity,NCBI ClinVar,0.000224917654115,,,,-0.119258,core
+p.Leu594Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196401130223566e-07,,,,-1.022037,core
+p.Pro595Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196055591010762e-07,,,,-2.507463,superficie
+p.Thr596Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196032556433464e-07,,,,0.108914,superficie
+p.Gly597Arg,Uncertain significance,NCBI ClinVar,2.41635687732e-05,,,,0.614837,superficie
+p.Asn598Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195571900851023e-07,,,,-0.217823,superficie
+p.Lys599Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195664026487703e-07,,,,-0.077819,superficie
+p.Lys599Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195664026487703e-07,,,,0.263885,superficie
+p.Lys600Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.7175273981e-06,,,,0.082426,superficie
+p.Pro601Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196070947490777e-07,,,,1.532,superficie
+p.Pro601Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196070947490777e-07,,,,1.639713,superficie
+p.Pro602Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8589111242e-06,,,,-1.7794,superficie
+p.Pro602Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2391834772e-06,,,,-1.649327,superficie
+p.Phe604Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.195809897682395e-07,,,,0.791713,superficie
+p.Leu605Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.337443164e-06,,,,1.26263,superficie
+p.Pro606Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3376098034e-06,,,,0.133104,superficie
+p.Pro606Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196516318525725e-07,,,,0.667318,superficie
+p.Thr607Ala,Uncertain significance,NCBI ClinVar,1.79708327188e-05,,,,0.936669,superficie
+p.Thr607Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196147731032662e-07,,,,1.482063,superficie
+p.Asn608Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.196447205030524e-07,,,,1.132973,superficie
+p.Asn608Ser,Uncertain significance / not classified in gnomAD extract,NCBI ClinVar,0.0001747502063539,,,,0.110525,superficie
+p.Glu609Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2392879051e-06,,,,-2.23119,superficie
+p.Arg611Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.1975378421e-06,,,,0.862385,superficie
+p.Arg611His,Likely benign,NCBI ClinVar,9.2964450394e-06,,,,0.732603,superficie
+p.Arg611Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.97460062888e-05,,,,1.706037,superficie
+p.Phe614Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.199858643222935e-07,,,,0.567294,superficie
+p.Phe614Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.198828669334643e-07,,,,0.453585,superficie
+p.Leu615Phe,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.200765918606267e-07,,,,0.310574,superficie
+p.Gln617Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.202958314879533e-07,,,,-0.236342,superficie
+p.Lys618Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,7.4481330633e-06,,,,0.127502,superficie
+p.Lys618Met,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.206777552816573e-07,,,,0.91922,superficie
+p.Leu620Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.243505791e-06,,,,1.339387,superficie
+p.Leu620Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,2.4871662222e-06,,,,0.079914,superficie
+p.Glu621Asp,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8653839457e-06,,,,0.030305,superficie
+p.Glu621Gln,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2434176577e-06,,,,0.116457,superficie
+p.Glu621Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.216632226524132e-07,,,,0.332158,superficie
+p.Gly622Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2438429772e-06,,,,1.416027,superficie
+p.Gly622Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.22080111476756e-07,,,,1.74957,superficie
+p.Gly622Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.22080111476756e-07,,,,3.208557,superficie
+p.Ala623Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.230576178762707e-07,,,,2.074793,superficie
+p.Ala623Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2462068578e-06,,,,-1.07659,superficie
+p.Ala623Thr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.230583942788286e-07,,,,-1.085207,superficie
+p.Gly624Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.233465732145485e-07,,,,0.117499,superficie
+p.Ser625Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.243467771843709e-07,,,,0.46862,superficie
+p.Trp626Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.245425226021939e-07,,,,0.325975,superficie
+p.Thr627Asn,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.253282973561119e-07,,,,0.372807,superficie
+p.Pro628His,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.259600662516134e-07,,,,0.920018,superficie
+p.Pro628Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,4.3820441359e-06,,,,0.656847,superficie
+p.Cys629Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.263387991832542e-07,,,,-0.563654,superficie
+p.Cys629Tyr,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.265255898111902e-07,,,,0.023804,superficie
+p.Gly631Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.2557954962e-06,,,,4.224313,superficie
+p.Gly634Ser,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.8943914646e-06,,,,3.31401,superficie
+p.Gly635Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.322799128465368e-07,,,,2.958813,superficie
+p.Arg636*,Likely Pathogenic,gnomAD extract,,,,,-0.769917,superficie
+p.Arg636Gln,Uncertain significance,NCBI ClinVar,2.98207077532e-05,,,,0.223792,superficie
+p.Arg636Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.344831436863216e-07,,,,0.382372,superficie
+p.Arg636Pro,Uncertain significance / not classified in gnomAD extract,gnomAD extract,1.903449431e-06,,,,2.054317,superficie
+p.Gln638Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.365793789022316e-07,,,,0.224349,superficie
+p.Gln639Lys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.368745255284785e-07,,,,-0.337024,superficie
+p.Glu640Ala,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.378039135648136e-07,,,,0.134409,superficie
+p.Thr641Ile,Uncertain significance / not classified in gnomAD extract,gnomAD extract,6.386177247072258e-07,,,,0.006487,superficie
+p.Leu643Val,Uncertain significance / not classified in gnomAD extract,gnomAD extract,3.1985752266e-06,,,,0.016088,superficie

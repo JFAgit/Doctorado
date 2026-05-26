@@ -1,0 +1,13 @@
+"panel_name","list_contrasted","list_size_note","gene_set","sex_overexpressed","n","total","percentage","genes"
+"Expanded
+immunometabolic","Expanded immunometabolic list
+anti-inflammatory subset","403 genes screened","Anti-inflammatory / resolving","Male",8,23,34.7826086956522,"ABCG1; ATG5; GPX4; PTGER4; SLC7A11; SOD2; SQSTM1; ULK1"
+"Expanded
+immunometabolic","Expanded immunometabolic list
+anti-inflammatory subset","403 genes screened","Anti-inflammatory / resolving","Female",15,23,65.2173913043478,"ARG1; BNIP3L; CAT; CD36; EPAS1; HPGD; HPGDS; LAMP2; LIPA; MSR1; RXRA; SLC40A1; TSC1; TXN2; UCP2"
+"Expanded +
+classic immune","Immunometabolic subset plus
+classic markers/interleukins","91 anti-inflammatory genes screened","General anti-inflammatory/resolution","Male",25,57,43.859649122807,"ABCG1; ADORA2A; ATF3; ATG5; BCL3; CCL22; CD274; DUSP1; DUSP10; GPX4; IL10RA; IL13RA1; IL1RN; IL4R; NFKBIA; PTGER4; SLC7A11; SOCS1; SOCS3; SOD2; SPHK1; SQSTM1; STAT3; TNFAIP3; ULK1"
+"Expanded +
+classic immune","Immunometabolic subset plus
+classic markers/interleukins","91 anti-inflammatory genes screened","General anti-inflammatory/resolution","Female",32,57,56.140350877193,"ARG1; BNIP3L; CAT; CD163; CD36; CD68; CD93; CLEC7A; CX3CR1; EPAS1; FCGR2B; HPGD; HPGDS; IL10; LAMP2; LIPA; MAF; MARCO; MERTK; MSR1; RXRA; SLC40A1; STAB1; TGFB1; TGFB2; TGFBR1; TGFBR2; TREM2; TSC1; TXN2; UCP2; VSIG4"

@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BANF1	barrier to autointegration factor 1	1433	0.5433694124221802	0.24235572	Yes	
+row_1	PSIP1	PC4 and SFRS1 interacting protein 1	2037	0.4786827564239502	0.49648094	Yes	
+row_2	XRCC4	X-ray repair complementing defective repair in Chinese hamster cells 4	4217	0.22562892735004425	0.49954027	Yes	
+row_3	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	5118	0.1466251015663147	0.53331697	Yes	
+row_4	HMGA1	high mobility group AT-hook 1	5567	0.10827487707138062	0.57160264	Yes	
+row_5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	5583	0.10720045864582062	0.63590854	Yes	
+row_6	LIG4	ligase IV, DNA, ATP-dependent	6575	0.033641569316387177	0.59533054	No	

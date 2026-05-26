@@ -1,0 +1,31 @@
+Metric,Value
+Input rows,888
+Rows with structural consensus,888
+7UUY: classified residue positions in source,503
+7UUY: rows with FoldX input,632
+7UUY: rows with structural category,632
+7UUY: rows category core,437
+7UUY: rows category sin anotacion,256
+7UUY: rows category superficie,195
+7UUZ: classified residue positions in source,501
+7UUZ: rows with FoldX input,631
+7UUZ: rows with structural category,631
+7UUZ: rows category core,444
+7UUZ: rows category sin anotacion,257
+7UUZ: rows category superficie,182
+7UUZ: rows category sitio activo,5
+7UV0: classified residue positions in source,501
+7UV0: rows with FoldX input,627
+7UV0: rows with structural category,627
+7UV0: rows category core,439
+7UV0: rows category sin anotacion,261
+7UV0: rows category superficie,174
+7UV0: rows category sitio activo,14
+AF: classified residue positions in source,643
+AF: rows with FoldX input,888
+AF: rows with structural category,888
+AF: rows category core,531
+AF: rows category superficie,357
+Consensus: rows category core,697
+Consensus: rows category superficie,174
+Consensus: rows category sitio activo,17

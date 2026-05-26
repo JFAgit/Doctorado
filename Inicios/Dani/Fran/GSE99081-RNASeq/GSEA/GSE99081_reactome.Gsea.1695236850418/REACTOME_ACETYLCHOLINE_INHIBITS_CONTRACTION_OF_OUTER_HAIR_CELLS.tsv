@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KCNN2	potassium intermediate/small conductance calcium-activated channel, subfamily N, member 2	1164	0.6042991876602173	0.64848006	Yes	
+row_1	CHRNA10	cholinergic receptor, nicotinic, alpha 10	5477	0.11490839719772339	0.5198238	No	
+row_2	KCNMB1	potassium large conductance calcium-activated channel, subfamily M, beta member 1	5859	0.08767449110746384	0.60084254	No	
+row_3	KCNMA1	potassium large conductance calcium-activated channel, subfamily M, alpha member 1	7030	0.008873216807842255	0.5393507	No	
+row_4	CHRNA9	cholinergic receptor, nicotinic, alpha 9	9960	-0.023342853412032127	0.38675702	No	

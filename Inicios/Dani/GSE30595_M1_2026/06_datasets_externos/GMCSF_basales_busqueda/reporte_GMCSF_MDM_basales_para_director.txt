@@ -1,0 +1,50 @@
+Resumen de datasets GM-CSF MDM basales humanos
+
+Criterio principal:
+Macrofagos humanos derivados de monocitos de sangre periferica, diferenciados con GM-CSF, en condicion basal/unstimulated/untreated/control.
+
+Conclusion principal:
+Para el analisis principal se recomienda usar 18 muestras/donantes GM-CSF MDM basales con balance final 9F / 9M.
+
+Datasets incluidos en el recomendado estricto:
+- GSE160862 + GSE160863
+- GSE232044
+- GSE224845, contando un solo basal UNT por donante
+
+Conteo final por estrategia:
+1. Nucleo mas limpio: GSE160862 + GSE160863
+   F = 6, M = 4, total = 10
+   Basal/unactivated, GM-CSF MDM, healthy donors.
+
+2. Nucleo + balance: GSE160862 + GSE160863 + GSE232044
+   F = 8, M = 6, total = 14
+   Agrega untreated GM-CSF MDM; queda bastante balanceado.
+
+3. Recomendado estricto: GSE160862 + GSE160863 + GSE232044 + GSE224845, usando 1 UNT por donante
+   F = 9, M = 9, total = 18
+   Mejor compromiso: GM-CSF basal y sexos balanceados.
+
+4. Sensibilidad: recomendado estricto + GSE266236 siRNA control
+   F = 10, M = 11, total = 21
+   Suma controles siRNA; util, pero mas heterogeneo.
+
+5. Todo lo usable con sexo inferido:
+   Recomendado + GSE266236 + GSE304218 + GSE102492 + GSE156696 + GSE256208
+   F = 10, M = 30, total = 40
+   Mayor n, pero muy masculino y mezcla vehiculos/controles tecnicos.
+
+Datasets estrictos mas relevantes:
+- GSE160862 + GSE160863: 10 donantes basales, 6F / 4M. Mejor candidato estricto.
+- GSE232044: 4 untreated, 2F / 2M. Muy limpio y balanceado, n chico.
+- GSE224845: 4 donantes UNT, 1F / 3M. Usar un solo tiempo por donante para n independiente.
+- GSE266236: 3 siRNA control, 1F / 2M. Opcion de sensibilidad.
+- GSE304218: 5 controles no infectados, 0F / 5M. Basal usable, pero solo masculino.
+- GSE102492: 8 GM-CSF MDM, 0F / 8M. N bueno, pero solo masculino.
+
+Nota sobre GSE269009:
+GSE269009 tiene n alto y sexo explicito, pero no cumple el criterio GM-CSF MDM estricto: los macrofagos MP fueron diferenciados con M-CSF; GM-CSF + IL4 se uso para dendriticas. Si se flexibiliza el criterio a M-CSF-derived macrophages, aporta 109 MP: controles 34F / 23M y casos 25F / 27M.
+
+Decision sugerida:
+- Analisis principal: 18 muestras/donantes, 9F / 9M.
+- Analisis de sensibilidad: 21 muestras, 10F / 11M, agregando GSE266236.
+- No contar los 12 tiempos UNT de GSE224845 como 12 individuos; si se usan todos, modelar donor/tiempo.

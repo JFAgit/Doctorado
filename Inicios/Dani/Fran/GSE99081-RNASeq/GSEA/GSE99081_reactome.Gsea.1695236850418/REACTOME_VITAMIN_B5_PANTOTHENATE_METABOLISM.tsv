@@ -1,0 +1,18 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	VNN1	vanin 1	335	0.924893319606781	0.16369662	Yes	
+row_1	PANK3	pantothenate kinase 3	871	0.6817775368690491	0.26660815	Yes	
+row_2	SLC25A16	solute carrier family 25 (mitochondrial carrier; Graves disease autoantigen), member 16	949	0.6588690876960754	0.39318514	Yes	
+row_3	PPCDC	phosphopantothenoylcysteine decarboxylase	1158	0.6053735017776489	0.50102466	Yes	
+row_4	ENPP1	ectonucleotide pyrophosphatase/phosphodiesterase 1	2923	0.35060185194015503	0.4621708	Yes	
+row_5	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	3198	0.3198193609714508	0.5090264	Yes	
+row_6	FASN	fatty acid synthase	4050	0.23894807696342468	0.5041963	Yes	
+row_7	VNN2	vanin 2	4276	0.22206474840641022	0.5345882	Yes	
+row_8	AASDHPPT	aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase	4496	0.20249877870082855	0.5614502	Yes	
+row_9	COASY	Coenzyme A synthase	4664	0.18563777208328247	0.58815676	Yes	
+row_10	ENPP3	ectonucleotide pyrophosphatase/phosphodiesterase 3	5315	0.12903620302677155	0.5738092	Yes	
+row_11	PANK1	pantothenate kinase 1	5550	0.10936944931745529	0.5811844	Yes	
+row_12	PANK4	pantothenate kinase 4	5593	0.10660126805305481	0.59984285	Yes	
+row_13	PPCS	phosphopantothenoylcysteine synthetase	6340	0.049899570643901825	0.5638045	No	
+row_14	SLC5A6	solute carrier family 5 (sodium-dependent vitamin transporter), member 6	6933	0.014381607063114643	0.5301796	No	
+row_15	PDZD11	PDZ domain containing 11	10204	-0.037680238485336304	0.3361242	No	
+row_16	ENPP2	ectonucleotide pyrophosphatase/phosphodiesterase 2 (autotaxin)	11866	-0.1796988695859909	0.26955563	No	

@@ -1,0 +1,1528 @@
+nohup: ignoring input
+   ********************************************
+   ***                                      ***
+   ***             FoldX 5.1 (c)            ***
+   ***                                      ***
+   ***     code by the FoldX Consortium     ***
+   ***                                      ***
+   ***     Jesper Borg, Frederic Rousseau   ***
+   ***    Joost Schymkowitz, Luis Serrano   ***
+   ***    Peter Vanhee, Erik Verschueren    ***
+   ***     Lies Baeten, Javier Delgado      ***
+   ***       and Francois Stricher          ***
+   *** and any other of the 9! permutations ***
+   ***   based on an original concept by    ***
+   ***   Raphael Guerois and Luis Serrano   ***
+   ********************************************
+
+1 models read: 7UUZ_Repair.pdb
+1 models read: 7UUZ_Repair.pdb
+
+BackHbond       =               -430.49
+SideHbond       =               -103.23
+Energy_VdW      =               -605.27
+Electro         =               -8.07
+Energy_SolvP    =               799.55
+Energy_SolvH    =               -802.38
+Energy_vdwclash =               34.67
+energy_torsion  =               17.15
+backbone_vdwclash=              571.82
+Entropy_sidec   =               252.92
+Entropy_mainc   =               790.47
+water bonds     =               0.00
+helix dipole    =               -0.36
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.36
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -54.67
+
+
+BackHbond       =               -430.49
+SideHbond       =               -103.23
+Energy_VdW      =               -605.27
+Electro         =               -8.07
+Energy_SolvP    =               799.55
+Energy_SolvH    =               -802.38
+Energy_vdwclash =               34.67
+energy_torsion  =               17.15
+backbone_vdwclash=              571.82
+Entropy_sidec   =               252.92
+Entropy_mainc   =               790.47
+water bonds     =               0.00
+helix dipole    =               -0.36
+loop_entropy    =               0.00
+cis_bond        =               0.00
+disulfide       =               0.00
+kn electrostatic=               0.00
+partial covalent interactions = 0.00
+Energy_Ionisation =             0.36
+Entropy Complex =               0.00
+-----------------------------------------------------------
+Total          = 				  -54.67
+
+Starting BuildModel
+Reading AA102S;
+Reading AA128S;
+Reading TA180S;
+Reading AA264S;
+Reading AA264V;
+Reading AA278T;
+Reading AA281D;
+Reading AA281V;
+Reading AA296T;
+Reading AA320T;
+Reading AA347V;
+Reading AA361V;
+Reading AA37S;
+Reading AA397V;
+Reading SA447T;
+Reading SA447V;
+Reading AA454V;
+Reading AA460V;
+Reading AA463T;
+Reading AA481V;
+Reading AA513S;
+Reading AA513T;
+Reading AA513V;
+Reading AA520V;
+Reading AA528T;
+Reading RA124H;
+Reading RA124S;
+Reading RA208C;
+Reading RA208G;
+Reading RA208H;
+Reading RA208S;
+Reading RA217C;
+Reading RA217H;
+Reading RA228Q;
+Reading RA241C;
+Reading RA241H;
+Reading RA268C;
+Reading RA268H;
+Reading HA273C;
+Reading RA317C;
+Reading RA317G;
+Reading RA317H;
+Reading RA317L;
+Reading RA374Q;
+Reading RA374W;
+Reading PA376Q;
+Reading PA376W;
+Reading GA474K;
+Reading GA482H;
+Reading GA482P;
+Reading RA550H;
+Reading NA157K;
+Reading NA262S;
+Reading NA441K;
+Reading DA311N;
+Reading DA322V;
+Reading DA516G;
+Reading CA175S;
+Reading CA298G;
+Reading CA299G;
+Reading CA299Y;
+Reading CA398R;
+Reading CA440R;
+Reading CA440G;
+Reading YA543Y;
+Reading QA267R;
+Reading QA267E;
+Reading QA72R;
+Reading EA334K;
+Reading EA470D;
+Reading EA470G;
+Reading EA470K;
+Reading GA146R;
+Reading GA161E;
+Reading GA182A;
+Reading GA183S;
+Reading GA201S;
+Reading GA209S;
+Reading GA288C;
+Reading GA288S;
+Reading GA29S;
+Reading GA31R;
+Reading GA341R;
+Reading GA35R;
+Reading GA395R;
+Reading GA409R;
+Reading GA410R;
+Reading GA425S;
+Reading AA450S;
+Reading GA527S;
+Reading GA538R;
+Reading GA75D;
+Reading GA93S;
+Reading IA229S;
+Reading IA229V;
+Reading VA284F;
+Reading VA284V;
+Reading TA432N;
+Reading IA541L;
+Reading LA100F;
+Reading LA169P;
+Reading TA22F;
+Reading LA256F;
+Reading LA289R;
+Reading LA289P;
+Reading LA313F;
+Reading LA453S;
+Reading GA276E;
+Reading MA142I;
+Reading MA142V;
+Reading MA23L;
+Reading MA258I;
+Reading MA325V;
+Reading MA362L;
+Reading MA362V;
+Reading MA420I;
+Reading MA420I;
+Reading MA435T;
+Reading MA473T;
+Reading MA473V;
+Reading FA105S;
+Reading LA177S;
+Reading FA431S;
+Reading LA436C;
+Reading LA436L;
+Reading FA518I;
+Reading PA216S;
+Reading PA236R;
+Reading PA236L;
+Reading PA238L;
+Reading PA337L;
+Reading PA340T;
+Reading PA380S;
+Reading PA443L;
+Reading PA443T;
+Reading PA467A;
+Reading PA512T;
+Reading PA547S;
+Reading PA555L;
+Reading SA349R;
+Reading SA396L;
+Reading SA405C;
+Reading SA416F;
+Reading TA517G;
+Reading SA542I;
+Reading SA551N;
+Reading AA78L;
+Reading TA101I;
+Reading TA171P;
+Reading TA176P;
+Reading TA179K;
+Reading SA221R;
+Reading SA221M;
+Reading TA243A;
+Reading TA252M;
+Reading TA472N;
+Reading TA531M;
+Reading TA545R;
+Reading WA15C;
+Reading WA165R;
+Reading WA189R;
+Reading WA189G;
+Reading WA33S;
+Reading YA137H;
+Reading YA150F;
+Reading YA178H;
+Reading YA307C;
+Reading VA196M;
+Reading LA213G;
+Reading IA248A;
+Reading IA248L;
+Reading VA261M;
+Reading VA266L;
+Reading VA266M;
+Reading VA270M;
+Reading LA287A;
+Reading VA293M;
+Reading VA384L;
+Reading VA445A;
+Reading VA445F;
+Reading VA73M;
+Reading LA99G;
+Residue to Mutate ALAA102 has residue index 92
+Residue to Mutate ALAA128 has residue index 118
+Residue to Mutate THRA180 has residue index 170
+Residue to Mutate ALAA264 has residue index 254
+Residue to Mutate ALAA264 has residue index 254
+Residue to Mutate ALAA278 has residue index 268
+Residue to Mutate ALAA281 has residue index 271
+Residue to Mutate ALAA281 has residue index 271
+Residue to Mutate ALAA296 has residue index 286
+Residue to Mutate ALAA320 has residue index 310
+Residue to Mutate ALAA347 has residue index 337
+Residue to Mutate ALAA361 has residue index 351
+Residue to Mutate ALAA37 has residue index 27
+Residue to Mutate ALAA397 has residue index 387
+Residue to Mutate SERA447 has residue index 437
+Residue to Mutate SERA447 has residue index 437
+Residue to Mutate ALAA454 has residue index 444
+Residue to Mutate ALAA460 has residue index 450
+Residue to Mutate ALAA463 has residue index 453
+Residue to Mutate ALAA481 has residue index 471
+Residue to Mutate ALAA513 has residue index 503
+Residue to Mutate ALAA513 has residue index 503
+Residue to Mutate ALAA513 has residue index 503
+Residue to Mutate ALAA520 has residue index 510
+Residue to Mutate ALAA528 has residue index 518
+Residue to Mutate ARGA124 has residue index 114
+Residue to Mutate ARGA124 has residue index 114
+Residue to Mutate ARGA208 has residue index 198
+Residue to Mutate ARGA208 has residue index 198
+Residue to Mutate ARGA208 has residue index 198
+Residue to Mutate ARGA208 has residue index 198
+Residue to Mutate ARGA217 has residue index 207
+Residue to Mutate ARGA217 has residue index 207
+Residue to Mutate ARGA228 has residue index 218
+Residue to Mutate ARGA241 has residue index 231
+Residue to Mutate ARGA241 has residue index 231
+Residue to Mutate ARGA268 has residue index 258
+Residue to Mutate ARGA268 has residue index 258
+Residue to Mutate HISA273 has residue index 263
+Residue to Mutate ARGA317 has residue index 307
+Residue to Mutate ARGA317 has residue index 307
+Residue to Mutate ARGA317 has residue index 307
+Residue to Mutate ARGA317 has residue index 307
+Residue to Mutate ARGA374 has residue index 364
+Residue to Mutate ARGA374 has residue index 364
+Residue to Mutate PROA376 has residue index 366
+Residue to Mutate PROA376 has residue index 366
+Residue to Mutate GLYA474 has residue index 464
+Residue to Mutate GLYA482 has residue index 472
+Residue to Mutate GLYA482 has residue index 472
+Residue to Mutate ARGA550 has residue index 540
+Residue to Mutate ASNA157 has residue index 147
+Residue to Mutate ASNA262 has residue index 252
+Residue to Mutate ASNA441 has residue index 431
+Residue to Mutate ASPA311 has residue index 301
+Residue to Mutate ASPA322 has residue index 312
+Residue to Mutate ASPA516 has residue index 506
+Residue to Mutate CYSA175 has residue index 165
+Residue to Mutate CYSA298 has residue index 288
+Residue to Mutate CYSA299 has residue index 289
+Residue to Mutate CYSA299 has residue index 289
+Residue to Mutate CYSA398 has residue index 388
+Residue to Mutate CYSA440 has residue index 430
+Residue to Mutate CYSA440 has residue index 430
+Residue to Mutate TYRA543 has residue index 533
+Residue to Mutate GLNA267 has residue index 257
+Residue to Mutate GLNA267 has residue index 257
+Residue to Mutate GLNA72 has residue index 62
+Residue to Mutate GLUA334 has residue index 324
+Residue to Mutate GLUA470 has residue index 460
+Residue to Mutate GLUA470 has residue index 460
+Residue to Mutate GLUA470 has residue index 460
+Residue to Mutate GLYA146 has residue index 136
+Residue to Mutate GLYA161 has residue index 151
+Residue to Mutate GLYA182 has residue index 172
+Residue to Mutate GLYA183 has residue index 173
+Residue to Mutate GLYA201 has residue index 191
+Residue to Mutate GLYA209 has residue index 199
+Residue to Mutate GLYA288 has residue index 278
+Residue to Mutate GLYA288 has residue index 278
+Residue to Mutate GLYA29 has residue index 19
+Residue to Mutate GLYA31 has residue index 21
+Residue to Mutate GLYA341 has residue index 331
+Residue to Mutate GLYA35 has residue index 25
+Residue to Mutate GLYA395 has residue index 385
+Residue to Mutate GLYA409 has residue index 399
+Residue to Mutate GLYA410 has residue index 400
+Residue to Mutate GLYA425 has residue index 415
+Residue to Mutate ALAA450 has residue index 440
+Residue to Mutate GLYA527 has residue index 517
+Residue to Mutate GLYA538 has residue index 528
+Residue to Mutate GLYA75 has residue index 65
+Residue to Mutate GLYA93 has residue index 83
+Residue to Mutate ILEA229 has residue index 219
+Residue to Mutate ILEA229 has residue index 219
+Residue to Mutate VALA284 has residue index 274
+Residue to Mutate VALA284 has residue index 274
+Residue to Mutate THRA432 has residue index 422
+Residue to Mutate ILEA541 has residue index 531
+Residue to Mutate LEUA100 has residue index 90
+Residue to Mutate LEUA169 has residue index 159
+Residue to Mutate THRA22 has residue index 12
+Residue to Mutate LEUA256 has residue index 246
+Residue to Mutate LEUA289 has residue index 279
+Residue to Mutate LEUA289 has residue index 279
+Residue to Mutate LEUA313 has residue index 303
+Residue to Mutate LEUA453 has residue index 443
+Residue to Mutate GLYA276 has residue index 266
+Residue to Mutate META142 has residue index 132
+Residue to Mutate META142 has residue index 132
+Residue to Mutate META23 has residue index 13
+Residue to Mutate META258 has residue index 248
+Residue to Mutate META325 has residue index 315
+Residue to Mutate META362 has residue index 352
+Residue to Mutate META362 has residue index 352
+Residue to Mutate META420 has residue index 410
+Residue to Mutate META420 has residue index 410
+Residue to Mutate META435 has residue index 425
+Residue to Mutate META473 has residue index 463
+Residue to Mutate META473 has residue index 463
+Residue to Mutate PHEA105 has residue index 95
+Residue to Mutate LEUA177 has residue index 167
+Residue to Mutate PHEA431 has residue index 421
+Residue to Mutate LEUA436 has residue index 426
+Residue to Mutate LEUA436 has residue index 426
+Residue to Mutate PHEA518 has residue index 508
+Residue to Mutate PROA216 has residue index 206
+Residue to Mutate PROA236 has residue index 226
+Residue to Mutate PROA236 has residue index 226
+Residue to Mutate PROA238 has residue index 228
+Residue to Mutate PROA337 has residue index 327
+Residue to Mutate PROA340 has residue index 330
+Residue to Mutate PROA380 has residue index 370
+Residue to Mutate PROA443 has residue index 433
+Residue to Mutate PROA443 has residue index 433
+Residue to Mutate PROA467 has residue index 457
+Residue to Mutate PROA512 has residue index 502
+Residue to Mutate PROA547 has residue index 537
+Residue to Mutate PROA555 has residue index 545
+Residue to Mutate SERA349 has residue index 339
+Residue to Mutate SERA396 has residue index 386
+Residue to Mutate SERA405 has residue index 395
+Residue to Mutate SERA416 has residue index 406
+Residue to Mutate THRA517 has residue index 507
+Residue to Mutate SERA542 has residue index 532
+Residue to Mutate SERA551 has residue index 541
+Residue to Mutate ALAA78 has residue index 68
+Residue to Mutate THRA101 has residue index 91
+Residue to Mutate THRA171 has residue index 161
+Residue to Mutate THRA176 has residue index 166
+Residue to Mutate THRA179 has residue index 169
+Residue to Mutate SERA221 has residue index 211
+Residue to Mutate SERA221 has residue index 211
+Residue to Mutate THRA243 has residue index 233
+Residue to Mutate THRA252 has residue index 242
+Residue to Mutate THRA472 has residue index 462
+Residue to Mutate THRA531 has residue index 521
+Residue to Mutate THRA545 has residue index 535
+Residue to Mutate TRPA15 has residue index 5
+Residue to Mutate TRPA165 has residue index 155
+Residue to Mutate TRPA189 has residue index 179
+Residue to Mutate TRPA189 has residue index 179
+Residue to Mutate TRPA33 has residue index 23
+Residue to Mutate TYRA137 has residue index 127
+Residue to Mutate TYRA150 has residue index 140
+Residue to Mutate TYRA178 has residue index 168
+Residue to Mutate TYRA307 has residue index 297
+Residue to Mutate VALA196 has residue index 186
+Residue to Mutate LEUA213 has residue index 203
+Residue to Mutate ILEA248 has residue index 238
+Residue to Mutate ILEA248 has residue index 238
+Residue to Mutate VALA261 has residue index 251
+Residue to Mutate VALA266 has residue index 256
+Residue to Mutate VALA266 has residue index 256
+Residue to Mutate VALA270 has residue index 260
+Residue to Mutate LEUA287 has residue index 277
+Residue to Mutate VALA293 has residue index 283
+Residue to Mutate VALA384 has residue index 374
+Residue to Mutate VALA445 has residue index 435
+Residue to Mutate VALA445 has residue index 435
+Residue to Mutate VALA73 has residue index 63
+Residue to Mutate LEUA99 has residue index 89
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA102 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = ALAA128 into SER
+Mutating residue = THRA180 into SER
+Mutating residue = THRA180 into SER
+Mutating residue = THRA180 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into SER
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA264 into VAL
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA278 into THR
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into ASP
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA281 into VAL
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA296 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA320 into THR
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA347 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA361 into VAL
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA37 into SER
+Mutating residue = ALAA397 into VAL
+Mutating residue = ALAA397 into VAL
+Mutating residue = ALAA397 into VAL
+Mutating residue = SERA447 into THR
+Mutating residue = SERA447 into THR
+Mutating residue = SERA447 into THR
+Mutating residue = SERA447 into VAL
+Mutating residue = SERA447 into VAL
+Mutating residue = SERA447 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA454 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA460 into VAL
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA463 into THR
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA481 into VAL
+Mutating residue = ALAA513 into SER
+Mutating residue = ALAA513 into SER
+Mutating residue = ALAA513 into SER
+Mutating residue = ALAA513 into THR
+Mutating residue = ALAA513 into THR
+Mutating residue = ALAA513 into THR
+Mutating residue = ALAA513 into VAL
+Mutating residue = ALAA513 into VAL
+Mutating residue = ALAA513 into VAL
+Mutating residue = ALAA520 into VAL
+Mutating residue = ALAA520 into VAL
+Mutating residue = ALAA520 into VAL
+Mutating residue = ALAA528 into THR
+Mutating residue = ALAA528 into THR
+Mutating residue = ALAA528 into THR
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into HIS
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA124 into SER
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into CYS
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into GLY
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into HIS
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA208 into SER
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into CYS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA217 into HIS
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA228 into GLN
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into CYS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA241 into HIS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into CYS
+Mutating residue = ARGA268 into HIS
+Mutating residue = ARGA268 into HIS
+Mutating residue = ARGA268 into HIS
+Mutating residue = HISA273 into CYS
+Mutating residue = HISA273 into CYS
+Mutating residue = HISA273 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into CYS
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into GLY
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into HIS
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA317 into LEU
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into GLN
+Mutating residue = ARGA374 into TRP
+Mutating residue = ARGA374 into TRP
+Mutating residue = ARGA374 into TRP
+Mutating residue = PROA376 into GLN
+Mutating residue = PROA376 into GLN
+Mutating residue = PROA376 into GLN
+Mutating residue = PROA376 into TRP
+Mutating residue = PROA376 into TRP
+Mutating residue = PROA376 into TRP
+Mutating residue = GLYA474 into LYS
+Mutating residue = GLYA474 into LYS
+Mutating residue = GLYA474 into LYS
+Mutating residue = GLYA482 into HIS
+Mutating residue = GLYA482 into HIS
+Mutating residue = GLYA482 into HIS
+Mutating residue = GLYA482 into PRO
+Mutating residue = GLYA482 into PRO
+Mutating residue = GLYA482 into PRO
+Mutating residue = ARGA550 into HIS
+Mutating residue = ARGA550 into HIS
+Mutating residue = ARGA550 into HIS
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA157 into LYS
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA262 into SER
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASNA441 into LYS
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA311 into ASN
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA322 into VAL
+Mutating residue = ASPA516 into GLY
+Mutating residue = ASPA516 into GLY
+Mutating residue = ASPA516 into GLY
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA175 into SER
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA298 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into GLY
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA299 into TYR
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA398 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into ARG
+Mutating residue = CYSA440 into GLY
+Mutating residue = CYSA440 into GLY
+Mutating residue = CYSA440 into GLY
+Mutating residue = TYRA543 into TYR
+Mutating residue = TYRA543 into TYR
+Mutating residue = TYRA543 into TYR
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into ARG
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA267 into GLU
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLNA72 into ARG
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA334 into LYS
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into ASP
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into GLY
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLUA470 into LYS
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA146 into ARG
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA161 into GLU
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA182 into ALA
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA183 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA201 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA209 into SER
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into CYS
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA288 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA29 into SER
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA31 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA341 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA35 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA395 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA409 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA410 into ARG
+Mutating residue = GLYA425 into SER
+Mutating residue = GLYA425 into SER
+Mutating residue = GLYA425 into SER
+Mutating residue = ALAA450 into SER
+Mutating residue = ALAA450 into SER
+Mutating residue = ALAA450 into SER
+Mutating residue = GLYA527 into SER
+Mutating residue = GLYA527 into SER
+Mutating residue = GLYA527 into SER
+Mutating residue = GLYA538 into ARG
+Mutating residue = GLYA538 into ARG
+Mutating residue = GLYA538 into ARG
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA75 into ASP
+Mutating residue = GLYA93 into SER
+Mutating residue = GLYA93 into SER
+Mutating residue = GLYA93 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into SER
+Mutating residue = ILEA229 into VAL
+Mutating residue = ILEA229 into VAL
+Mutating residue = ILEA229 into VAL
+Mutating residue = VALA284 into PHE
+Mutating residue = VALA284 into PHE
+Mutating residue = VALA284 into PHE
+Mutating residue = VALA284 into VAL
+Mutating residue = VALA284 into VAL
+Mutating residue = VALA284 into VAL
+Mutating residue = THRA432 into ASN
+Mutating residue = THRA432 into ASN
+Mutating residue = THRA432 into ASN
+Mutating residue = ILEA541 into LEU
+Mutating residue = ILEA541 into LEU
+Mutating residue = ILEA541 into LEU
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA100 into PHE
+Mutating residue = LEUA169 into PRO
+Mutating residue = LEUA169 into PRO
+Mutating residue = LEUA169 into PRO
+Mutating residue = THRA22 into PHE
+Mutating residue = THRA22 into PHE
+Mutating residue = THRA22 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA256 into PHE
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into ARG
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA289 into PRO
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA313 into PHE
+Mutating residue = LEUA453 into SER
+Mutating residue = LEUA453 into SER
+Mutating residue = LEUA453 into SER
+Mutating residue = GLYA276 into GLU
+Mutating residue = GLYA276 into GLU
+Mutating residue = GLYA276 into GLU
+Mutating residue = META142 into ILE
+Mutating residue = META142 into ILE
+Mutating residue = META142 into ILE
+Mutating residue = META142 into VAL
+Mutating residue = META142 into VAL
+Mutating residue = META142 into VAL
+Mutating residue = META23 into LEU
+Mutating residue = META23 into LEU
+Mutating residue = META23 into LEU
+Mutating residue = META258 into ILE
+Mutating residue = META258 into ILE
+Mutating residue = META258 into ILE
+Mutating residue = META325 into VAL
+Mutating residue = META325 into VAL
+Mutating residue = META325 into VAL
+Mutating residue = META362 into LEU
+Mutating residue = META362 into LEU
+Mutating residue = META362 into LEU
+Mutating residue = META362 into VAL
+Mutating residue = META362 into VAL
+Mutating residue = META362 into VAL
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META420 into ILE
+Mutating residue = META435 into THR
+Mutating residue = META435 into THR
+Mutating residue = META435 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into THR
+Mutating residue = META473 into VAL
+Mutating residue = META473 into VAL
+Mutating residue = META473 into VAL
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA105 into SER
+Mutating residue = PHEA105 into SER
+Mutating residue = LEUA177 into SER
+Mutating residue = LEUA177 into SER
+Mutating residue = LEUA177 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = PHEA431 into SER
+Mutating residue = LEUA436 into CYS
+Mutating residue = LEUA436 into CYS
+Mutating residue = LEUA436 into CYS
+Mutating residue = LEUA436 into LEU
+Mutating residue = LEUA436 into LEU
+Mutating residue = LEUA436 into LEU
+Mutating residue = PHEA518 into ILE
+Mutating residue = PHEA518 into ILE
+Mutating residue = PHEA518 into ILE
+Mutating residue = PROA216 into SER
+Mutating residue = PROA216 into SER
+Mutating residue = PROA216 into SER
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into ARG
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA236 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA238 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA337 into LEU
+Mutating residue = PROA340 into THR
+Mutating residue = PROA340 into THR
+Mutating residue = PROA340 into THR
+Mutating residue = PROA380 into SER
+Mutating residue = PROA380 into SER
+Mutating residue = PROA380 into SER
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into LEU
+Mutating residue = PROA443 into THR
+Mutating residue = PROA443 into THR
+Mutating residue = PROA443 into THR
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA467 into ALA
+Mutating residue = PROA512 into THR
+Mutating residue = PROA512 into THR
+Mutating residue = PROA512 into THR
+Mutating residue = PROA547 into SER
+Mutating residue = PROA547 into SER
+Mutating residue = PROA547 into SER
+Mutating residue = PROA555 into LEU
+Mutating residue = PROA555 into LEU
+Mutating residue = PROA555 into LEU
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA349 into ARG
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA396 into LEU
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA405 into CYS
+Mutating residue = SERA416 into PHE
+Mutating residue = SERA416 into PHE
+Mutating residue = SERA416 into PHE
+Mutating residue = THRA517 into GLY
+Mutating residue = THRA517 into GLY
+Mutating residue = THRA517 into GLY
+Mutating residue = SERA542 into ILE
+Mutating residue = SERA542 into ILE
+Mutating residue = SERA542 into ILE
+Mutating residue = SERA551 into ASN
+Mutating residue = SERA551 into ASN
+Mutating residue = SERA551 into ASN
+Mutating residue = ALAA78 into LEU
+Mutating residue = ALAA78 into LEU
+Mutating residue = ALAA78 into LEU
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA101 into ILE
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA171 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA176 into PRO
+Mutating residue = THRA179 into LYS
+Mutating residue = THRA179 into LYS
+Mutating residue = THRA179 into LYS
+Mutating residue = SERA221 into ARG
+Mutating residue = SERA221 into ARG
+Mutating residue = SERA221 into ARG
+Mutating residue = SERA221 into MET
+Mutating residue = SERA221 into MET
+Mutating residue = SERA221 into MET
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA243 into ALA
+Mutating residue = THRA252 into MET
+Mutating residue = THRA252 into MET
+Mutating residue = THRA252 into MET
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA472 into ASN
+Mutating residue = THRA531 into MET
+Mutating residue = THRA531 into MET
+Mutating residue = THRA531 into MET
+Mutating residue = THRA545 into ARG
+Mutating residue = THRA545 into ARG
+Mutating residue = THRA545 into ARG
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA15 into CYS
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA165 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into ARG
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA189 into GLY
+Mutating residue = TRPA33 into SER
+Mutating residue = TRPA33 into SER
+Mutating residue = TRPA33 into SER
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA137 into HIS
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA150 into PHE
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA178 into HIS
+Mutating residue = TYRA307 into CYS
+Mutating residue = TYRA307 into CYS
+Mutating residue = TYRA307 into CYS
+Mutating residue = VALA196 into MET
+Mutating residue = VALA196 into MET
+Mutating residue = VALA196 into MET
+Mutating residue = LEUA213 into GLY
+Mutating residue = LEUA213 into GLY
+Mutating residue = LEUA213 into GLY
+Mutating residue = ILEA248 into ALA
+Mutating residue = ILEA248 into ALA
+Mutating residue = ILEA248 into ALA
+Mutating residue = ILEA248 into LEU
+Mutating residue = ILEA248 into LEU
+Mutating residue = ILEA248 into LEU
+Mutating residue = VALA261 into MET
+Mutating residue = VALA261 into MET
+Mutating residue = VALA261 into MET
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into LEU
+Mutating residue = VALA266 into MET
+Mutating residue = VALA266 into MET
+Mutating residue = VALA266 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = VALA270 into MET
+Mutating residue = LEUA287 into ALA
+Mutating residue = LEUA287 into ALA
+Mutating residue = LEUA287 into ALA
+Mutating residue = VALA293 into MET
+Mutating residue = VALA293 into MET
+Mutating residue = VALA293 into MET
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA384 into LEU
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into ALA
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA445 into PHE
+Mutating residue = VALA73 into MET
+Mutating residue = VALA73 into MET
+Mutating residue = VALA73 into MET
+Mutating residue = LEUA99 into GLY
+Mutating residue = LEUA99 into GLY
+Mutating residue = LEUA99 into GLY
+Your file run OK
+End time of FoldX: Tue Apr 21 22:14:46 2026
+Total time spend: 3136.66 seconds.
+validated file "7UUZ_Repair_1_0.pdb" => successfully finished
+validated file "7UUZ_Repair_1_1.pdb" => successfully finished
+validated file "7UUZ_Repair_1_2.pdb" => successfully finished
+validated file "7UUZ_Repair_2_0.pdb" => successfully finished
+validated file "7UUZ_Repair_2_1.pdb" => successfully finished
+validated file "7UUZ_Repair_2_2.pdb" => successfully finished
+validated file "7UUZ_Repair_3_0.pdb" => successfully finished
+validated file "7UUZ_Repair_3_1.pdb" => successfully finished
+validated file "7UUZ_Repair_3_2.pdb" => successfully finished
+validated file "7UUZ_Repair_4_0.pdb" => successfully finished
+validated file "7UUZ_Repair_4_1.pdb" => successfully finished
+validated file "7UUZ_Repair_4_2.pdb" => successfully finished
+validated file "7UUZ_Repair_5_0.pdb" => successfully finished
+validated file "7UUZ_Repair_5_1.pdb" => successfully finished
+validated file "7UUZ_Repair_5_2.pdb" => successfully finished
+validated file "7UUZ_Repair_6_0.pdb" => successfully finished
+validated file "7UUZ_Repair_6_1.pdb" => successfully finished
+validated file "7UUZ_Repair_6_2.pdb" => successfully finished
+validated file "7UUZ_Repair_7_0.pdb" => successfully finished
+validated file "7UUZ_Repair_7_1.pdb" => successfully finished
+validated file "7UUZ_Repair_7_2.pdb" => successfully finished
+validated file "7UUZ_Repair_8_0.pdb" => successfully finished
+validated file "7UUZ_Repair_8_1.pdb" => successfully finished
+validated file "7UUZ_Repair_8_2.pdb" => successfully finished
+validated file "7UUZ_Repair_9_0.pdb" => successfully finished
+validated file "7UUZ_Repair_9_1.pdb" => successfully finished
+validated file "7UUZ_Repair_9_2.pdb" => successfully finished
+validated file "7UUZ_Repair_10_0.pdb" => successfully finished
+validated file "7UUZ_Repair_10_1.pdb" => successfully finished
+validated file "7UUZ_Repair_10_2.pdb" => successfully finished
+validated file "7UUZ_Repair_11_0.pdb" => successfully finished
+validated file "7UUZ_Repair_11_1.pdb" => successfully finished
+validated file "7UUZ_Repair_11_2.pdb" => successfully finished
+validated file "7UUZ_Repair_12_0.pdb" => successfully finished
+validated file "7UUZ_Repair_12_1.pdb" => successfully finished
+validated file "7UUZ_Repair_12_2.pdb" => successfully finished
+validated file "7UUZ_Repair_13_0.pdb" => successfully finished
+validated file "7UUZ_Repair_13_1.pdb" => successfully finished
+validated file "7UUZ_Repair_13_2.pdb" => successfully finished
+validated file "7UUZ_Repair_14_0.pdb" => successfully finished
+validated file "7UUZ_Repair_14_1.pdb" => successfully finished
+validated file "7UUZ_Repair_14_2.pdb" => successfully finished
+validated file "7UUZ_Repair_15_0.pdb" => successfully finished
+validated file "7UUZ_Repair_15_1.pdb" => successfully finished
+validated file "7UUZ_Repair_15_2.pdb" => successfully finished
+validated file "7UUZ_Repair_16_0.pdb" => successfully finished
+validated file "7UUZ_Repair_16_1.pdb" => successfully finished
+validated file "7UUZ_Repair_16_2.pdb" => successfully finished
+validated file "7UUZ_Repair_17_0.pdb" => successfully finished
+validated file "7UUZ_Repair_17_1.pdb" => successfully finished
+validated file "7UUZ_Repair_17_2.pdb" => successfully finished
+validated file "7UUZ_Repair_18_0.pdb" => successfully finished
+validated file "7UUZ_Repair_18_1.pdb" => successfully finished
+validated file "7UUZ_Repair_18_2.pdb" => successfully finished
+validated file "7UUZ_Repair_19_0.pdb" => successfully finished
+validated file "7UUZ_Repair_19_1.pdb" => successfully finished
+validated file "7UUZ_Repair_19_2.pdb" => successfully finished
+validated file "7UUZ_Repair_20_0.pdb" => successfully finished
+validated file "7UUZ_Repair_20_1.pdb" => successfully finished
+validated file "7UUZ_Repair_20_2.pdb" => successfully finished
+validated file "7UUZ_Repair_21_0.pdb" => successfully finished
+validated file "7UUZ_Repair_21_1.pdb" => successfully finished
+validated file "7UUZ_Repair_21_2.pdb" => successfully finished
+validated file "7UUZ_Repair_22_0.pdb" => successfully finished
+validated file "7UUZ_Repair_22_1.pdb" => successfully finished
+validated file "7UUZ_Repair_22_2.pdb" => successfully finished
+validated file "7UUZ_Repair_23_0.pdb" => successfully finished
+validated file "7UUZ_Repair_23_1.pdb" => successfully finished
+validated file "7UUZ_Repair_23_2.pdb" => successfully finished
+validated file "7UUZ_Repair_24_0.pdb" => successfully finished
+validated file "7UUZ_Repair_24_1.pdb" => successfully finished
+validated file "7UUZ_Repair_24_2.pdb" => successfully finished
+validated file "7UUZ_Repair_25_0.pdb" => successfully finished
+validated file "7UUZ_Repair_25_1.pdb" => successfully finished
+validated file "7UUZ_Repair_25_2.pdb" => successfully finished
+validated file "7UUZ_Repair_26_0.pdb" => successfully finished
+validated file "7UUZ_Repair_26_1.pdb" => successfully finished
+validated file "7UUZ_Repair_26_2.pdb" => successfully finished
+validated file "7UUZ_Repair_27_0.pdb" => successfully finished
+validated file "7UUZ_Repair_27_1.pdb" => successfully finished
+validated file "7UUZ_Repair_27_2.pdb" => successfully finished
+validated file "7UUZ_Repair_28_0.pdb" => successfully finished
+validated file "7UUZ_Repair_28_1.pdb" => successfully finished
+validated file "7UUZ_Repair_28_2.pdb" => successfully finished
+validated file "7UUZ_Repair_29_0.pdb" => successfully finished
+validated file "7UUZ_Repair_29_1.pdb" => successfully finished
+validated file "7UUZ_Repair_29_2.pdb" => successfully finished
+validated file "7UUZ_Repair_30_0.pdb" => successfully finished
+validated file "7UUZ_Repair_30_1.pdb" => successfully finished
+validated file "7UUZ_Repair_30_2.pdb" => successfully finished
+validated file "7UUZ_Repair_31_0.pdb" => successfully finished
+validated file "7UUZ_Repair_31_1.pdb" => successfully finished
+validated file "7UUZ_Repair_31_2.pdb" => successfully finished
+validated file "7UUZ_Repair_32_0.pdb" => successfully finished
+validated file "7UUZ_Repair_32_1.pdb" => successfully finished
+validated file "7UUZ_Repair_32_2.pdb" => successfully finished
+validated file "7UUZ_Repair_33_0.pdb" => successfully finished
+validated file "7UUZ_Repair_33_1.pdb" => successfully finished
+validated file "7UUZ_Repair_33_2.pdb" => successfully finished
+validated file "7UUZ_Repair_34_0.pdb" => successfully finished
+validated file "7UUZ_Repair_34_1.pdb" => successfully finished
+validated file "7UUZ_Repair_34_2.pdb" => successfully finished
+validated file "7UUZ_Repair_35_0.pdb" => successfully finished
+validated file "7UUZ_Repair_35_1.pdb" => successfully finished
+validated file "7UUZ_Repair_35_2.pdb" => successfully finished
+validated file "7UUZ_Repair_36_0.pdb" => successfully finished
+validated file "7UUZ_Repair_36_1.pdb" => successfully finished
+validated file "7UUZ_Repair_36_2.pdb" => successfully finished
+validated file "7UUZ_Repair_37_0.pdb" => successfully finished
+validated file "7UUZ_Repair_37_1.pdb" => successfully finished
+validated file "7UUZ_Repair_37_2.pdb" => successfully finished
+validated file "7UUZ_Repair_38_0.pdb" => successfully finished
+validated file "7UUZ_Repair_38_1.pdb" => successfully finished
+validated file "7UUZ_Repair_38_2.pdb" => successfully finished
+validated file "7UUZ_Repair_39_0.pdb" => successfully finished
+validated file "7UUZ_Repair_39_1.pdb" => successfully finished
+validated file "7UUZ_Repair_39_2.pdb" => successfully finished
+validated file "7UUZ_Repair_40_0.pdb" => successfully finished
+validated file "7UUZ_Repair_40_1.pdb" => successfully finished
+validated file "7UUZ_Repair_40_2.pdb" => successfully finished
+validated file "7UUZ_Repair_41_0.pdb" => successfully finished
+validated file "7UUZ_Repair_41_1.pdb" => successfully finished
+validated file "7UUZ_Repair_41_2.pdb" => successfully finished
+validated file "7UUZ_Repair_42_0.pdb" => successfully finished
+validated file "7UUZ_Repair_42_1.pdb" => successfully finished
+validated file "7UUZ_Repair_42_2.pdb" => successfully finished
+validated file "7UUZ_Repair_43_0.pdb" => successfully finished
+validated file "7UUZ_Repair_43_1.pdb" => successfully finished
+validated file "7UUZ_Repair_43_2.pdb" => successfully finished
+validated file "7UUZ_Repair_44_0.pdb" => successfully finished
+validated file "7UUZ_Repair_44_1.pdb" => successfully finished
+validated file "7UUZ_Repair_44_2.pdb" => successfully finished
+validated file "7UUZ_Repair_45_0.pdb" => successfully finished
+validated file "7UUZ_Repair_45_1.pdb" => successfully finished
+validated file "7UUZ_Repair_45_2.pdb" => successfully finished
+validated file "7UUZ_Repair_46_0.pdb" => successfully finished
+validated file "7UUZ_Repair_46_1.pdb" => successfully finished
+validated file "7UUZ_Repair_46_2.pdb" => successfully finished
+validated file "7UUZ_Repair_47_0.pdb" => successfully finished
+validated file "7UUZ_Repair_47_1.pdb" => successfully finished
+validated file "7UUZ_Repair_47_2.pdb" => successfully finished
+validated file "7UUZ_Repair_48_0.pdb" => successfully finished
+validated file "7UUZ_Repair_48_1.pdb" => successfully finished
+validated file "7UUZ_Repair_48_2.pdb" => successfully finished
+validated file "7UUZ_Repair_49_0.pdb" => successfully finished
+validated file "7UUZ_Repair_49_1.pdb" => successfully finished
+validated file "7UUZ_Repair_49_2.pdb" => successfully finished
+validated file "7UUZ_Repair_50_0.pdb" => successfully finished
+validated file "7UUZ_Repair_50_1.pdb" => successfully finished
+validated file "7UUZ_Repair_50_2.pdb" => successfully finished
+validated file "7UUZ_Repair_51_0.pdb" => successfully finished
+validated file "7UUZ_Repair_51_1.pdb" => successfully finished
+validated file "7UUZ_Repair_51_2.pdb" => successfully finished
+validated file "7UUZ_Repair_52_0.pdb" => successfully finished
+validated file "7UUZ_Repair_52_1.pdb" => successfully finished
+validated file "7UUZ_Repair_52_2.pdb" => successfully finished
+validated file "7UUZ_Repair_53_0.pdb" => successfully finished
+validated file "7UUZ_Repair_53_1.pdb" => successfully finished
+validated file "7UUZ_Repair_53_2.pdb" => successfully finished
+validated file "7UUZ_Repair_54_0.pdb" => successfully finished
+validated file "7UUZ_Repair_54_1.pdb" => successfully finished
+validated file "7UUZ_Repair_54_2.pdb" => successfully finished
+validated file "7UUZ_Repair_55_0.pdb" => successfully finished
+validated file "7UUZ_Repair_55_1.pdb" => successfully finished
+validated file "7UUZ_Repair_55_2.pdb" => successfully finished
+validated file "7UUZ_Repair_56_0.pdb" => successfully finished
+validated file "7UUZ_Repair_56_1.pdb" => successfully finished
+validated file "7UUZ_Repair_56_2.pdb" => successfully finished
+validated file "7UUZ_Repair_57_0.pdb" => successfully finished
+validated file "7UUZ_Repair_57_1.pdb" => successfully finished
+validated file "7UUZ_Repair_57_2.pdb" => successfully finished
+validated file "7UUZ_Repair_58_0.pdb" => successfully finished
+validated file "7UUZ_Repair_58_1.pdb" => successfully finished
+validated file "7UUZ_Repair_58_2.pdb" => successfully finished
+validated file "7UUZ_Repair_59_0.pdb" => successfully finished
+validated file "7UUZ_Repair_59_1.pdb" => successfully finished
+validated file "7UUZ_Repair_59_2.pdb" => successfully finished
+validated file "7UUZ_Repair_60_0.pdb" => successfully finished
+validated file "7UUZ_Repair_60_1.pdb" => successfully finished
+validated file "7UUZ_Repair_60_2.pdb" => successfully finished
+validated file "7UUZ_Repair_61_0.pdb" => successfully finished
+validated file "7UUZ_Repair_61_1.pdb" => successfully finished
+validated file "7UUZ_Repair_61_2.pdb" => successfully finished
+validated file "7UUZ_Repair_62_0.pdb" => successfully finished
+validated file "7UUZ_Repair_62_1.pdb" => successfully finished
+validated file "7UUZ_Repair_62_2.pdb" => successfully finished
+validated file "7UUZ_Repair_63_0.pdb" => successfully finished
+validated file "7UUZ_Repair_63_1.pdb" => successfully finished
+validated file "7UUZ_Repair_63_2.pdb" => successfully finished
+validated file "7UUZ_Repair_64_0.pdb" => successfully finished
+validated file "7UUZ_Repair_64_1.pdb" => successfully finished
+validated file "7UUZ_Repair_64_2.pdb" => successfully finished
+validated file "7UUZ_Repair_65_0.pdb" => successfully finished
+validated file "7UUZ_Repair_65_1.pdb" => successfully finished
+validated file "7UUZ_Repair_65_2.pdb" => successfully finished
+validated file "7UUZ_Repair_66_0.pdb" => successfully finished
+validated file "7UUZ_Repair_66_1.pdb" => successfully finished
+validated file "7UUZ_Repair_66_2.pdb" => successfully finished
+validated file "7UUZ_Repair_67_0.pdb" => successfully finished
+validated file "7UUZ_Repair_67_1.pdb" => successfully finished
+validated file "7UUZ_Repair_67_2.pdb" => successfully finished
+validated file "7UUZ_Repair_68_0.pdb" => successfully finished
+validated file "7UUZ_Repair_68_1.pdb" => successfully finished
+validated file "7UUZ_Repair_68_2.pdb" => successfully finished
+validated file "7UUZ_Repair_69_0.pdb" => successfully finished
+validated file "7UUZ_Repair_69_1.pdb" => successfully finished
+validated file "7UUZ_Repair_69_2.pdb" => successfully finished
+validated file "7UUZ_Repair_70_0.pdb" => successfully finished
+validated file "7UUZ_Repair_70_1.pdb" => successfully finished
+validated file "7UUZ_Repair_70_2.pdb" => successfully finished
+validated file "7UUZ_Repair_71_0.pdb" => successfully finished
+validated file "7UUZ_Repair_71_1.pdb" => successfully finished
+validated file "7UUZ_Repair_71_2.pdb" => successfully finished
+validated file "7UUZ_Repair_72_0.pdb" => successfully finished
+validated file "7UUZ_Repair_72_1.pdb" => successfully finished
+validated file "7UUZ_Repair_72_2.pdb" => successfully finished
+validated file "7UUZ_Repair_73_0.pdb" => successfully finished
+validated file "7UUZ_Repair_73_1.pdb" => successfully finished
+validated file "7UUZ_Repair_73_2.pdb" => successfully finished
+validated file "7UUZ_Repair_74_0.pdb" => successfully finished
+validated file "7UUZ_Repair_74_1.pdb" => successfully finished
+validated file "7UUZ_Repair_74_2.pdb" => successfully finished
+validated file "7UUZ_Repair_75_0.pdb" => successfully finished
+validated file "7UUZ_Repair_75_1.pdb" => successfully finished
+validated file "7UUZ_Repair_75_2.pdb" => successfully finished
+validated file "7UUZ_Repair_76_0.pdb" => successfully finished
+validated file "7UUZ_Repair_76_1.pdb" => successfully finished
+validated file "7UUZ_Repair_76_2.pdb" => successfully finished
+validated file "7UUZ_Repair_77_0.pdb" => successfully finished
+validated file "7UUZ_Repair_77_1.pdb" => successfully finished
+validated file "7UUZ_Repair_77_2.pdb" => successfully finished
+validated file "7UUZ_Repair_78_0.pdb" => successfully finished
+validated file "7UUZ_Repair_78_1.pdb" => successfully finished
+validated file "7UUZ_Repair_78_2.pdb" => successfully finished
+validated file "7UUZ_Repair_79_0.pdb" => successfully finished
+validated file "7UUZ_Repair_79_1.pdb" => successfully finished
+validated file "7UUZ_Repair_79_2.pdb" => successfully finished
+validated file "7UUZ_Repair_80_0.pdb" => successfully finished
+validated file "7UUZ_Repair_80_1.pdb" => successfully finished
+validated file "7UUZ_Repair_80_2.pdb" => successfully finished
+validated file "7UUZ_Repair_81_0.pdb" => successfully finished
+validated file "7UUZ_Repair_81_1.pdb" => successfully finished
+validated file "7UUZ_Repair_81_2.pdb" => successfully finished
+validated file "7UUZ_Repair_82_0.pdb" => successfully finished
+validated file "7UUZ_Repair_82_1.pdb" => successfully finished
+validated file "7UUZ_Repair_82_2.pdb" => successfully finished
+validated file "7UUZ_Repair_83_0.pdb" => successfully finished
+validated file "7UUZ_Repair_83_1.pdb" => successfully finished
+validated file "7UUZ_Repair_83_2.pdb" => successfully finished
+validated file "7UUZ_Repair_84_0.pdb" => successfully finished
+validated file "7UUZ_Repair_84_1.pdb" => successfully finished
+validated file "7UUZ_Repair_84_2.pdb" => successfully finished
+validated file "7UUZ_Repair_85_0.pdb" => successfully finished
+validated file "7UUZ_Repair_85_1.pdb" => successfully finished
+validated file "7UUZ_Repair_85_2.pdb" => successfully finished
+validated file "7UUZ_Repair_86_0.pdb" => successfully finished
+validated file "7UUZ_Repair_86_1.pdb" => successfully finished
+validated file "7UUZ_Repair_86_2.pdb" => successfully finished
+validated file "7UUZ_Repair_87_0.pdb" => successfully finished
+validated file "7UUZ_Repair_87_1.pdb" => successfully finished
+validated file "7UUZ_Repair_87_2.pdb" => successfully finished
+validated file "7UUZ_Repair_88_0.pdb" => successfully finished
+validated file "7UUZ_Repair_88_1.pdb" => successfully finished
+validated file "7UUZ_Repair_88_2.pdb" => successfully finished
+validated file "7UUZ_Repair_89_0.pdb" => successfully finished
+validated file "7UUZ_Repair_89_1.pdb" => successfully finished
+validated file "7UUZ_Repair_89_2.pdb" => successfully finished
+validated file "7UUZ_Repair_90_0.pdb" => successfully finished
+validated file "7UUZ_Repair_90_1.pdb" => successfully finished
+validated file "7UUZ_Repair_90_2.pdb" => successfully finished
+validated file "7UUZ_Repair_91_0.pdb" => successfully finished
+validated file "7UUZ_Repair_91_1.pdb" => successfully finished
+validated file "7UUZ_Repair_91_2.pdb" => successfully finished
+validated file "7UUZ_Repair_92_0.pdb" => successfully finished
+validated file "7UUZ_Repair_92_1.pdb" => successfully finished
+validated file "7UUZ_Repair_92_2.pdb" => successfully finished
+validated file "7UUZ_Repair_93_0.pdb" => successfully finished
+validated file "7UUZ_Repair_93_1.pdb" => successfully finished
+validated file "7UUZ_Repair_93_2.pdb" => successfully finished
+validated file "7UUZ_Repair_94_0.pdb" => successfully finished
+validated file "7UUZ_Repair_94_1.pdb" => successfully finished
+validated file "7UUZ_Repair_94_2.pdb" => successfully finished
+validated file "7UUZ_Repair_95_0.pdb" => successfully finished
+validated file "7UUZ_Repair_95_1.pdb" => successfully finished
+validated file "7UUZ_Repair_95_2.pdb" => successfully finished
+validated file "7UUZ_Repair_96_0.pdb" => successfully finished
+validated file "7UUZ_Repair_96_1.pdb" => successfully finished
+validated file "7UUZ_Repair_96_2.pdb" => successfully finished
+validated file "7UUZ_Repair_97_0.pdb" => successfully finished
+validated file "7UUZ_Repair_97_1.pdb" => successfully finished
+validated file "7UUZ_Repair_97_2.pdb" => successfully finished
+validated file "7UUZ_Repair_98_0.pdb" => successfully finished
+validated file "7UUZ_Repair_98_1.pdb" => successfully finished
+validated file "7UUZ_Repair_98_2.pdb" => successfully finished
+validated file "7UUZ_Repair_99_0.pdb" => successfully finished
+validated file "7UUZ_Repair_99_1.pdb" => successfully finished
+validated file "7UUZ_Repair_99_2.pdb" => successfully finished
+validated file "7UUZ_Repair_100_0.pdb" => successfully finished
+validated file "7UUZ_Repair_100_1.pdb" => successfully finished
+validated file "7UUZ_Repair_100_2.pdb" => successfully finished
+validated file "7UUZ_Repair_101_0.pdb" => successfully finished
+validated file "7UUZ_Repair_101_1.pdb" => successfully finished
+validated file "7UUZ_Repair_101_2.pdb" => successfully finished
+validated file "7UUZ_Repair_102_0.pdb" => successfully finished
+validated file "7UUZ_Repair_102_1.pdb" => successfully finished
+validated file "7UUZ_Repair_102_2.pdb" => successfully finished
+validated file "7UUZ_Repair_103_0.pdb" => successfully finished
+validated file "7UUZ_Repair_103_1.pdb" => successfully finished
+validated file "7UUZ_Repair_103_2.pdb" => successfully finished
+validated file "7UUZ_Repair_104_0.pdb" => successfully finished
+validated file "7UUZ_Repair_104_1.pdb" => successfully finished
+validated file "7UUZ_Repair_104_2.pdb" => successfully finished
+validated file "7UUZ_Repair_105_0.pdb" => successfully finished
+validated file "7UUZ_Repair_105_1.pdb" => successfully finished
+validated file "7UUZ_Repair_105_2.pdb" => successfully finished
+validated file "7UUZ_Repair_106_0.pdb" => successfully finished
+validated file "7UUZ_Repair_106_1.pdb" => successfully finished
+validated file "7UUZ_Repair_106_2.pdb" => successfully finished
+validated file "7UUZ_Repair_107_0.pdb" => successfully finished
+validated file "7UUZ_Repair_107_1.pdb" => successfully finished
+validated file "7UUZ_Repair_107_2.pdb" => successfully finished
+validated file "7UUZ_Repair_108_0.pdb" => successfully finished
+validated file "7UUZ_Repair_108_1.pdb" => successfully finished
+validated file "7UUZ_Repair_108_2.pdb" => successfully finished
+validated file "7UUZ_Repair_109_0.pdb" => successfully finished
+validated file "7UUZ_Repair_109_1.pdb" => successfully finished
+validated file "7UUZ_Repair_109_2.pdb" => successfully finished
+validated file "7UUZ_Repair_110_0.pdb" => successfully finished
+validated file "7UUZ_Repair_110_1.pdb" => successfully finished
+validated file "7UUZ_Repair_110_2.pdb" => successfully finished
+validated file "7UUZ_Repair_111_0.pdb" => successfully finished
+validated file "7UUZ_Repair_111_1.pdb" => successfully finished
+validated file "7UUZ_Repair_111_2.pdb" => successfully finished
+validated file "7UUZ_Repair_112_0.pdb" => successfully finished
+validated file "7UUZ_Repair_112_1.pdb" => successfully finished
+validated file "7UUZ_Repair_112_2.pdb" => successfully finished
+validated file "7UUZ_Repair_113_0.pdb" => successfully finished
+validated file "7UUZ_Repair_113_1.pdb" => successfully finished
+validated file "7UUZ_Repair_113_2.pdb" => successfully finished
+validated file "7UUZ_Repair_114_0.pdb" => successfully finished
+validated file "7UUZ_Repair_114_1.pdb" => successfully finished
+validated file "7UUZ_Repair_114_2.pdb" => successfully finished
+validated file "7UUZ_Repair_115_0.pdb" => successfully finished
+validated file "7UUZ_Repair_115_1.pdb" => successfully finished
+validated file "7UUZ_Repair_115_2.pdb" => successfully finished
+validated file "7UUZ_Repair_116_0.pdb" => successfully finished
+validated file "7UUZ_Repair_116_1.pdb" => successfully finished
+validated file "7UUZ_Repair_116_2.pdb" => successfully finished
+validated file "7UUZ_Repair_117_0.pdb" => successfully finished
+validated file "7UUZ_Repair_117_1.pdb" => successfully finished
+validated file "7UUZ_Repair_117_2.pdb" => successfully finished
+validated file "7UUZ_Repair_118_0.pdb" => successfully finished
+validated file "7UUZ_Repair_118_1.pdb" => successfully finished
+validated file "7UUZ_Repair_118_2.pdb" => successfully finished
+validated file "7UUZ_Repair_119_0.pdb" => successfully finished
+validated file "7UUZ_Repair_119_1.pdb" => successfully finished
+validated file "7UUZ_Repair_119_2.pdb" => successfully finished
+validated file "7UUZ_Repair_120_0.pdb" => successfully finished
+validated file "7UUZ_Repair_120_1.pdb" => successfully finished
+validated file "7UUZ_Repair_120_2.pdb" => successfully finished
+validated file "7UUZ_Repair_121_0.pdb" => successfully finished
+validated file "7UUZ_Repair_121_1.pdb" => successfully finished
+validated file "7UUZ_Repair_121_2.pdb" => successfully finished
+validated file "7UUZ_Repair_122_0.pdb" => successfully finished
+validated file "7UUZ_Repair_122_1.pdb" => successfully finished
+validated file "7UUZ_Repair_122_2.pdb" => successfully finished
+validated file "7UUZ_Repair_123_0.pdb" => successfully finished
+validated file "7UUZ_Repair_123_1.pdb" => successfully finished
+validated file "7UUZ_Repair_123_2.pdb" => successfully finished
+validated file "7UUZ_Repair_124_0.pdb" => successfully finished
+validated file "7UUZ_Repair_124_1.pdb" => successfully finished
+validated file "7UUZ_Repair_124_2.pdb" => successfully finished
+validated file "7UUZ_Repair_125_0.pdb" => successfully finished
+validated file "7UUZ_Repair_125_1.pdb" => successfully finished
+validated file "7UUZ_Repair_125_2.pdb" => successfully finished
+validated file "7UUZ_Repair_126_0.pdb" => successfully finished
+validated file "7UUZ_Repair_126_1.pdb" => successfully finished
+validated file "7UUZ_Repair_126_2.pdb" => successfully finished
+validated file "7UUZ_Repair_127_0.pdb" => successfully finished
+validated file "7UUZ_Repair_127_1.pdb" => successfully finished
+validated file "7UUZ_Repair_127_2.pdb" => successfully finished
+validated file "7UUZ_Repair_128_0.pdb" => successfully finished
+validated file "7UUZ_Repair_128_1.pdb" => successfully finished
+validated file "7UUZ_Repair_128_2.pdb" => successfully finished
+validated file "7UUZ_Repair_129_0.pdb" => successfully finished
+validated file "7UUZ_Repair_129_1.pdb" => successfully finished
+validated file "7UUZ_Repair_129_2.pdb" => successfully finished
+validated file "7UUZ_Repair_130_0.pdb" => successfully finished
+validated file "7UUZ_Repair_130_1.pdb" => successfully finished
+validated file "7UUZ_Repair_130_2.pdb" => successfully finished
+validated file "7UUZ_Repair_131_0.pdb" => successfully finished
+validated file "7UUZ_Repair_131_1.pdb" => successfully finished
+validated file "7UUZ_Repair_131_2.pdb" => successfully finished
+validated file "7UUZ_Repair_132_0.pdb" => successfully finished
+validated file "7UUZ_Repair_132_1.pdb" => successfully finished
+validated file "7UUZ_Repair_132_2.pdb" => successfully finished
+validated file "7UUZ_Repair_133_0.pdb" => successfully finished
+validated file "7UUZ_Repair_133_1.pdb" => successfully finished
+validated file "7UUZ_Repair_133_2.pdb" => successfully finished
+validated file "7UUZ_Repair_134_0.pdb" => successfully finished
+validated file "7UUZ_Repair_134_1.pdb" => successfully finished
+validated file "7UUZ_Repair_134_2.pdb" => successfully finished
+validated file "7UUZ_Repair_135_0.pdb" => successfully finished
+validated file "7UUZ_Repair_135_1.pdb" => successfully finished
+validated file "7UUZ_Repair_135_2.pdb" => successfully finished
+validated file "7UUZ_Repair_136_0.pdb" => successfully finished
+validated file "7UUZ_Repair_136_1.pdb" => successfully finished
+validated file "7UUZ_Repair_136_2.pdb" => successfully finished
+validated file "7UUZ_Repair_137_0.pdb" => successfully finished
+validated file "7UUZ_Repair_137_1.pdb" => successfully finished
+validated file "7UUZ_Repair_137_2.pdb" => successfully finished
+validated file "7UUZ_Repair_138_0.pdb" => successfully finished
+validated file "7UUZ_Repair_138_1.pdb" => successfully finished
+validated file "7UUZ_Repair_138_2.pdb" => successfully finished
+validated file "7UUZ_Repair_139_0.pdb" => successfully finished
+validated file "7UUZ_Repair_139_1.pdb" => successfully finished
+validated file "7UUZ_Repair_139_2.pdb" => successfully finished
+validated file "7UUZ_Repair_140_0.pdb" => successfully finished
+validated file "7UUZ_Repair_140_1.pdb" => successfully finished
+validated file "7UUZ_Repair_140_2.pdb" => successfully finished
+validated file "7UUZ_Repair_141_0.pdb" => successfully finished
+validated file "7UUZ_Repair_141_1.pdb" => successfully finished
+validated file "7UUZ_Repair_141_2.pdb" => successfully finished
+validated file "7UUZ_Repair_142_0.pdb" => successfully finished
+validated file "7UUZ_Repair_142_1.pdb" => successfully finished
+validated file "7UUZ_Repair_142_2.pdb" => successfully finished
+validated file "7UUZ_Repair_143_0.pdb" => successfully finished
+validated file "7UUZ_Repair_143_1.pdb" => successfully finished
+validated file "7UUZ_Repair_143_2.pdb" => successfully finished
+validated file "7UUZ_Repair_144_0.pdb" => successfully finished
+validated file "7UUZ_Repair_144_1.pdb" => successfully finished
+validated file "7UUZ_Repair_144_2.pdb" => successfully finished
+validated file "7UUZ_Repair_145_0.pdb" => successfully finished
+validated file "7UUZ_Repair_145_1.pdb" => successfully finished
+validated file "7UUZ_Repair_145_2.pdb" => successfully finished
+validated file "7UUZ_Repair_146_0.pdb" => successfully finished
+validated file "7UUZ_Repair_146_1.pdb" => successfully finished
+validated file "7UUZ_Repair_146_2.pdb" => successfully finished
+validated file "7UUZ_Repair_147_0.pdb" => successfully finished
+validated file "7UUZ_Repair_147_1.pdb" => successfully finished
+validated file "7UUZ_Repair_147_2.pdb" => successfully finished
+validated file "7UUZ_Repair_148_0.pdb" => successfully finished
+validated file "7UUZ_Repair_148_1.pdb" => successfully finished
+validated file "7UUZ_Repair_148_2.pdb" => successfully finished
+validated file "7UUZ_Repair_149_0.pdb" => successfully finished
+validated file "7UUZ_Repair_149_1.pdb" => successfully finished
+validated file "7UUZ_Repair_149_2.pdb" => successfully finished
+validated file "7UUZ_Repair_150_0.pdb" => successfully finished
+validated file "7UUZ_Repair_150_1.pdb" => successfully finished
+validated file "7UUZ_Repair_150_2.pdb" => successfully finished
+validated file "7UUZ_Repair_151_0.pdb" => successfully finished
+validated file "7UUZ_Repair_151_1.pdb" => successfully finished
+validated file "7UUZ_Repair_151_2.pdb" => successfully finished
+validated file "7UUZ_Repair_152_0.pdb" => successfully finished
+validated file "7UUZ_Repair_152_1.pdb" => successfully finished
+validated file "7UUZ_Repair_152_2.pdb" => successfully finished
+validated file "7UUZ_Repair_153_0.pdb" => successfully finished
+validated file "7UUZ_Repair_153_1.pdb" => successfully finished
+validated file "7UUZ_Repair_153_2.pdb" => successfully finished
+validated file "7UUZ_Repair_154_0.pdb" => successfully finished
+validated file "7UUZ_Repair_154_1.pdb" => successfully finished
+validated file "7UUZ_Repair_154_2.pdb" => successfully finished
+validated file "7UUZ_Repair_155_0.pdb" => successfully finished
+validated file "7UUZ_Repair_155_1.pdb" => successfully finished
+validated file "7UUZ_Repair_155_2.pdb" => successfully finished
+validated file "7UUZ_Repair_156_0.pdb" => successfully finished
+validated file "7UUZ_Repair_156_1.pdb" => successfully finished
+validated file "7UUZ_Repair_156_2.pdb" => successfully finished
+validated file "7UUZ_Repair_157_0.pdb" => successfully finished
+validated file "7UUZ_Repair_157_1.pdb" => successfully finished
+validated file "7UUZ_Repair_157_2.pdb" => successfully finished
+validated file "7UUZ_Repair_158_0.pdb" => successfully finished
+validated file "7UUZ_Repair_158_1.pdb" => successfully finished
+validated file "7UUZ_Repair_158_2.pdb" => successfully finished
+validated file "7UUZ_Repair_159_0.pdb" => successfully finished
+validated file "7UUZ_Repair_159_1.pdb" => successfully finished
+validated file "7UUZ_Repair_159_2.pdb" => successfully finished
+validated file "7UUZ_Repair_160_0.pdb" => successfully finished
+validated file "7UUZ_Repair_160_1.pdb" => successfully finished
+validated file "7UUZ_Repair_160_2.pdb" => successfully finished
+validated file "7UUZ_Repair_161_0.pdb" => successfully finished
+validated file "7UUZ_Repair_161_1.pdb" => successfully finished
+validated file "7UUZ_Repair_161_2.pdb" => successfully finished
+validated file "7UUZ_Repair_162_0.pdb" => successfully finished
+validated file "7UUZ_Repair_162_1.pdb" => successfully finished
+validated file "7UUZ_Repair_162_2.pdb" => successfully finished
+validated file "7UUZ_Repair_163_0.pdb" => successfully finished
+validated file "7UUZ_Repair_163_1.pdb" => successfully finished
+validated file "7UUZ_Repair_163_2.pdb" => successfully finished
+validated file "7UUZ_Repair_164_0.pdb" => successfully finished
+validated file "7UUZ_Repair_164_1.pdb" => successfully finished
+validated file "7UUZ_Repair_164_2.pdb" => successfully finished
+validated file "7UUZ_Repair_165_0.pdb" => successfully finished
+validated file "7UUZ_Repair_165_1.pdb" => successfully finished
+validated file "7UUZ_Repair_165_2.pdb" => successfully finished
+validated file "7UUZ_Repair_166_0.pdb" => successfully finished
+validated file "7UUZ_Repair_166_1.pdb" => successfully finished
+validated file "7UUZ_Repair_166_2.pdb" => successfully finished
+validated file "7UUZ_Repair_167_0.pdb" => successfully finished
+validated file "7UUZ_Repair_167_1.pdb" => successfully finished
+validated file "7UUZ_Repair_167_2.pdb" => successfully finished
+validated file "7UUZ_Repair_168_0.pdb" => successfully finished
+validated file "7UUZ_Repair_168_1.pdb" => successfully finished
+validated file "7UUZ_Repair_168_2.pdb" => successfully finished
+validated file "7UUZ_Repair_169_0.pdb" => successfully finished
+validated file "7UUZ_Repair_169_1.pdb" => successfully finished
+validated file "7UUZ_Repair_169_2.pdb" => successfully finished
+validated file "7UUZ_Repair_170_0.pdb" => successfully finished
+validated file "7UUZ_Repair_170_1.pdb" => successfully finished
+validated file "7UUZ_Repair_170_2.pdb" => successfully finished
+validated file "7UUZ_Repair_171_0.pdb" => successfully finished
+validated file "7UUZ_Repair_171_1.pdb" => successfully finished
+validated file "7UUZ_Repair_171_2.pdb" => successfully finished
+validated file "7UUZ_Repair_172_0.pdb" => successfully finished
+validated file "7UUZ_Repair_172_1.pdb" => successfully finished
+validated file "7UUZ_Repair_172_2.pdb" => successfully finished
+validated file "7UUZ_Repair_173_0.pdb" => successfully finished
+validated file "7UUZ_Repair_173_1.pdb" => successfully finished
+validated file "7UUZ_Repair_173_2.pdb" => successfully finished
+validated file "7UUZ_Repair_174_0.pdb" => successfully finished
+validated file "7UUZ_Repair_174_1.pdb" => successfully finished
+validated file "7UUZ_Repair_174_2.pdb" => successfully finished
+validated file "7UUZ_Repair_175_0.pdb" => successfully finished
+validated file "7UUZ_Repair_175_1.pdb" => successfully finished
+validated file "7UUZ_Repair_175_2.pdb" => successfully finished
+validated file "7UUZ_Repair_176_0.pdb" => successfully finished
+validated file "7UUZ_Repair_176_1.pdb" => successfully finished
+validated file "7UUZ_Repair_176_2.pdb" => successfully finished
+validated file "7UUZ_Repair_177_0.pdb" => successfully finished
+validated file "7UUZ_Repair_177_1.pdb" => successfully finished
+validated file "7UUZ_Repair_177_2.pdb" => successfully finished
+validated file "7UUZ_Repair_178_0.pdb" => successfully finished
+validated file "7UUZ_Repair_178_1.pdb" => successfully finished
+validated file "7UUZ_Repair_178_2.pdb" => successfully finished
+validated file "7UUZ_Repair_179_0.pdb" => successfully finished
+validated file "7UUZ_Repair_179_1.pdb" => successfully finished
+validated file "7UUZ_Repair_179_2.pdb" => successfully finished
+validated file "7UUZ_Repair_180_0.pdb" => successfully finished
+validated file "7UUZ_Repair_180_1.pdb" => successfully finished
+validated file "7UUZ_Repair_180_2.pdb" => successfully finished
+validated file "7UUZ_Repair_181_0.pdb" => successfully finished
+validated file "7UUZ_Repair_181_1.pdb" => successfully finished
+validated file "7UUZ_Repair_181_2.pdb" => successfully finished
+validated file "7UUZ_Repair_182_0.pdb" => successfully finished
+validated file "7UUZ_Repair_182_1.pdb" => successfully finished
+validated file "7UUZ_Repair_182_2.pdb" => successfully finished
+Cleaning BuildModel...DONE

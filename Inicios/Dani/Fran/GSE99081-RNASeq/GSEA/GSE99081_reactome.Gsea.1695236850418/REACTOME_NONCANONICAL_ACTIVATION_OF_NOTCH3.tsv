@@ -1,0 +1,9 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	APH1B	anterior pharynx defective 1 homolog B (C. elegans)	246	0.999388575553894	0.27809504	Yes	
+row_1	YBX1	Y box binding protein 1	963	0.6553342342376709	0.4262792	Yes	
+row_2	NOTCH3	Notch homolog 3 (Drosophila)	1522	0.5256531238555908	0.5461449	Yes	
+row_3	PSENEN	presenilin enhancer 2 homolog (C. elegans)	1707	0.5000136494636536	0.6815281	Yes	
+row_4	NCSTN	nicastrin	10343	-0.04748718440532684	0.16348837	No	
+row_5	PSEN1	presenilin 1 (Alzheimer disease 3)	11269	-0.12677215039730072	0.14370088	No	
+row_6	APH1A	anterior pharynx defective 1 homolog A (C. elegans)	12732	-0.2685146927833557	0.13242207	No	
+row_7	PSEN2	presenilin 2 (Alzheimer disease 4)	12879	-0.28480765223503113	0.20699853	No	

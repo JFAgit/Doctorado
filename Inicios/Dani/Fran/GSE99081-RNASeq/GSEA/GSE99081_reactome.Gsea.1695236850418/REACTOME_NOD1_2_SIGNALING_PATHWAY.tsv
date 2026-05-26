@@ -1,0 +1,32 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAPK13	mitogen-activated protein kinase 13	1947	0.4908200204372406	-0.08710877	No	
+row_1	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.055579655	No	
+row_2	MAPK12	mitogen-activated protein kinase 12	2585	0.3994109034538269	-0.066659495	No	
+row_3	CARD9	caspase recruitment domain family, member 9	2756	0.373655766248703	-0.052017603	No	
+row_4	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.027188655	No	
+row_5	CASP2	caspase 2, apoptosis-related cysteine peptidase (neural precursor cell expressed, developmentally down-regulated 2)	2856	0.35849589109420776	-0.008877568	No	
+row_6	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.0720764	No	
+row_7	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.11172974	No	
+row_8	AAMP	angio-associated, migratory cell protein	5158	0.14144140481948853	-0.11467943	No	
+row_9	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.15151492	No	
+row_10	MAPK14	mitogen-activated protein kinase 14	6828	0.019619107246398926	-0.21034722	No	
+row_11	MAPK11	mitogen-activated protein kinase 11	7000	0.01112711988389492	-0.22014856	No	
+row_12	TRAF6	TNF receptor-associated factor 6	9581	-0.006803732365369797	-0.3788618	No	
+row_13	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10616	-0.06843732297420502	-0.43805084	No	
+row_14	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	10897	-0.09362619370222092	-0.44902843	No	
+row_15	MAP2K6	mitogen-activated protein kinase kinase 6	11371	-0.1354490965604782	-0.46910024	No	
+row_16	CASP9	caspase 9, apoptosis-related cysteine peptidase	11397	-0.13848768174648285	-0.46132874	No	
+row_17	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	11909	-0.18438878655433655	-0.48045352	No	
+row_18	IRAK1	interleukin-1 receptor-associated kinase 1	11934	-0.18661735951900482	-0.4693834	No	
+row_19	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.46445915	No	
+row_20	UBE2V1	ubiquitin-conjugating enzyme E2 variant 1	12528	-0.24797683954238892	-0.47579083	No	
+row_21	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.46252635	No	
+row_22	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5284368	No	
+row_23	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.54656637	Yes	
+row_24	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.50459236	Yes	
+row_25	IRAK2	interleukin-1 receptor-associated kinase 2	15629	-0.9027673006057739	-0.4546123	Yes	
+row_26	UBB	ubiquitin B	15642	-0.9178993105888367	-0.39362013	Yes	
+row_27	CASP4	caspase 4, apoptosis-related cysteine peptidase	15770	-1.060909628868103	-0.3301047	Yes	
+row_28	RIPK2	receptor-interacting serine-threonine kinase 2	15960	-1.4401028156280518	-0.24491201	Yes	
+row_29	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	16063	-1.9208704233169556	-0.12201832	Yes	
+row_30	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	0.010056234	Yes	

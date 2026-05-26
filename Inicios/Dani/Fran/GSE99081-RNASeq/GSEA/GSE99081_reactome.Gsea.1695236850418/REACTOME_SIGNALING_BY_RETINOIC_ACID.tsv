@@ -1,0 +1,43 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDK3	pyruvate dehydrogenase kinase, isozyme 3	24	1.683024525642395	0.11137179	Yes	
+row_1	PPARD	peroxisome proliferative activated receptor, delta	236	1.0137914419174194	0.16632423	Yes	
+row_2	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	390	0.8814048171043396	0.21598029	Yes	
+row_3	RDH10	retinol dehydrogenase 10 (all-trans)	610	0.779132068157196	0.254704	Yes	
+row_4	PDK4	pyruvate dehydrogenase kinase, isozyme 4	631	0.7680419683456421	0.30496952	Yes	
+row_5	RDH16	retinol dehydrogenase 16 (all-trans)	660	0.7588115334510803	0.35412225	Yes	
+row_6	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	1331	0.5655260682106018	0.35067987	Yes	
+row_7	PDK2	pyruvate dehydrogenase kinase, isozyme 2	2119	0.46582573652267456	0.33332908	Yes	
+row_8	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	2153	0.4618176817893982	0.3622585	Yes	
+row_9	FABP5	fatty acid binding protein 5 (psoriasis-associated)	2396	0.42599236965179443	0.37588286	Yes	
+row_10	ALDH8A1	aldehyde dehydrogenase 8 family, member A1	2591	0.3982992470264435	0.39061362	Yes	
+row_11	PDHA2	pyruvate dehydrogenase (lipoamide) alpha 2	2941	0.3490283191204071	0.39247146	Yes	
+row_12	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	3144	0.3267757296562195	0.4019124	Yes	
+row_13	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	3174	0.3226655423641205	0.42175806	Yes	
+row_14	DHRS9	dehydrogenase/reductase (SDR family) member 9	3352	0.303789347410202	0.43120107	Yes	
+row_15	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	3544	0.2844189703464508	0.4384809	Yes	
+row_16	RXRB	retinoid X receptor, beta	3623	0.27562907338142395	0.4521475	Yes	
+row_17	RARA	retinoic acid receptor, alpha	3664	0.27063190937042236	0.467825	Yes	
+row_18	DLD	dihydrolipoamide dehydrogenase	3861	0.2531155049800873	0.47269714	Yes	
+row_19	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	3949	0.24605056643486023	0.4838248	Yes	
+row_20	DHRS4	dehydrogenase/reductase (SDR family) member 4	4254	0.22365209460258484	0.48005378	No	
+row_21	CRABP2	cellular retinoic acid binding protein 2	5282	0.13138222694396973	0.42546058	No	
+row_22	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	5854	0.08796253055334091	0.39610755	No	
+row_23	CRABP1	cellular retinoic acid binding protein 1	6014	0.07432960718870163	0.3912756	No	
+row_24	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.39213455	No	
+row_25	PDHX	pyruvate dehydrogenase complex, component X	7054	0.008122919127345085	0.33242488	No	
+row_26	RXRG	retinoid X receptor, gamma	7783	0.0	0.28748104	No	
+row_27	ALDH1A2	aldehyde dehydrogenase 1 family, member A2	9439	-1.6813743059174158E-5	0.18530905	No	
+row_28	PDHB	pyruvate dehydrogenase (lipoamide) beta	9815	-0.01745983213186264	0.1633288	No	
+row_29	CYP26C1	cytochrome P450, family 26, subfamily C, polypeptide 1	10160	-0.0339135006070137	0.14436564	No	
+row_30	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide	10206	-0.03786112740635872	0.14412627	No	
+row_31	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	10281	-0.04309438541531563	0.14244744	No	
+row_32	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	10377	-0.04957422614097595	0.13990667	No	
+row_33	RDH14	retinol dehydrogenase 14 (all-trans/9-cis/11-cis)	10849	-0.08876582235097885	0.11678111	No	
+row_34	DHRS3	dehydrogenase/reductase (SDR family) member 3	11949	-0.18801505863666534	0.061540373	No	
+row_35	PDK1	pyruvate dehydrogenase kinase, isozyme 1	12413	-0.23478099703788757	0.04869959	No	
+row_36	RARG	retinoic acid receptor, gamma	13680	-0.39131370186805725	-0.003219078	No	
+row_37	CYP26B1	cytochrome P450, family 26, subfamily B, polypeptide 1	13795	-0.41021427512168884	0.017249506	No	
+row_38	CPT1A	carnitine palmitoyltransferase 1A (liver)	13870	-0.4207844138145447	0.040896304	No	
+row_39	RDH13	retinol dehydrogenase 13 (all-trans/9-cis)	14493	-0.5000020861625671	0.03602362	No	
+row_40	CPT1B	carnitine palmitoyltransferase 1B (muscle)	14570	-0.5104824304580688	0.06556155	No	
+row_41	RARB	retinoic acid receptor, beta	14768	-0.5579706430435181	0.0908137	No	

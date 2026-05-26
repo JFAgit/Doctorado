@@ -1,0 +1,21 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GRIN2B	glutamate receptor, ionotropic, N-methyl D-aspartate 2B	286	0.9634016156196594	0.13339403	Yes	
+row_1	CAMK2B	calcium/calmodulin-dependent protein kinase (CaM kinase) II beta	1026	0.6367067694664001	0.18764564	Yes	
+row_2	RASGRF1	Ras protein-specific guanine nucleotide-releasing factor 1	1824	0.49990618228912354	0.21687602	Yes	
+row_3	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	1980	0.48683157563209534	0.28363752	Yes	
+row_4	DLG3	discs, large homolog 3 (neuroendocrine-dlg, Drosophila)	2592	0.39819255471229553	0.3083902	Yes	
+row_5	NRAS	neuroblastoma RAS viral (v-ras) oncogene homolog	2790	0.36793023347854614	0.35392287	Yes	
+row_6	ACTN2	actinin, alpha 2	2944	0.3485800623893738	0.39913484	Yes	
+row_7	CAMK2A	calcium/calmodulin-dependent protein kinase (CaM kinase) II alpha	3133	0.3282250761985779	0.43899807	Yes	
+row_8	DLG4	discs, large homolog 4 (Drosophila)	3556	0.28292712569236755	0.45733356	Yes	
+row_9	DLG1	discs, large homolog 1 (Drosophila)	3606	0.27784186601638794	0.49786818	Yes	
+row_10	CAMK2G	calcium/calmodulin-dependent protein kinase (CaM kinase) II gamma	4141	0.23122325539588928	0.5011933	Yes	
+row_11	NEFL	neurofilament, light polypeptide 68kDa	6948	0.013315090909600258	0.33028433	No	
+row_12	LRRC7	leucine rich repeat containing 7	7044	0.008288860321044922	0.32572675	No	
+row_13	CAMK2D	calcium/calmodulin-dependent protein kinase (CaM kinase) II delta	7355	4.6688636956560003E-8	0.30661455	No	
+row_14	GRIN1	glutamate receptor, ionotropic, N-methyl D-aspartate 1	7371	2.7289197568336476E-9	0.30568978	No	
+row_15	CALM1	calmodulin 1 (phosphorylase kinase, delta)	10623	-0.06880590319633484	0.11604449	No	
+row_16	RASGRF2	Ras protein-specific guanine nucleotide-releasing factor 2	10894	-0.09255628287792206	0.11390786	No	
+row_17	DLG2	discs, large homolog 2, chapsyn-110 (Drosophila)	12238	-0.21759724617004395	0.06522024	No	
+row_18	HRAS	v-Ha-ras Harvey rat sarcoma viral oncogene homolog	12934	-0.29192376136779785	0.06813501	No	
+row_19	GRIN2D	glutamate receptor, ionotropic, N-methyl D-aspartate 2D	15576	-0.8647664189338684	0.04087548	No	

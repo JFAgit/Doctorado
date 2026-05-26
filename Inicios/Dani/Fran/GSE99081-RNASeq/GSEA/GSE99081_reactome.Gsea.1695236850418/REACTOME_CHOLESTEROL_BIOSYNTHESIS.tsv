@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	109	1.2591644525527954	0.10372855	Yes	
+row_1	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	213	1.0462958812713623	0.18915497	Yes	
+row_2	TM7SF2	transmembrane 7 superfamily member 2	346	0.9143291115760803	0.2612176	Yes	
+row_3	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	459	0.8524973392486572	0.32908976	Yes	
+row_4	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	693	0.7440686821937561	0.3799901	Yes	
+row_5	FDFT1	farnesyl-diphosphate farnesyltransferase 1	824	0.6946921944618225	0.43291026	Yes	
+row_6	IDI1	isopentenyl-diphosphate delta isomerase 1	867	0.6830364465713501	0.4902341	Yes	
+row_7	EBP	emopamil binding protein (sterol isomerase)	1257	0.5816598534584045	0.51726955	Yes	
+row_8	SQLE	squalene epoxidase	1273	0.5780948996543884	0.56705314	Yes	
+row_9	MVD	mevalonate (diphospho) decarboxylase	1300	0.5726819634437561	0.6156836	Yes	
+row_10	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	1305	0.5709208250045776	0.66551614	Yes	
+row_11	HSD17B7	hydroxysteroid (17-beta) dehydrogenase 7	1329	0.5658037662506104	0.7137283	Yes	
+row_12	LBR	lamin B receptor	2335	0.4351349174976349	0.6899286	No	
+row_13	NSDHL	NAD(P) dependent steroid dehydrogenase-like	2835	0.36242154240608215	0.69095063	No	
+row_14	ACAT2	acetyl-Coenzyme A acetyltransferase 2 (acetoacetyl Coenzyme A thiolase)	3472	0.2914355993270874	0.67729867	No	
+row_15	PMVK	phosphomevalonate kinase	4776	0.1768389642238617	0.6124675	No	
+row_16	ARV1	ARV1 homolog (S. cerevisiae)	5623	0.10423477739095688	0.5694464	No	
+row_17	DHCR24	24-dehydrocholesterol reductase	5890	0.08507972955703735	0.5605078	No	
+row_18	DHCR7	7-dehydrocholesterol reductase	10610	-0.06814708560705185	0.2755124	No	
+row_19	IDI2	isopentenyl-diphosphate delta isomerase 2	10831	-0.08765590935945511	0.26963606	No	
+row_20	GGPS1	geranylgeranyl diphosphate synthase 1	12325	-0.22618551552295685	0.19741806	No	
+row_21	MVK	mevalonate kinase (mevalonic aciduria)	14435	-0.499985933303833	0.111234374	No	

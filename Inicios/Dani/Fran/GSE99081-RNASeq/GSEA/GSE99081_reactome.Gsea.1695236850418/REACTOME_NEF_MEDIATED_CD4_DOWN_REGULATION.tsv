@@ -1,0 +1,10 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARF1	ADP-ribosylation factor 1	251	0.9956437945365906	0.27571878	Yes	
+row_1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	469	0.8484175205230713	0.510475	Yes	
+row_2	LCK	lymphocyte-specific protein tyrosine kinase	1591	0.5100494027137756	0.5905771	Yes	
+row_3	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	3683	0.26809626817703247	0.54015625	No	
+row_4	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	5316	0.1289536952972412	0.47732133	No	
+row_5	AP2M1	adaptor-related protein complex 2, mu 1 subunit	6117	0.06688635796308517	0.4475943	No	
+row_6	CD4	CD4 molecule	9668	-0.010678748600184917	0.23200013	No	
+row_7	AP2B1	adaptor-related protein complex 2, beta 1 subunit	11407	-0.13952404260635376	0.16572587	No	
+row_8	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	14053	-0.45105600357055664	0.13468061	No	

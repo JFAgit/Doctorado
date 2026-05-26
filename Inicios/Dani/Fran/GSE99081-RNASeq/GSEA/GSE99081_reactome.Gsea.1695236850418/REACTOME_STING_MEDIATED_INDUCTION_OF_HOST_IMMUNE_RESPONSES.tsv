@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	2505	0.41181936860084534	-0.10845301	No	
+row_1	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.16352008	No	
+row_2	DTX4	deltex 4 homolog (Drosophila)	3993	0.24315132200717926	-0.14467591	No	
+row_3	DDX41	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	4246	0.2241719663143158	-0.13521804	No	
+row_4	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	5118	0.1466251015663147	-0.17254496	No	
+row_5	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	5583	0.10720045864582062	-0.18918747	No	
+row_6	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	15218	-0.6980328559875488	-0.70501524	Yes	
+row_7	TBK1	TANK-binding kinase 1	15405	-0.7883016467094421	-0.6286142	Yes	
+row_8	TREX1	three prime repair exonuclease 1	15760	-1.0510127544403076	-0.5332839	Yes	
+row_9	IFI16	interferon, gamma-inducible protein 16	16119	-2.374161958694458	-0.2907253	Yes	
+row_10	TRIM21	tripartite motif-containing 21	16147	-2.674187183380127	0.0056689023	Yes	

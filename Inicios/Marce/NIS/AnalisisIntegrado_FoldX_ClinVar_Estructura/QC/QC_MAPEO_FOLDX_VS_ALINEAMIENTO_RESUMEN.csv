@@ -1,0 +1,5 @@
+Structure,Alignment_Key,PDB_CA_Residues,Expected_Valid_Inputs_From_Alignment_And_PDB,Actual_FoldX_List_Inputs,OK,MISMATCH,Length_Matches
+7UUY,7UUY_Repair,503,632,632,632,0,True
+7UUZ,7UUZ_Repair,501,631,631,631,0,True
+7UV0,7UV0_Repair,501,627,627,627,0,True
+AF,AF-Q92911model_Repair,643,888,888,888,0,True

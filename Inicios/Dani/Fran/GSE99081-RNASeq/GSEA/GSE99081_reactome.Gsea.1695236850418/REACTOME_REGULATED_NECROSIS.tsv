@@ -1,0 +1,51 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL1A	interleukin 1, alpha	324	0.9325309991836548	0.011324823	No	
+row_1	HMGB1	high-mobility group box 1	1447	0.5391134023666382	-0.039860614	No	
+row_2	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.055639677	No	
+row_3	SDCBP	syndecan binding protein (syntenin)	2401	0.4252761900424957	-0.06796988	No	
+row_4	CYCS	cytochrome c, somatic	2888	0.3538222908973694	-0.08609842	No	
+row_5	STUB1	STIP1 homology and U-box containing protein 1	3535	0.28511831164360046	-0.11641835	No	
+row_6	IL18	interleukin 18 (interferon-gamma-inducing factor)	3807	0.2573053240776062	-0.124510475	No	
+row_7	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.13685933	No	
+row_8	CHMP2B	chromatin modifying protein 2B	4433	0.2083459496498108	-0.14826441	No	
+row_9	IL1B	interleukin 1, beta	4704	0.1824161261320114	-0.15881138	No	
+row_10	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.16878878	No	
+row_11	CHMP6	chromatin modifying protein 6	5579	0.10750044882297516	-0.20365682	No	
+row_12	CHMP2A	chromatin modifying protein 2A	5720	0.0964645966887474	-0.2090625	No	
+row_13	CFLAR	CASP8 and FADD-like apoptosis regulator	6000	0.0758376196026802	-0.22374688	No	
+row_14	CASP5	caspase 5, apoptosis-related cysteine peptidase	7370	4.898912386863685E-9	-0.30830523	No	
+row_15	CHMP7	CHMP family, member 7	10690	-0.0740177184343338	-0.510821	No	
+row_16	PELI1	pellino homolog 1 (Drosophila)	10727	-0.07750467956066132	-0.5104401	No	
+row_17	GZMB	granzyme B (granzyme 2, cytotoxic T-lymphocyte-associated serine esterase 1)	10785	-0.08354876935482025	-0.51115316	No	
+row_18	PDCD6IP	programmed cell death 6 interacting protein	10978	-0.09994018077850342	-0.5196539	No	
+row_19	CHMP4A	chromatin modifying protein 4A	11558	-0.15136109292507172	-0.55033034	No	
+row_20	TP53	tumor protein p53 (Li-Fraumeni syndrome)	11764	-0.17059336602687836	-0.5572598	No	
+row_21	FAS	Fas (TNF receptor superfamily, member 6)	11841	-0.17816279828548431	-0.555967	No	
+row_22	CDC37	CDC37 cell division cycle 37 homolog (S. cerevisiae)	11918	-0.18520385026931763	-0.5544376	No	
+row_23	OGT	O-linked N-acetylglucosamine (GlcNAc) transferase (UDP-N-acetylglucosamine:polypeptide-N-acetylglucosaminyl transferase)	12795	-0.2764045298099518	-0.59925663	No	
+row_24	RIPK3	receptor-interacting serine-threonine kinase 3	12963	-0.2953341007232666	-0.5996471	No	
+row_25	CHMP4B	chromatin modifying protein 4B	12996	-0.29998597502708435	-0.5915428	No	
+row_26	TNFRSF10A	tumor necrosis factor receptor superfamily, member 10a	13153	-0.320702463388443	-0.5904013	No	
+row_27	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	13633	-0.38394224643707275	-0.6070853	Yes	
+row_28	IRF2	interferon regulatory factor 2	13674	-0.3907041847705841	-0.5964266	Yes	
+row_29	TNFRSF10B	tumor necrosis factor receptor superfamily, member 10b	13723	-0.39732709527015686	-0.5860394	Yes	
+row_30	FLOT2	flotillin 2	14052	-0.45086750388145447	-0.5911477	Yes	
+row_31	CHMP4C	chromatin modifying protein 4C	14110	-0.46504366397857666	-0.5790409	Yes	
+row_32	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5673147	Yes	
+row_33	TRADD	TNFRSF1A-associated via death domain	14235	-0.48908931016921997	-0.554091	Yes	
+row_34	FLOT1	flotillin 1	14853	-0.58045494556427	-0.5726951	Yes	
+row_35	BAX	BCL2-associated X protein	15059	-0.6424059867858887	-0.5637695	Yes	
+row_36	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.543512	Yes	
+row_37	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.52207744	Yes	
+row_38	FASLG	Fas ligand (TNF superfamily, member 6)	15094	-0.6513888835906982	-0.50018793	Yes	
+row_39	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.49519315	Yes	
+row_40	UBB	ubiquitin B	15642	-0.9178993105888367	-0.475898	Yes	
+row_41	BAK1	BCL2-antagonist/killer 1	15657	-0.9322233200073242	-0.44543588	Yes	
+row_42	CASP3	caspase 3, apoptosis-related cysteine peptidase	15747	-1.0334548950195312	-0.41620445	Yes	
+row_43	CASP4	caspase 4, apoptosis-related cysteine peptidase	15770	-1.060909628868103	-0.38191205	Yes	
+row_44	TNFSF10	tumor necrosis factor (ligand) superfamily, member 10	15778	-1.0747753381729126	-0.3462272	Yes	
+row_45	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.30996913	Yes	
+row_46	CASP1	caspase 1, apoptosis-related cysteine peptidase (interleukin 1, beta, convertase)	16063	-1.9208704233169556	-0.2586374	Yes	
+row_47	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	-0.19301587	Yes	
+row_48	IRF1	interferon regulatory factor 1	16089	-2.0871143341064453	-0.12362079	Yes	
+row_49	MLKL	mixed lineage kinase domain-like	16210	-3.9525742530822754	0.0017912294	Yes	

@@ -1,0 +1,10 @@
+Variante,Clinical_Group,ClinVar_Final_Classification,Structural_Category_Consensus,Structural_Categories_By_Structure,DDG_7UUY,DDG_7UUZ,DDG_7UV0,DDG_AF,Experimental_Mean_DDG,Experimental_Max_DDG,Conformational_Range_Experimental,Most_Destabilizing_Experimental_State,Allele_Frequency,Literature_Label,Functional_Summary
+p.Arg273His,Benign_or_likely,Likely Benign,core,7UUY=core; 7UUZ=core; 7UV0=core; AF=core,-0.151426,13.376733,2.725587,1.25406,5.316964666666666,13.376733,13.528159,7UUZ_ReO4_Na,3.7170023119e-06,,
+p.Met435Leu,Benign_or_likely,Likely Benign,sitio activo,7UUY=core; 7UUZ=sitio activo; 7UV0=core; AF=core,2.30814,-0.010867,3.141197,-0.137691,1.8128233333333332,3.141197,3.152064,7UV0_I_Na,2.846529369e-06,,
+p.Pro236Leu,Benign_or_likely,Likely benign,core,7UUY=superficie; 7UUZ=superficie; 7UV0=core; AF=superficie,0.0,2.443507,0.066946,0.195805,0.8368176666666667,2.443507,2.443507,7UUZ_ReO4_Na,1.2391496954e-06,,
+p.Cys298Gly,Benign_or_likely,Likely benign,superficie,7UUY=superficie; 7UUZ=superficie; 7UV0=superficie; AF=superficie,-1.086505,0.0,0.169595,0.81978,-0.3056366666666667,0.169595,1.2561,7UV0_I_Na,0.0003910917844693,,
+p.Arg53His,Benign_or_likely,Likely benign,superficie,AF=superficie,,,,0.783626,,,,,0.0001781068790213,,
+p.Asp503Asn,Benign_or_likely,Benign/Likely benign,superficie,AF=superficie,,,,0.058193,,,,,0.0030884571859675,,
+p.Ala514Thr,Benign_or_likely,Likely Benign,superficie,AF=superficie,,,,0.366187,,,,,8.675133597e-06,,
+p.Arg611His,Benign_or_likely,Likely benign,superficie,AF=superficie,,,,0.732603,,,,,9.2964450394e-06,,
+p.Cys542=,Benign_or_likely,Benign/Likely benign,core,AF=core,,,,-0.440107,,,,,,,

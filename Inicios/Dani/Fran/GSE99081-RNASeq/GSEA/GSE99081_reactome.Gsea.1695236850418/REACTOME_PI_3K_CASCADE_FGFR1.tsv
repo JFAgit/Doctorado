@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	KL	klotho	10	1.877518653869629	0.2796768	Yes	
+row_1	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.38814458	Yes	
+row_2	FGF17	fibroblast growth factor 17	517	0.8234770894050598	0.50325054	Yes	
+row_3	GAB1	GRB2-associated binding protein 1	1421	0.5455151796340942	0.52901465	Yes	
+row_4	FGF1	fibroblast growth factor 1 (acidic)	1807	0.4999425709247589	0.5799131	Yes	
+row_5	FGF5	fibroblast growth factor 5	2883	0.3551464080810547	0.56665236	Yes	
+row_6	FGF2	fibroblast growth factor 2 (basic)	3073	0.3343360722064972	0.6049121	Yes	
+row_7	PIK3R1	phosphoinositide-3-kinase, regulatory subunit 1 (p85 alpha)	3142	0.3269236385822296	0.6495257	Yes	
+row_8	FRS2	fibroblast growth factor receptor substrate 2	4663	0.18565596640110016	0.5835249	No	
+row_9	GRB2	growth factor receptor-bound protein 2	6017	0.07420491427183151	0.5111822	No	
+row_10	FGF8	fibroblast growth factor 8 (androgen-induced)	6109	0.06736326962709427	0.5156281	No	
+row_11	FGF23	fibroblast growth factor 23	8299	0.0	0.38066295	No	
+row_12	FGF10	fibroblast growth factor 10	8301	0.0	0.38060132	No	
+row_13	FGF4	fibroblast growth factor 4 (heparin secretory transforming protein 1, Kaposi sarcoma oncogene)	8821	0.0	0.3486018	No	
+row_14	FGF6	fibroblast growth factor 6	8822	0.0	0.3486018	No	
+row_15	FGF9	fibroblast growth factor 9 (glia-activating factor)	8824	0.0	0.34854016	No	
+row_16	FGFR1	fibroblast growth factor receptor 1 (fms-related tyrosine kinase 2, Pfeiffer syndrome)	9260	-1.6447345229865574E-19	0.32171974	No	
+row_17	FGF3	fibroblast growth factor 3 (murine mammary tumor virus integration site (v-int-2) oncogene homolog)	10163	-0.034406110644340515	0.27124244	No	
+row_18	FGF20	fibroblast growth factor 20	11086	-0.10806290060281754	0.23052815	No	
+row_19	PIK3CA	phosphoinositide-3-kinase, catalytic, alpha polypeptide	12744	-0.2697557210922241	0.16863565	No	
+row_20	FGF22	fibroblast growth factor 22	13093	-0.3134228587150574	0.19397001	No	

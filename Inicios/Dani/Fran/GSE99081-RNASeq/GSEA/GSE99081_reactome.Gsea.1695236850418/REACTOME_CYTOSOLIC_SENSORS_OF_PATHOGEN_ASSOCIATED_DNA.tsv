@@ -1,0 +1,58 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	POLR2H	polymerase (RNA) II (DNA directed) polypeptide H	227	1.023707389831543	0.013389712	No	
+row_1	LRRFIP1	leucine rich repeat (in FLII) interacting protein 1	857	0.6855973601341248	-0.0071166703	No	
+row_2	POLR3B	polymerase (RNA) III (DNA directed) polypeptide B	950	0.6587817072868347	0.004841744	No	
+row_3	POLR3GL	polymerase (RNA) III (DNA directed) polypeptide G (32kD) like	1544	0.5205222964286804	-0.017861096	No	
+row_4	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	1637	0.5038970708847046	-0.010050779	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.01743294	No	
+row_6	PRKDC	protein kinase, DNA-activated, catalytic polypeptide	2505	0.41181936860084534	-0.03946304	No	
+row_7	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.045234695	No	
+row_8	DHX9	DEAH (Asp-Glu-Ala-His) box polypeptide 9	3102	0.3317188620567322	-0.05736035	No	
+row_9	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.09722838	No	
+row_10	DTX4	deltex 4 homolog (Drosophila)	3993	0.24315132200717926	-0.09899663	No	
+row_11	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.10144162	No	
+row_12	DDX41	DEAD (Asp-Glu-Ala-Asp) box polypeptide 41	4246	0.2241719663143158	-0.10229693	No	
+row_13	NKIRAS1	NFKB inhibitor interacting Ras-like 1	4288	0.2207268625497818	-0.09891898	No	
+row_14	POLR2L	polymerase (RNA) II (DNA directed) polypeptide L, 7.6kDa	4420	0.20990677177906036	-0.10139221	No	
+row_15	POLR2F	polymerase (RNA) II (DNA directed) polypeptide F	4989	0.1594892144203186	-0.13221934	No	
+row_16	XRCC6	X-ray repair complementing defective repair in Chinese hamster cells 6 (Ku autoantigen, 70kDa)	5118	0.1466251015663147	-0.136202	No	
+row_17	MYD88	myeloid differentiation primary response gene (88)	5233	0.13488861918449402	-0.13963385	No	
+row_18	XRCC5	X-ray repair complementing defective repair in Chinese hamster cells 5 (double-strand-break rejoining; Ku autoantigen, 80kDa)	5583	0.10720045864582062	-0.15832867	No	
+row_19	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.1725324	No	
+row_20	POLR2E	polymerase (RNA) II (DNA directed) polypeptide E, 25kDa	6097	0.06840197741985321	-0.185778	No	
+row_21	POLR3K	polymerase (RNA) III (DNA directed) polypeptide K, 12.3 kDa	6754	0.023041529580950737	-0.22569728	No	
+row_22	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6780	0.021860113367438316	-0.22665665	No	
+row_23	NKIRAS2	NFKB inhibitor interacting Ras-like 2	7336	3.179778502726549E-7	-0.26095188	No	
+row_24	POLR1D	polymerase (RNA) I polypeptide D, 16kDa	9859	-0.019578581675887108	-0.41627008	No	
+row_25	POLR2K	polymerase (RNA) II (DNA directed) polypeptide K, 7.0kDa	10029	-0.026816191151738167	-0.42599496	No	
+row_26	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.57740486	No	
+row_27	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	12951	-0.2939244210720062	-0.5917786	No	
+row_28	RIPK3	receptor-interacting serine-threonine kinase 3	12963	-0.2953341007232666	-0.5845487	No	
+row_29	POLR3E	polymerase (RNA) III (DNA directed) polypeptide E (80kD)	13329	-0.3416491150856018	-0.59795326	Yes	
+row_30	POLR3A	polymerase (RNA) III (DNA directed) polypeptide A, 155kDa	13404	-0.35181736946105957	-0.59310365	Yes	
+row_31	DHX36	DEAH (Asp-Glu-Ala-His) box polypeptide 36	13519	-0.3670988082885742	-0.5903165	Yes	
+row_32	TRIM32	tripartite motif-containing 32	13625	-0.38315752148628235	-0.5865431	Yes	
+row_33	POLR3C	polymerase (RNA) III (DNA directed) polypeptide C (62kD)	13843	-0.4167584478855133	-0.58879066	Yes	
+row_34	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	14125	-0.46714115142822266	-0.59364367	Yes	
+row_35	POLR3F	polymerase (RNA) III (DNA directed) polypeptide F, 39 kDa	14170	-0.47696980834007263	-0.5835884	Yes	
+row_36	POLR3H	polymerase (RNA) III (DNA directed) polypeptide H (22.9kD)	14173	-0.47789812088012695	-0.570913	Yes	
+row_37	UBC	ubiquitin C	14182	-0.47944867610931396	-0.55856687	Yes	
+row_38	POLR1C	polymerase (RNA) I polypeptide C, 30kDa	14200	-0.4819154739379883	-0.5467107	Yes	
+row_39	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	14524	-0.5008450150489807	-0.5532564	Yes	
+row_40	EP300	E1A binding protein p300	14599	-0.515784740447998	-0.54401547	Yes	
+row_41	POLR3D	polymerase (RNA) III (DNA directed) polypeptide D, 44kDa	14973	-0.615460216999054	-0.55058116	Yes	
+row_42	CTNNB1	catenin (cadherin-associated protein), beta 1, 88kDa	15058	-0.6419611573219299	-0.53857887	Yes	
+row_43	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	15212	-0.6961663365364075	-0.5293886	Yes	
+row_44	STAT6	signal transducer and activator of transcription 6, interleukin-4 induced	15218	-0.6980328559875488	-0.51100296	Yes	
+row_45	TBK1	TANK-binding kinase 1	15405	-0.7883016467094421	-0.5013844	Yes	
+row_46	UBB	ubiquitin B	15642	-0.9178993105888367	-0.4913845	Yes	
+row_47	TREX1	three prime repair exonuclease 1	15760	-1.0510127544403076	-0.47046626	Yes	
+row_48	POLR3G	polymerase (RNA) III (DNA directed) polypeptide G (32kD)	15821	-1.1564908027648926	-0.4432009	Yes	
+row_49	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.41251418	Yes	
+row_50	TICAM1	toll-like receptor adaptor molecule 1	15895	-1.280163288116455	-0.38107154	Yes	
+row_51	TRIM56	tripartite motif-containing 56	15987	-1.5473765134811401	-0.3452531	Yes	
+row_52	ZBP1	Z-DNA binding protein 1	15989	-1.5520950555801392	-0.30374694	Yes	
+row_53	IFI16	interferon, gamma-inducible protein 16	16119	-2.374161958694458	-0.24813381	Yes	
+row_54	TRIM21	tripartite motif-containing 21	16147	-2.674187183380127	-0.17818256	Yes	
+row_55	TLR3	toll-like receptor 3	16176	-3.069596290588379	-0.0977033	Yes	
+row_56	IRF7	interferon regulatory factor 7	16202	-3.79117751121521	0.002286607	Yes	

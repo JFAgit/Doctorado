@@ -1,0 +1,115 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC3	replication factor C (activator 1) 3, 38kDa	159	1.1410404443740845	0.015730668	No	
+row_1	UBE2C	ubiquitin-conjugating enzyme E2C	617	0.775463342666626	0.004782933	No	
+row_2	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.015578227	No	
+row_3	POLD4	polymerase (DNA-directed), delta 4	792	0.70516037940979	0.026432179	No	
+row_4	CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	1376	0.5554635524749756	0.0027369626	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.02302783	No	
+row_6	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	-0.036875345	No	
+row_7	POLD1	polymerase (DNA directed), delta 1, catalytic subunit 125kDa	2371	0.4302537143230438	-0.028466126	No	
+row_8	FZR1	fizzy/cell division cycle 20 related 1 (Drosophila)	2425	0.42285043001174927	-0.022269325	No	
+row_9	POLD2	polymerase (DNA directed), delta 2, regulatory subunit 50kDa	2446	0.4199826419353485	-0.014090459	No	
+row_10	GINS2	GINS complex subunit 2 (Psf2 homolog)	2599	0.39694908261299133	-0.014613711	No	
+row_11	GINS4	GINS complex subunit 4 (Sld5 homolog)	2767	0.37231945991516113	-0.016619517	No	
+row_12	RFC5	replication factor C (activator 1) 5, 36.5kDa	2905	0.3524482548236847	-0.01721063	No	
+row_13	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.023541238	No	
+row_14	ANAPC4	anaphase promoting complex subunit 4	3153	0.3257337212562561	-0.017786182	No	
+row_15	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	3196	0.3202706575393677	-0.013207848	No	
+row_16	FEN1	flap structure-specific endonuclease 1	3266	0.31312620639801025	-0.010464059	No	
+row_17	CDC26	cell division cycle 26	3373	0.30150723457336426	-0.010275284	No	
+row_18	RPA1	replication protein A1, 70kDa	3464	0.2921757400035858	-0.009303603	No	
+row_19	E2F1	E2F transcription factor 1	3531	0.28559666872024536	-0.006991194	No	
+row_20	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.011231038	No	
+row_21	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.0074391384	No	
+row_22	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	3752	0.26175928115844727	-0.0027467909	No	
+row_23	ANAPC5	anaphase promoting complex subunit 5	3930	0.24818015098571777	-0.0081568295	No	
+row_24	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.006108777	No	
+row_25	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.010027483	No	
+row_26	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	4252	0.2237669676542282	-0.012264345	No	
+row_27	ANAPC1	anaphase promoting complex subunit 1	4339	0.21647293865680695	-0.012742432	No	
+row_28	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.011141654	No	
+row_29	E2F2	E2F transcription factor 2	4474	0.2046402245759964	-0.01163707	No	
+row_30	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	4554	0.19736935198307037	-0.012109518	No	
+row_31	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	4611	0.1903277188539505	-0.011313624	No	
+row_32	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.020708002	No	
+row_33	CDC16	CDC16 cell division cycle 16 homolog (S. cerevisiae)	5047	0.1546388417482376	-0.030882426	No	
+row_34	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.039649937	No	
+row_35	CDC23	CDC23 (cell division cycle 23, yeast, homolog)	5242	0.1342841535806656	-0.036824334	No	
+row_36	LIG1	ligase I, DNA, ATP-dependent	5274	0.1319878101348877	-0.035786558	No	
+row_37	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.03646897	No	
+row_38	UBE2E1	ubiquitin-conjugating enzyme E2E 1 (UBC4/5 homolog, yeast)	5622	0.10431190580129623	-0.0520509	No	
+row_39	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.0520058	No	
+row_40	RPA3	replication protein A3, 14kDa	5730	0.09529674798250198	-0.054209363	No	
+row_41	RPA2	replication protein A2, 32kDa	6313	0.05174188315868378	-0.089139715	No	
+row_42	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.09014225	No	
+row_43	ANAPC2	anaphase promoting complex subunit 2	6517	0.03707877919077873	-0.09972863	No	
+row_44	RFC4	replication factor C (activator 1) 4, 37kDa	6627	0.030930595472455025	-0.105794206	No	
+row_45	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.10719593	No	
+row_46	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.1096005	No	
+row_47	GINS3	GINS complex subunit 3 (Psf3 homolog)	6769	0.022400056943297386	-0.1126948	No	
+row_48	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.11750457	No	
+row_49	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.12928778	No	
+row_50	ANAPC10	anaphase promoting complex subunit 10	9262	-5.30428120233557E-19	-0.26651958	No	
+row_51	POLA1	polymerase (DNA directed), alpha 1	9515	-0.003230832749977708	-0.28207406	No	
+row_52	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.28613785	No	
+row_53	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.2957484	No	
+row_54	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	9882	-0.02058306336402893	-0.30372036	No	
+row_55	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.31662354	No	
+row_56	ANAPC11	APC11 anaphase promoting complex subunit 11 homolog (yeast)	10178	-0.03574322909116745	-0.32047278	No	
+row_57	CCNA2	cyclin A2	10224	-0.03901144117116928	-0.32238838	No	
+row_58	CCNE1	cyclin E1	10228	-0.03939561918377876	-0.3216909	No	
+row_59	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10398	-0.05085813254117966	-0.33103025	No	
+row_60	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.33126384	No	
+row_61	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	10445	-0.05578697845339775	-0.33137694	No	
+row_62	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.33175206	No	
+row_63	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	10546	-0.0633690133690834	-0.33479568	No	
+row_64	CCNE2	cyclin E2	10646	-0.07038387656211853	-0.3393563	No	
+row_65	POLD3	polymerase (DNA-directed), delta 3, accessory subunit	10674	-0.07284016907215118	-0.339397	No	
+row_66	DBF4	DBF4 homolog (S. cerevisiae)	10722	-0.07716448605060577	-0.34058097	No	
+row_67	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.3433899	No	
+row_68	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.34382892	No	
+row_69	RFC2	replication factor C (activator 1) 2, 40kDa	10916	-0.09507589042186737	-0.34640953	No	
+row_70	ANAPC7	anaphase promoting complex subunit 7	10973	-0.0995836853981018	-0.34764877	No	
+row_71	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.3475912	No	
+row_72	RFC1	replication factor C (activator 1) 1, 145kDa	11120	-0.11194189637899399	-0.3518399	No	
+row_73	PCNA	proliferating cell nuclear antigen	11249	-0.12419817596673965	-0.35699198	No	
+row_74	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.37088782	No	
+row_75	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.3865426	No	
+row_76	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.38637146	No	
+row_77	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.3829449	No	
+row_78	CDK2	cyclin-dependent kinase 2	12173	-0.21099014580249786	-0.39359185	No	
+row_79	GMNN	geminin, DNA replication inhibitor	12509	-0.24589644372463226	-0.40885094	No	
+row_80	MCM8	MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	12540	-0.2491292804479599	-0.40512398	No	
+row_81	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	12723	-0.2675536870956421	-0.41040957	No	
+row_82	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.41433513	No	
+row_83	CUL1	cullin 1	12992	-0.2996160089969635	-0.4138167	No	
+row_84	RBX1	ring-box 1	13011	-0.3016377389431	-0.408168	No	
+row_85	POLE	polymerase (DNA directed), epsilon	13253	-0.33414220809936523	-0.41561887	No	
+row_86	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.42644382	Yes	
+row_87	PRIM1	primase, polypeptide 1, 49kDa	13572	-0.3759537637233734	-0.41844627	Yes	
+row_88	CDT1	chromatin licensing and DNA replication factor 1	13818	-0.41396570205688477	-0.42435497	Yes	
+row_89	CCNA1	cyclin A1	13876	-0.42169952392578125	-0.41843203	Yes	
+row_90	UBE2S	ubiquitin-conjugating enzyme E2S	14065	-0.452858030796051	-0.4199338	Yes	
+row_91	UBC	ubiquitin C	14182	-0.47944867610931396	-0.4163744	Yes	
+row_92	CDC27	cell division cycle 27	14319	-0.49921053647994995	-0.413612	Yes	
+row_93	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.40971595	Yes	
+row_94	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.4121601	Yes	
+row_95	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.4054306	Yes	
+row_96	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.39443552	Yes	
+row_97	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.385866	Yes	
+row_98	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.37771755	Yes	
+row_99	E2F3	E2F transcription factor 3	14998	-0.6233251094818115	-0.36615646	Yes	
+row_100	RPA4	replication protein A4, 34kDa	15023	-0.6303092837333679	-0.35350856	Yes	
+row_101	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.34461161	Yes	
+row_102	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)	15366	-0.7706289291381836	-0.3425213	Yes	
+row_103	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.33257645	Yes	
+row_104	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.31463975	Yes	
+row_105	UBB	ubiquitin B	15642	-0.9178993105888367	-0.30124703	Yes	
+row_106	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.28272083	Yes	
+row_107	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.26283666	Yes	
+row_108	GINS1	GINS complex subunit 1 (Psf1 homolog)	15970	-1.4700263738632202	-0.24270429	Yes	
+row_109	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.20825092	Yes	
+row_110	POLA2	polymerase (DNA directed), alpha 2 (70kD subunit)	16025	-1.6840527057647705	-0.1711022	Yes	
+row_111	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.1305514	Yes	
+row_112	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.07558556	Yes	
+row_113	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027285106	Yes	

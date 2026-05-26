@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.14463226	No	
+row_1	RNF135	ring finger protein 135	3113	0.3305545151233673	-0.1436571	No	
+row_2	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.30634987	No	
+row_3	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.70415825	No	
+row_4	CASP10	caspase 10, apoptosis-related cysteine peptidase	12855	-0.2826092541217804	-0.70110077	No	
+row_5	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.7940847	Yes	
+row_6	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.7614759	Yes	
+row_7	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.70324045	Yes	
+row_8	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.5581883	Yes	
+row_9	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.28768468	Yes	
+row_10	IFIH1	interferon induced with helicase C domain 1	16219	-4.2306108474731445	0.0012322947	Yes	

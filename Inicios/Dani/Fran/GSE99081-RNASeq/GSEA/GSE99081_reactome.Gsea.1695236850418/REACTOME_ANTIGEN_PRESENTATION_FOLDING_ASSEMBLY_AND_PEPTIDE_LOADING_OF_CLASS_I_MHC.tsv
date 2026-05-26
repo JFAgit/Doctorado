@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SAR1B	SAR1 gene homolog B (S. cerevisiae)	1626	0.504737377166748	-0.07654001	No	
+row_1	SEC23A	Sec23 homolog A (S. cerevisiae)	2812	0.3642289340496063	-0.13249089	No	
+row_2	BCAP31	B-cell receptor-associated protein 31	3349	0.3040783107280731	-0.15125112	No	
+row_3	SEC24D	SEC24 related gene family, member D (S. cerevisiae)	6269	0.05539269372820854	-0.32863328	No	
+row_4	SEC24A	SEC24 related gene family, member A (S. cerevisiae)	7170	0.001629622420296073	-0.3840506	No	
+row_5	SEC24C	SEC24 related gene family, member C (S. cerevisiae)	10745	-0.07981718331575394	-0.6006722	No	
+row_6	HSPA5	heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)	12042	-0.19682766497135162	-0.67133397	No	
+row_7	SEC31A	SEC31 homolog A (S. cerevisiae)	12724	-0.267589271068573	-0.7007496	No	
+row_8	SEC24B	SEC24 related gene family, member B (S. cerevisiae)	13067	-0.30894291400909424	-0.7073192	No	
+row_9	PDIA3	protein disulfide isomerase family A, member 3	13568	-0.3753085434436798	-0.7205124	No	
+row_10	CALR	calreticulin	14016	-0.44373491406440735	-0.7272221	No	
+row_11	CANX	calnexin	14096	-0.4615428149700165	-0.7104041	No	
+row_12	B2M	beta-2-microglobulin	15466	-0.8106110095977783	-0.7567237	Yes	
+row_13	HLA-A	major histocompatibility complex, class I, A	15527	-0.8441747426986694	-0.72075325	Yes	
+row_14	HLA-G	HLA-G histocompatibility antigen, class I, G	15750	-1.0374876260757446	-0.6856874	Yes	
+row_15	TAPBP	TAP binding protein (tapasin)	15917	-1.3266470432281494	-0.63358027	Yes	
+row_16	HLA-B	major histocompatibility complex, class I, B	15985	-1.5467902421951294	-0.56502366	Yes	
+row_17	HLA-C	major histocompatibility complex, class I, C	15993	-1.5655981302261353	-0.49188364	Yes	
+row_18	HLA-F	major histocompatibility complex, class I, F	16048	-1.8253265619277954	-0.4094363	Yes	
+row_19	TAP1	transporter 1, ATP-binding cassette, sub-family B (MDR/TAP)	16153	-2.7244369983673096	-0.28782034	Yes	
+row_20	HLA-E	major histocompatibility complex, class I, E	16160	-2.828178644180298	-0.15528661	Yes	
+row_21	TAP2	transporter 2, ATP-binding cassette, sub-family B (MDR/TAP)	16188	-3.4068291187286377	0.0031445948	Yes	

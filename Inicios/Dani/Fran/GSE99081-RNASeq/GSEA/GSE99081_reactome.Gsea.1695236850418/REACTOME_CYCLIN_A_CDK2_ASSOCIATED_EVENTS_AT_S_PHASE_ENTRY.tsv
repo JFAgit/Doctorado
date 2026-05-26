@@ -1,0 +1,81 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	WEE1	WEE1 homolog (S. pombe)	558	0.8006100058555603	-0.010750373	No	
+row_1	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.0017779567	No	
+row_2	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	1532	0.5238797068595886	-0.0334046	No	
+row_3	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.045888394	No	
+row_4	CCNH	cyclin H	2363	0.43122249841690063	-0.057399742	No	
+row_5	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2398	0.42569679021835327	-0.04685986	No	
+row_6	FZR1	fizzy/cell division cycle 20 related 1 (Drosophila)	2425	0.42285043001174927	-0.035909474	No	
+row_7	CDK4	cyclin-dependent kinase 4	2745	0.37574195861816406	-0.04448947	No	
+row_8	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.05830054	No	
+row_9	E2F1	E2F transcription factor 1	3531	0.28559666872024536	-0.074756004	No	
+row_10	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.07703083	No	
+row_11	RBL2	retinoblastoma-like 2 (p130)	3712	0.2650424540042877	-0.070025004	No	
+row_12	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.06338673	No	
+row_13	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.071813494	No	
+row_14	PTK6	PTK6 protein tyrosine kinase 6	4098	0.23530389368534088	-0.07169342	No	
+row_15	AKT2	v-akt murine thymoma viral oncogene homolog 2	4123	0.23297865688800812	-0.06625875	No	
+row_16	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.059994943	No	
+row_17	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.069528185	No	
+row_18	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.09125131	No	
+row_19	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.11269198	No	
+row_20	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.11466958	No	
+row_21	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	5533	0.11063038557767868	-0.123759925	No	
+row_22	RB1	retinoblastoma 1 (including osteosarcoma)	5587	0.10695108026266098	-0.12386302	No	
+row_23	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.12524037	No	
+row_24	TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)	6061	0.07083475589752197	-0.14795083	No	
+row_25	LIN9	lin-9 homolog (C. elegans)	6142	0.06478769332170486	-0.15097703	No	
+row_26	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.16219814	No	
+row_27	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	6633	0.030733821913599968	-0.17885955	No	
+row_28	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.17967659	No	
+row_29	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.18188938	No	
+row_30	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.1902097	No	
+row_31	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.20190771	No	
+row_32	MAX	MYC associated factor X	9266	-5.659972753482251E-17	-0.3390983	No	
+row_33	RBBP4	retinoblastoma binding protein 4	9275	-4.217180956251872E-15	-0.33959335	No	
+row_34	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.36820337	No	
+row_35	CABLES1	Cdk5 and Abl enzyme substrate 1	9756	-0.01418792363256216	-0.36840078	No	
+row_36	E2F5	E2F transcription factor 5, p130-binding	10056	-0.028203696012496948	-0.38606557	No	
+row_37	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.38795316	No	
+row_38	CCNA2	cyclin A2	10224	-0.03901144117116928	-0.39428207	No	
+row_39	CCNE1	cyclin E1	10228	-0.03939561918377876	-0.3932976	No	
+row_40	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.4036612	No	
+row_41	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.40503463	No	
+row_42	CDC25A	cell division cycle 25A	10529	-0.06217988207936287	-0.40659127	No	
+row_43	CCNE2	cyclin E2	10646	-0.07038387656211853	-0.41167897	No	
+row_44	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.42093873	No	
+row_45	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.4284258	No	
+row_46	CDC25B	cell division cycle 25B	11436	-0.1428411453962326	-0.4504827	No	
+row_47	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.45168608	No	
+row_48	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.46600118	No	
+row_49	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.46447897	No	
+row_50	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.4596981	No	
+row_51	CDK2	cyclin-dependent kinase 2	12173	-0.21099014580249786	-0.46877792	No	
+row_52	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	12316	-0.22581052780151367	-0.47085813	No	
+row_53	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.4978619	No	
+row_54	CUL1	cullin 1	12992	-0.2996160089969635	-0.49515095	No	
+row_55	AKT1	v-akt murine thymoma viral oncogene homolog 1	13167	-0.3235817849636078	-0.49630743	No	
+row_56	TFDP1	transcription factor Dp-1	13257	-0.3345990777015686	-0.49187675	No	
+row_57	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.4996897	No	
+row_58	E2F4	E2F transcription factor 4, p107/p130-binding	13670	-0.3903734087944031	-0.49459255	No	
+row_59	CCNA1	cyclin A1	13876	-0.42169952392578125	-0.4947531	No	
+row_60	UBC	ubiquitin C	14182	-0.47944867610931396	-0.4993865	No	
+row_61	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.5003158	Yes	
+row_62	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.49883592	Yes	
+row_63	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.48804107	Yes	
+row_64	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.4729333	Yes	
+row_65	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.4601065	Yes	
+row_66	CKS1B	CDC28 protein kinase regulatory subunit 1B	14879	-0.5872610807418823	-0.44328278	Yes	
+row_67	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.43000907	Yes	
+row_68	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.42030534	Yes	
+row_69	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.4195034	Yes	
+row_70	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.39542514	Yes	
+row_71	UBB	ubiquitin B	15642	-0.9178993105888367	-0.37534034	Yes	
+row_72	CCND1	cyclin D1	15671	-0.9410302639007568	-0.349123	Yes	
+row_73	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.32161927	Yes	
+row_74	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	15733	-1.0165631771087646	-0.2933441	Yes	
+row_75	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.26381585	Yes	
+row_76	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.23018862	Yes	
+row_77	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.17645761	Yes	
+row_78	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.101882555	Yes	
+row_79	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027228538	Yes	

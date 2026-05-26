@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MAPK3	mitogen-activated protein kinase 3	1456	0.5379591584205627	-0.05952477	No	
+row_1	GHR	growth hormone receptor	2319	0.4378810524940491	-0.08804899	No	
+row_2	CISH	cytokine inducible SH2-containing protein	2361	0.4315531551837921	-0.06630017	No	
+row_3	STAT5B	signal transducer and activator of transcription 5B	3043	0.33733847737312317	-0.08931863	No	
+row_4	PTPN1	protein tyrosine phosphatase, non-receptor type 1	3310	0.3082939088344574	-0.088378996	No	
+row_5	SOCS2	suppressor of cytokine signaling 2	3644	0.2734651565551758	-0.09353039	No	
+row_6	SH2B1	SH2B adaptor protein 1	4537	0.19897645711898804	-0.13734429	No	
+row_7	PRLR	prolactin receptor	4738	0.18019510805606842	-0.13954085	No	
+row_8	GH1	growth hormone 1	7697	0.0	-0.32195327	No	
+row_9	CSH1	chorionic somatomammotropin hormone 1 (placental lactogen)	8137	0.0	-0.3490253	No	
+row_10	PRL	prolactin	8161	0.0	-0.35044366	No	
+row_11	GH2	growth hormone 2	9435	-1.2376893209875561E-5	-0.42894566	No	
+row_12	PTPN6	protein tyrosine phosphatase, non-receptor type 6	10935	-0.09642089158296585	-0.51596105	No	
+row_13	IRS2	insulin receptor substrate 2	13483	-0.3617027997970581	-0.6526804	No	
+row_14	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	14055	-0.45162373781204224	-0.66248626	No	
+row_15	IRS1	insulin receptor substrate 1	14796	-0.566387414932251	-0.6762579	Yes	
+row_16	MAPK1	mitogen-activated protein kinase 1	14865	-0.5826491713523865	-0.64767414	Yes	
+row_17	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.6329973	Yes	
+row_18	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.6022342	Yes	
+row_19	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	15921	-1.331937313079834	-0.5427841	Yes	
+row_20	STAT5A	signal transducer and activator of transcription 5A	15943	-1.403607964515686	-0.46511862	Yes	
+row_21	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.36818582	Yes	
+row_22	SOCS1	suppressor of cytokine signaling 1	16143	-2.593221426010132	-0.2277916	Yes	
+row_23	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	0.0014800053	Yes	

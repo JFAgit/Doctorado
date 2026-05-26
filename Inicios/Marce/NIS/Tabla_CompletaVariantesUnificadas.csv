@@ -1,0 +1,290 @@
+Variante,Fuente,Estructura_Consenso,Pathogenicity,ddG_7UV0_Final,Cat_7UUY_gnomAD,Cat_7UUZ_gnomAD,Cat_7UV0_gnomAD,Cat_AF_Hum_gnomAD,ddG_7UUY_Final,ddG_7UUZ_Final,ddG_AF_Final,Fuente_gnomAD,DNA,Protein,Effect,Criteria,Result,References,Categoría,Cat_7UUY_Juan,Cat_7UUZ_Juan,Cat_7UV0_Juan,Cat_AF_Hum_Juan,Estructura_Consenso_Actualizada,Fuente_Juan
+A102S,gnomAD,Core,Uncertain significance,1.2171133333333335,Core,Core,Core,Core,0.8188886666666667,0.1448893333333333,0.461482,True,,,,,,,,,,,,,
+A128S,gnomAD,Core,Uncertain significance,0.2219793333333333,Superficie,Core,Core,Superficie,0.2038193333333333,0.2319683333333333,0.139448,True,,,,,,,,,,,,,
+A180S,gnomAD,Core,VUS/Not Classified,0.4971483333333333,Core,Core,Core,Superficie,1.3293,1.4011966666666666,0.7610823333333334,True,,,,,,,,,,,,,
+A264S,gnomAD,Core,VUS/Not Classified,-0.2308253666666666,Core,Core,Core,Core,-0.5762269999999999,0.0056497066666666,0.3479353333333333,True,,,,,,,,,,,,,
+A264V,gnomAD,Core,Uncertain significance,-0.1184316666666666,Core,Core,Core,Core,0.0343363366666666,0.7301393333333333,0.8136226666666667,True,,,,,,,,,,,,,
+A278T,gnomAD,Core,VUS/Not Classified,0.1405254333333333,Core,Core,Core,Core,3.6620633333333337,0.3030653666666666,2.69485,True,,,,,,,,,,,,,
+A281D,gnomAD,Core,VUS/Not Classified,3.82804,Core,Core,Core,Core,6.813693333333333,7.797563333333334,9.76993,True,,,,,,,,,,,,,
+A281V,gnomAD,Core,VUS/Not Classified,0.187051,Core,Core,Core,Core,3.03954,2.5894133333333333,5.142473333333333,True,,,,,,,,,,,,,
+A296T,gnomAD,Core,Uncertain significance,2.52266,Core,Core,Core,Core,1.8532666666666664,2.357836666666667,2.030080666666666,True,,,,,,,,,,,,,
+A320T,Juan & gnomAD,Core,Uncertain significance,-1.2136433333333334,Superficie,Superficie,Superficie,Core,-1.2005333333333332,0.6516246666666667,-0.0775390333333333,True,c.958G>A,p.Ala320Thr,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,superficie,Superficie,Superficie,Superficie,Core,Core,True
+A347V,gnomAD,Core,VUS/Not Classified,-1.0825766666666663,Core,Core,Core,Core,-0.90142,-0.604709,0.4056959,True,,,,,,,,,,,,,
+A361V,gnomAD,Core,VUS/Not Classified,-0.3197116666666666,Core,Core,Core,Core,-0.1764653333333333,-0.0939872333333333,5.297123333333333,True,,,,,,,,,,,,,
+A37S,gnomAD,Superficie,VUS/Not Classified,1.4621266666666666,-,Superficie,-,Superficie,0.6623943,0.295639,0.5157600000000001,True,,,,,,,,,,,,,
+A397V,gnomAD,Core,VUS/Not Classified,-0.6182486666666667,Core,Core,Core,Core,-0.471287,0.8194003333333333,0.4810843333333333,True,,,,,,,,,,,,,
+A447T,gnomAD,Core,VUS/Not Classified,-0.6487883333333334,Core,Core,Core,Core,-0.6117130000000001,0.0930792999999999,-0.21265,True,,,,,,,,,,,,,
+A447V,gnomAD,Core,VUS/Not Classified,0.386114,Core,Core,Core,Core,0.365878,0.0305746666666666,-0.5733066666666667,True,,,,,,,,,,,,,
+A44G,gnomAD,Superficie,VUS/Not Classified,1.5201833333333334,-,-,-,Superficie,-0.4578943333333333,0.2543756666666666,1.50821,True,,,,,,,,,,,,,
+A44T,gnomAD,Superficie,VUS/Not Classified,1.0739033333333332,-,-,-,Superficie,2.37189,0.4616403333333334,1.7022966666666666,True,,,,,,,,,,,,,
+A44V,gnomAD,Superficie,VUS/Not Classified,0.0466888,-,-,-,Superficie,2.157386666666667,2.509173333333333,-0.6808803333333334,True,,,,,,,,,,,,,
+A454V,gnomAD,Core,VUS/Not Classified,-0.2453273333333333,Core,Core,Core,Core,-0.1062266666666666,0.3985099666666666,0.5261183333333334,True,,,,,,,,,,,,,
+A460V,gnomAD,Core,VUS/Not Classified,-0.3845693333333333,Core,Core,Core,Core,0.1351036666666666,-0.115056,0.325391,True,,,,,,,,,,,,,
+A463T,gnomAD,Core,VUS/Not Classified,0.0608359333333333,Core,Core,Core,Core,0.1589663333333333,-0.1450583333333333,0.6428116666666667,True,,,,,,,,,,,,,
+A481V,gnomAD,Superficie,Uncertain significance,0.295511,Superficie,Superficie,Superficie,Superficie,0.39529,0.1395306666666666,0.325571,True,,,,,,,,,,,,,
+A490P,gnomAD,Superficie,VUS/Not Classified,2.0503266666666664,-,-,-,Superficie,2.7891099999999995,0.7612063333333333,3.55675,True,,,,,,,,,,,,,
+A490T,gnomAD,Superficie,Uncertain significance,5.533646666666667,-,-,-,Superficie,4.093990000000001,0.980888,-0.2693783333333333,True,,,,,,,,,,,,,
+A497T,gnomAD,Superficie,VUS/Not Classified,4.00013,-,-,-,Superficie,2.7075599999999995,2.766273333333333,-0.1152773333333333,True,,,,,,,,,,,,,
+A518S,gnomAD,Core,VUS/Not Classified,1.4103166666666669,Core,Core,Core,Superficie,2.235716666666667,2.97554,-0.0905091,True,,,,,,,,,,,,,
+A518T,gnomAD,Core,VUS/Not Classified,2.699123333333333,Core,Core,Core,Superficie,3.7738133333333335,1.427973333333333,-0.0277569,True,,,,,,,,,,,,,
+A518V,gnomAD,Core,Uncertain significance,0.206192,Core,Core,Core,Superficie,0.986758,2.8903700000000003,0.158699,True,,,,,,,,,,,,,
+A525V,gnomAD,Core,VUS/Not Classified,1.6313666666666666,Core,Core,Core,Superficie,2.1239466666666664,0.4983976666666667,2.8093866666666667,True,,,,,,,,,,,,,
+A533T,gnomAD,Core,Uncertain significance,0.3768716666666666,Core,Core,Core,Core,0.5209996666666666,2.3412900000000003,-0.6290793333333333,True,,,,,,,,,,,,,
+A568T,gnomAD,Core,VUS/Not Classified,0.3617255666666667,-,-,-,Core,0.3529516666666666,0.518525,0.8567536666666666,True,,,,,,,,,,,,,
+A623S,gnomAD,Superficie,VUS/Not Classified,4.013543333333334,-,-,-,Superficie,6.616843333333333,0.636874,-1.0772333333333333,True,,,,,,,,,,,,,
+C175S,gnomAD,Core,VUS/Not Classified,-0.1046853,Core,Core,Core,Core,0.9279436666666668,4.941949999999999,5.268823333333334,True,,,,,,,,,,,,,
+C298G,gnomAD,Core,Likely benign,2.3504766666666668,Core,Core,Core,Superficie,5.336023333333333,1.8689833333333328,3.89752,True,,,,,,,,,,,,,
+C299G,gnomAD,Core,VUS/Not Classified,1.9403633333333328,Core,Core,Core,Core,1.17771,2.90808,3.18871,True,,,,,,,,,,,,,
+C299Y,gnomAD,Core,Uncertain significance,0.580685,Core,Core,Core,Core,0.8726826666666666,2.1470166666666666,4.319326666666667,True,,,,,,,,,,,,,
+C398R,gnomAD,Core,Uncertain significance,-0.1632133333333333,Core,Core,Core,Core,0.0735985,0.9872433333333334,2.72353,True,,,,,,,,,,,,,
+C440G,gnomAD,Core,VUS/Not Classified,3.9963466666666654,Core,Core,Core,Core,2.874743333333333,0.489388,4.742439999999999,True,,,,,,,,,,,,,
+C440R,gnomAD,Core,VUS/Not Classified,5.089753333333333,Core,Core,Core,Core,3.832606666666667,4.765206666666667,0.5329123333333333,True,,,,,,,,,,,,,
+C548Y,gnomAD,Core,Uncertain significance,4.016976666666666,Superficie,Superficie,Superficie,Core,2.269083333333333,5.33329,0.3050616666666667,True,,,,,,,,,,,,,
+D311N,gnomAD,Core,VUS/Not Classified,2.579126666666667,Core,Superficie,Superficie,Superficie,2.62015,4.708356666666666,4.9306133333333335,True,,,,,,,,,,,,,
+D322V,gnomAD,Core,VUS/Not Classified,0.4270786666666666,Core,Core,Core,Core,0.2222086666666666,3.614743333333333,3.5949066666666667,True,,,,,,,,,,,,,
+D46H,gnomAD,Superficie,VUS/Not Classified,-0.2032392333333333,-,-,-,Superficie,-0.3437313333333333,0.1499866666666666,5.047483333333333,True,,,,,,,,,,,,,
+D495H,gnomAD,Superficie,VUS/Not Classified,0.1796473333333333,-,-,-,Superficie,0.281347,0.613599,2.543823333333333,True,,,,,,,,,,,,,
+D503N,gnomAD,Superficie,Benign/Likely benign,0.36913,-,-,-,Superficie,0.4853023333333333,-0.0357472,1.7395500000000002,True,,,,,,,,,,,,,
+D521G,gnomAD,Core,VUS/Not Classified,2.5798633333333334,Core,Core,Core,Superficie,4.205190000000001,0.0563255999999999,1.4587599999999998,True,,,,,,,,,,,,,
+D584Y,gnomAD,Core,VUS/Not Classified,4.1820200000000005,-,-,-,Core,2.279943333333333,2.791316666666667,4.259329999999999,True,,,,,,,,,,,,,
+E334K,gnomAD,Superficie,Uncertain significance,13.229266666666666,Superficie,Superficie,Superficie,Superficie,7.84823,0.1124084333333333,5.08483,True,,,,,,,,,,,,,
+E470D,gnomAD,Superficie,VUS/Not Classified,0.1848868,Superficie,Superficie,Superficie,Superficie,-0.1816656666666666,4.053226666666667,4.104203333333333,True,,,,,,,,,,,,,
+E470G,gnomAD,Superficie,Uncertain significance,0.5140816666666667,Superficie,Superficie,Superficie,Superficie,0.1449496666666666,0.431882,2.47776,True,,,,,,,,,,,,,
+E470K,gnomAD,Superficie,VUS/Not Classified,1.17436,Superficie,Superficie,Superficie,Superficie,0.717315,-0.2442533333333333,0.434978,True,,,,,,,,,,,,,
+E5Q,gnomAD,Superficie,VUS/Not Classified,-1.2578699999999998,-,-,-,Superficie,0.2333256666666666,2.41633,0.837812,True,,,,,,,,,,,,,
+E621Q,gnomAD,Superficie,VUS/Not Classified,1.6966266666666667,-,-,-,Superficie,1.4876833333333332,0.799318,0.728627,True,,,,,,,,,,,,,
+F105S,gnomAD,Core,VUS/Not Classified,2.2081,Core,Core,Core,Core,-1.28537,2.109646666666667,0.1181958,True,,,,,,,,,,,,,
+F177S,gnomAD,Core,VUS/Not Classified,1.7854933333333334,Core,Core,Core,Core,2.112493333333333,0.2365363333333333,0.3459313333333333,True,,,,,,,,,,,,,
+F431S,gnomAD,Core,VUS/Not Classified,0.4348149999999999,Core,Core,Core,Core,1.71281,0.135921,1.3027166666666667,True,,,,,,,,,,,,,
+F436C,gnomAD,Core,Uncertain significance,0.1452243333333333,Core,Core,Core,Core,1.035002,0.5393819999999999,0.7244746666666666,True,,,,,,,,,,,,,
+F436L,gnomAD,Core,VUS/Not Classified,0.5409023333333334,Core,Core,Core,Core,0.1157109196666666,0.645326,1.0809433333333331,True,,,,,,,,,,,,,
+F523I,gnomAD,Core,VUS/Not Classified,0.5870716666666667,Core,Core,Core,Core,0.2335886666666666,1.63807,3.5256000000000003,True,,,,,,,,,,,,,
+F614L,gnomAD,Superficie,VUS/Not Classified,2.1005266666666667,-,-,-,Superficie,0.5943546666666667,9.21339,0.7873946666666667,True,,,,,,,,,,,,,
+G146R,gnomAD,Core,VUS/Not Classified,8.262136666666667,Core,Core,Core,Core,0.7941940000000001,7.42983,2.21452,True,,,,,,,,,,,,,
+G161E,gnomAD,Core,Uncertain significance,8.6531,Superficie,Superficie,Superficie,Core,2.1371066666666665,12.688033333333331,0.9054643333333332,True,,,,,,,,,,,,,
+G182A,gnomAD,Core,VUS/Not Classified,6.285203333333333,Core,Core,Core,Superficie,13.838833333333334,2.45381,1.2860033333333334,True,,,,,,,,,,,,,
+G183S,gnomAD,Core,VUS/Not Classified,2.1722300000000003,Core,Core,Core,Superficie,8.687130000000002,0.0026225709866666,0.7600693333333334,True,,,,,,,,,,,,,
+G201S,gnomAD,Core,Uncertain significance,8.280000000000021e-05,Core,Core,Core,Core,10.97577,-0.7967483333333334,2.00395,True,,,,,,,,,,,,,
+G209S,gnomAD,Core,VUS/Not Classified,-0.9283653333333334,Core,Core,Core,Core,2.58445,0.4882233333333333,0.4449099999999999,True,,,,,,,,,,,,,
+G288C,gnomAD,Core,VUS/Not Classified,0.8132739999999999,Core,Core,Core,Core,0.00015262,2.12659,0.3541606666666667,True,,,,,,,,,,,,,
+G288S,gnomAD,Core,Conflicting classifications of pathogenicity,0.6433763333333333,Core,Core,Core,Core,0.2228445333333333,-0.5850223333333333,1.7258699999999998,True,,,,,,,,,,,,,
+G29S,gnomAD,Core,VUS/Not Classified,-1.1192633333333333,Core,Core,Core,Core,-0.1660279999999999,-0.01924612,0.7368696666666666,True,,,,,,,,,,,,,
+G31R,gnomAD,Core,VUS/Not Classified,0.6363636666666667,Core,Core,Core,Core,4.523866666666667,2.189836666666667,1.84354,True,,,,,,,,,,,,,
+G341R,Juan & gnomAD,Core,Likely pathogenic,1.5628833333333334,Core,Core,Core,Core,0.4748079999999999,0.7441946666666667,0.185989,True,c.1021G>A,p.Gly341Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Strong, PP4",Pathogenic,35438852,superficie,Core,Core,Core,Core,Core,True
+G35R,gnomAD,Core,Uncertain significance,0.4205066666666666,-,Core,Core,Superficie,-0.1340495333333333,16.582766666666668,0.8598916666666666,True,,,,,,,,,,,,,
+G395R,Juan & gnomAD,Core,Pathogenic/Likely pathogenic,19.6555,Core,Core,Core,Core,1.213833333333333,3.94599,3.1385533333333338,True,c.1183G>A,p.Gly395Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_Strong, PP4",Pathogenic,"10487695, 12145342, 30240412, 34632506",superficie,Core,Core,Core,Core,Core,True
+G409R,gnomAD,Core,Uncertain significance,3.4268,Core,Superficie,Core,Core,0.1517913333333333,0.866944,0.1105386666666666,True,,,,,,,,,,,,,
+G410R,gnomAD,Core,VUS/Not Classified,1.4714266666666669,Core,Core,Core,Core,15.480933333333336,0.5222336666666667,1.62356,True,,,,,,,,,,,,,
+G425S,gnomAD,Core,VUS/Not Classified,0.170149,Core,Core,Core,Core,2.4644600000000003,0.240358,-0.6809603333333333,True,,,,,,,,,,,,,
+G450S,gnomAD,Core,VUS/Not Classified,0.0847606666666666,Core,Core,Core,Core,2.1589500000000004,1.213258333333333,0.7180933333333334,True,,,,,,,,,,,,,
+G532S,gnomAD,Core,VUS/Not Classified,1.6351399999999998,Core,Core,Core,Core,2.2371466666666664,0.3205613333333333,0.6208176666666666,True,,,,,,,,,,,,,
+G543R,Juan & gnomAD,Core,VUS/Not Classified,-1.75858,Core,Core,Core,Core,0.2351083333333333,0.9434143333333332,0.0542883999999999,True,c.1627G>A,p.Gly543Arg,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_(+3), PP4",Likely Pathogenic,"35276235, 15976004, 39749016",superficie,Core,Core,Core,Core,Core,True
+G597R,gnomAD,Superficie,Uncertain significance,-0.428878,-,-,-,Superficie,0.8112539999999999,-0.7133586666666667,2.60966,True,,,,,,,,,,,,,
+G624C,gnomAD,Superficie,VUS/Not Classified,-0.8241506666666667,-,-,-,Superficie,0.694836,-1.153117,-0.247488,True,,,,,,,,,,,,,
+G631V,gnomAD,Superficie,VUS/Not Classified,-0.4044823333333333,-,-,-,Superficie,1.2527933333333332,25.5943,0.985038,True,,,,,,,,,,,,,
+G634S,gnomAD,Superficie,VUS/Not Classified,30.185766666666662,-,-,-,Superficie,0.0826295,10.572356666666666,0.819397,True,,,,,,,,,,,,,
+G75D,gnomAD,Core,Uncertain significance,6.774663333333334,Core,Core,Core,Core,-2.60589,3.430946666666667,2.09383,True,,,,,,,,,,,,,
+G7E,gnomAD,Superficie,VUS/Not Classified,0.3431786666666667,-,-,-,Superficie,29.00703333333333,2.77456,17.99794,True,,,,,,,,,,,,,
+G7R,gnomAD,Superficie,Uncertain significance,2.2318166666666666,-,-,-,Superficie,0.6102493333333333,1.16213,4.057110000000001,True,,,,,,,,,,,,,
+G93S,gnomAD,Core,VUS/Not Classified,0.2938828,Core,Core,Core,Core,2.45627,7.163903333333333,2.0326633333333333,True,,,,,,,,,,,,,
+I229S,gnomAD,Superficie,Uncertain significance,7.982966666666667,Superficie,Superficie,Superficie,Superficie,-1.29146,-0.1430553333333333,1.7982033333333334,True,,,,,,,,,,,,,
+I229V,gnomAD,Superficie,VUS/Not Classified,0.181,Superficie,Superficie,Superficie,Superficie,3.74378,2.46669,-1.62931,True,,,,,,,,,,,,,
+I284F,gnomAD,Core,VUS/Not Classified,2.4165633333333334,Core,Core,Core,Core,0.3151946666666667,20.0581,2.8501066666666666,True,,,,,,,,,,,,,
+I284V,gnomAD,Core,VUS/Not Classified,12.421773333333334,Core,Core,Core,Core,0.6266036666666667,10.380033333333332,2.32646,True,,,,,,,,,,,,,
+I432N,gnomAD,Core,VUS/Not Classified,12.973066666666668,Core,Core,Core,Core,20.401,1.4745633333333334,0.3190493333333333,True,,,,,,,,,,,,,
+I546L,gnomAD,Core,VUS/Not Classified,-0.3289993333333333,Superficie,Core,Core,Core,11.8953,3.11318,0.372847,True,,,,,,,,,,,,,
+K276E,gnomAD,Core,VUS/Not Classified,3.1028066666666665,Superficie,Superficie,Superficie,Core,0.816177,1.04641,-0.3618386666666667,True,,,,,,,,,,,,,
+K577R,gnomAD,Superficie,VUS/Not Classified,1.1673633333333333,-,-,-,Superficie,2.5806066666666667,1.0724153333333335,0.8990770333333332,True,,,,,,,,,,,,,
+K600N,gnomAD,Superficie,VUS/Not Classified,-0.3855869999999999,-,-,-,Superficie,1.1562599999999998,-0.0018483258659999,-1.3139966666666665,True,,,,,,,,,,,,,
+L100F,gnomAD,Core,VUS/Not Classified,-0.0006504029791574,Core,Core,Core,Core,1.26279,0.5973353333333334,0.8313436666666667,True,,,,,,,,,,,,,
+L169P,gnomAD,Core,VUS/Not Classified,-0.3697346666666667,Core,Core,Core,Core,0.0046646899999242,0.2589886666666667,2.395353333333333,True,,,,,,,,,,,,,
+L22F,gnomAD,Core,VUS/Not Classified,0.2905699333333333,Core,Core,Core,Core,0.0045706833333333,0.2634843333333333,1.2425233333333334,True,,,,,,,,,,,,,
+L256F,gnomAD,Core,VUS/Not Classified,0.6504506666666666,Core,Core,Core,Core,0.3056153333333333,4.201273333333334,-0.2113683333333333,True,,,,,,,,,,,,,
+L289P,gnomAD,Core,VUS/Not Classified,3.2933266666666667,Core,Core,Core,Core,1.3747023333333337,-0.890498,0.1150503333333333,True,,,,,,,,,,,,,
+L289R,gnomAD,Core,VUS/Not Classified,-0.9108046666666668,Core,Core,Core,Core,3.0804333333333336,6.870819999999999,17.9194,True,,,,,,,,,,,,,
+L313F,gnomAD,Superficie,VUS/Not Classified,8.45236,Superficie,Superficie,Superficie,Superficie,-0.639887,2.94269,2.99312,True,,,,,,,,,,,,,
+L453S,gnomAD,Core,VUS/Not Classified,0.7188793333333333,Core,Core,Core,Core,1.4083613333333334,5.781483333333333,-0.8138433333333334,True,,,,,,,,,,,,,
+L498V,gnomAD,Superficie,VUS/Not Classified,5.57355,-,-,-,Superficie,3.843073333333333,1.66769,0.7760836666666666,True,,,,,,,,,,,,,
+L594F,gnomAD,Core,Conflicting classifications of pathogenicity,0.9304356666666664,-,-,-,Core,5.776419999999999,1.9280366666666664,3.391356666666667,True,,,,,,,,,,,,,
+L605V,gnomAD,Superficie,VUS/Not Classified,2.1341266666666665,-,-,-,Superficie,1.9409166666666664,-1.2875066666666666,1.20946,True,,,,,,,,,,,,,
+L620P,gnomAD,Superficie,VUS/Not Classified,-0.3107556666666666,-,-,-,Superficie,2.45167,0.6890856666666667,2.4271366666666667,True,,,,,,,,,,,,,
+M142I,gnomAD,Core,VUS/Not Classified,0.7521300000000001,Core,Core,Core,Core,-0.7200486666666667,1.2820533333333335,2.18072,True,,,,,,,,,,,,,
+M142V,gnomAD,Core,VUS/Not Classified,1.5025866666666667,Core,Core,Core,Core,-0.497103,-0.5631716666666667,-0.468691,True,,,,,,,,,,,,,
+M23L,gnomAD,Core,Uncertain significance,-0.3855926666666667,Core,Core,Core,Core,0.6010943333333333,4.965676666666667,-1.99528,True,,,,,,,,,,,,,
+M258I,gnomAD,Core,VUS/Not Classified,0.2788263333333333,Core,Core,Core,Core,-0.521562,1.662116666666667,32.37886666666667,True,,,,,,,,,,,,,
+M325V,gnomAD,Core,VUS/Not Classified,1.27651,Core,Core,Core,Core,0.130178,-0.132067,-0.6600476666666667,True,,,,,,,,,,,,,
+M362L,gnomAD,Core,Uncertain significance,-1.0145676666666663,Core,Core,Core,Core,1.7597433333333334,2.9180166666666665,13.565566666666667,True,,,,,,,,,,,,,
+M362V,gnomAD,Core,VUS/Not Classified,1.9423466666666669,Core,Core,Core,Core,1.5539466666666666,2.5099733333333334,-1.1987766666666666,True,,,,,,,,,,,,,
+M420I,gnomAD,Core,VUS/Not Classified,-0.1720436666666666,Core,Core,Core,Core,1.12406,2.47525,2.31591,True,,,,,,,,,,,,,
+M435T,gnomAD,Core,VUS/Not Classified,-0.1178289666666666,Core,Core,Core,Core,0.628801,2.282996666666667,8.995899999999999,True,,,,,,,,,,,,,
+M473T,gnomAD,Superficie,Uncertain significance,3.2285133333333333,Superficie,Superficie,Superficie,Superficie,-0.0585408333333333,2.1783433333333333,-0.5691993333333333,True,,,,,,,,,,,,,
+M473V,gnomAD,Superficie,Uncertain significance,1.5421033333333334,Superficie,Superficie,Superficie,Superficie,2.33911,1.4607,1.1783766666666666,True,,,,,,,,,,,,,
+N157K,gnomAD,Core,Uncertain significance,2.441863333333333,Core,Superficie,Core,Core,0.3441333333333333,4.019826666666667,19.294066666666662,True,,,,,,,,,,,,,
+N262S,gnomAD,Core,VUS/Not Classified,4.3617566666666665,Core,Core,Core,Core,1.3635533333333332,2.24324,0.5633933333333333,True,,,,,,,,,,,,,
+N441K,gnomAD,Core,Uncertain significance,1.39766,Superficie,Core,Core,Core,4.221273333333333,5.113156666666666,0.1174206666666666,True,,,,,,,,,,,,,
+N608S,gnomAD,Superficie,VUS/Not Classified,4.336526666666667,-,-,-,Superficie,1.0903166666666666,2.490903333333333,4.196893333333333,True,,,,,,,,,,,,,
+P216S,gnomAD,Superficie,VUS/Not Classified,2.2708133333333334,Superficie,Superficie,Superficie,Superficie,4.832886666666667,-0.0465531333333333,3.333546666666667,True,,,,,,,,,,,,,
+P236L,gnomAD,Core,Likely benign,-0.0098297433333333,Core,Core,Core,Superficie,1.9439666666666664,0.922775,13.4686,True,,,,,,,,,,,,,
+P236R,gnomAD,Core,VUS/Not Classified,1.6674066666666667,Core,Core,Core,Superficie,6.404359999999999e-12,1.7895066666666668,1.659503333333333,True,,,,,,,,,,,,,
+P238L,gnomAD,Core,VUS/Not Classified,1.4945933333333334,Core,Core,Core,Superficie,0.1730937666666666,-0.3524493333333334,1.85083,True,,,,,,,,,,,,,
+P337L,gnomAD,Core,VUS/Not Classified,-0.6024656666666667,Core,Superficie,Core,Core,1.5301966666666669,-0.312849,1.0409333333333333,True,,,,,,,,,,,,,
+P340T,gnomAD,Core,VUS/Not Classified,1.12042,Core,Core,Core,Core,-1.8185866666666664,0.5633210000000001,3.054373333333333,True,,,,,,,,,,,,,
+P380S,gnomAD,Superficie,VUS/Not Classified,-0.0637528666666666,Superficie,Superficie,Superficie,Superficie,-0.4305779999999999,1.235396333333333,1.83778,True,,,,,,,,,,,,,
+P443L,gnomAD,Core,VUS/Not Classified,0.836452,Core,Core,Core,Core,1.2982866666666666,3.505423333333333,0.314606,True,,,,,,,,,,,,,
+P443T,gnomAD,Core,VUS/Not Classified,3.71206,Core,Core,Core,Core,0.136194,1.6400066666666666,0.9834456666666668,True,,,,,,,,,,,,,
+P467A,gnomAD,Superficie,VUS/Not Classified,-0.0026897966666666,Superficie,Superficie,Superficie,Superficie,3.62291,1.3181433333333334,2.06971,True,,,,,,,,,,,,,
+P500L,Juan & gnomAD,Superficie,Uncertain significance,-0.309853,-,-,-,Superficie,0.8572266666666666,1.9991666666666668,0.2559516666666666,True,c.1499C>T,p.Pro500Leu,Missense,"PM2_Supp, BP4_(-3)",Likely Benign,39720292,-,-,-,-,Superficie,Superficie,True
+P500R,gnomAD,Superficie,VUS/Not Classified,1.7655433333333337,-,-,-,Superficie,-0.4697526666666667,1.22299,0.2444213333333333,True,,,,,,,,,,,,,
+P508L,gnomAD,Superficie,VUS/Not Classified,0.8187056666666667,-,-,-,Superficie,0.6685110000000001,-0.4453126666666667,4.265826666666666,True,,,,,,,,,,,,,
+P517T,gnomAD,Superficie,VUS/Not Classified,1.33987,Superficie,Superficie,Superficie,Superficie,1.0896466666666669,1.5397166666666668,0.289755,True,,,,,,,,,,,,,
+P552S,gnomAD,Core,VUS/Not Classified,1.8611766666666665,Superficie,Superficie,Superficie,Core,2.2966,-0.0202829133333333,2.919473333333333,True,,,,,,,,,,,,,
+P560L,Juan & gnomAD,Superficie,VUS/Not Classified,-0.1955196666666666,Superficie,Superficie,Superficie,Superficie,0.9976776666666668,-0.41367,4.20707,True,c.1679C>T,p.Pro560Leu,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+P602S,gnomAD,Superficie,VUS/Not Classified,0.276332,-,-,-,Superficie,0.4423366666666666,-0.921354,7.31079,True,,,,,,,,,,,,,
+P606L,gnomAD,Superficie,VUS/Not Classified,-0.7700766666666666,-,-,-,Superficie,0.9239006666666666,-0.0026545033333333,1.011338,True,,,,,,,,,,,,,
+P628L,gnomAD,Superficie,VUS/Not Classified,-0.3394796666666666,-,-,-,Superficie,-0.4999513333333333,6.223769999999999,2.387163333333333,True,,,,,,,,,,,,,
+Q267E,Juan & gnomAD,Core,Likely pathogenic,7.135776666666668,Superficie,Core,Superficie,Core,0.8109886666666667,-0.0615286,0.60562,True,c.799C>G,p.Gln267Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"9486973, 14734652, 10902780",superficie,Superficie,Core,Superficie,Core,Core,True
+Q267R,gnomAD,Core,VUS/Not Classified,0.194474,Superficie,Core,Superficie,Core,5.389143333333333,5.981163333333334,-0.0594775066666666,True,,,,,,,,,,,,,
+Q41K,gnomAD,Superficie,VUS/Not Classified,3.975193333333333,-,-,-,Superficie,1.19276,0.2719767999999999,1.1505103333333333,True,,,,,,,,,,,,,
+Q638K,gnomAD,Superficie,VUS/Not Classified,-0.2524586666666666,-,-,-,Superficie,5.026413333333333,2.1864323333333333,1.3354100000000002,True,,,,,,,,,,,,,
+Q639K,gnomAD,Superficie,VUS/Not Classified,4.99368,-,-,-,Superficie,-0.0364932333333333,0.31768,-0.466005,True,,,,,,,,,,,,,
+Q72R,gnomAD,Sitio activo,VUS/Not Classified,-0.189957,Core,Sitio activo,Sitio activo,Core,4.333723333333333,6.65973,-0.2145756666666666,True,,,,,,,,,,,,,
+R124H,Juan & gnomAD,Core,Likely pathogenic,5.540783333333334,Superficie,Superficie,Superficie,Core,-0.119653,3.5971066666666665,0.1082369666666666,True,c.371G>A,p.Arg124His,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,"16418213, 23690546",superficie,Superficie,Superficie,Superficie,Core,Core,True
+R124S,gnomAD,Core,VUS/Not Classified,3.818753333333333,Superficie,Superficie,Superficie,Core,5.710133333333332,3.62202,0.7188676666666667,True,,,,,,,,,,,,,
+R208C,gnomAD,Core,Uncertain significance,3.29191,Superficie,Superficie,Core,Superficie,3.52318,0.0669360333333333,1.4318566666666666,True,,,,,,,,,,,,,
+R208G,gnomAD,Core,VUS/Not Classified,-0.3752313333333333,Superficie,Superficie,Core,Superficie,-0.1327526666666666,-0.5175523333333333,1.0712296666666667,True,,,,,,,,,,,,,
+R208H,gnomAD,Core,VUS/Not Classified,-0.3801986666666666,Superficie,Superficie,Core,Superficie,-0.7354716666666666,-0.4243809999999999,4.074443333333334,True,,,,,,,,,,,,,
+R208S,gnomAD,Core,VUS/Not Classified,1.9919866666666664,Superficie,Superficie,Core,Superficie,-0.3917236666666666,-2.4831233333333333,2.023376666666667,True,,,,,,,,,,,,,
+R217C,gnomAD,Superficie,Uncertain significance,-2.2377866666666666,Superficie,Superficie,Superficie,Superficie,0.971185,0.206478,0.3853899999999999,True,,,,,,,,,,,,,
+R217H,gnomAD,Superficie,Uncertain significance,0.380519,Superficie,Superficie,Superficie,Superficie,-1.22438,-0.7392056666666665,3.054053333333333,True,,,,,,,,,,,,,
+R228Q,gnomAD,Core,Uncertain significance,-1.2788533333333334,Core,Superficie,Superficie,Core,0.6743743333333333,-0.4928983333333334,0.0887971333333333,True,,,,,,,,,,,,,
+R241C,gnomAD,Core,VUS/Not Classified,-0.8635533333333333,Core,Core,Core,Superficie,-2.1916766666666665,0.7192246666666667,0.104706,True,,,,,,,,,,,,,
+R241H,gnomAD,Core,Uncertain significance,0.5807696666666667,Core,Core,Core,Superficie,-0.838631,0.7588516666666667,3.907106666666667,True,,,,,,,,,,,,,
+R268C,gnomAD,Core,Uncertain significance,1.3213676666666665,Superficie,Core,Core,Core,1.04349,1.0621533333333333,3.03826,True,,,,,,,,,,,,,
+R268H,gnomAD,Core,VUS/Not Classified,0.2829903333333333,Superficie,Core,Core,Core,-1.090358333333333,1.09342,2.77795,True,,,,,,,,,,,,,
+R273C,Juan & gnomAD,Core,VUS/Not Classified,1.0680533333333333,Superficie,Superficie,Superficie,Core,0.1928498333333333,0.919225,3.933986666666667,True,c.817C>T,p.Arg273Cys,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,36884306,superficie,Superficie,Superficie,Superficie,Core,Core,True
+R317C,gnomAD,Superficie,VUS/Not Classified,-0.620535,Superficie,Superficie,Superficie,Superficie,0.2222239999999999,3.1028133333333336,1.46135,True,,,,,,,,,,,,,
+R317G,gnomAD,Superficie,VUS/Not Classified,1.4495699999999998,Superficie,Superficie,Superficie,Superficie,0.7388170000000001,-0.6089893333333333,4.391046666666667,True,,,,,,,,,,,,,
+R317H,gnomAD,Superficie,Uncertain significance,4.396676666666667,Superficie,Superficie,Superficie,Superficie,3.2962866666666666,1.7725233333333332,3.1928300000000003,True,,,,,,,,,,,,,
+R317L,gnomAD,Superficie,VUS/Not Classified,-0.9634243333333332,Superficie,Superficie,Superficie,Superficie,-0.5799763333333333,3.30745,1.1186233333333333,True,,,,,,,,,,,,,
+R374Q,gnomAD,Superficie,VUS/Not Classified,2.724766666666666,Superficie,Superficie,Superficie,Superficie,1.787156666666667,-0.9366576666666668,0.944234,True,,,,,,,,,,,,,
+R374W,gnomAD,Superficie,VUS/Not Classified,2.39252,Superficie,Superficie,Superficie,Superficie,2.8986,3.833433333333333,0.522774,True,,,,,,,,,,,,,
+R376Q,gnomAD,Superficie,VUS/Not Classified,-0.1110792999999999,Superficie,Superficie,Superficie,Superficie,-1.0892833333333334,1.7541266666666668,1.7526266666666668,True,,,,,,,,,,,,,
+R376W,Juan & gnomAD,Superficie,Uncertain significance,2.3475966666666666,Superficie,Superficie,Superficie,Superficie,2.54743,-0.8832643333333333,-1.3279666666666667,True,c.1126C>T,p.Arg376Trp,Missense,"PM2_Supp, BS3_Mod, BP4",Likely Benign,32459320,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+R42C,gnomAD,Superficie,VUS/Not Classified,-1.7182266666666666,-,-,-,Superficie,2.664706666666667,3.896503333333333,0.2200959999999999,True,,,,,,,,,,,,,
+R42L,gnomAD,Superficie,Uncertain significance,-1.25523,-,-,-,Superficie,0.0586539,0.6468466666666667,0.0560542666666666,True,,,,,,,,,,,,,
+R474K,gnomAD,Superficie,Uncertain significance,-1.3506233333333333,Superficie,Superficie,Superficie,Superficie,0.60181,1.6641233333333334,0.1952333333333333,True,,,,,,,,,,,,,
+R482H,gnomAD,Superficie,VUS/Not Classified,0.8476736666666667,Superficie,Superficie,Superficie,Superficie,-1.6055533333333332,-0.6036396666666667,6.223120000000001,True,,,,,,,,,,,,,
+R482P,gnomAD,Superficie,VUS/Not Classified,-0.1845326666666666,Superficie,Superficie,Superficie,Superficie,-1.4553333333333331,1.25124,1.4458233333333332,True,,,,,,,,,,,,,
+R506T,gnomAD,Superficie,Uncertain significance,-0.4183976666666666,-,-,-,Superficie,-1.5064133333333334,-0.763372,1.2392766666666668,True,,,,,,,,,,,,,
+R516L,gnomAD,Superficie,VUS/Not Classified,2.34619,Superficie,Superficie,Superficie,Superficie,0.955008,-0.9625986666666666,2.44776,True,,,,,,,,,,,,,
+R516Q,gnomAD,Superficie,VUS/Not Classified,7.81664,Superficie,Superficie,Superficie,Superficie,0.4120166666666667,1.7586333333333333,1.5466333333333333,True,,,,,,,,,,,,,
+R53G,gnomAD,Superficie,Uncertain significance,-0.5428746666666667,Superficie,-,-,Superficie,0.0970347333333333,12.999766666666668,0.0198376,True,,,,,,,,,,,,,
+R53H,gnomAD,Superficie,Likely benign,1.8626066666666663,Superficie,-,-,Superficie,2.8296333333333337,-0.377104,0.6960696666666667,True,,,,,,,,,,,,,
+R555H,gnomAD,Core,VUS/Not Classified,,Superficie,Superficie,Superficie,Core,8.96998,3.062313333333333,0.576852,True,,,,,,,,,,,,,
+R569Q,gnomAD,Core,Uncertain significance,,-,-,-,Core,-1.3095549999999998,,1.2128233333333334,True,,,,,,,,,,,,,
+R569W,Juan & gnomAD,Core,Uncertain significance,,-,-,-,Core,1.0477366666666663,,1.8339033333333328,True,c.1705C>T,p.Arg569Trp,Missense,"PM2_Supp, PM3, BS3_Mod, BP4",Likely Benign,34539567,-,-,-,-,Core,Core,True
+R611C,gnomAD,Superficie,VUS/Not Classified,,-,-,-,Superficie,,,0.0515626999999999,True,,,,,,,,,,,,,
+R611H,gnomAD,Superficie,Likely benign,,-,-,-,Superficie,,,-1.7793766666666666,True,,,,,,,,,,,,,
+R611S,gnomAD,Superficie,VUS/Not Classified,,-,-,-,Superficie,,,0.1328433333333333,True,,,,,,,,,,,,,
+S349R,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.6486683333333333,True,,,,,,,,,,,,,
+S396L,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,12.437533333333334,True,,,,,,,,,,,,,
+S405C,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,-0.576749,True,,,,,,,,,,,,,
+S416F,gnomAD,Sitio activo,VUS/Not Classified,,Core,Sitio activo,Sitio activo,Core,,,-0.249611,True,,,,,,,,,,,,,
+S43R,gnomAD,Superficie,VUS/Not Classified,,-,-,-,Superficie,,,4.1090333333333335,True,,,,,,,,,,,,,
+S505I,gnomAD,Superficie,VUS/Not Classified,,-,-,-,Superficie,,,-0.45553054,True,,,,,,,,,,,,,
+S522G,gnomAD,Core,Uncertain significance,,Core,Core,Core,Superficie,,,1.2987633333333333,True,,,,,,,,,,,,,
+S547I,gnomAD,Core,Uncertain significance,,Superficie,Superficie,Core,Core,,,0.202317,True,,,,,,,,,,,,,
+S556N,gnomAD,Superficie,VUS/Not Classified,,Superficie,Superficie,Superficie,Superficie,,,4.288716666666667,True,,,,,,,,,,,,,
+S78L,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Superficie,,,0.1034396666666666,True,,,,,,,,,,,,,
+T101I,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.887711,True,,,,,,,,,,,,,
+T171P,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,2.16147,True,,,,,,,,,,,,,
+T176P,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,3.870903333333333,True,,,,,,,,,,,,,
+T179K,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,4.857256666666667,True,,,,,,,,,,,,,
+T221M,gnomAD,Superficie,VUS/Not Classified,,Superficie,Superficie,Superficie,Superficie,,,7.336883333333333,True,,,,,,,,,,,,,
+T221R,gnomAD,Superficie,VUS/Not Classified,,Superficie,Superficie,Superficie,Superficie,,,0.0506216,True,,,,,,,,,,,,,
+T243A,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,-0.27086,True,,,,,,,,,,,,,
+T252M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,6.538430000000001,True,,,,,,,,,,,,,
+T472N,gnomAD,Superficie,VUS/Not Classified,,Superficie,Superficie,Superficie,Superficie,,,-1.5142933333333335,True,,,,,,,,,,,,,
+T536M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.3944576666666666,True,,,,,,,,,,,,,
+T550R,gnomAD,Core,Uncertain significance,,Superficie,Superficie,Superficie,Core,,,-2.7549533333333334,True,,,,,,,,,,,,,
+T607A,gnomAD,Superficie,Uncertain significance,,-,-,-,Superficie,,,-0.989142,True,,,,,,,,,,,,,
+T627N,gnomAD,Superficie,VUS/Not Classified,,-,-,-,Superficie,,,0.936669,True,,,,,,,,,,,,,
+V187G,gnomAD,Core,VUS/Not Classified,,-,-,-,Core,,,0.7309043333333333,True,,,,,,,,,,,,,
+V188I,gnomAD,Core,VUS/Not Classified,,-,-,-,Core,,,0.7348326666666667,True,,,,,,,,,,,,,
+V196M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.7222843333333332,True,,,,,,,,,,,,,
+V213G,gnomAD,Superficie,VUS/Not Classified,,Superficie,Superficie,Superficie,Superficie,,,1.726616666666667,True,,,,,,,,,,,,,
+V248A,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,3.623723333333333,True,,,,,,,,,,,,,
+V248L,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.6201543333333334,True,,,,,,,,,,,,,
+V261M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,1.3900766666666666,True,,,,,,,,,,,,,
+V266L,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,-0.5112766666666667,True,,,,,,,,,,,,,
+V266M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.5313640000000001,True,,,,,,,,,,,,,
+V270M,gnomAD,Core,Uncertain significance,,Superficie,Superficie,Superficie,Core,,,4.251483333333333,True,,,,,,,,,,,,,
+V287A,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,2.3712433333333336,True,,,,,,,,,,,,,
+V293M,gnomAD,Sitio activo,VUS/Not Classified,,Core,Core,Sitio activo,Core,,,0.9422803333333332,True,,,,,,,,,,,,,
+V384L,gnomAD,Superficie,Uncertain significance,,Superficie,Superficie,Superficie,Superficie,,,-1.0623466666666666,True,,,,,,,,,,,,,
+V445A,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,2.872866666666667,True,,,,,,,,,,,,,
+V445F,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,2.1682900000000003,True,,,,,,,,,,,,,
+V588D,gnomAD,Core,VUS/Not Classified,,-,-,-,Core,,,-0.148603,True,,,,,,,,,,,,,
+V73M,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,4.18289,True,,,,,,,,,,,,,
+V99G,gnomAD,Core,Uncertain significance,,Core,Core,Core,Core,,,3.4982433333333334,True,,,,,,,,,,,,,
+W15C,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,-0.4215703333333334,True,,,,,,,,,,,,,
+W165R,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.0010228166666666,True,,,,,,,,,,,,,
+W189G,gnomAD,Core,Uncertain significance,,Core,Core,-,Core,,,0.0588752333333333,True,,,,,,,,,,,,,
+W189R,gnomAD,Core,VUS/Not Classified,,Core,Core,-,Core,,,-0.464844,True,,,,,,,,,,,,,
+W33S,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Superficie,,,-0.626118,True,,,,,,,,,,,,,
+Y137H,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,2.7264733333333333,True,,,,,,,,,,,,,
+Y150F,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,13.373466666666667,True,,,,,,,,,,,,,
+Y178H,gnomAD,Core,VUS/Not Classified,,Core,Core,Core,Core,,,0.2893143333333333,True,,,,,,,,,,,,,
+Y307C,gnomAD,Superficie,Uncertain significance,,Superficie,Superficie,Superficie,Superficie,,,2.79982,True,,,,,,,,,,,,,
+-,Juan,-,,,,,,,,,,,c.-54C>T,-,-,-,Uncertain significance,21565787,-,-,-,-,-,-,True
+-,Juan,-,,,,,,,,,,,c.1652-97A>C,-,-,"BA1, BS2, BS3_Supp, BP7, PM3_Supp",Likely Benign,34632506,-,-,-,-,-,-,True
+G18R,Juan,Core,,,,,,,,,,,c.52G>A,p.Gly18Arg,Missense,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,32805706,superficie,Core,Core,Core,Core,Core,True
+G51A,Juan,Superficie,,,,,,,,,,,c.152del,p.Gly51Alafs*45,Frameshift,"PVS1, PM2_Supp, PM3",Pathogenic,33815280,-,-,-,-,Superficie,Superficie,True
+L54P,Juan,Core,,,,,,,,,,,c.161T>C,p.Leu54Pro,Missense,"PS3_Mod, PM2_Supp, PP3_Mod",Uncertain significance,36884306,-,Superficie,Superficie,-,Core,Core,True
+V59E,Juan,Core,,,,,,,,,,,c.176T>A,p.Val59Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_(+3), PP4",Pathogenic,"10907989, 18339708, 35276235",superficie,Core,Core,Core,Core,Core,True
+G93R,Juan,Core,,,,,,,,,,,c.277G>C,p.Gly93Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,"9745458, 22011571",superficie,Core,Core,Core,Core,Core,True
+Y137X,Juan,Core,,,,,,,,,,,c.411C>G,p.Tyr137*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,31430255,superficie,Core,Core,Core,Core,Core,True
+p.Met142_Gln323del,Juan,Core,,,,,,,,,,,c.424_969del,p.Met142_Gln323del,Deletion,"PVS1_Strong, PM2_Supp, PM3_Supp, PP4",Likely Pathogenic,31430255,superficie,Core,Core,Core,Core,Core,True
+N157T,Juan,Core,,,,,,,,,,,c.469delA,p.Asn157Thrfs*3,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,"30240412, 34780050",superficie,Core,Superficie,Core,Core,Core,True
+p=?,Juan,-,,,,,,,,,,,c.475+1G>T,p=?,-,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,35276235,-,-,-,-,-,-,True
+p=?,Juan,-,,,,,,,,,,,c.1242+1G>A,p=?,-,"PVS1, PM2_Supp, PM3",Pathogenic,32005694,-,-,-,-,-,-,True
+p=?,Juan,-,,,,,,,,,,,c.1329+2T>C,p=?,-,"PVS1_Strong, PM2_Supp",Uncertain significance,36884306,-,-,-,-,-,-,True
+p=?,Juan,-,,,,,,,,,,,c.1330-2A>C,p=?,-,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,35438852,-,-,-,-,-,-,True
+D191G,Juan,Core,,,,,,,,,,,c.572A>G,p.Asp191Gly,Missense,"PS3_Mod, PM1, PM2_Supp, PP3_Mod",Likely Pathogenic,32425884,superficie,Core,Core,Core,Core,Core,True
+T221T,Juan,Superficie,,,,,,,,,,,c.663G>A,p.Thr221=,Synonym,"PM2_Supp, BS2, BP7",Likely Benign,25465605,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+G250V,Juan,Core,,,,,,,,,,,c.749G>T,p.Gly250Val,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_Mod",Likely Pathogenic,31867598,superficie,Core,Core,Core,Core,Core,True
+Q263L,Juan,Core,,,,,,,,,,,c.788A>T,p.Gln263Leu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Mod, PP4",Likely Pathogenic,39895319,superficie,Core,Core,Core,Core,Core,True
+Q265R,Juan,Core,,,,,,,,,,,c.794A>G,p.Gln265Arg,Missense,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_(+3), PP4",Likely Pathogenic,33310921,superficie,Core,Core,Core,Core,Core,True
+V270E,Juan,Core,,,,,,,,,,,c.809T>A,p.Val270Glu,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",Likely Pathogenic,26204134,superficie,Superficie,Superficie,Superficie,Core,Core,True
+C272X,Juan,Core,,,,,,,,,,,c.816C>A,p.Cys272*,Nonsense,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,"9388506, 10902780",superficie,Superficie,Superficie,Superficie,Core,Core,True
+R273H,Juan,Core,,,,,,,,,,,c.818G>A,p.Arg273His,Missense,"PM2_Supp, BS3_Mod, BP4_Mod",Likely Benign,36913313,superficie,Superficie,Superficie,Superficie,Core,Core,True
+p.Val287_Gly288del,Juan,Core,,,,,,,,,,,c.859_864del,p.Val287_Gly288del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,19916865,superficie,Core,Core,Core,Core,Core,True
+C310C,Juan,Superficie,,,,,,,,,,,c.930C>T,p.Cys310=,Synonym,"BP7, PM2_Supp",Uncertain significance,25465605,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+Y324H,Juan,Core,,,,,,,,,,,c.970-3C>A,p.Y324Hfs*148,Frameshift,"PVS1 (RNA), PM2_Supp, PM3, PP4",Pathogenic,34726525,-,Superficie,Superficie,Superficie,Core,Core,True
+Y324H,Juan,Core,,,,,,,,,,,c.970-48G>C,p.Y324Hfs*148,Frameshift,-,Uncertain significance,34632506,-,Superficie,Superficie,Superficie,Core,Core,True
+Y324L,Juan,Core,,,,,,,,,,,c.970_1526del,p.Tyr324Leufs*12,Frameshift,"PVS1, PM2_Supp, PM3_Supp, PP4",Pathogenic,34632506,superficie,Superficie,Superficie,Superficie,Core,Core,True
+D331N,Juan,Superficie,,,,,,,,,,,c.991G>A,p.Asp331Asn,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,31115276,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+Y348D,Juan,Core,,,,,,,,,,,c.1042T>G,p.Tyr348Asp,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong",Likely Pathogenic,29759035,superficie,Core,Core,Core,Core,Core,True
+G350D,Juan,Core,,,,,,,,,,,c.1049G>A,p.Gly350Asp,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,39895319,superficie,Core,Core,Core,Core,Core,True
+T354P,Juan,Core,,,,,,,,,,,c.1060A>C,p.Thr354Pro,Missense,"PS3_Supp, PM1, PM2_Supp, PM3_Strong, PP3_Mod, PP4",Pathogenic,"9745458, 17606623, 21054210, 981450, 9398697, 9709973, 9657379, 27493890",superficie,Core,Core,Core,Core,Core,True
+S356F,Juan,Core,,,,,,,,,,,c.1067C>T,p.Ser356Phe,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong, PP4",Pathogenic,34806438,superficie,Core,Core,Core,Core,Core,True
+Thr357Hisfs*146,Juan,Core,,,,,,,,,,,c.1067_1068insT,Thr357Hisfs*146,Frameshift,"PVS1, PM2_Supp, PM3_Supp",Pathogenic,39003160,-,Core,Core,Core,Core,Core,True
+D369V,Juan,Superficie,,,,,,,,,,,c.1106A>T,p.Asp369Val,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",Likely Pathogenic,34726525,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+I386S,Juan,Superficie,,,,,,,,,,,c.1157T>G,p.Ile386Ser,Missense,"PS3_Mod, PM2_Supp",Uncertain significance,32425884,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+K388X,Juan,Core,,,,,,,,,,,c.1162A>T,p.Lys388*,Nonsense,"PVS1, PM2_Supp",Likely Pathogenic,32425884,superficie,Core,Core,Core,Superficie,Core,True
+L408L,Juan,Core,,,,,,,,,,,c.1224C>T,p.Leu408=,Synonym,"BS1, BS2, BP7",Benign,"34539567, 25465605",superficie,Core,Core,Core,Core,Core,True
+G421R,Juan,Core,,,,,,,,,,,c.1261G>A,p.Gly421Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP3_Strong",Likely Pathogenic,33815280,core,Core,Core,Core,Core,Core,True
+M435L,Juan,Core,,,,,,,,,,,c.1303A>C,p.Met435Leu,Missense,"PM2_Supp, BS3_Mod",Likely Benign,25465605,core / superficie,Core,Core,Core,Core,Core,True
+p.Ala439_Pro443del,Juan,Core,,,,,,,,,,,c.1314_1328del,p.Ala439_Pro443del,Deletion,"PS3_Supp, PM2_Supp, PM3_Supp, PM4, PP4",Likely Pathogenic,"14510914, 23650190",superficie,Superficie,Core,Core,Core,Core,True
+G415L,Juan,Core,,,,,,,,,,,c.1326A>C,p.G415Lfs*32,Frameshift,-,Uncertain significance,35600585,-,Core,Core,Core,Core,Core,True
+A514T,Juan,Core,,,,,,,,,,,c.1540G>A,p.Ala514Thr,Missense,"PM2_Supp, BS3_Mod, BP4_(-3)",Likely Benign,34539567,superficie,Superficie,Superficie,Core,Superficie,Core,True
+R516X,Juan,Superficie,,,,,,,,,,,c.1546C>T,p.Arg516*,Nonsense,"PVS1, PM2_Supp, PP4",Pathogenic,32805706,superficie,Superficie,Superficie,Superficie,Superficie,Superficie,True
+S509R,Juan,Superficie,,,,,,,,,,,c.1593C>G,p.Ser509Argfs*6,Frameshift,"PVS1, PM2_Supp, PM3, PP4",Pathogenic,"9486973, 10902780, 34248839",-,-,-,-,Superficie,Superficie,True
+C542C,Juan,Core,,,,,,,,,,,c.1626C>T,p.Cys542=,Synonym,"BS1, BS2, BP7, PM3_Supp",Benign,35600585,superficie,Core,Core,Core,Core,Core,True
+G543E,Juan,Core,,,,,,,,,,,c.1628G>A,p.Gly543Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_Strong, PP4",Pathogenic,"9745458, 15976004",superficie,Core,Core,Core,Core,Core,True
+S547R,Juan,Core,,,,,,,,,,,c.1641C>A,p.Ser547Arg,Missense,"PS3_Supp, PM2_Supp, PM3, PP4, PP3_Strong",Likely Pathogenic,31115276,superficie,Superficie,Superficie,Core,Core,Core,True
+T557T,Juan,Core,,,,,,,,,,,c.1671C>G,p.Thr557=,Synonym,"PM2_Supp, BP7",Uncertain significance,25465605,superficie,Superficie,Core,Superficie,Superficie,Core,True
+G561E,Juan,Core,,,,,,,,,,,c.1682C>T,p.Gly561Glu,Missense,"PS3_Supp, PM2_Supp, PM3_Supp, PP4",Uncertain significance,33912899,superficie,Superficie,-,Superficie,Core,Core,True
+L562M,Juan,Core,,,,,,,,,,,c.1684T>A,p.Leu562Met,Missense,"PS3_Mod, PM2_Supp, PM3, PP4",Likely Pathogenic,39749016,-,-,-,-,Core,Core,True
+R636X,Juan,Superficie,,,,,,,,,,,c.1906C>T,p.Arg636*,Nonsense,"PVS1_Strong, PM3_Supp, PM2_Supp",Likely Pathogenic,"30240412, 34196428",-,-,-,-,Superficie,Superficie,True
+Q639X,Juan,Superficie,,,,,,,,,,,c.1915C>T,p.Gln639*,Nonsense,"PVS1_Strong, PM2_Supp",Uncertain significance,32319661,-,-,-,-,Superficie,Superficie,True

@@ -1,0 +1,9 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ABCE1	ATP-binding cassette, sub-family E (OABP), member 1	1710	0.5000072121620178	-0.0846906	No	
+row_1	RNASEL	ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent)	6165	0.06314482539892197	-0.35647815	No	
+row_2	FLNA	filamin A, alpha (actin binding protein 280)	15764	-1.0543973445892334	-0.90421885	Yes	
+row_3	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.76471436	Yes	
+row_4	OAS1	2',5'-oligoadenylate synthetase 1, 40/46kDa	16221	-4.297661304473877	-0.58765733	Yes	
+row_5	OASL	2'-5'-oligoadenylate synthetase-like	16228	-4.654289722442627	-0.39574367	Yes	
+row_6	OAS2	2'-5'-oligoadenylate synthetase 2, 69/71kDa	16231	-4.784234523773193	-0.19821516	Yes	
+row_7	OAS3	2'-5'-oligoadenylate synthetase 3, 100kDa	16232	-4.808309555053711	4.3119636E-4	Yes	

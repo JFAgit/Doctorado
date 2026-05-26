@@ -1,0 +1,6 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC34A1	solute carrier family 34 (sodium phosphate), member 1	250	0.9973466396331787	0.45654303	Yes	
+row_1	SLC20A1	solute carrier family 20 (phosphate transporter), member 1	1495	0.5305706858634949	0.6309831	Yes	
+row_2	SLC20A2	solute carrier family 20 (phosphate transporter), member 2	1598	0.5087617039680481	0.86544514	Yes	
+row_3	SLC34A3	solute carrier family 34 (sodium phosphate), member 3	10116	-0.031008174642920494	0.3555108	No	
+row_4	SLC34A2	solute carrier family 34 (sodium phosphate), member 2	10322	-0.045595474541187286	0.36445943	No	

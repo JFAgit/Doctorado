@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CPS1	carbamoyl-phosphate synthetase 1, mitochondrial	165	1.1321661472320557	0.28625712	Yes	
+row_1	OTC	ornithine carbamoyltransferase	491	0.8367330431938171	0.48530573	Yes	
+row_2	ARG1	arginase, liver	1384	0.5535420775413513	0.57527405	Yes	
+row_3	ARG2	arginase, type II	2387	0.42744576930999756	0.62545025	Yes	
+row_4	ASL	argininosuccinate lyase	4485	0.203213632106781	0.54945046	No	
+row_5	SLC25A2	solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 2	5688	0.09995881468057632	0.5015612	No	
+row_6	SLC25A15	solute carrier family 25 (mitochondrial carrier; ornithine transporter) member 15	6737	0.023987462744116783	0.44326985	No	
+row_7	NMRAL1	NmrA-like family domain containing 1	7167	0.0017411366570740938	0.4172932	No	
+row_8	ASS1	argininosuccinate synthetase 1	12421	-0.23562882840633392	0.15532559	No	
+row_9	NAGS	N-acetylglutamate synthase	13035	-0.3050037622451782	0.19741204	No	

@@ -1,0 +1,10 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	BDH2	3-hydroxybutyrate dehydrogenase, type 2	807	0.7006149888038635	0.21506555	Yes	
+row_1	HMGCS2	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial)	1008	0.6416827440261841	0.44525626	Yes	
+row_2	BDH1	3-hydroxybutyrate dehydrogenase, type 1	1131	0.6130432486534119	0.66942877	Yes	
+row_3	HMGCL	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase (hydroxymethylglutaricaciduria)	3591	0.27894285321235657	0.6233502	No	
+row_4	ACAT1	acetyl-Coenzyme A acetyltransferase 1 (acetoacetyl Coenzyme A thiolase)	4925	0.1646079570055008	0.6034341	No	
+row_5	OXCT2	3-oxoacid CoA transferase 2	4990	0.15943334996700287	0.65974605	No	
+row_6	OXCT1	3-oxoacid CoA transferase 1	6315	0.05139115825295448	0.59759617	No	
+row_7	HMGCLL1	3-hydroxymethyl-3-methylglutaryl-Coenzyme A lyase-like 1	7774	0.0	0.5077681	No	
+row_8	AACS	acetoacetyl-CoA synthetase	10186	-0.0362582765519619	0.37292835	No	

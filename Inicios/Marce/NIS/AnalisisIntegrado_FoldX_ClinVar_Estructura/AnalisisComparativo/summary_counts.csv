@@ -1,0 +1,14 @@
+Metric,Value
+Rows,888
+Clinical group: VUS_or_unclassified,771
+Clinical group: Uncertain_significance,78
+Clinical group: Pathogenic_or_likely,26
+Clinical group: Benign_or_likely,9
+Clinical group: Conflicting,4
+Structural consensus: core,697
+Structural consensus: superficie,174
+Structural consensus: sitio activo,17
+Most destabilizing experimental state: 7UUZ_ReO4_Na,236
+Most destabilizing experimental state: no_experimental_ddg,235
+Most destabilizing experimental state: 7UUY_apo,223
+Most destabilizing experimental state: 7UV0_I_Na,194

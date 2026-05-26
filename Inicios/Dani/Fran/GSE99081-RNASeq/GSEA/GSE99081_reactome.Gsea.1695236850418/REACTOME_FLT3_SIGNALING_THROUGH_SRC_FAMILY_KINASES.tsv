@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FLT3	fms-related tyrosine kinase 3	1385	0.553314745426178	0.19102344	Yes	
+row_1	LCK	lymphocyte-specific protein tyrosine kinase	1591	0.5100494027137756	0.43312615	Yes	
+row_2	SYK	spleen tyrosine kinase	1865	0.4990382492542267	0.6655409	Yes	
+row_3	FYN	FYN oncogene related to SRC, FGR, YES	2773	0.371307909488678	0.7951103	Yes	
+row_4	HCK	hemopoietic cell kinase	7242	9.126333679887466E-6	0.51989	No	
+row_5	FLT3LG	fms-related tyrosine kinase 3 ligand	10622	-0.0685904324054718	0.34600222	No	

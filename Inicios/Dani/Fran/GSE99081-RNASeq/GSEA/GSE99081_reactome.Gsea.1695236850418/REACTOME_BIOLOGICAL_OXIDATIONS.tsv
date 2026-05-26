@@ -1,0 +1,201 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DPEP2	dipeptidase 2	51	1.476378083229065	0.016916338	Yes	
+row_1	MAOA	monoamine oxidase A	76	1.3817025423049927	0.034227278	Yes	
+row_2	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	109	1.2591644525527954	0.049371526	Yes	
+row_3	GSTA4	glutathione S-transferase A4	136	1.188332200050354	0.0639257	Yes	
+row_4	BPHL	biphenyl hydrolase-like (serine hydrolase; breast epithelial mucin-associated antigen)	144	1.1749076843261719	0.079481676	Yes	
+row_5	CYP2E1	cytochrome P450, family 2, subfamily E, polypeptide 1	218	1.036110281944275	0.08903369	Yes	
+row_6	AKR1A1	aldo-keto reductase family 1, member A1 (aldehyde reductase)	240	1.0087536573410034	0.10145523	Yes	
+row_7	SLC26A2	solute carrier family 26 (sulfate transporter), member 2	288	0.9595756530761719	0.11158643	Yes	
+row_8	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	406	0.8715651631355286	0.11615557	Yes	
+row_9	CYP11A1	cytochrome P450, family 11, subfamily A, polypeptide 1	421	0.86444491147995	0.12704924	Yes	
+row_10	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	518	0.8228452801704407	0.13226447	Yes	
+row_11	NAT2	N-acetyltransferase 2 (arylamine N-acetyltransferase)	557	0.8006616830825806	0.14079368	Yes	
+row_12	SULT4A1	sulfotransferase family 4A, member 1	571	0.7942863702774048	0.15079473	Yes	
+row_13	SULT1E1	sulfotransferase family 1E, estrogen-preferring, member 1	661	0.7585474252700806	0.15557115	Yes	
+row_14	GSTM4	glutathione S-transferase M4	710	0.7385808825492859	0.16263191	Yes	
+row_15	CYP2A13	cytochrome P450, family 2, subfamily A, polypeptide 13	716	0.7348672747612	0.17232291	Yes	
+row_16	ARNT	aryl hydrocarbon receptor nuclear translocator	755	0.7180134654045105	0.17972717	Yes	
+row_17	PODXL2	podocalyxin-like 2	775	0.7103542685508728	0.1882117	Yes	
+row_18	CYP2D6	cytochrome P450, family 2, subfamily D, polypeptide 6	781	0.7080888748168945	0.19753821	Yes	
+row_19	UGT2B10	UDP glucuronosyltransferase 2 family, polypeptide B10	849	0.6890363097190857	0.20274004	Yes	
+row_20	CYP1A2	cytochrome P450, family 1, subfamily A, polypeptide 2	873	0.6809648275375366	0.21057516	Yes	
+row_21	FDXR	ferredoxin reductase	874	0.680429220199585	0.2198369	Yes	
+row_22	GLYAT	glycine-N-acyltransferase	926	0.6666602492332458	0.22573167	Yes	
+row_23	GSTA2	glutathione S-transferase A2	989	0.6469473242759705	0.23067233	Yes	
+row_24	PAPSS1	3'-phosphoadenosine 5'-phosphosulfate synthase 1	1099	0.6182475090026855	0.23229216	Yes	
+row_25	CYP2A6	cytochrome P450, family 2, subfamily A, polypeptide 6	1129	0.6134924292564392	0.23883481	Yes	
+row_26	MGST2	microsomal glutathione S-transferase 2	1175	0.6013235449790955	0.24421431	Yes	
+row_27	AOC3	amine oxidase, copper containing 3 (vascular adhesion protein 1)	1182	0.599288821220398	0.25199753	Yes	
+row_28	GSTM2	glutathione S-transferase M2 (muscle)	1195	0.5942338705062866	0.25933787	Yes	
+row_29	MGST3	microsomal glutathione S-transferase 3	1227	0.5895490050315857	0.2654299	Yes	
+row_30	UGT1A8	UDP glucuronosyltransferase 1 family, polypeptide A8	1237	0.5878660082817078	0.27287063	Yes	
+row_31	EPHX1	epoxide hydrolase 1, microsomal (xenobiotic)	1245	0.5856605172157288	0.280406	Yes	
+row_32	CES3	carboxylesterase 3 (brain)	1281	0.5763019919395447	0.28606835	Yes	
+row_33	SULT1A1	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 1	1293	0.5734164714813232	0.2931877	Yes	
+row_34	CYP3A5	cytochrome P450, family 3, subfamily A, polypeptide 5	1355	0.5596041083335876	0.2970018	Yes	
+row_35	CMBL	carboxymethylenebutenolidase homolog (Pseudomonas)	1367	0.5574069619178772	0.30390325	Yes	
+row_36	GSTM3	glutathione S-transferase M3 (brain)	1435	0.5431491732597351	0.30711934	Yes	
+row_37	CYP4F12	cytochrome P450, family 4, subfamily F, polypeptide 12	1500	0.5299760103225708	0.31034312	Yes	
+row_38	UGT2B15	UDP glucuronosyltransferase 2 family, polypeptide B15	1594	0.5096853971481323	0.31148276	Yes	
+row_39	GSTM5	glutathione S-transferase M5	1600	0.5084382891654968	0.31809172	Yes	
+row_40	CYB5B	cytochrome b5 type B (outer mitochondrial membrane)	1606	0.5075126886367798	0.32468805	Yes	
+row_41	ACSS2	acyl-CoA synthetase short-chain family member 2	1760	0.49999096989631653	0.32195508	Yes	
+row_42	CYP2F1	cytochrome P450, family 2, subfamily F, polypeptide 1	1833	0.499839723110199	0.32426992	Yes	
+row_43	ACSM1	acyl-CoA synthetase medium-chain family member 1	2013	0.48154616355895996	0.31966496	Yes	
+row_44	CYP2B6	cytochrome P450, family 2, subfamily B, polypeptide 6	2094	0.46927180886268616	0.32106498	Yes	
+row_45	UGT2B28	UDP glucuronosyltransferase 2 family, polypeptide B28	2112	0.4664521813392639	0.3263543	Yes	
+row_46	SLC35B3	solute carrier family 35, member B3	2184	0.4577173590660095	0.3281581	Yes	
+row_47	AS3MT	arsenic (+3 oxidation state) methyltransferase	2251	0.4482465088367462	0.33014476	Yes	
+row_48	UGT3A1	UDP glycosyltransferase 3 family, polypeptide A1	2283	0.443304181098938	0.3342462	Yes	
+row_49	MAT1A	methionine adenosyltransferase I, alpha	2288	0.4428934156894684	0.3400253	Yes	
+row_50	ADH1B	alcohol dehydrogenase IB (class I), beta polypeptide	2348	0.43341153860092163	0.34224644	Yes	
+row_51	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	2467	0.4172992706298828	0.34056994	Yes	
+row_52	CYP2C19	cytochrome P450, family 2, subfamily C, polypeptide 19	2506	0.41178447008132935	0.3438059	Yes	
+row_53	CYP39A1	cytochrome P450, family 39, subfamily A, polypeptide 1	2529	0.408863365650177	0.34799963	Yes	
+row_54	SLC35D1	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1	2684	0.38532009720802307	0.34364346	Yes	
+row_55	AKR7A2	aldo-keto reductase family 7, member A2 (aflatoxin aldehyde reductase)	2691	0.38420867919921875	0.3484991	Yes	
+row_56	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	2708	0.38198336958885193	0.352701	Yes	
+row_57	NAT1	N-acetyltransferase 1 (arylamine N-acetyltransferase)	2757	0.373279333114624	0.3547894	Yes	
+row_58	UGDH	UDP-glucose dehydrogenase	2803	0.3656925857067108	0.3569616	Yes	
+row_59	UGT1A6	UDP glucuronosyltransferase 1 family, polypeptide A6	2872	0.3567996621131897	0.3575788	Yes	
+row_60	ALDH1B1	aldehyde dehydrogenase 1 family, member B1	2895	0.353042334318161	0.36101273	Yes	
+row_61	FMO2	flavin containing monooxygenase 2 (non-functional)	2970	0.3461475968360901	0.3611109	Yes	
+row_62	BPNT1	3'(2'), 5'-bisphosphate nucleotidase 1	2986	0.34449443221092224	0.36486486	Yes	
+row_63	CYP4A22	cytochrome P450, family 4, subfamily A, polypeptide 22	2990	0.3439297080039978	0.36935925	Yes	
+row_64	ADH7	alcohol dehydrogenase 7 (class IV), mu or sigma polypeptide	3075	0.33402955532073975	0.36866903	Yes	
+row_65	TPST2	tyrosylprotein sulfotransferase 2	3132	0.32823148369789124	0.3696455	Yes	
+row_66	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	3174	0.3226655423641205	0.3714814	Yes	
+row_67	OPLAH	5-oxoprolinase (ATP-hydrolysing)	3233	0.31671884655952454	0.3721765	Yes	
+row_68	CYP2W1	cytochrome P450, family 2, subfamily W, polypeptide 1	3244	0.31494832038879395	0.37584	Yes	
+row_69	CYP4A11	cytochrome P450, family 4, subfamily A, polypeptide 11	3263	0.3135242760181427	0.37898538	Yes	
+row_70	SULT1C2	sulfotransferase family, cytosolic, 1C, member 2	3275	0.31256750226020813	0.38255414	Yes	
+row_71	AADAC	arylacetamide deacetylase (esterase)	3296	0.3100499212741852	0.38552755	Yes	
+row_72	SULT1A3	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 3	3498	0.28906843066215515	0.37693107	No	
+row_73	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	3544	0.2844189703464508	0.37799698	No	
+row_74	GSTP1	glutathione S-transferase pi	3572	0.2808307707309723	0.38013625	No	
+row_75	CYP46A1	cytochrome P450, family 46, subfamily A, polypeptide 1	3681	0.2683316469192505	0.3770555	No	
+row_76	AKR7A3	aldo-keto reductase family 7, member A3 (aflatoxin aldehyde reductase)	3727	0.2636086046695709	0.37783816	No	
+row_77	GSTT1	glutathione S-transferase theta 1	3758	0.26132020354270935	0.37952483	No	
+row_78	MAOB	monoamine oxidase B	3916	0.24912366271018982	0.37312776	No	
+row_79	GLYATL1	glycine-N-acyltransferase-like 1	3941	0.2468881905078888	0.37499204	No	
+row_80	CYP4F2	cytochrome P450, family 4, subfamily F, polypeptide 2	3998	0.2429659068584442	0.37480795	No	
+row_81	SULT2B1	sulfotransferase family, cytosolic, 2B, member 1	4029	0.24116913974285126	0.37622032	No	
+row_82	FMO3	flavin containing monooxygenase 3	4064	0.23795340955257416	0.37733954	No	
+row_83	CHAC1	ChaC, cation transport regulator homolog 1 (E. coli)	4074	0.23738834261894226	0.38000968	No	
+row_84	CYP3A7	cytochrome P450, family 3, subfamily A, polypeptide 7	4281	0.22161979973316193	0.3701834	No	
+row_85	ABHD14B	abhydrolase domain containing 14B	4314	0.2183832973241806	0.37116092	No	
+row_86	UGP2	UDP-glucose pyrophosphorylase 2	4332	0.21701379120349884	0.373055	No	
+row_87	SULT2A1	sulfotransferase family, cytosolic, 2A, dehydroepiandrosterone (DHEA)-preferring, member 1	4404	0.21112270653247833	0.37150228	No	
+row_88	CYP3A4	cytochrome P450, family 3, subfamily A, polypeptide 4	4409	0.2105592042207718	0.37411895	No	
+row_89	CYP2C9	cytochrome P450, family 2, subfamily C, polypeptide 9	4465	0.20512235164642334	0.37348208	No	
+row_90	TPST1	tyrosylprotein sulfotransferase 1	4530	0.19962356984615326	0.37220925	No	
+row_91	CYP4F3	cytochrome P450, family 4, subfamily F, polypeptide 3	4632	0.1886787861585617	0.3684807	No	
+row_92	GCLM	glutamate-cysteine ligase, modifier subunit	4633	0.1886100023984909	0.371048	No	
+row_93	UGT2B17	UDP glucuronosyltransferase 2 family, polypeptide B17	4702	0.18252286314964294	0.36929303	No	
+row_94	ADH6	alcohol dehydrogenase 6 (class V)	4728	0.18101611733436584	0.37019834	No	
+row_95	ABHD10	abhydrolase domain containing 10	4879	0.1678154170513153	0.36313096	No	
+row_96	UGT2B4	UDP glucuronosyltransferase 2 family, polypeptide B4	5045	0.15493597090244293	0.3549531	No	
+row_97	UGT1A9	UDP glucuronosyltransferase 1 family, polypeptide A9	5090	0.14958560466766357	0.35424608	No	
+row_98	POR	P450 (cytochrome) oxidoreductase	5137	0.1448238343000412	0.35334954	No	
+row_99	CYP2U1	cytochrome P450, family 2, subfamily U, polypeptide 1	5322	0.12846551835536957	0.34362683	No	
+row_100	CES1	carboxylesterase 1 (monocyte/macrophage serine esterase 1)	5387	0.12254711985588074	0.34130487	No	
+row_101	UGT2B7	UDP glucuronosyltransferase 2 family, polypeptide B7	5411	0.1199813187122345	0.3415041	No	
+row_102	CYP2A7	cytochrome P450, family 2, subfamily A, polypeptide 7	5544	0.10953737050294876	0.33476564	No	
+row_103	MGST1	microsomal glutathione S-transferase 1	5627	0.10396447032690048	0.33106855	No	
+row_104	ESD	esterase D/formylglutathione hydrolase	5648	0.10217124968767166	0.33121237	No	
+row_105	PTGIS	prostaglandin I2 (prostacyclin) synthase	5655	0.10176952928304672	0.33222356	No	
+row_106	ACY1	aminoacylase 1	5677	0.1003444567322731	0.3322802	No	
+row_107	CYP1B1	cytochrome P450, family 1, subfamily B, polypeptide 1	5768	0.09297861158847809	0.3279348	No	
+row_108	UGT1A3	UDP glucuronosyltransferase 1 family, polypeptide A3	5788	0.09141960740089417	0.32799464	No	
+row_109	GSTM1	glutathione S-transferase M1	5851	0.0881265252828598	0.32532886	No	
+row_110	CYP1A1	cytochrome P450, family 1, subfamily A, polypeptide 1	5982	0.07741967588663101	0.31827793	No	
+row_111	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.31336892	No	
+row_112	UGT2B11	UDP glucuronosyltransferase 2 family, polypeptide B11	6128	0.06627169996500015	0.31115377	No	
+row_113	PAPSS2	3'-phosphoadenosine 5'-phosphosulfate synthase 2	6143	0.06475111842155457	0.31116232	No	
+row_114	TPMT	thiopurine S-methyltransferase	6152	0.06436695158481598	0.3115397	No	
+row_115	AOC2	amine oxidase, copper containing 2 (retina-specific)	6226	0.0586969293653965	0.30778754	No	
+row_116	FDX1	ferredoxin 1	6249	0.057092856615781784	0.3071931	No	
+row_117	UGT1A10	UDP glucuronosyltransferase 1 family, polypeptide A10	6359	0.048725634813308716	0.30106083	No	
+row_118	GSS	glutathione synthetase	6499	0.038092855364084244	0.2929135	No	
+row_119	GLYATL2	glycine-N-acyltransferase-like 2	6535	0.03605286777019501	0.29122218	No	
+row_120	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	6610	0.03179985284805298	0.28704157	No	
+row_121	AHCY	S-adenosylhomocysteine hydrolase	6657	0.02908695675432682	0.28456965	No	
+row_122	CHAC2	ChaC, cation transport regulator homolog 2 (E. coli)	6672	0.0277168620377779	0.2840741	No	
+row_123	GSTO2	glutathione S-transferase omega 2	6682	0.02728029526770115	0.28388435	No	
+row_124	GSTA1	glutathione S-transferase A1	6864	0.01712612248957157	0.27283317	No	
+row_125	DPEP3	dipeptidase 3	6896	0.016001123934984207	0.27111828	No	
+row_126	CYP4B1	cytochrome P450, family 4, subfamily B, polypeptide 1	6961	0.012736222706735134	0.26730162	No	
+row_127	NQO2	NAD(P)H dehydrogenase, quinone 2	7014	0.009986701421439648	0.26419568	No	
+row_128	GSTT2	glutathione S-transferase theta 2	7132	0.003913337364792824	0.25695467	No	
+row_129	GCLC	glutamate-cysteine ligase, catalytic subunit	7134	0.0038190013729035854	0.25694433	No	
+row_130	UGT1A7	UDP glucuronosyltransferase 1 family, polypeptide A7	7143	0.0036096367985010147	0.2564947	No	
+row_131	GSTO1	glutathione S-transferase omega 1	7166	0.0017563056899234653	0.25514704	No	
+row_132	CYP24A1	cytochrome P450, family 24, subfamily A, polypeptide 1	7269	3.620498773670988E-6	0.24878797	No	
+row_133	TBXAS1	thromboxane A synthase 1 (platelet, cytochrome P450, family 5, subfamily A)	7349	1.0511256220979703E-7	0.2438628	No	
+row_134	UGT2A1	UDP glucuronosyltransferase 2 family, polypeptide A1	7449	4.2053618967934426E-33	0.23769072	No	
+row_135	SULT6B1	-	7888	0.0	0.210384	No	
+row_136	DPEP1	dipeptidase 1 (renal)	7991	0.0	0.20402488	No	
+row_137	CYP11B2	cytochrome P450, family 11, subfamily B, polypeptide 2	8690	0.0	0.16050868	No	
+row_138	CYP11B1	cytochrome P450, family 11, subfamily B, polypeptide 1	8691	0.0	0.16050868	No	
+row_139	FMO1	flavin containing monooxygenase 1	9293	-3.1784080575802953E-12	0.12303985	No	
+row_140	CYP2S1	cytochrome P450, family 2, subfamily S, polypeptide 1	9470	-6.172276916913688E-4	0.11207569	No	
+row_141	SLC35B2	solute carrier family 35, member B2	9632	-0.008746320381760597	0.10215733	No	
+row_142	CYP2R1	cytochrome P450, family 2, subfamily R, polypeptide 1	10135	-0.03246456757187843	0.071302466	No	
+row_143	CYP26C1	cytochrome P450, family 26, subfamily C, polypeptide 1	10160	-0.0339135006070137	0.07026783	No	
+row_144	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide	10206	-0.03786112740635872	0.06797769	No	
+row_145	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	10281	-0.04309438541531563	0.06395081	No	
+row_146	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	10377	-0.04957422614097595	0.0587029	No	
+row_147	AIP	aryl hydrocarbon receptor interacting protein	10573	-0.06565092504024506	0.04743941	No	
+row_148	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	10601	-0.06751232594251633	0.04667507	No	
+row_149	CYB5R3	cytochrome b5 reductase 3	10672	-0.07275926321744919	0.04330135	No	
+row_150	GSTA3	glutathione S-transferase A3	10736	-0.07856884598731995	0.04044312	No	
+row_151	ALDH2	aldehyde dehydrogenase 2 family (mitochondrial)	10874	-0.09088437259197235	0.033139057	No	
+row_152	NCOA1	nuclear receptor coactivator 1	10884	-0.09165199846029282	0.03382549	No	
+row_153	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	10933	-0.09631738811731339	0.032144006	No	
+row_154	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	11100	-0.10979877412319183	0.02328942	No	
+row_155	CYP27B1	cytochrome P450, family 27, subfamily B, polypeptide 1	11366	-0.13507574796676636	0.008606821	No	
+row_156	GGT1	gamma-glutamyltransferase 1	11395	-0.13824714720249176	0.008742953	No	
+row_157	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.004633254	No	
+row_158	UGT2A2	UDP glucuronosyltransferase 2 family, polypeptide A2	11805	-0.1747034192085266	-0.0123154335	No	
+row_159	AHR	aryl hydrocarbon receptor	11816	-0.17565540969371796	-0.010547921	No	
+row_160	GSTK1	glutathione S-transferase kappa 1	12084	-0.20100972056388855	-0.02445774	No	
+row_161	CYP2C18	cytochrome P450, family 2, subfamily C, polypeptide 18	12136	-0.2068454772233963	-0.02482179	No	
+row_162	CYP4V2	cytochrome P450, family 4, subfamily V, polypeptide 2	12171	-0.21083319187164307	-0.02407171	No	
+row_163	UGT1A5	UDP glucuronosyltransferase 1 family, polypeptide A5	12236	-0.21758043766021729	-0.025100114	No	
+row_164	MAT2B	methionine adenosyltransferase II, beta	12602	-0.2542986571788788	-0.04439431	No	
+row_165	GSTA5	glutathione S-transferase A5	12668	-0.26125985383987427	-0.044890508	No	
+row_166	MAT2A	methionine adenosyltransferase II, alpha	12733	-0.2687509059906006	-0.0452224	No	
+row_167	GGT6	gamma-glutamyltransferase 6 homolog (rat)	12822	-0.2798134386539459	-0.046899974	No	
+row_168	NR1H4	nuclear receptor subfamily 1, group H, member 4	12981	-0.2981492578983307	-0.052692052	No	
+row_169	PTGES3	prostaglandin E synthase 3 (cytosolic)	13147	-0.3201994001865387	-0.058620404	No	
+row_170	SULT1A2	sulfotransferase family, cytosolic, 1A, phenol-preferring, member 2	13170	-0.32383766770362854	-0.055584025	No	
+row_171	SULT1B1	sulfotransferase family, cytosolic, 1B, member 1	13293	-0.3383641839027405	-0.058584325	No	
+row_172	PAOX	polyamine oxidase (exo-N4-amino)	13310	-0.3400178551673889	-0.05495364	No	
+row_173	CYP26B1	cytochrome P450, family 26, subfamily B, polypeptide 1	13795	-0.41021427512168884	-0.07954452	No	
+row_174	ACSS1	acyl-CoA synthetase short-chain family member 1	13976	-0.4370826482772827	-0.08481707	No	
+row_175	SMOX	spermine oxidase	14092	-0.4602905511856079	-0.085721344	No	
+row_176	COMT	catechol-O-methyltransferase	14122	-0.46691974997520447	-0.08117379	No	
+row_177	SLC26A1	solute carrier family 26 (sulfate transporter), member 1	14128	-0.46732357144355774	-0.07512449	No	
+row_178	CYP4F8	cytochrome P450, family 4, subfamily F, polypeptide 8	14181	-0.4790668487548828	-0.07184551	No	
+row_179	CBR3	carbonyl reductase 3	14190	-0.4803754985332489	-0.06580558	No	
+row_180	ADH5	alcohol dehydrogenase 5 (class III), chi polypeptide	14196	-0.48077452182769775	-0.05957318	No	
+row_181	ALDH3A1	aldehyde dehydrogenase 3 family, memberA1	14247	-0.4913797974586487	-0.056001917	No	
+row_182	CYP21A2	cytochrome P450, family 21, subfamily A, polypeptide 2	14521	-0.5001886487007141	-0.06621349	No	
+row_183	UGT1A1	UDP glucuronosyltransferase 1 family, polypeptide A1	14608	-0.518248438835144	-0.06452089	No	
+row_184	CYP4F11	cytochrome P450, family 4, subfamily F, polypeptide 11	14679	-0.5363373756408691	-0.061584562	No	
+row_185	CYP19A1	cytochrome P450, family 19, subfamily A, polypeptide 1	14682	-0.5366663932800293	-0.054404356	No	
+row_186	ARNT2	aryl-hydrocarbon receptor nuclear translocator 2	14725	-0.5473412871360779	-0.04957261	No	
+row_187	UGT3A2	UDP glycosyltransferase 3 family, polypeptide A2	14949	-0.6068059206008911	-0.055215746	No	
+row_188	CYP3A43	cytochrome P450, family 3, subfamily A, polypeptide 43	15024	-0.6306244134902954	-0.051245395	No	
+row_189	CYP2C8	cytochrome P450, family 2, subfamily C, polypeptide 8	15107	-0.6554242372512817	-0.047436234	No	
+row_190	CES2	carboxylesterase 2 (intestine, liver)	15109	-0.6556034684181213	-0.03857476	No	
+row_191	AHRR	aryl-hydrocarbon receptor repressor	15163	-0.6751216053962708	-0.0326895	No	
+row_192	NNMT	nicotinamide N-methyltransferase	15277	-0.7268626093864441	-0.029840617	No	
+row_193	UGT1A4	UDP glucuronosyltransferase 1 family, polypeptide A4	15290	-0.7329031825065613	-0.02061275	No	
+row_194	ACY3	aspartoacylase (aminocyclase) 3	15406	-0.7883402705192566	-0.017051743	No	
+row_195	PTGS1	prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)	15562	-0.8622854351997375	-0.014977989	No	
+row_196	NCOA2	nuclear receptor coactivator 2	15592	-0.8684393763542175	-0.0049651074	No	
+row_197	UGT2A3	UDP glucuronosyltransferase 2 family, polypeptide A3	15666	-0.9366596341133118	0.00323322	No	
+row_198	CNDP2	CNDP dipeptidase 2 (metallopeptidase M20 family)	15796	-1.1069375276565552	0.010258032	No	
+row_199	CYP2J2	cytochrome P450, family 2, subfamily J, polypeptide 2	15889	-1.270803689956665	0.02182006	No	

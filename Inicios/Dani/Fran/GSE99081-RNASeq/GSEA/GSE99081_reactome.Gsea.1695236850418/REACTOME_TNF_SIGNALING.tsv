@@ -1,0 +1,38 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.09712894	No	
+row_1	USP4	ubiquitin specific peptidase 4 (proto-oncogene)	2640	0.39220482110977173	-0.118878484	No	
+row_2	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.10765095	No	
+row_3	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.18074587	No	
+row_4	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.22322746	No	
+row_5	USP21	ubiquitin specific peptidase 21	5314	0.129059299826622	-0.23887226	No	
+row_6	SPPL2A	-	5450	0.11734981089830399	-0.24133937	No	
+row_7	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.26168987	No	
+row_8	CFLAR	CASP8 and FADD-like apoptosis regulator	6000	0.0758376196026802	-0.26697218	No	
+row_9	NSMAF	neutral sphingomyelinase (N-SMase) activation associated factor	6585	0.0328364335000515	-0.30137387	No	
+row_10	MADD	MAP-kinase activating death domain	9251	-7.642124729208382E-23	-0.46584958	No	
+row_11	SMPD2	sphingomyelin phosphodiesterase 2, neutral membrane (neutral sphingomyelinase)	10606	-0.06767408549785614	-0.54603225	No	
+row_12	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10616	-0.06843732297420502	-0.5431675	No	
+row_13	USP2	ubiquitin specific peptidase 2	10677	-0.07323095947504044	-0.54321074	No	
+row_14	SHARPIN	SHANK-associated RH domain interactor	11237	-0.12321413308382034	-0.57155275	No	
+row_15	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.61310077	No	
+row_16	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	12354	-0.2293039858341217	-0.6189218	No	
+row_17	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.62077206	No	
+row_18	BAG4	BCL2-associated athanogene 4	13903	-0.42545396089553833	-0.6804822	Yes	
+row_19	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	14055	-0.45162373781204224	-0.66723114	Yes	
+row_20	UBC	ubiquitin C	14182	-0.47944867610931396	-0.6510466	Yes	
+row_21	OTUD7B	OTU domain containing 7B	14191	-0.4805022180080414	-0.6275267	Yes	
+row_22	TRADD	TNFRSF1A-associated via death domain	14235	-0.48908931016921997	-0.6057378	Yes	
+row_23	SPPL2B	-	14686	-0.5372434854507446	-0.60666114	Yes	
+row_24	TRAF1	TNF receptor-associated factor 1	14728	-0.5486502647399902	-0.5817722	Yes	
+row_25	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.5713203	Yes	
+row_26	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.5392322	Yes	
+row_27	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.5134478	Yes	
+row_28	TAX1BP1	Tax1 (human T-cell leukemia virus type I) binding protein 1	15338	-0.7592897415161133	-0.48074746	Yes	
+row_29	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.44743967	Yes	
+row_30	UBB	ubiquitin B	15642	-0.9178993105888367	-0.4131078	Yes	
+row_31	TNF	tumor necrosis factor (TNF superfamily, member 2)	15727	-1.013060450553894	-0.36766332	Yes	
+row_32	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.3148087	Yes	
+row_33	RBCK1	RanBP-type and C3HC4-type zinc finger containing 1	15872	-1.2410012483596802	-0.25420788	Yes	
+row_34	RNF31	ring finger protein 31	16006	-1.617134690284729	-0.18159832	Yes	
+row_35	SMPD3	sphingomyelin phosphodiesterase 3, neutral membrane (neutral sphingomyelinase II)	16066	-1.9441561698913574	-0.08807847	Yes	
+row_36	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	0.010059733	Yes	

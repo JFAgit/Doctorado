@@ -1,0 +1,39 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CYP51A1	cytochrome P450, family 51, subfamily A, polypeptide 1	109	1.2591644525527954	0.06925254	Yes	
+row_1	HMGCR	3-hydroxy-3-methylglutaryl-Coenzyme A reductase	213	1.0462958812713623	0.12603055	Yes	
+row_2	TM7SF2	transmembrane 7 superfamily member 2	346	0.9143291115760803	0.17305556	Yes	
+row_3	FDPS	farnesyl diphosphate synthase (farnesyl pyrophosphate synthetase, dimethylallyltranstransferase, geranyltranstransferase)	459	0.8524973392486572	0.21758395	Yes	
+row_4	LSS	lanosterol synthase (2,3-oxidosqualene-lanosterol cyclase)	693	0.7440686821937561	0.24810138	Yes	
+row_5	FDFT1	farnesyl-diphosphate farnesyltransferase 1	824	0.6946921944618225	0.28199658	Yes	
+row_6	NFYC	nuclear transcription factor Y, gamma	845	0.6897292137145996	0.3223816	Yes	
+row_7	IDI1	isopentenyl-diphosphate delta isomerase 1	867	0.6830364465713501	0.36230102	Yes	
+row_8	GPAM	glycerol-3-phosphate acyltransferase, mitochondrial	1040	0.633725643157959	0.3899251	Yes	
+row_9	SQLE	squalene epoxidase	1273	0.5780948996543884	0.4104891	Yes	
+row_10	MVD	mevalonate (diphospho) decarboxylase	1300	0.5726819634437561	0.44344097	Yes	
+row_11	HMGCS1	3-hydroxy-3-methylglutaryl-Coenzyme A synthase 1 (soluble)	1305	0.5709208250045776	0.47764438	Yes	
+row_12	NFYA	nuclear transcription factor Y, alpha	1489	0.5316014885902405	0.4984272	Yes	
+row_13	TBL1X	transducin (beta)-like 1X-linked	1603	0.5079867243766785	0.5221056	Yes	
+row_14	ACACB	acetyl-Coenzyme A carboxylase beta	2133	0.4639711380004883	0.51745206	No	
+row_15	ELOVL6	ELOVL family member 6, elongation of long chain fatty acids (FEN1/Elo2, SUR4/Elo3-like, yeast)	3936	0.24729464948177338	0.4211534	No	
+row_16	FASN	fatty acid synthase	4050	0.23894807696342468	0.42859748	No	
+row_17	NFYB	nuclear transcription factor Y, beta	4150	0.23050318658351898	0.43639606	No	
+row_18	ACACA	acetyl-Coenzyme A carboxylase alpha	4336	0.2166752964258194	0.43805227	No	
+row_19	PPARA	peroxisome proliferative activated receptor, alpha	4525	0.19996310770511627	0.4385149	No	
+row_20	PMVK	phosphomevalonate kinase	4776	0.1768389642238617	0.43375546	No	
+row_21	SREBF2	sterol regulatory element binding transcription factor 2	5071	0.15207096934318542	0.42478576	No	
+row_22	CHD9	chromodomain helicase DNA binding protein 9	5413	0.11991685628890991	0.41097495	No	
+row_23	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	5565	0.10849612206220627	0.40820196	No	
+row_24	CARM1	coactivator-associated arginine methyltransferase 1	5894	0.08470311760902405	0.39306867	No	
+row_25	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.3860529	No	
+row_26	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	6392	0.04601512476801872	0.36944923	No	
+row_27	DHCR7	7-dehydrocholesterol reductase	10610	-0.06814708560705185	0.113284804	No	
+row_28	NCOA1	nuclear receptor coactivator 1	10884	-0.09165199846029282	0.10196547	No	
+row_29	SP1	Sp1 transcription factor	11084	-0.10799834132194519	0.09619984	No	
+row_30	SCD	stearoyl-CoA desaturase (delta-9-desaturase)	11135	-0.11347819864749908	0.099961266	No	
+row_31	GGPS1	geranylgeranyl diphosphate synthase 1	12325	-0.22618551552295685	0.040223677	No	
+row_32	SREBF1	sterol regulatory element binding transcription factor 1	12786	-0.27547141909599304	0.028454527	No	
+row_33	NCOA6	nuclear receptor coactivator 6	13791	-0.40925800800323486	-0.008817816	No	
+row_34	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	14125	-0.46714115142822266	-0.001182752	No	
+row_35	MVK	mevalonate kinase (mevalonic aciduria)	14435	-0.499985933303833	0.0099155195	No	
+row_36	MTF1	metal-regulatory transcription factor 1	15463	-0.8104208111763	-0.0045695645	No	
+row_37	NCOA2	nuclear receptor coactivator 2	15592	-0.8684393763542175	0.039933268	No	

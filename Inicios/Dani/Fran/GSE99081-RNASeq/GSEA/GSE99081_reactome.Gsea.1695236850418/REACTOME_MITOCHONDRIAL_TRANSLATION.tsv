@@ -1,0 +1,93 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MRPL33	mitochondrial ribosomal protein L33	591	0.7840095162391663	-0.0052502137	Yes	
+row_1	MTIF3	-	1029	0.6361092329025269	-0.0068774587	Yes	
+row_2	MRPL55	mitochondrial ribosomal protein L55	1212	0.5913822650909424	0.0054983106	Yes	
+row_3	MRPL43	mitochondrial ribosomal protein L43	1291	0.5741528868675232	0.023625588	Yes	
+row_4	MRPL51	mitochondrial ribosomal protein L51	1405	0.5497239828109741	0.038608618	Yes	
+row_5	MRPS14	mitochondrial ribosomal protein S14	1408	0.5487505197525024	0.06042664	Yes	
+row_6	MRPS33	mitochondrial ribosomal protein S33	1472	0.5354356169700623	0.07793471	Yes	
+row_7	MRPS6	mitochondrial ribosomal protein S6	1541	0.522023618221283	0.09459686	Yes	
+row_8	MRPL13	mitochondrial ribosomal protein L13	1622	0.5055692791938782	0.109857954	Yes	
+row_9	MRPL3	mitochondrial ribosomal protein L3	1666	0.5011622309684753	0.12723415	Yes	
+row_10	MRPL41	mitochondrial ribosomal protein L41	1916	0.4947514533996582	0.131597	Yes	
+row_11	TSFM	Ts translation elongation factor, mitochondrial	1928	0.49343302845954895	0.15064579	Yes	
+row_12	CHCHD1	coiled-coil-helix-coiled-coil-helix domain containing 1	1949	0.4907192289829254	0.16902873	Yes	
+row_13	PTCD3	Pentatricopeptide repeat domain 3	1973	0.48775774240493774	0.18710749	Yes	
+row_14	MRPL34	mitochondrial ribosomal protein L34	2212	0.4544912576675415	0.19054173	Yes	
+row_15	MRPS22	mitochondrial ribosomal protein S22	2307	0.4392118752002716	0.20228252	Yes	
+row_16	MRPS24	mitochondrial ribosomal protein S24	2324	0.43709805607795715	0.21876913	Yes	
+row_17	MRPL49	mitochondrial ribosomal protein L49	2516	0.41031602025032043	0.22334759	Yes	
+row_18	MRPS18B	mitochondrial ribosomal protein S18B	2526	0.4091154634952545	0.2391488	Yes	
+row_19	MRPS16	mitochondrial ribosomal protein S16	2633	0.3929300606250763	0.24829589	Yes	
+row_20	MRPS27	mitochondrial ribosomal protein S27	2672	0.38782262802124023	0.2614498	Yes	
+row_21	AURKAIP1	aurora kinase A interacting protein 1	2794	0.36722660064697266	0.26864022	Yes	
+row_22	MRPL21	mitochondrial ribosomal protein L21	2839	0.36177462339401245	0.28038105	Yes	
+row_23	MRPS36	mitochondrial ribosomal protein S36	2924	0.35058391094207764	0.28919733	Yes	
+row_24	GFM2	G elongation factor, mitochondrial 2	2952	0.3478623628616333	0.30143464	Yes	
+row_25	MRPL45	mitochondrial ribosomal protein L45	2960	0.3470892310142517	0.31487957	Yes	
+row_26	MRPL37	mitochondrial ribosomal protein L37	3039	0.33792534470558167	0.32356122	Yes	
+row_27	MRPL53	mitochondrial ribosomal protein L53	3055	0.33614590764045715	0.33607316	Yes	
+row_28	MRPS5	mitochondrial ribosomal protein S5	3377	0.30111679434776306	0.32823476	Yes	
+row_29	MRPS7	mitochondrial ribosomal protein S7	3403	0.2986830174922943	0.33862945	Yes	
+row_30	MRPL19	mitochondrial ribosomal protein L19	3457	0.29312002658843994	0.34706777	Yes	
+row_31	MRPL24	mitochondrial ribosomal protein L24	3577	0.2806415557861328	0.35091993	Yes	
+row_32	MRPS17	mitochondrial ribosomal protein S17	3633	0.2747565507888794	0.35850012	Yes	
+row_33	MRPS15	mitochondrial ribosomal protein S15	3725	0.2637574374675751	0.36341113	Yes	
+row_34	MRPL1	mitochondrial ribosomal protein L1	3739	0.2627452611923218	0.373112	Yes	
+row_35	MRPS9	mitochondrial ribosomal protein S9	3750	0.2621196210384369	0.3829736	Yes	
+row_36	TUFM	Tu translation elongation factor, mitochondrial	3839	0.2555023431777954	0.38774034	Yes	
+row_37	MRPL12	mitochondrial ribosomal protein L12	3852	0.25395169854164124	0.3971515	Yes	
+row_38	MRPL2	mitochondrial ribosomal protein L2	3886	0.2515229284763336	0.4051651	Yes	
+row_39	GFM1	G elongation factor, mitochondrial 1	4034	0.24088054895401	0.40569344	Yes	
+row_40	MRPL18	mitochondrial ribosomal protein L18	4184	0.22829337418079376	0.40559465	Yes	
+row_41	MRPL47	mitochondrial ribosomal protein L47	4334	0.21677149832248688	0.40503514	Yes	
+row_42	OXA1L	oxidase (cytochrome c) assembly 1-like	4371	0.2144288420677185	0.41137972	Yes	
+row_43	MRPL23	mitochondrial ribosomal protein L23	4393	0.21198061108589172	0.41855535	Yes	
+row_44	MRPL35	mitochondrial ribosomal protein L35	4424	0.20946773886680603	0.42507312	Yes	
+row_45	DAP3	death associated protein 3	4484	0.20326225459575653	0.4295469	Yes	
+row_46	MRPL50	mitochondrial ribosomal protein L50	4701	0.18277698755264282	0.423479	Yes	
+row_47	MTFMT	mitochondrial methionyl-tRNA formyltransferase	4760	0.1786462664604187	0.4270304	Yes	
+row_48	MRPL16	mitochondrial ribosomal protein L16	4833	0.1721009910106659	0.42945316	Yes	
+row_49	MRPL48	mitochondrial ribosomal protein L48	4902	0.16595201194286346	0.43187773	Yes	
+row_50	MRPL20	mitochondrial ribosomal protein L20	4914	0.16512736678123474	0.43779916	Yes	
+row_51	MRPS35	mitochondrial ribosomal protein S35	4940	0.16342544555664062	0.4427856	Yes	
+row_52	MRPL52	mitochondrial ribosomal protein L52	4995	0.15908262133598328	0.44580245	Yes	
+row_53	MRPL4	mitochondrial ribosomal protein L4	5091	0.14955775439739227	0.44589946	Yes	
+row_54	MRPS10	mitochondrial ribosomal protein S10	5104	0.14837414026260376	0.4510891	Yes	
+row_55	MRPS25	mitochondrial ribosomal protein S25	5121	0.14641928672790527	0.45595288	Yes	
+row_56	ERAL1	Era G-protein-like 1 (E. coli)	5187	0.13815972208976746	0.45745194	Yes	
+row_57	MRPL10	mitochondrial ribosomal protein L10	5202	0.1371951848268509	0.46207073	Yes	
+row_58	MRPL15	mitochondrial ribosomal protein L15	5204	0.1367713063955307	0.46747762	Yes	
+row_59	MRPS34	mitochondrial ribosomal protein S34	5383	0.12276065349578857	0.4613632	No	
+row_60	MRPL22	mitochondrial ribosomal protein L22	5404	0.12076205760240555	0.46495333	No	
+row_61	MTIF2	mitochondrial translational initiation factor 2	5518	0.11156783998012543	0.46241662	No	
+row_62	MRPL36	mitochondrial ribosomal protein L36	5738	0.09475667774677277	0.45264342	No	
+row_63	MRRF	mitochondrial ribosome recycling factor	5764	0.09313478320837021	0.45481926	No	
+row_64	MRPS28	mitochondrial ribosomal protein S28	5968	0.07849299162626266	0.44538662	No	
+row_65	MRPS21	mitochondrial ribosomal protein S21	6112	0.06726498901844025	0.43922064	No	
+row_66	MRPL9	mitochondrial ribosomal protein L9	6199	0.060092680156230927	0.4362977	No	
+row_67	MRPL46	mitochondrial ribosomal protein L46	6220	0.05899912118911743	0.43741825	No	
+row_68	MRPS26	mitochondrial ribosomal protein S26	6560	0.03436608240008354	0.41779906	No	
+row_69	MRPS2	mitochondrial ribosomal protein S2	6636	0.0306412260979414	0.41437972	No	
+row_70	MRPL38	mitochondrial ribosomal protein L38	6725	0.02483958750963211	0.40992334	No	
+row_71	MRPL54	mitochondrial ribosomal protein L54	6783	0.02169172279536724	0.40726084	No	
+row_72	MRPL28	mitochondrial ribosomal protein L28	6905	0.015322091057896614	0.4003803	No	
+row_73	MRPL27	mitochondrial ribosomal protein L27	9462	-3.2502211979590356E-4	0.24210745	No	
+row_74	GADD45GIP1	growth arrest and DNA-damage-inducible, gamma interacting protein 1	9754	-0.0141009371727705	0.22465047	No	
+row_75	MTRF1L	mitochondrial translational release factor 1-like	10110	-0.03064713627099991	0.20389175	No	
+row_76	MRPL44	mitochondrial ribosomal protein L44	10671	-0.07271651923656464	0.17212012	No	
+row_77	MRPS11	mitochondrial ribosomal protein S11	10734	-0.07836206257343292	0.17141396	No	
+row_78	MRPS18C	mitochondrial ribosomal protein S18C	11166	-0.11720581352710724	0.14940985	No	
+row_79	MRPS31	mitochondrial ribosomal protein S31	11193	-0.11974545568227768	0.15258777	No	
+row_80	MRPL39	mitochondrial ribosomal protein L39	11295	-0.12896502017974854	0.15148982	No	
+row_81	MRPL14	mitochondrial ribosomal protein L14	11571	-0.15221403539180756	0.14054614	No	
+row_82	MRPS23	mitochondrial ribosomal protein S23	11845	-0.17845629155635834	0.13077563	No	
+row_83	MRPL42	mitochondrial ribosomal protein L42	11999	-0.19277682900428772	0.129009	No	
+row_84	MRPL40	mitochondrial ribosomal protein L40	12095	-0.20260336995124817	0.13122703	No	
+row_85	MRPS30	mitochondrial ribosomal protein S30	12545	-0.24955116212368011	0.11340008	No	
+row_86	MRPL11	mitochondrial ribosomal protein L11	13671	-0.3904814124107361	0.05934547	No	
+row_87	MRPL30	mitochondrial ribosomal protein L30	13978	-0.43717360496520996	0.05787621	No	
+row_88	MRPL32	mitochondrial ribosomal protein L32	14158	-0.4741857647895813	0.06575164	No	
+row_89	MRPS12	mitochondrial ribosomal protein S12	14172	-0.4775104224681854	0.08403992	No	
+row_90	MRPS18A	mitochondrial ribosomal protein S18A	14223	-0.48660844564437866	0.10040068	No	
+row_91	MRPL17	mitochondrial ribosomal protein L17	14960	-0.6097833514213562	0.07920456	No	

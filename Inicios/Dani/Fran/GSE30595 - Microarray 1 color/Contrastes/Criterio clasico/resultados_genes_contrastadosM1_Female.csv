@@ -1,0 +1,101 @@
+Pathway,Gene
+Glycogen metabolism,PGK2
+Glycosaminoglycan metabolism,HS6ST2
+Glycosaminoglycan metabolism,GPC6
+Glycosaminoglycan metabolism,HS6ST3
+Glycosaminoglycan metabolism,HS3ST2
+Inositol phosphate metabolism,INPP4B
+Fatty AcylCoA biosynthesis,ACSL6
+Arachdonic Acid metabolism,CYP2U1
+Arachdonic Acid metabolism,PTGIS
+Arachdonic Acid metabolism,CYP8B1
+Arachdonic Acid metabolism,CYP2C8
+Arachdonic Acid metabolism,PON1
+Carnitine metabolism,CPT1A
+B oxidation,ACADL
+Triglyceride catabolism,FABP7
+Phospholipid metabolism,PCYT1B
+Phospholipid metabolism,PLB1
+Phospholipid metabolism,PLA2G10
+Phospholipid metabolism,INPP4B
+Phospholipid metabolism,PLEKHA2
+Phospholipid metabolism,PLAAT1
+Sphingolipid metabolism,PPM1L
+Sphingolipid metabolism,CERS3
+Steroids metabolism,ALB
+Steroids metabolism,PTGIS
+Steroids metabolism,CYP8B1
+Steroids metabolism,CYP19A1
+Steroids metabolism,SLCO1B1
+Steroids metabolism,SLCO1B3
+Nucleotides metabolism,ADA
+Cobalamin metabolism,TCN2
+Nicotinate metabolism,PTGIS
+Nicotinate metabolism,CYP8B1
+Nicotinate metabolism,SLC5A8
+Folate metabolism,FOLR2
+Retinoid metabolism,APOA2
+Retinoid metabolism,PLB1
+Retinoid metabolism,GPC6
+Retinoid metabolism,RBP1
+Vitamin E metabolism,TTPA
+Aspartate asparigine metabolism,FOLH1B
+Sulfur aa metabolism,CDO1
+Urea cycle,CPS1
+Reversible hydration of CO2,CA3
+protein folding,GNGT1
+protein folding,GNG2
+Post-translational modification: synthesis of GPI-anchored proteins,THY1
+Post-translational modification: synthesis of GPI-anchored proteins,PRND
+Post-translational modification: synthesis of GPI-anchored proteins,FOLR2
+Post-translational modification: synthesis of GPI-anchored proteins,CNTN4
+Post-translational modification: synthesis of GPI-anchored proteins,NTNG1
+Asparagine N-linked glycosylation,RENBP
+Asparagine N-linked glycosylation,ST6GAL2
+Asparagine N-linked glycosylation,DCTN1
+Asparagine N-linked glycosylation,ST8SIA3
+O-linked glycosylation,MUC17
+O-linked glycosylation,ADAMTS9
+SUMOylation,SATB1
+SUMOylation,NR1I2
+SUMOylation,PPARGC1A
+Deubiquitination,MBD6
+Deubiquitination,ATXN3L
+RAB geranylgeranylation,RAB25
+RAB geranylgeranylation,RAB3C
+Carboxyterminal post-translational modifications of tubulin,AGBL3
+Neddylation,HIF3A
+Neddylation,ASB11
+Post-translational protein phosphorylation,FGA
+Post-translational protein phosphorylation,SCG2
+Post-translational protein phosphorylation,ALB
+Post-translational protein phosphorylation,APOA2
+Post-translational protein phosphorylation,BMP4
+Post-translational protein phosphorylation,DMP1
+Post-translational protein phosphorylation,SERPIND1
+Post-translational protein phosphorylation,GOLM1
+Post-translational protein phosphorylation,FGG
+Peptide hormone metabolism,ISL1
+Peptide hormone metabolism,LEP
+Peptide hormone metabolism,IGF1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),FGA
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),SCG2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),ALB
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),IGF1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),APOA2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),BMP4
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),DMP1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),SERPIND1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),GOLM1
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),FGG
+Unfolded Protein Response (UPR),DCTN1
+Surfactant metabolism,ADA2
+Surfactant metabolism,SLC34A2
+Amyloid fiber formation,FGA
+HDMs demethylate histones,PHF2
+HDMs demethylate histones,UTY
+PKMTs methylate histone lysine,MECOM
+PKMTs methylate histone lysine,PRDM16
+Cellular response to hypoxia,EPO
+Cellular response to hypoxia,HIF3A
+UPR,DCTN1

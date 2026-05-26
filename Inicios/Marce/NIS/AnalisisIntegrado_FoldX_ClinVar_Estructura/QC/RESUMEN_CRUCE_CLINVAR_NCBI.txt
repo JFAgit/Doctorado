@@ -1,0 +1,22 @@
+Input variants with any FoldX DDG: 888
+ClinVar SLC5A5 records downloaded from NCBI: 589
+Rows matched to NCBI ClinVar: 100
+
+Final classification counts:
+ClinVar_Final_Classification
+Uncertain significance / not classified in gnomAD extract    771
+Uncertain significance                                        78
+Likely Pathogenic                                             13
+Pathogenic                                                     6
+Likely benign                                                  4
+Likely pathogenic                                              4
+Conflicting classifications of pathogenicity                   4
+Pathogenic/Likely pathogenic                                   3
+Likely Benign                                                  3
+Benign/Likely benign                                           2
+
+NCBI match methods:
+ClinVar_Match_Method_NCBI
+no_match       788
+genomic_key     91
+cDNA             9

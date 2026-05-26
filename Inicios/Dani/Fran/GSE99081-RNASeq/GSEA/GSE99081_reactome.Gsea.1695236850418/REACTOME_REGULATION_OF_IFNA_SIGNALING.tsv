@@ -1,0 +1,27 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.019054355	No	
+row_1	PTPN1	protein tyrosine phosphatase, non-receptor type 1	3310	0.3082939088344574	-0.14600216	No	
+row_2	IFNAR1	interferon (alpha, beta and omega) receptor 1	3602	0.27808159589767456	-0.15038823	No	
+row_3	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.23122992	No	
+row_4	IFNA17	interferon, alpha 17	7874	0.0	-0.4061405	No	
+row_5	IFNA6	interferon, alpha 6	8160	0.0	-0.42371792	No	
+row_6	IFNA21	interferon, alpha 21	9399	-1.727731500977825E-6	-0.5000716	No	
+row_7	IFNA4	interferon, alpha 4	9401	-1.8230683735964703E-6	-0.50013316	No	
+row_8	IFNA10	interferon, alpha 10	9402	-1.8661804688235861E-6	-0.5001331	No	
+row_9	IFNA16	interferon, alpha 16	9404	-1.9269425592938205E-6	-0.50019467	No	
+row_10	IFNA7	interferon, alpha 7	9419	-2.654248419275973E-6	-0.501058	No	
+row_11	IFNA13	interferon, alpha 13	9446	-2.8573462259373628E-5	-0.50266016	No	
+row_12	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.5747231	No	
+row_13	PTPN6	protein tyrosine phosphatase, non-receptor type 6	10935	-0.09642089158296585	-0.5861181	No	
+row_14	IFNA5	interferon, alpha 5	11441	-0.14333227276802063	-0.610274	No	
+row_15	IFNA14	interferon, alpha 14	11459	-0.1443299800157547	-0.60428387	No	
+row_16	IFNA1	interferon, alpha 1	11781	-0.17263290286064148	-0.6156627	No	
+row_17	IFNA8	interferon, alpha 8	12508	-0.24569764733314514	-0.6484567	No	
+row_18	IFNA2	interferon, alpha 2	12634	-0.2577002942562103	-0.6435987	No	
+row_19	IFNAR2	interferon (alpha, beta and omega) receptor 2	14588	-0.5131731629371643	-0.73902386	No	
+row_20	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.759826	Yes	
+row_21	IFNB1	interferon, beta 1, fibroblast	16102	-2.252572774887085	-0.67661697	Yes	
+row_22	SOCS1	suppressor of cytokine signaling 1	16143	-2.593221426010132	-0.5526186	Yes	
+row_23	STAT2	signal transducer and activator of transcription 2, 113kDa	16178	-3.1163220405578613	-0.4027398	Yes	
+row_24	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	-0.2024094	Yes	
+row_25	USP18	ubiquitin specific peptidase 18	16216	-4.179571151733398	0.0014185306	Yes	

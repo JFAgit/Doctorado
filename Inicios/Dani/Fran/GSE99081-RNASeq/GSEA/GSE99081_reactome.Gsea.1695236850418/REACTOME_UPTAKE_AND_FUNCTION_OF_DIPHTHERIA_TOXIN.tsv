@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD9	CD9 molecule	743	0.7232733964920044	0.31083956	Yes	
+row_1	EEF2	eukaryotic translation elongation factor 2	953	0.6575679183006287	0.6221771	Yes	
+row_2	TXNRD1	thioredoxin reductase 1	5967	0.07853323221206665	0.35210136	No	
+row_3	HBEGF	heparin-binding EGF-like growth factor	6006	0.07508920878171921	0.3867831	No	
+row_4	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	11100	-0.10979877412319183	0.12719473	No	
+row_5	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	13633	-0.38394224643707275	0.1605273	No	

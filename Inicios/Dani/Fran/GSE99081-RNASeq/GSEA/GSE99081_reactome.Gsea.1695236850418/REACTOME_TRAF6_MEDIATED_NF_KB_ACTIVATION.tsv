@@ -1,0 +1,24 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HMGB1	high-mobility group box 1	1447	0.5391134023666382	-0.057195984	No	
+row_1	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	1637	0.5038970708847046	-0.03891142	No	
+row_2	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.08600688	No	
+row_3	RNF135	ring finger protein 135	3113	0.3305545151233673	-0.08801097	No	
+row_4	AGER	advanced glycosylation end product-specific receptor	3794	0.25840672850608826	-0.114589065	No	
+row_5	NKIRAS1	NFKB inhibitor interacting Ras-like 1	4288	0.2207268625497818	-0.1318748	No	
+row_6	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.22302648	No	
+row_7	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6780	0.021860113367438316	-0.2788899	No	
+row_8	NKIRAS2	NFKB inhibitor interacting Ras-like 2	7336	3.179778502726549E-7	-0.31311324	No	
+row_9	S100A12	S100 calcium binding protein A12	7812	0.0	-0.34240347	No	
+row_10	TRAF6	TNF receptor-associated factor 6	9581	-0.006803732365369797	-0.45102066	No	
+row_11	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	11482	-0.14610224962234497	-0.559501	No	
+row_12	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.61271966	No	
+row_13	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	12951	-0.2939244210720062	-0.6174551	No	
+row_14	SAA1	serum amyloid A1	13425	-0.3548918664455414	-0.62553614	No	
+row_15	MAP3K1	mitogen-activated protein kinase kinase kinase 1	13769	-0.40557318925857544	-0.6225897	No	
+row_16	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	14524	-0.5008450150489807	-0.63932645	Yes	
+row_17	S100B	S100 calcium binding protein B	14747	-0.5531487464904785	-0.6201505	Yes	
+row_18	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.60276234	Yes	
+row_19	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	15212	-0.6961663365364075	-0.568676	Yes	
+row_20	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.48401096	Yes	
+row_21	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.24975817	Yes	
+row_22	IFIH1	interferon induced with helicase C domain 1	16219	-4.2306108474731445	0.0012332201	Yes	

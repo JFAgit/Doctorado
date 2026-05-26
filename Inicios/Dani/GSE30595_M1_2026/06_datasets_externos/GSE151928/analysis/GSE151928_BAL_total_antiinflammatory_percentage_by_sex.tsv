@@ -1,0 +1,2 @@
+gene_set	n_detected	n_nominal_p_lt_0_05	n_nominal_pct	n_up_male_nominal	n_up_male_nominal_pct	n_up_female_nominal	n_up_female_nominal_pct	n_fdr_lt_0_10	n_up_male_any_logFC	n_up_male_any_logFC_pct	n_up_female_any_logFC	n_up_female_any_logFC_pct
+antiinflammatory_general	78	2	2.56	1	1.28	1	1.28	0	34	43.59	44	56.41

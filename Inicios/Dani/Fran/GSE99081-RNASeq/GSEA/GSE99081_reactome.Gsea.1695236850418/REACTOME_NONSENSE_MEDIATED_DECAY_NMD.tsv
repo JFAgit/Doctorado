@@ -1,0 +1,112 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RPL9	ribosomal protein L9	39	1.5361515283584595	0.030489333	Yes	
+row_1	RPS3A	ribosomal protein S3A	243	1.0022635459899902	0.03937373	Yes	
+row_2	RPL4	ribosomal protein L4	245	1.000382661819458	0.06074186	Yes	
+row_3	RPL6	ribosomal protein L6	258	0.9935503602027893	0.08128163	Yes	
+row_4	RPL3	ribosomal protein L3	271	0.9794660210609436	0.10151969	Yes	
+row_5	RPL5	ribosomal protein L5	331	0.9277858734130859	0.117736645	Yes	
+row_6	RPS27	ribosomal protein S27 (metallopanstimulin 1)	531	0.8146605491638184	0.122850224	Yes	
+row_7	RPS4X	ribosomal protein S4, X-linked	540	0.8105456829071045	0.13971768	Yes	
+row_8	RPS6	ribosomal protein S6	556	0.8007972836494446	0.1559423	Yes	
+row_9	RPLP0	ribosomal protein, large, P0	638	0.7651219367980957	0.16731068	Yes	
+row_10	RPL23	ribosomal protein L23	694	0.7438819408416748	0.17983608	Yes	
+row_11	RPS23	ribosomal protein S23	783	0.7075502276420593	0.18953715	Yes	
+row_12	RPLP1	ribosomal protein, large, P1	785	0.7074151039123535	0.20462936	Yes	
+row_13	RPL22	ribosomal protein L22	823	0.695253312587738	0.21722902	Yes	
+row_14	RPL10A	ribosomal protein L10a	1031	0.6357442736625671	0.21801387	Yes	
+row_15	RPS8	ribosomal protein S8	1045	0.6313222050666809	0.23073201	Yes	
+row_16	RPL36	ribosomal protein L36	1103	0.6178390979766846	0.2404333	Yes	
+row_17	RPL7A	ribosomal protein L7a	1114	0.6166254281997681	0.2530226	Yes	
+row_18	RPL26	ribosomal protein L26	1288	0.5752943754196167	0.25462052	Yes	
+row_19	RPL27A	ribosomal protein L27a	1398	0.5509680509567261	0.2596653	Yes	
+row_20	RNPS1	RNA binding protein S1, serine-rich domain	1438	0.5426997542381287	0.26887298	Yes	
+row_21	RPL14	ribosomal protein L14	1446	0.5392379760742188	0.2799905	Yes	
+row_22	RPS7	ribosomal protein S7	1477	0.5339829921722412	0.28956944	Yes	
+row_23	RPL37A	ribosomal protein L37a	1562	0.5173519253730774	0.2954441	Yes	
+row_24	RPL24	ribosomal protein L24	1574	0.5137394070625305	0.3057674	Yes	
+row_25	RPL30	ribosomal protein L30	1608	0.5074865818023682	0.31459275	Yes	
+row_26	RPL35A	ribosomal protein L35a	1658	0.502102792263031	0.32231075	Yes	
+row_27	RPL10L	ribosomal protein L10-like	1670	0.5006934404373169	0.33235458	Yes	
+row_28	RPL41	ribosomal protein L41	1720	0.5	0.34002754	Yes	
+row_29	RPL13A	ribosomal protein L13a	1740	0.4999961256980896	0.3495604	Yes	
+row_30	RPL10	ribosomal protein L10	1836	0.4998035132884979	0.35437715	Yes	
+row_31	RPS25	ribosomal protein S25	1908	0.4953848123550415	0.36058724	Yes	
+row_32	RPS13	ribosomal protein S13	1927	0.4936053454875946	0.3700452	Yes	
+row_33	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.37795863	Yes	
+row_34	RPL38	ribosomal protein L38	1981	0.4868263304233551	0.3877054	Yes	
+row_35	RPS20	ribosomal protein S20	1985	0.4861117899417877	0.39793283	Yes	
+row_36	RPL23A	ribosomal protein L23a	2018	0.48025116324424744	0.40623674	Yes	
+row_37	RPS3	ribosomal protein S3	2085	0.4701753854751587	0.41221678	Yes	
+row_38	RPL7	ribosomal protein L7	2215	0.4538779556751251	0.4139417	Yes	
+row_39	RPS21	ribosomal protein S21	2236	0.45031997561454773	0.42234844	Yes	
+row_40	RPL36A	ribosomal protein L36a	2245	0.448848694562912	0.43146765	Yes	
+row_41	UPF3A	UPF3 regulator of nonsense transcripts homolog A (yeast)	2389	0.42728540301322937	0.43175492	Yes	
+row_42	RPL12	ribosomal protein L12	2400	0.42537349462509155	0.44024724	Yes	
+row_43	RPS11	ribosomal protein S11	2405	0.424914687871933	0.44910172	Yes	
+row_44	RPL18A	ribosomal protein L18a	2439	0.42073288559913635	0.45606863	Yes	
+row_45	RPLP2	ribosomal protein, large, P2	2474	0.4164752960205078	0.46288234	Yes	
+row_46	RPS9	ribosomal protein S9	2713	0.3809557855129242	0.45628712	Yes	
+row_47	EIF4G1	eukaryotic translation initiation factor 4 gamma, 1	2766	0.3723543584346771	0.46103966	Yes	
+row_48	RPS14	ribosomal protein S14	2782	0.36977317929267883	0.46803093	Yes	
+row_49	RPS15A	ribosomal protein S15a	2897	0.3527907431125641	0.46852037	Yes	
+row_50	RPL18	ribosomal protein L18	2912	0.3517703413963318	0.47518796	Yes	
+row_51	RPS16	ribosomal protein S16	2921	0.3507094383239746	0.48220482	Yes	
+row_52	RPL31	ribosomal protein L31	2998	0.34298932552337646	0.48484033	Yes	
+row_53	RPS12	ribosomal protein S12	3083	0.333535373210907	0.48677728	Yes	
+row_54	RPS18	ribosomal protein S18	3094	0.3324241042137146	0.49327844	Yes	
+row_55	RPS26	ribosomal protein S26	3104	0.3315961956977844	0.49982387	Yes	
+row_56	RPL29	ribosomal protein L29	3224	0.31726759672164917	0.49924237	Yes	
+row_57	RPL8	ribosomal protein L8	3265	0.3132043480873108	0.5034718	Yes	
+row_58	RPL26L1	ribosomal protein L26-like 1	3380	0.3008856773376465	0.50284934	Yes	
+row_59	RPS2	ribosomal protein S2	3429	0.29581061005592346	0.50621015	Yes	
+row_60	RPL27	ribosomal protein L27	3451	0.293727844953537	0.51120037	Yes	
+row_61	PABPC1	poly(A) binding protein, cytoplasmic 1	3710	0.2651853859424591	0.5008851	No	
+row_62	RPS5	ribosomal protein S5	3819	0.2567075192928314	0.4996883	No	
+row_63	RPS27L	ribosomal protein S27-like	3849	0.2542915344238281	0.5033377	No	
+row_64	RPL19	ribosomal protein L19	3896	0.2506605088710785	0.5058553	No	
+row_65	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.4961253	No	
+row_66	GSPT1	G1 to S phase transition 1	4894	0.16693302989006042	0.45264325	No	
+row_67	RPS19	ribosomal protein S19	4912	0.16532190144062042	0.45513076	No	
+row_68	RPS15	ribosomal protein S15	4986	0.15971440076828003	0.45402616	No	
+row_69	FAU	Finkel-Biskis-Reilly murine sarcoma virus (FBR-MuSV) ubiquitously expressed (fox derived); ribosomal protein S30	5050	0.15407945215702057	0.45342082	No	
+row_70	RPSA	ribosomal protein SA	5235	0.13464482128620148	0.44489715	No	
+row_71	RPL28	ribosomal protein L28	5254	0.13348470628261566	0.44664064	No	
+row_72	RPL39	ribosomal protein L39	5334	0.12686114013195038	0.44446024	No	
+row_73	RPL37	ribosomal protein L37	5525	0.11117787659168243	0.43506187	No	
+row_74	PPP2R1A	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), alpha isoform	5796	0.09116224199533463	0.4202747	No	
+row_75	RPL35	ribosomal protein L35	6021	0.07403422892093658	0.40797263	No	
+row_76	RPS29	ribosomal protein S29	6686	0.02683265693485737	0.36737937	No	
+row_77	RPL36AL	ribosomal protein L36a-like	6788	0.021571433171629906	0.36157945	No	
+row_78	ETF1	eukaryotic translation termination factor 1	6790	0.021563313901424408	0.3619794	No	
+row_79	UPF2	UPF2 regulator of nonsense transcripts homolog (yeast)	7120	0.004512968938797712	0.34167802	No	
+row_80	RPL17	ribosomal protein L17	7410	1.847012560257655E-12	0.32375997	No	
+row_81	RPL3L	ribosomal protein L3-like	7592	0.0	0.31253797	No	
+row_82	RPS4Y2	ribosomal protein S4, Y-linked 2	8583	0.0	0.25115785	No	
+row_83	RPS4Y1	ribosomal protein S4, Y-linked 1	8584	0.0	0.25115785	No	
+row_84	RPS10	ribosomal protein S10	10390	-0.050578780472278595	0.14033112	No	
+row_85	MAGOH	mago-nashi homolog, proliferation-associated (Drosophila)	10524	-0.061420738697052	0.13340084	No	
+row_86	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	11059	-0.10627548396587372	0.10256941	No	
+row_87	RBM8A	RNA binding motif protein 8A	11074	-0.10736684501171112	0.10400141	No	
+row_88	RPL34	ribosomal protein L34	11119	-0.11157242953777313	0.103663504	No	
+row_89	RPS24	ribosomal protein S24	11178	-0.11811399459838867	0.10259773	No	
+row_90	CASC3	cancer susceptibility candidate 3	11732	-0.16731025278568268	0.07189577	No	
+row_91	RPL11	ribosomal protein L11	11759	-0.1700637936592102	0.07392686	No	
+row_92	RPL39L	ribosomal protein L39-like	11855	-0.17916682362556458	0.071874954	No	
+row_93	RPL13	ribosomal protein L13	12065	-0.19935928285121918	0.063187584	No	
+row_94	NCBP2	nuclear cap binding protein subunit 2, 20kDa	12232	-0.21686594188213348	0.057541255	No	
+row_95	RPL22L1	ribosomal protein L22-like 1	12387	-0.23164191842079163	0.052955452	No	
+row_96	SMG5	Smg-5 homolog, nonsense mediated mRNA decay factor (C. elegans)	12439	-0.23714187741279602	0.054873485	No	
+row_97	GSPT2	G1 to S phase transition 2	12903	-0.28810274600982666	0.032339144	No	
+row_98	RPS28	ribosomal protein S28	13382	-0.3484305143356323	0.010167142	No	
+row_99	UPF3B	UPF3 regulator of nonsense transcripts homolog B (yeast)	13573	-0.3760112524032593	0.006442007	No	
+row_100	SMG6	Smg-6 homolog, nonsense mediated mRNA decay factor (C. elegans)	13952	-0.4322758913040161	-0.0077338535	No	
+row_101	UPF1	UPF1 regulator of nonsense transcripts homolog (yeast)	14067	-0.45348331332206726	-0.0050873775	No	
+row_102	RPL21	ribosomal protein L21	14215	-0.4848707914352417	-0.0038145254	No	
+row_103	PNRC2	proline-rich nuclear receptor coactivator 2	14217	-0.48540300130844116	0.006521746	No	
+row_104	RPL32	ribosomal protein L32	14623	-0.5227237343788147	-0.0073905503	No	
+row_105	PPP2R2A	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), alpha isoform	14855	-0.5806064605712891	-0.0092748655	No	
+row_106	RPL15	ribosomal protein L15	14863	-0.5822853446006775	0.0027648117	No	
+row_107	NCBP1	nuclear cap binding protein subunit 1, 80kDa	14916	-0.5954455137252808	0.0122964	No	
+row_108	SMG7	Smg-7 homolog, nonsense mediated mRNA decay factor (C. elegans)	15221	-0.6990253329277039	0.008422838	No	
+row_109	SMG1	-	15257	-0.714178740978241	0.021551924	No	
+row_110	DCP1A	DCP1 decapping enzyme homolog A (S. cerevisiae)	16050	-1.833179235458374	0.01171807	No	

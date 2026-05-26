@@ -1,0 +1,136 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CDKN2B	cyclin-dependent kinase inhibitor 2B (p15, inhibits CDK4)	73	1.3917635679244995	0.01937268	No	
+row_1	DHFR	dihydrofolate reductase	273	0.9723905324935913	0.0237184	No	
+row_2	WEE1	WEE1 homolog (S. pombe)	558	0.8006100058555603	0.019835692	No	
+row_3	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.0230822	No	
+row_4	CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	1376	0.5554635524749756	-0.008606391	No	
+row_5	MNAT1	menage a trois homolog 1, cyclin H assembly factor (Xenopus laevis)	1532	0.5238797068595886	-0.009232384	No	
+row_6	PPP2R3B	protein phosphatase 2 (formerly 2A), regulatory subunit B'', beta	1565	0.5165952444076538	-0.0023461177	No	
+row_7	MYBL2	v-myb myeloblastosis viral oncogene homolog (avian)-like 2	1789	0.499967485666275	-0.0076051275	No	
+row_8	CDKN1C	cyclin-dependent kinase inhibitor 1C (p57, Kip2)	1891	0.4971274137496948	-0.005337632	No	
+row_9	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.0017354987	No	
+row_10	TYMS	thymidylate synthetase	2118	0.4659165143966675	-0.002922441	No	
+row_11	RRM2	ribonucleotide reductase M2 polypeptide	2249	0.4485476613044739	-0.0032900518	No	
+row_12	CCNH	cyclin H	2363	0.43122249841690063	-0.002899673	No	
+row_13	AKT3	v-akt murine thymoma viral oncogene homolog 3 (protein kinase B, gamma)	2398	0.42569679021835327	0.0023011032	No	
+row_14	CDK4	cyclin-dependent kinase 4	2745	0.37574195861816406	-0.012729029	No	
+row_15	CDKN2D	cyclin-dependent kinase inhibitor 2D (p19, inhibits CDK4)	3013	0.340998113155365	-0.023450626	No	
+row_16	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.024819605	No	
+row_17	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	3196	0.3202706575393677	-0.023540812	No	
+row_18	RPA1	replication protein A1, 70kDa	3464	0.2921757400035858	-0.035101	No	
+row_19	HDAC1	histone deacetylase 1	3484	0.2906814515590668	-0.03128791	No	
+row_20	E2F1	E2F transcription factor 1	3531	0.28559666872024536	-0.02923865	No	
+row_21	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.034894783	No	
+row_22	RBL2	retinoblastoma-like 2 (p130)	3712	0.2650424540042877	-0.031211615	No	
+row_23	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.027872534	No	
+row_24	POLE3	polymerase (DNA directed), epsilon 3 (p17 subunit)	3752	0.26175928115844727	-0.02455622	No	
+row_25	TK1	thymidine kinase 1, soluble	3769	0.2603905498981476	-0.021077137	No	
+row_26	CDK6	cyclin-dependent kinase 6	3873	0.2524539828300476	-0.023136428	No	
+row_27	CCNB1	cyclin B1	3893	0.2510545253753662	-0.020003982	No	
+row_28	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.021535864	No	
+row_29	CDKN2A	cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)	4000	0.24284899234771729	-0.018171804	No	
+row_30	PTK6	PTK6 protein tyrosine kinase 6	4098	0.23530389368534088	-0.020153115	No	
+row_31	AKT2	v-akt murine thymoma viral oncogene homolog 2	4123	0.23297865688800812	-0.01764161	No	
+row_32	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.01428232	No	
+row_33	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	4252	0.2237669676542282	-0.017703643	No	
+row_34	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.022624303	No	
+row_35	E2F2	E2F transcription factor 2	4474	0.2046402245759964	-0.024200914	No	
+row_36	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	4554	0.19736935198307037	-0.025716137	No	
+row_37	POLE2	polymerase (DNA directed), epsilon 2 (p59 subunit)	4611	0.1903277188539505	-0.02592418	No	
+row_38	PPP2CB	protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform	4683	0.18444301187992096	-0.027164688	No	
+row_39	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.03301324	No	
+row_40	E2F6	E2F transcription factor 6	4966	0.16172324120998383	-0.03886628	No	
+row_41	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.053384498	No	
+row_42	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.056974657	No	
+row_43	CDKN1B	cyclin-dependent kinase inhibitor 1B (p27, Kip1)	5533	0.11063038557767868	-0.06749293	No	
+row_44	RB1	retinoblastoma 1 (including osteosarcoma)	5587	0.10695108026266098	-0.06894681	No	
+row_45	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.0716111	No	
+row_46	RPA3	replication protein A3, 14kDa	5730	0.09529674798250198	-0.074320726	No	
+row_47	PPP2R1A	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), alpha isoform	5796	0.09116224199533463	-0.07679091	No	
+row_48	PPP2R1B	protein phosphatase 2 (formerly 2A), regulatory subunit A (PR 65), beta isoform	5866	0.08703996241092682	-0.079580255	No	
+row_49	TFDP2	transcription factor Dp-2 (E2F dimerization partner 2)	6061	0.07083475589752197	-0.090409525	No	
+row_50	LIN9	lin-9 homolog (C. elegans)	6142	0.06478769332170486	-0.09426411	No	
+row_51	RPA2	replication protein A2, 32kDa	6313	0.05174188315868378	-0.1039311	No	
+row_52	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.105195306	No	
+row_53	CDKN1A	cyclin-dependent kinase inhibitor 1A (p21, Cip1)	6633	0.030733821913599968	-0.12230168	No	
+row_54	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.12348446	No	
+row_55	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.12602684	No	
+row_56	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.13460033	No	
+row_57	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.14644246	No	
+row_58	MAX	MYC associated factor X	9266	-5.659972753482251E-17	-0.28410158	No	
+row_59	RBBP4	retinoblastoma binding protein 4	9275	-4.217180956251872E-15	-0.28459832	No	
+row_60	POLA1	polymerase (DNA directed), alpha 1	9515	-0.003230832749977708	-0.29938295	No	
+row_61	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.3133637	No	
+row_62	CABLES1	Cdk5 and Abl enzyme substrate 1	9756	-0.01418792363256216	-0.31374094	No	
+row_63	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	9882	-0.02058306336402893	-0.32114896	No	
+row_64	E2F5	E2F transcription factor 5, p130-binding	10056	-0.028203696012496948	-0.33140653	No	
+row_65	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.3336819	No	
+row_66	CCNA2	cyclin A2	10224	-0.03901144117116928	-0.34052503	No	
+row_67	CCNE1	cyclin E1	10228	-0.03939561918377876	-0.34003463	No	
+row_68	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10398	-0.05085813254117966	-0.34965473	No	
+row_69	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.35016942	No	
+row_70	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	10445	-0.05578697845339775	-0.35057724	No	
+row_71	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.35125872	No	
+row_72	CDC25A	cell division cycle 25A	10529	-0.06217988207936287	-0.35360578	No	
+row_73	POLE4	polymerase (DNA-directed), epsilon 4 (p12 subunit)	10546	-0.0633690133690834	-0.35351083	No	
+row_74	CCNE2	cyclin E2	10646	-0.07038387656211853	-0.35844904	No	
+row_75	DBF4	DBF4 homolog (S. cerevisiae)	10722	-0.07716448605060577	-0.36178058	No	
+row_76	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.3674673	No	
+row_77	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.37626922	No	
+row_78	PPP2CA	protein phosphatase 2 (formerly 2A), catalytic subunit, alpha isoform	11059	-0.10627548396587372	-0.37742424	No	
+row_79	PCNA	proliferating cell nuclear antigen	11249	-0.12419817596673965	-0.38702646	No	
+row_80	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.4017276	No	
+row_81	SRC	v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)	11630	-0.1580287218093872	-0.40528455	No	
+row_82	TOP2A	topoisomerase (DNA) II alpha 170kDa	11741	-0.1682397872209549	-0.409225	No	
+row_83	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.4126169	No	
+row_84	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.41342026	No	
+row_85	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.41097116	No	
+row_86	CDK2	cyclin-dependent kinase 2	12173	-0.21099014580249786	-0.42274606	No	
+row_87	CDK7	cyclin-dependent kinase 7 (MO15 homolog, Xenopus laevis, cdk-activating kinase)	12316	-0.22581052780151367	-0.4276846	No	
+row_88	DYRK1A	dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1A	12490	-0.2432030737400055	-0.43424928	No	
+row_89	GMNN	geminin, DNA replication inhibitor	12509	-0.24589644372463226	-0.4311433	No	
+row_90	MCM8	MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	12540	-0.2491292804479599	-0.42872697	No	
+row_91	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	12723	-0.2675536870956421	-0.4354322	No	
+row_92	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.44087684	No	
+row_93	CUL1	cullin 1	12992	-0.2996160089969635	-0.44193977	No	
+row_94	AKT1	v-akt murine thymoma viral oncogene homolog 1	13167	-0.3235817849636078	-0.4471859	No	
+row_95	POLE	polymerase (DNA directed), epsilon	13253	-0.33414220809936523	-0.44672444	No	
+row_96	TFDP1	transcription factor Dp-1	13257	-0.3345990777015686	-0.4411635	No	
+row_97	RBL1	retinoblastoma-like 1 (p107)	13537	-0.3694404661655426	-0.45214167	Yes	
+row_98	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.44732386	Yes	
+row_99	PRIM1	primase, polypeptide 1, 49kDa	13572	-0.3759537637233734	-0.441301	Yes	
+row_100	CCND2	cyclin D2	13584	-0.37767940759658813	-0.43549684	Yes	
+row_101	CDKN2C	cyclin-dependent kinase inhibitor 2C (p18, inhibits CDK4)	13588	-0.37825560569763184	-0.42918608	Yes	
+row_102	E2F4	E2F transcription factor 4, p107/p130-binding	13670	-0.3903734087944031	-0.42751035	Yes	
+row_103	CDT1	chromatin licensing and DNA replication factor 1	13818	-0.41396570205688477	-0.42952755	Yes	
+row_104	CCNA1	cyclin A1	13876	-0.42169952392578125	-0.42582354	Yes	
+row_105	UBC	ubiquitin C	14182	-0.47944867610931396	-0.4365266	Yes	
+row_106	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.4437722	Yes	
+row_107	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.44904584	Yes	
+row_108	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.44524974	Yes	
+row_109	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.43722317	Yes	
+row_110	PPP2R2A	protein phosphatase 2 (formerly 2A), regulatory subunit B (PR 52), alpha isoform	14855	-0.5806064605712891	-0.43097603	Yes	
+row_111	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.42169106	Yes	
+row_112	CKS1B	CDC28 protein kinase regulatory subunit 1B	14879	-0.5872610807418823	-0.41222498	Yes	
+row_113	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.4066007	Yes	
+row_114	E2F3	E2F transcription factor 3	14998	-0.6233251094818115	-0.39831588	Yes	
+row_115	RPA4	replication protein A4, 34kDa	15023	-0.6303092837333679	-0.38897967	Yes	
+row_116	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.38356736	Yes	
+row_117	FBXO5	F-box protein 5	15298	-0.7420555353164673	-0.38181195	Yes	
+row_118	ABL1	v-abl Abelson murine leukemia viral oncogene homolog 1	15336	-0.7584254741668701	-0.37108237	Yes	
+row_119	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)	15366	-0.7706289291381836	-0.35964644	Yes	
+row_120	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.3540886	Yes	
+row_121	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.34058508	Yes	
+row_122	UBB	ubiquitin B	15642	-0.9178993105888367	-0.33202165	Yes	
+row_123	CCND1	cyclin D1	15671	-0.9410302639007568	-0.31759676	Yes	
+row_124	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.30245426	Yes	
+row_125	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	15733	-1.0165631771087646	-0.28691825	Yes	
+row_126	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.27057868	Yes	
+row_127	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	15921	-1.331937313079834	-0.25751147	Yes	
+row_128	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.23479514	Yes	
+row_129	POLA2	polymerase (DNA directed), alpha 2 (70kD subunit)	16025	-1.6840527057647705	-0.20649016	Yes	
+row_130	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.17651798	Yes	
+row_131	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.14423388	Yes	
+row_132	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.10342217	Yes	
+row_133	CCND3	cyclin D3	16152	-2.722130298614502	-0.056727972	Yes	
+row_134	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027319426	Yes	

@@ -1,0 +1,12 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSAD	cysteine sulfinic acid decarboxylase	92	1.3027669191360474	0.31529588	Yes	
+row_1	CDO1	cysteine dioxygenase, type I	1059	0.6271390318870544	0.41028205	Yes	
+row_2	MPST	mercaptopyruvate sulfurtransferase	1220	0.5909929871559143	0.54602706	Yes	
+row_3	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	3677	0.26892489194869995	0.46094847	No	
+row_4	TXN2	thioredoxin 2	4809	0.17391754686832428	0.43410677	No	
+row_5	SUOX	sulfite oxidase	5378	0.12326641380786896	0.429477	No	
+row_6	GADL1	glutamate decarboxylase-like 1	6687	0.026793239638209343	0.35548165	No	
+row_7	TST	thiosulfate sulfurtransferase (rhodanese)	7103	0.00543587002903223	0.3312494	No	
+row_8	ETHE1	ethylmalonic encephalopathy 1	9603	-0.007623129989951849	0.1791439	No	
+row_9	CTH	cystathionase (cystathionine gamma-lyase)	9968	-0.023577237501740456	0.16252367	No	
+row_10	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	15634	-0.9084725379943848	0.03727902	No	

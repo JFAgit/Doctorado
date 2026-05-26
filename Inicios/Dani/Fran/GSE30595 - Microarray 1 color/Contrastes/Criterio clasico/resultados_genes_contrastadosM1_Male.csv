@@ -1,0 +1,94 @@
+Pathway,Gene
+Glycogen metabolism,NUP107
+Fructose biosynthesis,SLC2A1
+Lactose synthesis,SLC2A1
+Glycosaminoglycan metabolism,CSGALNACT1
+Glycosaminoglycan metabolism,SDC2
+Glycosaminoglycan metabolism,GPC4
+Inositol phosphate metabolism,PLD4
+Fatty AcylCoA biosynthesis,HACD1
+Arachdonic Acid metabolism,HPGD
+O3 O6 metabolism,FADS2
+B oxidation,ACOT7
+Triglyceride biosynthesis,GPAT2
+Triglyceride catabolism,FABP3
+Triglyceride catabolism,FABP5
+Phospholipid metabolism,PLD4
+Phospholipid metabolism,TNFAIP8L3
+Phospholipid metabolism,CDS1
+Phospholipid metabolism,GPAT2
+Phospholipid metabolism,LPCAT2
+Sphingolipid metabolism,FA2H
+Steroids metabolism,EBP
+Steroids metabolism,HSD11B1
+Steroids metabolism,MVK
+Steroids metabolism,STARD4
+Pyruvate metabolism,MPC2
+TCA,FH
+ETC,CYCS
+Nucleotides metabolism,ADK
+Nucleotides metabolism,TYMS
+Nucleotides metabolism,RRM2
+Ascorbate metabolism,SLC2A1
+Cobalamin metabolism,MMAB
+Folate metabolism,DHFR
+Vitamin K metabolism,VKORC1L1
+Retinoid metabolism,SDC2
+Retinoid metabolism,GPC4
+CoFactors metabolism,DHFR
+Tryptophan catabolism,SLC7A5
+Tryptophan catabolism,KMO
+Reversible hydration of CO2,CA2
+Gamma carboxylation hypusine formation and arylsulfatase activation,PROS1
+Post-translational modification: synthesis of GPI-anchored proteins,CD109
+O-linked glycosylation,ADAMTSL4
+O-linked glycosylation,SPON2
+SUMOylation,BRCA1
+SUMOylation,TOP2A
+SUMOylation,NUP107
+SUMOylation,BLM
+SUMOylation,BIRC5
+Deubiquitination,CCNA2
+Deubiquitination,BRCA1
+Deubiquitination,CDC20
+Deubiquitination,CCNA1
+Deubiquitination,CLSPN
+Deubiquitination,RNF128
+Deubiquitination,USP2
+Protein ubiquitination,HLTF
+RAB geranylgeranylation,RAB40B
+Neddylation,DTL
+Neddylation,SOCS2
+Neddylation,KLHL2
+Neddylation,FBXO15
+Neddylation,KBTBD8
+Neddylation,BIRC5
+Neddylation,SPSB1
+Post-translational protein phosphorylation,SDC2
+Post-translational protein phosphorylation,CKAP4
+Post-translational protein phosphorylation,SPP1
+Peptide hormone metabolism,CES1
+Peptide hormone metabolism,INHBA
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),SDC2
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),CKAP4
+Regulation of Insulin-like Growth Factor (IGF) transport and uptake by Insulin-like Growth Factor Binding Proteins (IGFBPs),SPP1
+Unfolded Protein Response (UPR),ATF3
+Unfolded Protein Response (UPR),DCSTAMP
+Surfactant metabolism,ADORA2B
+Surfactant metabolism,CKAP4
+Amyloid fiber formation,GSN
+Amyloid fiber formation,H2AZ1
+Processing of Capped Intron-Containing Pre-mRNA,NUP107
+tRNA processing in the nucleus,NUP107
+Metabolism of non-coding RNA,NUP107
+PRC2 methylates histones and DNA,H2AZ1
+Positive epigenetic regulation of rRNA expression,H2AZ1
+Negative epigenetic regulation of rRNA expression,H2AZ1
+DNA methylation,H2AZ1
+PKMTs methylate histone lysine,NSD2
+PKMTs methylate histone lysine,SUV39H2
+RMTs methylate histone arginine,H2AZ1
+Detoxification of Reactive Oxygen Species,GPX3
+Detoxification of Reactive Oxygen Species,CYCS
+UPR,ATF3
+UPR,DCSTAMP

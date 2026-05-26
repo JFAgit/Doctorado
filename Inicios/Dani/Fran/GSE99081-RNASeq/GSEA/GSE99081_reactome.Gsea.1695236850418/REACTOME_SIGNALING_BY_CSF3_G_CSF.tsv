@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PTPN11	protein tyrosine phosphatase, non-receptor type 11 (Noonan syndrome 1)	389	0.8826743364334106	0.016336625	No	
+row_1	RNF7	ring finger protein 7	532	0.8139314651489258	0.044767875	No	
+row_2	CSF3R	colony stimulating factor 3 receptor (granulocyte)	756	0.7179805040359497	0.06381863	No	
+row_3	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	1041	0.6336776614189148	0.075254776	No	
+row_4	SYK	spleen tyrosine kinase	1865	0.4990382492542267	0.04729199	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.06323956	No	
+row_6	KRAS	v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog	1980	0.48683157563209534	0.08486707	No	
+row_7	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	0.08190276	No	
+row_8	STAT5B	signal transducer and activator of transcription 5B	3043	0.33733847737312317	0.05463201	No	
+row_9	CUL5	cullin 5	3755	0.26154574751853943	0.022726173	No	
+row_10	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.0099981595	No	
+row_11	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.038518578	No	
+row_12	GRB2	growth factor receptor-bound protein 2	6017	0.07420491427183151	-0.09551537	No	
+row_13	HCK	hemopoietic cell kinase	7242	9.126333679887466E-6	-0.17101458	No	
+row_14	CSF3	colony stimulating factor 3 (granulocyte)	7438	2.12206880943036E-23	-0.1830427	No	
+row_15	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.3791978	No	
+row_16	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	12453	-0.23836000263690948	-0.47804016	No	
+row_17	GAB2	GRB2-associated binding protein 2	13339	-0.3430211544036865	-0.51695603	No	
+row_18	UBC	ubiquitin C	14182	-0.47944867610931396	-0.54698586	No	
+row_19	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.5823423	Yes	
+row_20	SHC1	SHC (Src homology 2 domain containing) transforming protein 1	15452	-0.8063480854034424	-0.5541959	Yes	
+row_21	UBB	ubiquitin B	15642	-0.9178993105888367	-0.5239132	Yes	
+row_22	SOCS3	suppressor of cytokine signaling 3	15669	-0.9392893314361572	-0.48259893	Yes	
+row_23	LYN	v-yes-1 Yamaguchi sarcoma viral related oncogene homolog	15921	-1.331937313079834	-0.43722233	Yes	
+row_24	STAT5A	signal transducer and activator of transcription 5A	15943	-1.403607964515686	-0.37438396	Yes	
+row_25	JAK2	Janus kinase 2 (a protein tyrosine kinase)	16053	-1.8425719738006592	-0.29691648	Yes	
+row_26	SOCS1	suppressor of cytokine signaling 1	16143	-2.593221426010132	-0.18391666	Yes	
+row_27	STAT1	signal transducer and activator of transcription 1, 91kDa	16215	-4.15338134765625	0.0014803633	Yes	

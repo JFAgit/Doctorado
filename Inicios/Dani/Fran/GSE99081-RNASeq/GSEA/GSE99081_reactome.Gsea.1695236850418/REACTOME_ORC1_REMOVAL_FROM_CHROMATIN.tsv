@@ -1,0 +1,63 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	-0.017419081	No	
+row_1	CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	1376	0.5554635524749756	-0.03850802	No	
+row_2	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.057567533	No	
+row_3	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.11727284	No	
+row_4	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	3196	0.3202706575393677	-0.10997069	No	
+row_5	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.13127878	No	
+row_6	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.12392936	No	
+row_7	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.1308242	No	
+row_8	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.13158607	No	
+row_9	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	4252	0.2237669676542282	-0.13077952	No	
+row_10	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.1316797	No	
+row_11	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	4554	0.19736935198307037	-0.13460301	No	
+row_12	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.14514542	No	
+row_13	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.16572136	No	
+row_14	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.16690119	No	
+row_15	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.18340391	No	
+row_16	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.22415943	No	
+row_17	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.24241227	No	
+row_18	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.24446306	No	
+row_19	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.25266278	No	
+row_20	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.26429614	No	
+row_21	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.42074534	No	
+row_22	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.43013668	No	
+row_23	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.45105687	No	
+row_24	CCNA2	cyclin A2	10224	-0.03901144117116928	-0.4571347	No	
+row_25	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10398	-0.05085813254117966	-0.4660012	No	
+row_26	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.4655125	No	
+row_27	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	10445	-0.05578697845339775	-0.46486828	No	
+row_28	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.46445614	No	
+row_29	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.4814954	No	
+row_30	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.48073545	No	
+row_31	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.48757547	No	
+row_32	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.514177	No	
+row_33	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.52735966	No	
+row_34	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.5246845	No	
+row_35	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.5187456	No	
+row_36	CDK2	cyclin-dependent kinase 2	12173	-0.21099014580249786	-0.52649546	No	
+row_37	MCM8	MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	12540	-0.2491292804479599	-0.54016906	No	
+row_38	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	12723	-0.2675536870956421	-0.54180735	No	
+row_39	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.5418298	No	
+row_40	CUL1	cullin 1	12992	-0.2996160089969635	-0.5372477	No	
+row_41	RBX1	ring-box 1	13011	-0.3016377389431	-0.5275243	No	
+row_42	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.54819185	No	
+row_43	CDT1	chromatin licensing and DNA replication factor 1	13818	-0.41396570205688477	-0.5489591	Yes	
+row_44	CCNA1	cyclin A1	13876	-0.42169952392578125	-0.53733325	Yes	
+row_45	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5389623	Yes	
+row_46	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.5367629	Yes	
+row_47	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.5319363	Yes	
+row_48	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.5176679	Yes	
+row_49	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.49904314	Yes	
+row_50	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.48257774	Yes	
+row_51	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.46618658	Yes	
+row_52	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.4523516	Yes	
+row_53	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.4463379	Yes	
+row_54	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.41700673	Yes	
+row_55	UBB	ubiquitin B	15642	-0.9178993105888367	-0.3912024	Yes	
+row_56	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.35935122	Yes	
+row_57	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.3252499	Yes	
+row_58	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.2813065	Yes	
+row_59	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.21571936	Yes	
+row_60	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.12437397	Yes	
+row_61	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027196703	Yes	

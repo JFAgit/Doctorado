@@ -1,0 +1,96 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNFSF12	tumor necrosis factor (ligand) superfamily, member 12	16	1.7831151485443115	0.03318062	No	
+row_1	TRAF3	TNF receptor-associated factor 3	336	0.9239897131919861	0.031129533	No	
+row_2	EDAR	ectodysplasin A receptor	593	0.7838026881217957	0.030294036	No	
+row_3	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.037199643	No	
+row_4	TNFSF4	tumor necrosis factor (ligand) superfamily, member 4 (tax-transcriptionally activated glycoprotein 1, 34kDa)	933	0.6656011939048767	0.036266785	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.018486379	No	
+row_6	TNFRSF11B	tumor necrosis factor receptor superfamily, member 11b (osteoprotegerin)	1998	0.48417985439300537	-0.010941834	No	
+row_7	EDA	ectodysplasin A	2054	0.4763491451740265	-0.0052197007	No	
+row_8	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.0418031	No	
+row_9	TNFRSF11A	tumor necrosis factor receptor superfamily, member 11a, NFKB activator	2791	0.36792832612991333	-0.03654834	No	
+row_10	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.050996795	No	
+row_11	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.081119716	No	
+row_12	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.07818387	No	
+row_13	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.08918994	No	
+row_14	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.09385412	No	
+row_15	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.10564016	No	
+row_16	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.12920943	No	
+row_17	UBE2M	ubiquitin-conjugating enzyme E2M (UBC12 homolog, yeast)	4846	0.17076218128204346	-0.12711377	No	
+row_18	BIRC2	baculoviral IAP repeat-containing 2	4955	0.1626046895980835	-0.130687	No	
+row_19	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.14557767	No	
+row_20	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.14890073	No	
+row_21	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.16714662	No	
+row_22	CD40LG	CD40 ligand (TNF superfamily, member 5, hyper-IgM syndrome)	5834	0.08927758783102036	-0.17621303	No	
+row_23	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.20704262	No	
+row_24	TNFRSF13B	tumor necrosis factor receptor superfamily, member 13B	6483	0.039643168449401855	-0.21458268	No	
+row_25	TNFRSF6B	tumor necrosis factor receptor superfamily, member 6b, decoy	6502	0.037998832762241364	-0.21496937	No	
+row_26	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.22420482	No	
+row_27	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.22668912	No	
+row_28	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.23520523	No	
+row_29	TNFRSF13C	tumor necrosis factor receptor superfamily, member 13C	7022	0.009597825817763805	-0.24536505	No	
+row_30	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.2467554	No	
+row_31	TNFSF9	tumor necrosis factor (ligand) superfamily, member 9	9557	-0.005642112344503403	-0.4019895	No	
+row_32	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.40346915	No	
+row_33	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.41311333	No	
+row_34	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.43458468	No	
+row_35	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.45332402	No	
+row_36	TNFRSF17	tumor necrosis factor receptor superfamily, member 17	10450	-0.056092385202646255	-0.4539214	No	
+row_37	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.45417386	No	
+row_38	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.47267702	No	
+row_39	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.47340122	No	
+row_40	LTBR	lymphotoxin beta receptor (TNFR superfamily, member 3)	10988	-0.10052071511745453	-0.48064178	No	
+row_41	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.4799857	No	
+row_42	TNFSF15	tumor necrosis factor (ligand) superfamily, member 15	11012	-0.10217301547527313	-0.4780896	No	
+row_43	TNFSF8	tumor necrosis factor (ligand) superfamily, member 8	11109	-0.1107671782374382	-0.48191297	No	
+row_44	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.5049464	No	
+row_45	TNFRSF14	tumor necrosis factor receptor superfamily, member 14 (herpesvirus entry mediator)	11656	-0.16036707162857056	-0.50973934	No	
+row_46	BTRC	beta-transducin repeat containing	11766	-0.17109966278076172	-0.5132117	No	
+row_47	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.51468444	No	
+row_48	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.515111	No	
+row_49	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.5122904	No	
+row_50	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	12354	-0.2293039858341217	-0.53446776	No	
+row_51	TNFRSF8	tumor necrosis factor receptor superfamily, member 8	12392	-0.23231005668640137	-0.5323075	No	
+row_52	EDA2R	ectodysplasin A2 receptor	12663	-0.2607402801513672	-0.5440341	No	
+row_53	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.55259943	No	
+row_54	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	12951	-0.2939244210720062	-0.5506211	No	
+row_55	CUL1	cullin 1	12992	-0.2996160089969635	-0.5473568	No	
+row_56	TNFSF11	tumor necrosis factor (ligand) superfamily, member 11	13131	-0.3185340464115143	-0.5497999	No	
+row_57	LTB	lymphotoxin beta (TNF superfamily, member 3)	13203	-0.32838723063468933	-0.5479044	No	
+row_58	TNFRSF18	tumor necrosis factor receptor superfamily, member 18	13538	-0.3695214092731476	-0.5615104	No	
+row_59	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.5558822	No	
+row_60	TNFRSF9	tumor necrosis factor receptor superfamily, member 9	13856	-0.41849905252456665	-0.56588626	No	
+row_61	FBXW11	F-box and WD-40 domain protein 11	14011	-0.44262412190437317	-0.5669424	Yes	
+row_62	TNFRSF12A	tumor necrosis factor receptor superfamily, member 12A	14048	-0.4497431218624115	-0.5605533	Yes	
+row_63	UBC	ubiquitin C	14182	-0.47944867610931396	-0.559603	Yes	
+row_64	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.56581557	Yes	
+row_65	EDARADD	EDAR-associated death domain	14458	-0.4999960958957672	-0.5574105	Yes	
+row_66	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.5603456	Yes	
+row_67	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.5554276	Yes	
+row_68	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.54627407	Yes	
+row_69	LTA	lymphotoxin alpha (TNF superfamily, member 1)	14893	-0.5908416509628296	-0.54102117	Yes	
+row_70	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.5333065	Yes	
+row_71	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	15066	-0.6434639692306519	-0.52760255	Yes	
+row_72	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.51674265	Yes	
+row_73	FASLG	Fas ligand (TNF superfamily, member 6)	15094	-0.6513888835906982	-0.50425947	Yes	
+row_74	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.49311864	Yes	
+row_75	MAP3K14	mitogen-activated protein kinase kinase kinase 14	15287	-0.7306030988693237	-0.48939916	Yes	
+row_76	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.4870565	Yes	
+row_77	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.4718729	Yes	
+row_78	TNFSF13	tumor necrosis factor (ligand) superfamily, member 13	15573	-0.8644441962242126	-0.4582178	Yes	
+row_79	TNFSF13B	tumor necrosis factor (ligand) superfamily, member 13b	15591	-0.8672822713851929	-0.44265017	Yes	
+row_80	UBB	ubiquitin B	15642	-0.9178993105888367	-0.42815647	Yes	
+row_81	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.41284505	Yes	
+row_82	RELB	v-rel reticuloendotheliosis viral oncogene homolog B, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3 (avian)	15710	-0.9959115386009216	-0.3942549	Yes	
+row_83	TNF	tumor necrosis factor (TNF superfamily, member 2)	15727	-1.013060450553894	-0.37583163	Yes	
+row_84	TNFRSF25	tumor necrosis factor receptor superfamily, member 25	15743	-1.0291060209274292	-0.35703892	Yes	
+row_85	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.33798364	Yes	
+row_86	TNFSF14	tumor necrosis factor (ligand) superfamily, member 14	15873	-1.2411766052246094	-0.32101095	Yes	
+row_87	TNFRSF4	tumor necrosis factor receptor superfamily, member 4	15897	-1.287792444229126	-0.29775628	Yes	
+row_88	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.27322254	Yes	
+row_89	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.23956674	Yes	
+row_90	BIRC3	baculoviral IAP repeat-containing 3	16076	-1.974820852279663	-0.2025884	Yes	
+row_91	CD40	CD40 molecule, TNF receptor superfamily member 5	16112	-2.344032049179077	-0.15983519	Yes	
+row_92	TNFSF18	tumor necrosis factor (ligand) superfamily, member 18	16127	-2.4334378242492676	-0.1140679	Yes	
+row_93	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.06379966	Yes	
+row_94	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027253341	Yes	

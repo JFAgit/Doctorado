@@ -1,0 +1,4 @@
+"gene_set","n_genes_in_set","n_detected_in_dataset","n_nominal_p_lt_0_05","n_padj_lt_0_10","n_up_male_nominal","n_up_female_nominal"
+"inmunometabolismo_expandida",403,360,7,0,1,6
+"antiinflammatory_general",91,78,2,0,1,1
+"proinflammatory_general",133,123,5,0,2,3

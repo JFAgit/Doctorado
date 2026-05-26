@@ -1,0 +1,68 @@
+MAGE-TAB Version	1.1
+Investigation Title	RNA-seq of M-CSF differentiated human peripheral monocyte-derived macrophages (MDMs) activated with short exposure (3hours) to LPS, or long exposure (24 hours) to LPS, LPS with IFNγ, IFNγ, IL-4, IL-10, and dexamethasone
+
+Experimental Design	cell type comparison design
+Experimental Design Term Source REF	EFO
+Experimental Design Term Accession Number	EFO:0001745
+
+Experimental Factor Name	time	compound	dose
+Experimental Factor Type	time	compound	dose
+Experimental Factor Term Source REF	EFO		EFO
+Experimental Factor Term Accession Number	EFO_0000721		EFO_0000428
+
+Person Last Name	Chen	Li Yim	Henneman	de Winther
+Person First Name	Hung-Jen	Andrew	Peter	Menno
+Person Mid Initials		Y.F.		P.J.
+Person Email	h.j.chen@amc.uva.nl	a.y.liyim@amc.uva.nl	p.henneman@amc.uva.nl	m.dewinther@amc.uva.nl
+Person Phone
+Person Fax
+Person Affiliation	Department of Medical Biochemistry, Experimental Vascular Biology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands.	Genome Diagnostics Laboratory, Department of Clinical Genetics, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands.	Genome Diagnostics Laboratory, Department of Clinical Genetics, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands.	Department of Medical Biochemistry, Experimental Vascular Biology, Amsterdam University Medical Centers, University of Amsterdam, Amsterdam, the Netherlands.
+Person Address	Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam	Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam	Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam	Meibergdreef 9, Meibergdreef 9, 1105 AZ Amsterdam
+Person Roles	experiment performer	data analyst;data coder;submitter	investigator	investigator
+Person Roles Term Source REF
+Person Roles Term Accession Number
+
+Quality Control Type
+Quality Control Term Source REF
+Quality Control Term Accession Number
+
+Replicate Type
+Replicate Term Source REF
+Replicate Term Accession Number
+
+Normalization Type
+Normalization Term Source REF
+Normalization Term Accession Number
+
+Date of Experiment	2017-09-29
+Public Release Date	2020-01-06
+
+PubMed ID
+Publication DOI	10.3389/fimmu.2019.02887
+Publication Author List	Hung-Jen Chen, Andrew Y.F. Li Yim, Guillermo R. Griffith, Wouter J. de Jonge, Marcel M.A.M. Mannens, Enrico Ferrero, Peter Henneman, Menno P.J. de Winther
+Publication Title	Meta-Analysis of in vitro-Differentiated Macrophages Identifies Transcriptomic Signatures That Classify Disease Macrophages in vivo
+Publication Status
+Publication Status Term Source REF
+Publication Status Term Accession Number
+
+Experiment Description	The goal of this experiment was to validate a classification model built on other bulk transcriptomic data that was capable of identifying in vitro stimulated M-CSF differentiated macrophages. Specifically, the classification model was capable of distinguishing: M-LPSearly (2-4 hours) M-LPSlate  (18-24 hours)  M-LPS+IFNγ M-IFNγ M-IL4 M-IL-10 M-dex
+
+Protocol Name	P-MTAB-82183	P-MTAB-82182	P-MTAB-82181	P-MTAB-82180	P-MTAB-82186	P-MTAB-82185	P-MTAB-82184	P-MTAB-82179
+Protocol Type	nucleic acid library construction protocol	nucleic acid extraction protocol	treatment protocol	growth protocol	high throughput sequence alignment protocol	normalization data transformation protocol	nucleic acid sequencing protocol	sample collection protocol
+Protocol Term Source REF	EFO	EFO	EFO	EFO	EFO	EFO	EFO	EFO
+Protocol Term Accession Number	EFO_0004184	EFO_0002944	EFO_0003969	EFO_0003789	EFO_0004917	EFO_0003816	EFO_0004170	EFO_0005518
+Protocol Description	RNA sequencing libraries were prepared using the standard protocols of NuGEN Ovation RNA-Seq System V2 kit with 100ng starting RNA per sample.	Total RNA was isolated with Qiagen RNeasy Mini Kit per the manufacturer's recommended protocol.	After differentiation, the medium was replaced by IMDM culture medium without M-CSF and supplemented with the following stimuli: nothing, 10ng/mL LPS (Sigma, E. coli E55:O5), 10ng/mL LPS plus 50ng/mL IFNγ (R&D), 50ng/mL IFNγ, 50ng/mL IL4 (PeproTech), 50ng/mL IL10 (R&D), 100nM dexamethasone (Sigma) for 24 hours. LPSearly macrophages were first cultured with culture medium for 21 hours and then stimulated with 10ng/mL LPS for 3 hours prior to harvest.	Peripheral blood mononuclear cells (PBMCs) were isolated through density centrifugation using Lymphoprep™ (Axis-Shield, Dundee, Scotland). Monocytes were purified through human CD14 magnetic beads and the MACS® cell separation columns (Miltenyi, Bergisch Gladbach, Germany). The resulting monocytes were seeded on 24-well tissue culture plates at a density of 0.8 million cells/well. Cells were subsequently differentiated to macrophages for 6 days in the presence of 50ng/mL human M-CSF (Miltenyi, Germany) with Iscove's Modified Dulbecco's Medium (IMDM) containing 10% heat-inactivated fetal bovine serum (FCS), 1% Penicillin/Streptomycin solution (Gibco) and 1% L-glutamine solution (Gibco). The medium was renewed on the third day.	All raw fastq files were first checked for quality using FastQC (v0.11.7)  and MultiQC (v1.4). The sequencing reads were aligned against the human genome GRCh38 using STAR (v2.5.4). Post-alignment processing was performed using SAMtools (v1.7) after which reads overlapping gene features obtained from Ensembl (v91) were counted using the featureCounts  program in the Subread (v1.6.1) package.	Gene annotations were converted from Ensembl IDs to Entrez IDs using biomaRt. For our analysis, raw reads were imported in R and normalized according to the library size using the edgeR package (raw read counts are uploaded though).	Size-selected cDNA library samples were pooled at equimolar quantities and sequenced on a HiSeq 4000 sequencer (Illumina) to a depth of 16M per sample according to the 50 bp single-end protocol at the Amsterdam University Medical Centers, location Vrije Universiteit medical center (VUmc).	Buffy coats from three healthy anonymous donors were acquired for research purposes from the Sanquin blood bank in Amsterdam, the Netherlands.
+Protocol Parameters
+Protocol Hardware					Dell T8310	Dell T8310	Illumina HiSeq 4000
+Protocol Software					STAR	R; edgeR
+Protocol Contact
+
+Term Source Name	EFO	ArrayExpress
+Term Source File	http://www.ebi.ac.uk/efo/	http://www.ebi.ac.uk/arrayexpress/
+Term Source Version	2.38
+
+SDRF File	E-MTAB-7572.sdrf.txt
+Comment [Submitted Name]	RNA-seq of M-CSF differentiated human peripheral monocyte-derived macrophages (MDMs) activated with short exposure (3hours) to LPS, or long exposure (24 hours) to LPS, LPS with IFNγ, IFNγ, IL-4, IL-10, and dexamethasone
+Comment [AEExperimentType]	RNA-seq of coding RNA
+Comment[ArrayExpressAccession]	E-MTAB-7572
+Comment [ExperimentType]	Human - High-throughput sequencing

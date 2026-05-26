@@ -1,0 +1,135 @@
+"sample_title","geo_accession","source_name","age","cellcount","celltype","collectiondate","diseasestatus","donorid","gender","index","race","samplename","smoker","time since last flare (months)","time since steroid dose","time since symptom onset (yrs)","years since diagnosis","sex_metadata","subject_id","sample_kind","age_num","xist_score","y_marker_score","sex_inferred","sex_match_metadata"
+"lib221","GSM1479433","Whole Blood","32","--","Whole Blood","June 26 2012","Healthy Control","44","F","21","Hispanic","44_Tempus","--","--","--","--","--","female","44","Tempus",32,173,0,"female",TRUE
+"lib222","GSM1479434","Whole Blood","52","--","Whole Blood","May 21 2012","MS pretreatment","31","F","2","White","31_Tempus","Y","1","3 weeks, oral","1","--","female","31","Tempus",52,209,0,"female",TRUE
+"lib223","GSM1479435","Whole Blood","52","--","Whole Blood","May 22 2012","MS posttreatment","33","F","9","White","33_Tempus","Y","1","3 weeks, oral","1","--","female","33","Tempus",52,213,0,"female",TRUE
+"lib224","GSM1479436","Whole Blood","24","--","Whole Blood","May 23 2012","Type 1 Diabetes","34","F","13","White","34_Tempus","--","--","--","--","7","female","34","Tempus",24,220,0,"female",TRUE
+"lib225","GSM1479437","Whole Blood","27","--","Whole Blood","June 6 2012","Type 1 Diabetes","37","F","23","White","37_Tempus","--","--","--","--","3","female","37","Tempus",27,214,0,"female",TRUE
+"lib226","GSM1479438","Whole Blood","32","14737500","Neutrophils","June 26 2012","Healthy Control","44","F","5","Hispanic","44_Neutrophils","--","--","--","--","--","female","44","Neutrophils",32,39,0,"female",TRUE
+"lib227","GSM1479439","Whole Blood","32","2000000","Monocytes","June 26 2012","Healthy Control","44","F","23","Hispanic","44_Monocytes","--","--","--","--","--","female","44","Monocytes",32,660,0,"female",TRUE
+"lib228","GSM1479440","Whole Blood","32","1012333","B-cells","June 26 2012","Healthy Control","44","F","6","Hispanic","44_Bcells","--","--","--","--","--","female","44","Bcells",32,934,0,"female",TRUE
+"lib229","GSM1479441","Whole Blood","32","1071990","CD4","June 26 2012","Healthy Control","44","F","25","Hispanic","44_CD4T","--","--","--","--","--","female","44","CD4T",32,1108,0,"female",TRUE
+"lib230","GSM1479442","Whole Blood","32","1011154","CD8","June 26 2012","Healthy Control","44","F","12","Hispanic","44_CD8T","--","--","--","--","--","female","44","CD8T",32,996,0,"female",TRUE
+"lib231","GSM1479443","Whole Blood","32","379236","NK","June 26 2012","Healthy Control","44","F","19","Hispanic","44_NK","--","--","--","--","--","female","44","NK",32,870,0,"female",TRUE
+"lib232","GSM1479444","Whole Blood","52","16312500","Neutrophils","May 21 2012","MS pretreatment","31","F","1","White","31_Neutrophils","Y","1","3 weeks, oral","1","--","female","31","Neutrophils",52,33,0,"female",TRUE
+"lib233","GSM1479445","Whole Blood","52","2000000","Monocytes","May 21 2012","MS pretreatment","31","F","4","White","31_Monocytes","Y","1","3 weeks, oral","1","--","female","31","Monocytes",52,489,0,"female",TRUE
+"lib234","GSM1479446","Whole Blood","52","409387","B-cells","May 21 2012","MS pretreatment","31","F","3","White","31_Bcells","Y","1","3 weeks, oral","1","--","female","31","Bcells",52,823,0,"female",TRUE
+"lib235","GSM1479447","Whole Blood","52","2000000","CD4","May 21 2012","MS pretreatment","31","F","5","White","31_CD4T","Y","1","3 weeks, oral","1","--","female","31","CD4T",52,679,0,"female",TRUE
+"lib236","GSM1479448","Whole Blood","52","1100105","CD8","May 21 2012","MS pretreatment","31","F","8","White","31_CD8T","Y","1","3 weeks, oral","1","--","female","31","CD8T",52,595,0,"female",TRUE
+"lib237","GSM1479449","Whole Blood","52","190000000","Neutrophils","May 22 2012","MS posttreatment","33","F","6","White","33_Neutrophils","Y","1","3 weeks, oral","1","--","female","33","Neutrophils",52,29,0,"female",TRUE
+"lib238","GSM1479450","Whole Blood","52","2000000","Monocytes","May 22 2012","MS posttreatment","33","F","10","White","33_Monocytes","Y","1","3 weeks, oral","1","--","female","33","Monocytes",52,578,0,"female",TRUE
+"lib239","GSM1479451","Whole Blood","52","273769","B-cells","May 22 2012","MS posttreatment","33","F","7","White","33_Bcells","Y","1","3 weeks, oral","1","--","female","33","Bcells",52,881,0,"female",TRUE
+"lib240","GSM1479452","Whole Blood","52","2000000","CD4","May 22 2012","MS posttreatment","33","F","11","White","33_CD4T","Y","1","3 weeks, oral","1","--","female","33","CD4T",52,816,0,"female",TRUE
+"lib241","GSM1479453","Whole Blood","52","2000000","CD8","May 22 2012","MS posttreatment","33","F","12","White","33_CD8T","Y","1","3 weeks, oral","1","--","female","33","CD8T",52,683,0,"female",TRUE
+"lib242","GSM1479454","Whole Blood","24","19800000","Neutrophils","May 23 2012","Type 1 Diabetes","34","F","20","White","34_Neutrophils","--","--","--","--","7","female","34","Neutrophils",24,50,0,"female",TRUE
+"lib243","GSM1479455","Whole Blood","24","2000000","Monocytes","May 23 2012","Type 1 Diabetes","34","F","14","White","34_Monocytes","--","--","--","--","7","female","34","Monocytes",24,476,0,"female",TRUE
+"lib244","GSM1479456","Whole Blood","24","1006332","B-cells","May 23 2012","Type 1 Diabetes","34","F","21","White","34_Bcells","--","--","--","--","7","female","34","Bcells",24,651,0,"female",TRUE
+"lib245","GSM1479457","Whole Blood","24","2000000","CD4","May 23 2012","Type 1 Diabetes","34","F","15","White","34_CD4T","--","--","--","--","7","female","34","CD4T",24,636,0,"female",TRUE
+"lib246","GSM1479458","Whole Blood","24","2000000","CD8","May 23 2012","Type 1 Diabetes","34","F","22","White","34_CD8T","--","--","--","--","7","female","34","CD8T",24,762,0,"female",TRUE
+"lib247","GSM1479459","Whole Blood","24","320942","NK","May 23 2012","Type 1 Diabetes","34","F","16","White","34_NK","--","--","--","--","7","female","34","NK",24,696,0,"female",TRUE
+"lib248","GSM1479460","Whole Blood","27","10237500","Neutrophils","June 6 2012","Type 1 Diabetes","37","F","18","White","37_Neutrophils","--","--","--","--","3","female","37","Neutrophils",27,18,0,"female",TRUE
+"lib249","GSM1479461","Whole Blood","27","2000000","Monocytes","June 6 2012","Type 1 Diabetes","37","F","25","White","37_Monocytes","--","--","--","--","3","female","37","Monocytes",27,383,0,"female",TRUE
+"lib250","GSM1479462","Whole Blood","27","903409","B-cells","June 6 2012","Type 1 Diabetes","37","F","19","White","37_Bcells","--","--","--","--","3","female","37","Bcells",27,494,0,"female",TRUE
+"lib251","GSM1479463","Whole Blood","27","2000000","CD4","June 6 2012","Type 1 Diabetes","37","F","27","White","37_CD4T","--","--","--","--","3","female","37","CD4T",27,774,0,"female",TRUE
+"lib252","GSM1479464","Whole Blood","27","1786114","CD8","June 6 2012","Type 1 Diabetes","37","F","20","White","37_CD8T","--","--","--","--","3","female","37","CD8T",27,507,0,"female",TRUE
+"lib253","GSM1479465","Whole Blood","80","45900000","Neutrophils","June 22 2012","Sepsis","43","M","1","White","43_Neutrophils","--","--","--","--","--","male","43","Neutrophils",80,1,13,"female",FALSE
+"lib254","GSM1479466","Whole Blood","80","2000000","Monocytes","June 22 2012","Sepsis","43","M","2","White","43_Monocytes","--","--","--","--","--","male","43","Monocytes",80,0,135,"female",FALSE
+"lib255","GSM1479467","Whole Blood","80","73307","B-cells","June 22 2012","Sepsis","43","M","3","White","43_Bcells","--","--","--","--","--","male","43","Bcells",80,0,157,"male",TRUE
+"lib256","GSM1479468","Whole Blood","80","2000000","CD4","June 22 2012","Sepsis","43","M","4","White","43_CD4T","--","--","--","--","--","male","43","CD4T",80,0,271,"male",TRUE
+"lib257","GSM1479469","Whole Blood","80","2000000","CD8","June 22 2012","Sepsis","43","M","13","White","43_CD8T","--","--","--","--","--","male","43","CD8T",80,1,266,"male",TRUE
+"lib258","GSM1479470","Whole Blood","80","953426","NK","June 22 2012","Sepsis","43","M","20","White","43_NK","--","--","--","--","--","male","43","NK",80,0,129,"female",FALSE
+"lib259","GSM1479471","Whole Blood","80","--","Whole Blood","June 22 2012","Sepsis","43","M","5","White","43_Tempus","--","--","--","--","--","male","43","Tempus",80,1,48,"female",FALSE
+"lib260","GSM1479472","Whole Blood","39","31250000","Neutrophils","July 5 2012","Sepsis","49","F","6","White","49_Neutrophils","--","--","--","--","--","female","49","Neutrophils",39,166,0,"female",TRUE
+"lib261","GSM1479473","Whole Blood","39","2000000","Monocytes","July 5 2012","Sepsis","49","F","8","White","49_Monocytes","--","--","--","--","--","female","49","Monocytes",39,354,0,"female",TRUE
+"lib262","GSM1479474","Whole Blood","39","2000000","B-cells","July 5 2012","Sepsis","49","F","7","White","49_Bcells","--","--","--","--","--","female","49","Bcells",39,590,0,"female",TRUE
+"lib263","GSM1479475","Whole Blood","39","2000000","CD4","July 5 2012","Sepsis","49","F","12","White","49_CD4T","--","--","--","--","--","female","49","CD4T",39,958,0,"female",TRUE
+"lib264","GSM1479476","Whole Blood","39","498269","CD8","July 5 2012","Sepsis","49","F","3","White","49_CD8T","--","--","--","--","--","female","49","CD8T",39,734,0,"female",TRUE
+"lib265","GSM1479477","Whole Blood","39","--","Whole Blood","July 5 2012","Sepsis","49","F","21","White","49_Tempus","--","--","--","--","--","female","49","Tempus",39,60,0,"female",TRUE
+"lib266","GSM1479478","Whole Blood","59","49750000","Neutrophils","July 6 2012","Sepsis","50","F","22","Asian","50_Neutrophils","--","--","--","--","--","female","50","Neutrophils",59,163,0,"female",TRUE
+"lib267","GSM1479479","Whole Blood","59","2000000","Monocytes","July 6 2012","Sepsis","50","F","13","Asian","50_Monocytes","--","--","--","--","--","female","50","Monocytes",59,351,0,"female",TRUE
+"lib268","GSM1479480","Whole Blood","59","2000000","B-cells","July 6 2012","Sepsis","50","F","9","Asian","50_Bcells","--","--","--","--","--","female","50","Bcells",59,572,0,"female",TRUE
+"lib269","GSM1479481","Whole Blood","59","2000000","CD4","July 6 2012","Sepsis","50","F","2","Asian","50_CD4T","--","--","--","--","--","female","50","CD4T",59,690,0,"female",TRUE
+"lib270","GSM1479482","Whole Blood","59","529358","CD8","July 6 2012","Sepsis","50","F","14","Asian","50_CD8T","--","--","--","--","--","female","50","CD8T",59,666,1,"female",TRUE
+"lib271","GSM1479483","Whole Blood","59","365861","NK","July 6 2012","Sepsis","50","F","15","Asian","50_NK","--","--","--","--","--","female","50","NK",59,964,0,"female",TRUE
+"lib272","GSM1479484","Whole Blood","59","--","Whole Blood","July 6 2012","Sepsis","50","F","16","Asian","50_Tempus","--","--","--","--","--","female","50","Tempus",59,96,0,"female",TRUE
+"lib273","GSM1479485","Whole Blood","36","41000000","Neutrophils","June 28 2012","MS pretreatment","45","F","16","White","45_Neutrophils","N","47","--","10","--","female","45","Neutrophils",36,33,0,"female",TRUE
+"lib274","GSM1479486","Whole Blood","36","2000000","Monocytes","June 28 2012","MS pretreatment","45","F","23","White","45_Monocytes","N","47","--","10","--","female","45","Monocytes",36,630,0,"female",TRUE
+"lib275","GSM1479487","Whole Blood","36","843981","B-cells","June 28 2012","MS pretreatment","45","F","18","White","45_Bcells","N","47","--","10","--","female","45","Bcells",36,935,0,"female",TRUE
+"lib276","GSM1479488","Whole Blood","36","2000000","CD4","June 28 2012","MS pretreatment","45","F","10","White","45_CD4T","N","47","--","10","--","female","45","CD4T",36,799,0,"female",TRUE
+"lib277","GSM1479489","Whole Blood","36","2000000","CD8","June 28 2012","MS pretreatment","45","F","19","White","45_CD8T","N","47","--","10","--","female","45","CD8T",36,758,0,"female",TRUE
+"lib278","GSM1479490","Whole Blood","36","329348","NK","June 28 2012","MS pretreatment","45","F","4","White","45_NK","N","47","--","10","--","female","45","NK",36,1049,0,"female",TRUE
+"lib279","GSM1479491","Whole Blood","36","--","Whole Blood","June 28 2012","MS pretreatment","45","F","9","White","45_Tempus","N","47","--","10","--","female","45","Tempus",36,132,0,"female",TRUE
+"lib280","GSM1479492","Whole Blood","36","34537500","Neutrophils","June 29 2012","MS posttreatment","46","F","22","White","46_Neutrophils","N","47","--","10","--","female","46","Neutrophils",36,46,0,"female",TRUE
+"lib281","GSM1479493","Whole Blood","36","2000000","Monocytes","June 29 2012","MS posttreatment","46","F","7","White","46_Monocytes","N","47","--","10","--","female","46","Monocytes",36,379,0,"female",TRUE
+"lib282","GSM1479494","Whole Blood","36","487967","B-cells","June 29 2012","MS posttreatment","46","F","25","White","46_Bcells","N","47","--","10","--","female","46","Bcells",36,756,0,"female",TRUE
+"lib283","GSM1479495","Whole Blood","36","2000000","CD4","June 29 2012","MS posttreatment","46","F","27","White","46_CD4T","N","47","--","10","--","female","46","CD4T",36,623,0,"female",TRUE
+"lib284","GSM1479496","Whole Blood","36","2000000","CD8","June 29 2012","MS posttreatment","46","F","11","White","46_CD8T","N","47","--","10","--","female","46","CD8T",36,547,0,"female",TRUE
+"lib285","GSM1479497","Whole Blood","36","301460","NK","June 29 2012","MS posttreatment","46","F","1","White","46_NK","N","47","--","10","--","female","46","NK",36,850,0,"female",TRUE
+"lib286","GSM1479498","Whole Blood","36","--","Whole Blood","June 29 2012","MS posttreatment","46","F","27","White","46_Tempus","N","47","--","10","--","female","46","Tempus",36,115,0,"female",TRUE
+"lib288","GSM1479499","Whole Blood","29","42250000","Neutrophils","January 25 2012","Healthy Control","20","F","1","White","20_Neutrophils","--","--","--","--","--","female","20","Neutrophils",29,27,0,"female",TRUE
+"lib289","GSM1479500","Whole Blood","29","2000000","Monocytes","January 25 2012","Healthy Control","20","F","2","White","20_Monocytes","--","--","--","--","--","female","20","Monocytes",29,393,0,"female",TRUE
+"lib290","GSM1479501","Whole Blood","29","2000000","B-cells","January 25 2012","Healthy Control","20","F","4","White","20_Bcells","--","--","--","--","--","female","20","Bcells",29,518,0,"female",TRUE
+"lib291","GSM1479502","Whole Blood","29","2000000","CD4","January 25 2012","Healthy Control","20","F","5","White","20_CD4T","--","--","--","--","--","female","20","CD4T",29,702,0,"female",TRUE
+"lib292","GSM1479503","Whole Blood","29","1500000","CD8","January 25 2012","Healthy Control","20","F","27","White","20_CD8T","--","--","--","--","--","female","20","CD8T",29,702,0,"female",TRUE
+"lib293","GSM1479504","Whole Blood","29","285000","NK","January 25 2012","Healthy Control","20","F","11","White","20_NK","--","--","--","--","--","female","20","NK",29,906,0,"female",TRUE
+"lib294","GSM1479505","Whole Blood","29","--","Whole Blood","January 25 2012","Healthy Control","20","F","6","White","20_Tempus","--","--","--","--","--","female","20","Tempus",29,537,0,"female",TRUE
+"lib295","GSM1479506","Whole Blood","22","3700000","Neutrophils","February 2 2012","Healthy Control","21","F","21","White","21_Neutrophils","--","--","--","--","--","female","21","Neutrophils",22,35,0,"female",TRUE
+"lib296","GSM1479507","Whole Blood","22","2000000","Monocytes","February 2 2012","Healthy Control","21","F","3","White","21_Monocytes","--","--","--","--","--","female","21","Monocytes",22,503,0,"female",TRUE
+"lib297","GSM1479508","Whole Blood","22","363469","B-cells","February 2 2012","Healthy Control","21","F","7","White","21_Bcells","--","--","--","--","--","female","21","Bcells",22,857,0,"female",TRUE
+"lib298","GSM1479509","Whole Blood","22","2000000","CD4","February 2 2012","Healthy Control","21","F","12","White","21_CD4T","--","--","--","--","--","female","21","CD4T",22,960,0,"female",TRUE
+"lib299","GSM1479510","Whole Blood","22","2000000","CD8","February 2 2012","Healthy Control","21","F","13","White","21_CD8T","--","--","--","--","--","female","21","CD8T",22,754,0,"female",TRUE
+"lib300","GSM1479511","Whole Blood","22","147461","NK","February 2 2012","Healthy Control","21","F","14","White","21_NK","--","--","--","--","--","female","21","NK",22,1150,0,"female",TRUE
+"lib301","GSM1479512","Whole Blood","22","--","Whole Blood","February 2 2012","Healthy Control","21","F","20","White","21_Tempus","--","--","--","--","--","female","21","Tempus",22,497,0,"female",TRUE
+"lib302","GSM1479513","Whole Blood","--","7987500","Neutrophils","August 16 2012","ALS","52","","14","--","52_Neutrophils","--","--","--","--","--",NA,"52","Neutrophils",NA,1,22,"female",NA
+"lib303","GSM1479514","Whole Blood","--","2000000","Monocytes","August 16 2012","ALS","52","","22","--","52_Monocytes","--","--","--","--","--",NA,"52","Monocytes",NA,0,116,"female",NA
+"lib304","GSM1479515","Whole Blood","--","702000","B-cells","August 16 2012","ALS","52","","8","--","52_Bcells","--","--","--","--","--",NA,"52","Bcells",NA,1,227,"male",NA
+"lib305","GSM1479516","Whole Blood","--","2000000","CD4","August 16 2012","ALS","52","","15","--","52_CD4T","--","--","--","--","--",NA,"52","CD4T",NA,16,256,"male",NA
+"lib306","GSM1479517","Whole Blood","--","928859","CD8","August 16 2012","ALS","52","","6","--","52_CD8T","--","--","--","--","--",NA,"52","CD8T",NA,1,244,"male",NA
+"lib307","GSM1479518","Whole Blood","--","552072","NK","August 16 2012","ALS","52","","16","--","52_NK","--","--","--","--","--",NA,"52","NK",NA,0,107,"female",NA
+"lib308","GSM1479519","Whole Blood","--","--","Whole Blood","August 16 2012","ALS","52","","15","--","52_Tempus","--","--","--","--","--",NA,"52","Tempus",NA,33,51,"female",NA
+"lib309","GSM1479520","Whole Blood","30","17887500","Neutrophils","August 21 2012","Healthy Control","53","F","18","White","53_Neutrophils","--","--","--","--","--","female","53","Neutrophils",30,59,0,"female",TRUE
+"lib310","GSM1479521","Whole Blood","30","2000000","Monocytes","August 21 2012","Healthy Control","53","F","18","White","53_Monocytes","--","--","--","--","--","female","53","Monocytes",30,589,0,"female",TRUE
+"lib311","GSM1479522","Whole Blood","30","682371","B-cells","August 21 2012","Healthy Control","53","F","23","White","53_Bcells","--","--","--","--","--","female","53","Bcells",30,941,0,"female",TRUE
+"lib312","GSM1479523","Whole Blood","30","2000000","CD4","August 21 2012","Healthy Control","53","F","9","White","53_CD4T","--","--","--","--","--","female","53","CD4T",30,919,0,"female",TRUE
+"lib313","GSM1479524","Whole Blood","30","2000000","CD8","August 21 2012","Healthy Control","53","F","19","White","53_CD8T","--","--","--","--","--","female","53","CD8T",30,671,0,"female",TRUE
+"lib314","GSM1479525","Whole Blood","30","140773","NK","August 21 2012","Healthy Control","53","F","11","White","53_NK","--","--","--","--","--","female","53","NK",30,1295,0,"female",TRUE
+"lib315","GSM1479526","Whole Blood","30","--","Whole Blood","August 21 2012","Healthy Control","53","F","8","White","53_Tempus","--","--","--","--","--","female","53","Tempus",30,133,0,"female",TRUE
+"lib316","GSM1479527","Whole Blood","--","15862500","Neutrophils","August 22 2012","ALS","54","","10","--","54_Neutrophils","--","--","--","--","--",NA,"54","Neutrophils",NA,2,21,"female",NA
+"lib317","GSM1479528","Whole Blood","--","2000000","Monocytes","August 22 2012","ALS","54","","5","--","54_Monocytes","--","--","--","--","--",NA,"54","Monocytes",NA,1,102,"female",NA
+"lib318","GSM1479529","Whole Blood","--","1078502","B-cells","August 22 2012","ALS","54","","20","--","54_Bcells","--","--","--","--","--",NA,"54","Bcells",NA,0,232,"male",NA
+"lib319","GSM1479530","Whole Blood","--","2000000","CD4","August 22 2012","ALS","54","","25","--","54_CD4T","--","--","--","--","--",NA,"54","CD4T",NA,1,245,"male",NA
+"lib320","GSM1479531","Whole Blood","--","2000000","CD8","August 22 2012","ALS","54","","10","--","54_CD8T","--","--","--","--","--",NA,"54","CD8T",NA,1,217,"male",NA
+"lib321","GSM1479532","Whole Blood","--","601013","NK","August 22 2012","ALS","54","","21","--","54_NK","--","--","--","--","--",NA,"54","NK",NA,1,110,"female",NA
+"lib322","GSM1479533","Whole Blood","--","--","Whole Blood","August 22 2012","ALS","54","","12","--","54_Tempus","--","--","--","--","--",NA,"54","Tempus",NA,0,68,"female",NA
+"lib323","GSM1479534","Whole Blood","42","17550000","Neutrophils","June 19 2012","Type 1 Diabetes","40","M","1","White","40_Neutrophils","--","--","--","--","6","male","40","Neutrophils",42,1,20,"female",FALSE
+"lib324","GSM1479535","Whole Blood","42","2000000","Monocytes","June 19 2012","Type 1 Diabetes","40","M","2","White","40_Monocytes","--","--","--","--","6","male","40","Monocytes",42,1,110,"female",FALSE
+"lib325","GSM1479536","Whole Blood","42","1275892","B-cells","June 19 2012","Type 1 Diabetes","40","M","11","White","40_Bcells","--","--","--","--","6","male","40","Bcells",42,0,283,"male",TRUE
+"lib326","GSM1479537","Whole Blood","42","2000000","CD4","June 19 2012","Type 1 Diabetes","40","M","5","White","40_CD4T","--","--","--","--","6","male","40","CD4T",42,1,218,"male",TRUE
+"lib327","GSM1479538","Whole Blood","42","1741969","CD8","June 19 2012","Type 1 Diabetes","40","M","27","White","40_CD8T","--","--","--","--","6","male","40","CD8T",42,0,199,"male",TRUE
+"lib328","GSM1479539","Whole Blood","42","--","Whole Blood","June 19 2012","Type 1 Diabetes","40","M","4","White","40_Tempus","--","--","--","--","6","male","40","Tempus",42,0,59,"female",FALSE
+"lib329","GSM1479540","Whole Blood","21","12825000","Neutrophils","June 20 2012","Type 1 Diabetes","41","F","6","White","41_Neutrophils","--","--","--","--","2.5","female","41","Neutrophils",21,40,0,"female",TRUE
+"lib330","GSM1479541","Whole Blood","21","2000000","Monocytes","June 20 2012","Type 1 Diabetes","41","F","21","White","41_Monocytes","--","--","--","--","2.5","female","41","Monocytes",21,612,0,"female",TRUE
+"lib331","GSM1479542","Whole Blood","21","484043","B-cells","June 20 2012","Type 1 Diabetes","41","F","3","White","41_Bcells","--","--","--","--","2.5","female","41","Bcells",21,1167,0,"female",TRUE
+"lib332","GSM1479543","Whole Blood","21","2000000","CD4","June 20 2012","Type 1 Diabetes","41","F","7","White","41_CD4T","--","--","--","--","2.5","female","41","CD4T",21,920,0,"female",TRUE
+"lib333","GSM1479544","Whole Blood","21","1719279","CD8","June 20 2012","Type 1 Diabetes","41","F","9","White","41_CD8T","--","--","--","--","2.5","female","41","CD8T",21,960,0,"female",TRUE
+"lib334","GSM1479545","Whole Blood","21","223256","NK","June 20 2012","Type 1 Diabetes","41","F","13","White","41_NK","--","--","--","--","2.5","female","41","NK",21,1016,0,"female",TRUE
+"lib335","GSM1479546","Whole Blood","21","--","Whole Blood","June 20 2012","Type 1 Diabetes","41","F","14","White","41_Tempus","--","--","--","--","2.5","female","41","Tempus",21,173,0,"female",TRUE
+"lib336","GSM1479547","Whole Blood","35","13275000","Neutrophils","August 23 2012","MS pretreatment","55","F","20","White","55_Neutrophils","N","1","1 month, IV","0.5","--","female","55","Neutrophils",35,45,0,"female",TRUE
+"lib337","GSM1479548","Whole Blood","35","2000000","Monocytes","August 23 2012","MS pretreatment","55","F","14","White","55_Monocytes","N","1","1 month, IV","0.5","--","female","55","Monocytes",35,677,0,"female",TRUE
+"lib338","GSM1479549","Whole Blood","35","871287","B-cells","August 23 2012","MS pretreatment","55","F","22","White","55_Bcells","N","1","1 month, IV","0.5","--","female","55","Bcells",35,1028,0,"female",TRUE
+"lib339","GSM1479550","Whole Blood","35","2000000","CD4","August 23 2012","MS pretreatment","55","F","8","White","55_CD4T","N","1","1 month, IV","0.5","--","female","55","CD4T",35,1138,0,"female",TRUE
+"lib340","GSM1479551","Whole Blood","35","2000000","CD8","August 23 2012","MS pretreatment","55","F","15","White","55_CD8T","N","1","1 month, IV","0.5","--","female","55","CD8T",35,755,0,"female",TRUE
+"lib341","GSM1479552","Whole Blood","35","--","Whole Blood","August 23 2012","MS pretreatment","55","F","6","White","55_Tempus","N","1","1 month, IV","0.5","--","female","55","Tempus",35,253,0,"female",TRUE
+"lib342","GSM1479553","Whole Blood","35","10237500","Neutrophils","August 24 2012","MS posttreatment","56","F","16","White","56_Neutrophils","N","1","1 month, IV","0.5","--","female","56","Neutrophils",35,34,0,"female",TRUE
+"lib343","GSM1479554","Whole Blood","35","2000000","Monocytes","August 24 2012","MS posttreatment","56","F","15","White","56_Monocytes","N","1","1 month, IV","0.5","--","female","56","Monocytes",35,656,0,"female",TRUE
+"lib344","GSM1479555","Whole Blood","35","640619","B-cells","August 24 2012","MS posttreatment","56","F","10","White","56_Bcells","N","1","1 month, IV","0.5","--","female","56","Bcells",35,1084,0,"female",TRUE
+"lib345","GSM1479556","Whole Blood","35","2000000","CD4","August 24 2012","MS posttreatment","56","F","21","White","56_CD4T","N","1","1 month, IV","0.5","--","female","56","CD4T",35,1171,0,"female",TRUE
+"lib346","GSM1479557","Whole Blood","35","1352936","CD8","August 24 2012","MS posttreatment","56","F","23","White","56_CD8T","N","1","1 month, IV","0.5","--","female","56","CD8T",35,909,0,"female",TRUE
+"lib347","GSM1479558","Whole Blood","35","310438","NK","August 24 2012","MS posttreatment","56","F","9","White","56_NK","N","1","1 month, IV","0.5","--","female","56","NK",35,897,0,"female",TRUE
+"lib348","GSM1479559","Whole Blood","35","--","Whole Blood","August 24 2012","MS posttreatment","56","F","19","White","56_Tempus","N","1","1 month, IV","0.5","--","female","56","Tempus",35,203,0,"female",TRUE
+"lib349","GSM1479560","Whole Blood","--","12375000","Neutrophils","September 12 2012","ALS","58","","12","--","58_Neutrophils","--","--","--","--","--",NA,"58","Neutrophils",NA,1,13,"female",NA
+"lib350","GSM1479561","Whole Blood","--","2000000","Monocytes","September 12 2012","ALS","58","","8","--","58_Monocytes","--","--","--","--","--",NA,"58","Monocytes",NA,0,134,"female",NA
+"lib351","GSM1479562","Whole Blood","--","2000000","B-cells","September 12 2012","ALS","58","","11","--","58_Bcells","--","--","--","--","--",NA,"58","Bcells",NA,1,192,"male",NA
+"lib352","GSM1479563","Whole Blood","--","2000000","CD4","September 12 2012","ALS","58","","5","--","58_CD4T","--","--","--","--","--",NA,"58","CD4T",NA,0,260,"male",NA
+"lib353","GSM1479564","Whole Blood","--","2000000","CD8","September 12 2012","ALS","58","","20","--","58_CD8T","--","--","--","--","--",NA,"58","CD8T",NA,1,240,"male",NA
+"lib354","GSM1479565","Whole Blood","--","1708523","NK","September 12 2012","ALS","58","","25","--","58_NK","--","--","--","--","--",NA,"58","NK",NA,1,147,"male",NA
+"lib355","GSM1479566","Whole Blood","--","--","Whole Blood","September 12 2012","ALS","58","","10","--","58_Tempus","--","--","--","--","--",NA,"58","Tempus",NA,1,98,"female",NA

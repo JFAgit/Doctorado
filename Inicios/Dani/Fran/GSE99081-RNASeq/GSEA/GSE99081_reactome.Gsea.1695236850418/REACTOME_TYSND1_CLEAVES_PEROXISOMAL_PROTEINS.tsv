@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ACOX1	acyl-Coenzyme A oxidase 1, palmitoyl	358	0.9039126634597778	0.26171002	Yes	
+row_1	SCP2	sterol carrier protein 2	840	0.69069504737854	0.44890782	Yes	
+row_2	ACAA1	acetyl-Coenzyme A acyltransferase 1 (peroxisomal 3-oxoacyl-Coenzyme A thiolase)	1087	0.6210281252861023	0.6287119	Yes	
+row_3	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	2710	0.3814935088157654	0.6485536	Yes	
+row_4	PHYH	phytanoyl-CoA 2-hydroxylase	3434	0.29534682631492615	0.69673246	Yes	
+row_5	TYSND1	trypsin domain containing 1	5715	0.09757021069526672	0.5869079	No	
+row_6	AGPS	alkylglycerone phosphate synthase	12027	-0.19539305567741394	0.25947142	No	

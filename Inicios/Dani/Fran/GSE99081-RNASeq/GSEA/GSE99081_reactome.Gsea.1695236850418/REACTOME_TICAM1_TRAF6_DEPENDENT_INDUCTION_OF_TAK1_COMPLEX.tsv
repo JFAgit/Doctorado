@@ -1,0 +1,9 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.046699703	No	
+row_1	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.14459607	No	
+row_2	TRAF6	TNF receptor-associated factor 6	9581	-0.006803732365369797	-0.4790662	No	
+row_3	MAP3K7	mitogen-activated protein kinase kinase kinase 7	10616	-0.06843732297420502	-0.53230655	No	
+row_4	UBC	ubiquitin C	14182	-0.47944867610931396	-0.6786483	Yes	
+row_5	UBB	ubiquitin B	15642	-0.9178993105888367	-0.6282269	Yes	
+row_6	TICAM1	toll-like receptor adaptor molecule 1	15895	-1.280163288116455	-0.44807228	Yes	
+row_7	TLR3	toll-like receptor 3	16176	-3.069596290588379	0.003881244	Yes	

@@ -1,0 +1,114 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RFC3	replication factor C (activator 1) 3, 38kDa	159	1.1410404443740845	0.014798173	No	
+row_1	WEE1	WEE1 homolog (S. pombe)	558	0.8006100058555603	0.007419917	No	
+row_2	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.013953195	No	
+row_3	RAD17	RAD17 homolog (S. pombe)	918	0.6692235469818115	0.015641231	No	
+row_4	GTSE1	G-2 and S-phase expressed 1	936	0.6648700833320618	0.028954668	No	
+row_5	BLM	Bloom syndrome	1072	0.6243155598640442	0.034074813	No	
+row_6	CDC6	CDC6 cell division cycle 6 homolog (S. cerevisiae)	1376	0.5554635524749756	0.027289785	No	
+row_7	PKMYT1	protein kinase, membrane associated tyrosine/threonine 1	1578	0.5130602717399597	0.025913237	No	
+row_8	CDC25C	cell division cycle 25C	1757	0.49999257922172546	0.02568048	No	
+row_9	RAD9B	RAD9 homolog B (S. cerevisiae)	1941	0.4917190670967102	0.024958897	No	
+row_10	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.033831667	No	
+row_11	RBBP8	retinoblastoma binding protein 8	2482	0.4151546359062195	0.011054988	No	
+row_12	RFC5	replication factor C (activator 1) 5, 36.5kDa	2905	0.3524482548236847	-0.0074960473	No	
+row_13	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.014094683	No	
+row_14	MCM6	MCM6 minichromosome maintenance deficient 6 (MIS5 homolog, S. pombe) (S. cerevisiae)	3196	0.3202706575393677	-0.011390297	No	
+row_15	RMI1	RMI1, RecQ mediated genome instability 1, homolog (S. cerevisiae)	3345	0.30432039499282837	-0.013991214	No	
+row_16	UBE2V2	ubiquitin-conjugating enzyme E2 variant 2	3392	0.29978227615356445	-0.010365402	No	
+row_17	RPA1	replication protein A1, 70kDa	3464	0.2921757400035858	-0.00845416	No	
+row_18	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.017066382	No	
+row_19	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.013489494	No	
+row_20	CCNB1	cyclin B1	3893	0.2510545253753662	-0.01798556	No	
+row_21	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.018430626	No	
+row_22	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.022538265	No	
+row_23	MCM5	MCM5 minichromosome maintenance deficient 5, cell division cycle 46 (S. cerevisiae)	4252	0.2237669676542282	-0.024957666	No	
+row_24	CHEK2	CHK2 checkpoint homolog (S. pombe)	4320	0.2180170863866806	-0.02440093	No	
+row_25	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.024151793	No	
+row_26	SUMO1	SMT3 suppressor of mif two 3 homolog 1 (S. cerevisiae)	4461	0.20568455755710602	-0.023985572	No	
+row_27	HERC2	hect domain and RLD 2	4500	0.2023552507162094	-0.021969056	No	
+row_28	MCM2	MCM2 minichromosome maintenance deficient 2, mitotin (S. cerevisiae)	4554	0.19736935198307037	-0.0209904	No	
+row_29	BRCA1	breast cancer 1, early onset	4709	0.18185600638389587	-0.02660977	No	
+row_30	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.030067895	No	
+row_31	RNF8	ring finger protein 8	4844	0.17097541689872742	-0.02742732	No	
+row_32	YWHAQ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, theta polypeptide	4910	0.1653393805027008	-0.02788491	No	
+row_33	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.04525669	No	
+row_34	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.048275165	No	
+row_35	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.066295244	No	
+row_36	SFN	stratifin	5694	0.09934475272893906	-0.06625671	No	
+row_37	RPA3	replication protein A3, 14kDa	5730	0.09529674798250198	-0.066367656	No	
+row_38	RPA2	replication protein A2, 32kDa	6313	0.05174188315868378	-0.10133808	No	
+row_39	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.10238081	No	
+row_40	ATM	ataxia telangiectasia mutated (includes complementation groups A, C and D)	6415	0.044494856148958206	-0.105511814	No	
+row_41	RFC4	replication factor C (activator 1) 4, 37kDa	6627	0.030930595472455025	-0.11792706	No	
+row_42	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.11935217	No	
+row_43	WRN	Werner syndrome	6704	0.02576719969511032	-0.12139968	No	
+row_44	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.121158585	No	
+row_45	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.12964104	No	
+row_46	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.14143026	No	
+row_47	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.29847264	No	
+row_48	CCNB2	cyclin B2	9733	-0.01321199256926775	-0.30736428	No	
+row_49	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.3077464	No	
+row_50	YWHAZ	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, zeta polypeptide	9782	-0.01556085143238306	-0.30964243	No	
+row_51	CDC7	CDC7 cell division cycle 7 (S. cerevisiae)	9882	-0.02058306336402893	-0.31533644	No	
+row_52	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.32826346	No	
+row_53	MCM7	MCM7 minichromosome maintenance deficient 7 (S. cerevisiae)	10398	-0.05085813254117966	-0.34545675	No	
+row_54	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.34573376	No	
+row_55	MCM4	MCM4 minichromosome maintenance deficient 4 (S. cerevisiae)	10445	-0.05578697845339775	-0.3458924	No	
+row_56	RNF168	ring finger protein 168	10453	-0.0564754419028759	-0.34510604	No	
+row_57	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.34503233	No	
+row_58	CDC25A	cell division cycle 25A	10529	-0.06217988207936287	-0.3470991	No	
+row_59	CLSPN	claspin homolog (Xenopus laevis)	10611	-0.06831464171409607	-0.35064545	No	
+row_60	DBF4	DBF4 homolog (S. cerevisiae)	10722	-0.07716448605060577	-0.35579884	No	
+row_61	TOPBP1	topoisomerase (DNA) II binding protein 1	10764	-0.08117293566465378	-0.35658705	No	
+row_62	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.35686076	No	
+row_63	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.35737184	No	
+row_64	UBE2N	ubiquitin-conjugating enzyme E2N (UBC13 homolog, yeast)	10897	-0.09362619370222092	-0.35888305	No	
+row_65	RFC2	replication factor C (activator 1) 2, 40kDa	10916	-0.09507589042186737	-0.35794464	No	
+row_66	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.36150488	No	
+row_67	PIAS4	protein inhibitor of activated STAT, 4	11172	-0.11760996282100677	-0.36894664	No	
+row_68	YWHAE	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, epsilon polypeptide	11369	-0.13533112406730652	-0.3781757	No	
+row_69	BARD1	BRCA1 associated RING domain 1	11461	-0.1445183902978897	-0.38069543	No	
+row_70	BRCC3	BRCA1/BRCA2-containing complex, subunit 3	11492	-0.14683683216571808	-0.37938258	No	
+row_71	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.37833136	No	
+row_72	TOP3A	topoisomerase (DNA) III alpha	11607	-0.15586507320404053	-0.3797998	No	
+row_73	TP53	tumor protein p53 (Li-Fraumeni syndrome)	11764	-0.17059336602687836	-0.38578656	No	
+row_74	RAD50	RAD50 homolog (S. cerevisiae)	11786	-0.17308390140533447	-0.38334846	No	
+row_75	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.38314995	No	
+row_76	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.38312954	No	
+row_77	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.37985504	No	
+row_78	TP53BP1	tumor protein p53 binding protein, 1	12035	-0.19624264538288116	-0.38243517	No	
+row_79	CDK2	cyclin-dependent kinase 2	12173	-0.21099014580249786	-0.3863708	No	
+row_80	YWHAG	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, gamma polypeptide	12483	-0.2422805279493332	-0.40029564	No	
+row_81	MCM8	MCM8 minichromosome maintenance deficient 8 (S. cerevisiae)	12540	-0.2491292804479599	-0.3983845	No	
+row_82	MCM3	MCM3 minichromosome maintenance deficient 3 (S. cerevisiae)	12723	-0.2675536870956421	-0.4038882	No	
+row_83	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.4080476	No	
+row_84	YWHAH	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide	13120	-0.3167491555213928	-0.41534054	No	
+row_85	HUS1	HUS1 checkpoint homolog (S. pombe)	13323	-0.3412013649940491	-0.42049292	No	
+row_86	EXO1	exonuclease 1	13482	-0.36158624291419983	-0.4224764	No	
+row_87	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.41940665	No	
+row_88	CHEK1	CHK1 checkpoint homolog (S. pombe)	13807	-0.4125763177871704	-0.42549694	No	
+row_89	MDC1	mediator of DNA damage checkpoint 1	13828	-0.41523081064224243	-0.41776413	No	
+row_90	UBC	ubiquitin C	14182	-0.47944867610931396	-0.4292922	No	
+row_91	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.43429965	No	
+row_92	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.4371806	Yes	
+row_93	ATR	ataxia telangiectasia and Rad3 related	14732	-0.5497124791145325	-0.42896	Yes	
+row_94	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.4189653	Yes	
+row_95	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.40843213	Yes	
+row_96	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.4053703	Yes	
+row_97	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.40104493	Yes	
+row_98	RAD1	RAD1 homolog (S. pombe)	15360	-0.7680376768112183	-0.39926782	Yes	
+row_99	MCM10	MCM10 minichromosome maintenance deficient 10 (S. cerevisiae)	15366	-0.7706289291381836	-0.38292488	Yes	
+row_100	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.37366095	Yes	
+row_101	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.35641438	Yes	
+row_102	UBB	ubiquitin B	15642	-0.9178993105888367	-0.34377185	Yes	
+row_103	YWHAB	tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, beta polypeptide	15679	-0.9483072757720947	-0.3255116	Yes	
+row_104	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.30549756	Yes	
+row_105	NBN	nibrin	15723	-1.0072230100631714	-0.28503403	Yes	
+row_106	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.26464617	Yes	
+row_107	RAD9A	RAD9 homolog A (S. pombe)	15771	-1.0611776113510132	-0.24221063	Yes	
+row_108	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.22145016	Yes	
+row_109	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.18313906	Yes	
+row_110	BRIP1	BRCA1 interacting protein C-terminal helicase 1	16146	-2.66933536529541	-0.13066448	Yes	
+row_111	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.07263084	Yes	
+row_112	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027283514	Yes	

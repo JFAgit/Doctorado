@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PRKAA2	protein kinase, AMP-activated, alpha 2 catalytic subunit	223	1.029236078262329	0.28934282	Yes	
+row_1	PRKAG3	protein kinase, AMP-activated, gamma 3 non-catalytic subunit	861	0.6840697526931763	0.45153493	Yes	
+row_2	PRKAG1	protein kinase, AMP-activated, gamma 1 non-catalytic subunit	1739	0.499996155500412	0.54473484	Yes	
+row_3	MAPK12	mitogen-activated protein kinase 12	2585	0.3994109034538269	0.6102867	Yes	
+row_4	PRKAB2	protein kinase, AMP-activated, beta 2 non-catalytic subunit	3225	0.3171570599079132	0.6643095	Yes	
+row_5	PRKAG2	protein kinase, AMP-activated, gamma 2 non-catalytic subunit	4895	0.16688783466815948	0.6106193	No	
+row_6	MAPK14	mitogen-activated protein kinase 14	6828	0.019619107246398926	0.49735782	No	
+row_7	MAPK11	mitogen-activated protein kinase 11	7000	0.01112711988389492	0.49009842	No	
+row_8	PPARGC1A	peroxisome proliferative activated receptor, gamma, coactivator 1, alpha	7129	0.004138695541769266	0.4834305	No	
+row_9	PRKAB1	protein kinase, AMP-activated, beta 1 non-catalytic subunit	12695	-0.2642481029033661	0.21836105	No	

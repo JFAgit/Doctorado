@@ -1,0 +1,8 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	FGF17	fibroblast growth factor 17	517	0.8234770894050598	0.3281262	Yes	
+row_1	FGF18	fibroblast growth factor 18	806	0.7012233138084412	0.61691743	Yes	
+row_2	FGF1	fibroblast growth factor 1 (acidic)	1807	0.4999425709247589	0.77385944	Yes	
+row_3	FGFR3	fibroblast growth factor receptor 3 (achondroplasia, thanatophoric dwarfism)	5860	0.087526835501194	0.56250596	No	
+row_4	FGF8	fibroblast growth factor 8 (androgen-induced)	6109	0.06736326962709427	0.57667565	No	
+row_5	FGF9	fibroblast growth factor 9 (glia-activating factor)	8824	0.0	0.40948537	No	
+row_6	FGF20	fibroblast growth factor 20	11086	-0.10806290060281754	0.31743982	No	

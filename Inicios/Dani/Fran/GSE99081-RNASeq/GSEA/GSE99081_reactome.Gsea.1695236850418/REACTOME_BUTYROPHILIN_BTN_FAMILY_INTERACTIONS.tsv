@@ -1,0 +1,13 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CD209	CD209 molecule	2271	0.44542375206947327	-0.08494206	No	
+row_1	BTNL8	butyrophilin-like 8	6988	0.011866911314427853	-0.37408555	No	
+row_2	BTN1A1	butyrophilin, subfamily 1, member A1	8067	0.0	-0.44051394	No	
+row_3	BTNL9	butyrophilin-like 9	9004	0.0	-0.49819204	No	
+row_4	BTNL2	butyrophilin-like 2 (MHC class II associated)	9007	0.0	-0.49831527	No	
+row_5	BTN2A2	butyrophilin, subfamily 2, member A2	10518	-0.06112511828541756	-0.5838166	No	
+row_6	PPL	periplakin	13088	-0.31247517466545105	-0.70353854	Yes	
+row_7	BTN2A1	butyrophilin, subfamily 2, member A1	13776	-0.40638965368270874	-0.69569147	Yes	
+row_8	BTN3A1	butyrophilin, subfamily 3, member A1	15935	-1.3716374635696411	-0.6593007	Yes	
+row_9	XDH	xanthine dehydrogenase	15981	-1.511112928390503	-0.47548032	Yes	
+row_10	BTN3A2	butyrophilin, subfamily 3, member A2	16007	-1.6269625425338745	-0.27612233	Yes	
+row_11	BTN3A3	butyrophilin, subfamily 3, member A3	16113	-2.3514347076416016	0.007764281	Yes	

@@ -1,0 +1,12 @@
+dataset	tipo	n_donantes_o_sujetos	n_muestras_usables	n_por_sexo	sexo_estado	nota
+E-MTAB-7572	MDM in vitro RNA-seq	3	24	2 male / 1 female	Explicito y validado por X/Y	8 condiciones por donante.
+GSE35449	MDM M0/M1/M2 array	7	21	6 male / 1 female	Inferido por X/Y	3 condiciones por donante; muy desbalanceado hacia masculino.
+GSE18686	Macrofagos de buffy coats normales array	6	48	2 male / 4 female	Inferido por X/Y	Solo macrophage culture; ID4 tiene replica tecnica y donor 6 no tiene control.
+GSE151928	BAL sano scRNA-seq	15	15	9 male / 6 female	Explicito en GEO	Sujeto = muestra BAL; requiere pseudobulk de macrofagos/monocitos.
+GSE228087	MDM M-CSF/IL4+IL13/LPS+IFNg RNA-seq	5	16	1 male / 4 female	Inferido tentativo por X/Y	Usar donor_from_title; donor 3 male, donors 1/2/4/5 female.
+GSE174689	Hofbauer cells RNA-seq	No confirmado	12	No confiable	No explicito; inferencia X/Y no limpia	Interesante biologicamente, pero no prioritario para sexo sin resolver metadata/senal X/Y.
+GSE61298	MDM GM-CSF/M-CSF +/- estimulos array	3	21	No disponible todavia	No explicito; inferible	Panel de polarizacion bueno, sexo pendiente.
+GSE199378	MDM M1/M2a/M2c scRNA-seq	2	12	No disponible todavia	No explicito; inferible	2 donantes, librerias AB/GEN por condicion.
+GSE71253	MDM GM-CSF/M-CSF +/- MTX array	3	12	No disponible todavia	No explicito; inferible	Menos directo por MTX y ausencia de estimulos clasicos.
+GSE124350	Macrofagos colonicos CD206+/CD206- RNA-seq	No reconstruido	15	No disponible todavia	No explicito; inferible	Hay que separar controles/no inflamados de IBD antes de usar.
+GSE60424	Subsets inmunes de sangre; Monocytes RNA-seq	20 sujetos totales; HC monocytes 4 sujetos	20 muestras de Monocytes; 4 Healthy Control Monocytes	HC Monocytes: 0 male / 4 female; all Monocytes: 2 male / 18 female	Sexo explicito en metadata; X/Y preliminar 106/113 coincide	No es macrofagos M0/M1/M2; no sirve para sexo en controles porque los monocitos sanos son todos female.

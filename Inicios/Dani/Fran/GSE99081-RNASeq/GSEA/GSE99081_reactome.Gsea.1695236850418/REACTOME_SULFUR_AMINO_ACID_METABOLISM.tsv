@@ -1,0 +1,23 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	CSAD	cysteine sulfinic acid decarboxylase	92	1.3027669191360474	0.14813302	Yes	
+row_1	MTRR	5-methyltetrahydrofolate-homocysteine methyltransferase reductase	518	0.8228452801704407	0.21907337	Yes	
+row_2	ADI1	acireductone dioxygenase 1	1049	0.6307777762413025	0.26086378	Yes	
+row_3	CDO1	cysteine dioxygenase, type I	1059	0.6271390318870544	0.3343494	Yes	
+row_4	MPST	mercaptopyruvate sulfurtransferase	1220	0.5909929871559143	0.39425692	Yes	
+row_5	BHMT	betaine-homocysteine methyltransferase	1314	0.5693215131759644	0.45573714	Yes	
+row_6	BHMT2	betaine-homocysteine methyltransferase 2	1580	0.5127675533294678	0.49993503	Yes	
+row_7	MAT1A	methionine adenosyltransferase I, alpha	2288	0.4428934156894684	0.50862986	Yes	
+row_8	GOT2	glutamic-oxaloacetic transaminase 2, mitochondrial (aspartate aminotransferase 2)	3677	0.26892489194869995	0.45479542	No	
+row_9	TXN2	thioredoxin 2	4809	0.17391754686832428	0.40559095	No	
+row_10	APIP	APAF1 interacting protein	4851	0.17057183384895325	0.42320073	No	
+row_11	SUOX	sulfite oxidase	5378	0.12326641380786896	0.40532058	No	
+row_12	AHCY	S-adenosylhomocysteine hydrolase	6657	0.02908695675432682	0.32995328	No	
+row_13	GADL1	glutamate decarboxylase-like 1	6687	0.026793239638209343	0.33132836	No	
+row_14	TST	thiosulfate sulfurtransferase (rhodanese)	7103	0.00543587002903223	0.3063813	No	
+row_15	ETHE1	ethylmalonic encephalopathy 1	9603	-0.007623129989951849	0.15319322	No	
+row_16	CTH	cystathionase (cystathionine gamma-lyase)	9968	-0.023577237501740456	0.13353257	No	
+row_17	MTR	5-methyltetrahydrofolate-homocysteine methyltransferase	10933	-0.09631738811731339	0.085463755	No	
+row_18	CBS	cystathionine-beta-synthase	11420	-0.14116689562797546	0.07216333	No	
+row_19	MTAP	methylthioadenosine phosphorylase	13308	-0.3398233950138092	-0.0040690415	No	
+row_20	GOT1	glutamic-oxaloacetic transaminase 1, soluble (aspartate aminotransferase 1)	15110	-0.6557285785675049	-0.03770263	No	
+row_21	SLC25A10	solute carrier family 25 (mitochondrial carrier; dicarboxylate transporter), member 10	15634	-0.9084725379943848	0.037304267	No	

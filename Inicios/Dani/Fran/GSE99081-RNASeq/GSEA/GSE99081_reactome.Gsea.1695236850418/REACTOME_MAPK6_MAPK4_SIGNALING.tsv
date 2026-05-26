@@ -1,0 +1,82 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	-0.024886295	No	
+row_1	PRKACB	protein kinase, cAMP-dependent, catalytic, beta	1471	0.5354428291320801	-0.057998434	No	
+row_2	CDC42	cell division cycle 42 (GTP binding protein, 25kDa)	1936	0.4927152693271637	-0.073960386	No	
+row_3	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.06330826	No	
+row_4	NCOA3	nuclear receptor coactivator 3	2138	0.46307435631752014	-0.061719432	No	
+row_5	PAK3	p21 (CDKN1A)-activated kinase 3	2295	0.4412122070789337	-0.059953827	No	
+row_6	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.102870286	No	
+row_7	PRKACA	protein kinase, cAMP-dependent, catalytic, alpha	3274	0.3126037120819092	-0.10381454	No	
+row_8	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.12301481	No	
+row_9	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.11830961	No	
+row_10	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.12766688	No	
+row_11	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.13076632	No	
+row_12	CDC42EP5	CDC42 effector protein (Rho GTPase binding) 5	4258	0.22303950786590576	-0.13260536	No	
+row_13	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.13527697	No	
+row_14	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.15766181	No	
+row_15	PRKACG	protein kinase, cAMP-dependent, catalytic, gamma	4858	0.17014279961585999	-0.15517652	No	
+row_16	ETV4	ets variant gene 4 (E1A enhancer binding protein, E1AF)	4982	0.15993931889533997	-0.15864876	No	
+row_17	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.1709503	No	
+row_18	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.17341393	No	
+row_19	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.19096006	No	
+row_20	DNAJB1	DnaJ (Hsp40) homolog, subfamily B, member 1	5884	0.08538706600666046	-0.20261228	No	
+row_21	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.22998881	No	
+row_22	RAG2	recombination activating gene 2	6350	0.04920902103185654	-0.22877704	No	
+row_23	TNRC6C	trinucleotide repeat containing 6C	6571	0.033921148627996445	-0.24151379	No	
+row_24	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.24627757	No	
+row_25	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.24858795	No	
+row_26	CDC42EP3	CDC42 effector protein (Rho GTPase binding) 3	6730	0.024524908512830734	-0.249129	No	
+row_27	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.25628012	No	
+row_28	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.2680104	No	
+row_29	HSPB1	heat shock 27kDa protein 1	7117	0.00469388160854578	-0.2720971	No	
+row_30	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.42452896	No	
+row_31	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.4340713	No	
+row_32	CDC42EP2	CDC42 effector protein (Rho GTPase binding) 2	9768	-0.014737837016582489	-0.43505132	No	
+row_33	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.45487732	No	
+row_34	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.47324222	No	
+row_35	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.4748371	No	
+row_36	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.49275246	No	
+row_37	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.4928816	No	
+row_38	MAPK6	mitogen-activated protein kinase 6	10929	-0.09602120518684387	-0.49590412	No	
+row_39	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.49821213	No	
+row_40	PAK2	p21 (CDKN1A)-activated kinase 2	11105	-0.11029867082834244	-0.5011745	No	
+row_41	TNRC6A	trinucleotide repeat containing 6A	11318	-0.13102777302265167	-0.5109028	No	
+row_42	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.5199783	No	
+row_43	RAG1	recombination activating gene 1	11769	-0.1714078187942505	-0.53039426	No	
+row_44	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.5304779	No	
+row_45	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.5296609	No	
+row_46	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.5255903	No	
+row_47	PAK1	p21/Cdc42/Rac1-activated kinase 1 (STE20 homolog, yeast)	12624	-0.2563943564891815	-0.5622118	No	
+row_48	MMP10	matrix metallopeptidase 10 (stromelysin 2)	12632	-0.2576116621494293	-0.55597734	No	
+row_49	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.5645226	No	
+row_50	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	12989	-0.29895809292793274	-0.5627877	No	
+row_51	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.5886172	No	
+row_52	MAPKAPK5	mitogen-activated protein kinase-activated protein kinase 5	13936	-0.42963773012161255	-0.6004565	No	
+row_53	UBC	ubiquitin C	14182	-0.47944867610931396	-0.60320896	Yes	
+row_54	MMP2	matrix metallopeptidase 2 (gelatinase A, 72kDa gelatinase, 72kDa type IV collagenase)	14388	-0.49994802474975586	-0.6029555	Yes	
+row_55	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.5930469	Yes	
+row_56	IGF2BP1	insulin-like growth factor 2 mRNA binding protein 1	14449	-0.49999454617500305	-0.58072466	Yes	
+row_57	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.58060914	Yes	
+row_58	JUN	jun oncogene	14676	-0.5354164838790894	-0.5669369	Yes	
+row_59	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.55802286	Yes	
+row_60	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.54507256	Yes	
+row_61	CDC14A	CDC14 cell division cycle 14 homolog A (S. cerevisiae)	14804	-0.5678133368492126	-0.53093314	Yes	
+row_62	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.52462846	Yes	
+row_63	TNRC6B	trinucleotide repeat containing 6B	15020	-0.6296672821044922	-0.5121061	Yes	
+row_64	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.5010949	Yes	
+row_65	CDC14B	CDC14 cell division cycle 14 homolog B (S. cerevisiae)	15237	-0.7039075493812561	-0.49005464	Yes	
+row_66	XPO1	exportin 1 (CRM1 homolog, yeast)	15270	-0.7222821116447449	-0.4733405	Yes	
+row_67	MAPK4	mitogen-activated protein kinase 4	15299	-0.7424129843711853	-0.45585778	Yes	
+row_68	MOV10	Mov10, Moloney leukemia virus 10, homolog (mouse)	15324	-0.7543043494224548	-0.43781978	Yes	
+row_69	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.42757714	Yes	
+row_70	KALRN	kalirin, RhoGEF kinase	15511	-0.8342363834381104	-0.4061088	Yes	
+row_71	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.38506824	Yes	
+row_72	UBB	ubiquitin B	15642	-0.9178993105888367	-0.36848938	Yes	
+row_73	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.3465476	Yes	
+row_74	MYC	v-myc myelocytomatosis viral oncogene homolog (avian)	15733	-1.0165631771087646	-0.32215488	Yes	
+row_75	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.29664627	Yes	
+row_76	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.26934093	Yes	
+row_77	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.22288486	Yes	
+row_78	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.15859924	Yes	
+row_79	CCND3	cyclin D3	16152	-2.722130298614502	-0.08820564	Yes	
+row_80	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027230647	Yes	

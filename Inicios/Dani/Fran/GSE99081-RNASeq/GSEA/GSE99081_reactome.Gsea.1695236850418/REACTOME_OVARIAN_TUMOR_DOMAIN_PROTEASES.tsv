@@ -1,0 +1,35 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TNIP1	TNFAIP3 interacting protein 1	7	2.015994071960449	0.07842729	No	
+row_1	YOD1	YOD1 OTU deubiquinating enzyme 1 homolog (S. cerevisiae)	107	1.260046124458313	0.121607415	No	
+row_2	TRAF3	TNF receptor-associated factor 3	336	0.9239897131919861	0.14368208	No	
+row_3	OTUD3	OTU domain containing 3	700	0.7424963712692261	0.15032704	No	
+row_4	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	0.09117613	No	
+row_5	RNF128	ring finger protein 128	2103	0.46824485063552856	0.10128553	No	
+row_6	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	0.10305377	No	
+row_7	RNF135	ring finger protein 135	3113	0.3305545151233673	0.068964384	No	
+row_8	RPS27A	ribosomal protein S27a	4134	0.23172627389431	0.015089122	No	
+row_9	ZRANB1	zinc finger, RAN-binding domain containing 1	4137	0.23142820596694946	0.02401844	No	
+row_10	RHOA	ras homolog gene family, member A	5701	0.09841064363718033	-0.06857781	No	
+row_11	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.07439126	No	
+row_12	APC	adenomatosis polyposis coli	5964	0.07859698683023453	-0.07816612	No	
+row_13	ESR1	estrogen receptor 1	9481	-0.0012470724759623408	-0.29507402	No	
+row_14	TRAF6	TNF receptor-associated factor 6	9581	-0.006803732365369797	-0.30091673	No	
+row_15	TNIP2	TNFAIP3 interacting protein 2	9931	-0.021922316402196884	-0.32159442	No	
+row_16	VCP	valosin-containing protein	10836	-0.08797656744718552	-0.37393486	No	
+row_17	OTUD5	OTU domain containing 5	10908	-0.0946439653635025	-0.3746138	No	
+row_18	PTEN	phosphatase and tensin homolog (mutated in multiple advanced cancers 1)	11565	-0.151664599776268	-0.40916	No	
+row_19	OTUB1	OTU domain, ubiquitin aldehyde binding 1	11568	-0.1519184112548828	-0.40334085	No	
+row_20	TP53	tumor protein p53 (Li-Fraumeni syndrome)	11764	-0.17059336602687836	-0.40870038	No	
+row_21	OTUB2	OTU domain, ubiquitin aldehyde binding 2	12305	-0.22481931746006012	-0.43322715	No	
+row_22	OTUD7A	OTU domain containing 7A	12459	-0.23916727304458618	-0.43331262	No	
+row_23	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5208151	Yes	
+row_24	OTUD7B	OTU domain containing 7B	14191	-0.4805022180080414	-0.502513	Yes	
+row_25	TNIP3	TNFAIP3 interacting protein 3	14303	-0.49850189685821533	-0.48986253	Yes	
+row_26	VCPIP1	valosin containing protein (p97)/p47 complex interacting protein 1	15108	-0.6555591225624084	-0.5138304	Yes	
+row_27	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.4948401	Yes	
+row_28	UBB	ubiquitin B	15642	-0.9178993105888367	-0.48293826	Yes	
+row_29	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.44842118	Yes	
+row_30	RIPK2	receptor-interacting serine-threonine kinase 2	15960	-1.4401028156280518	-0.3989383	Yes	
+row_31	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.31606042	Yes	
+row_32	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.1638837	Yes	
+row_33	IFIH1	interferon induced with helicase C domain 1	16219	-4.2306108474731445	0.001234018	Yes	

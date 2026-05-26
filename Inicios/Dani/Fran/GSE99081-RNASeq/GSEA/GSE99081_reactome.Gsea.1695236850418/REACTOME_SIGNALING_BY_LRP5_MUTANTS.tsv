@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	DKK1	dickkopf homolog 1 (Xenopus laevis)	900	0.6738016605377197	0.38427374	Yes	
+row_1	DKK2	dickkopf homolog 2 (Xenopus laevis)	1523	0.5256355404853821	0.688981	Yes	
+row_2	KREMEN2	kringle containing transmembrane protein 2	4015	0.24201346933841705	0.693472	Yes	
+row_3	DKK4	dickkopf homolog 4 (Xenopus laevis)	6147	0.06458622962236404	0.6043523	No	
+row_4	KREMEN1	kringle containing transmembrane protein 1	9717	-0.012410054914653301	0.3926037	No	
+row_5	LRP5	low density lipoprotein receptor-related protein 5	9749	-0.013920138590037823	0.3997782	No	

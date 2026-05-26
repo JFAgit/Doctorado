@@ -1,0 +1,72 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRAF3	TNF receptor-associated factor 3	336	0.9239897131919861	-0.002077791	No	
+row_1	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	1041	0.6336776614189148	-0.032791466	No	
+row_2	RNF125	ring finger protein 125	1077	0.6231369376182556	-0.022343026	No	
+row_3	HMGB1	high-mobility group box 1	1447	0.5391134023666382	-0.03425214	No	
+row_4	NFKBIB	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, beta	1637	0.5038970708847046	-0.035741664	No	
+row_5	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.046333797	No	
+row_6	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	-0.0610658	No	
+row_7	CHUK	conserved helix-loop-helix ubiquitous kinase	2761	0.372850239276886	-0.07887601	No	
+row_8	ATG5	ATG5 autophagy related 5 homolog (S. cerevisiae)	3048	0.33665230870246887	-0.08974991	No	
+row_9	RNF135	ring finger protein 135	3113	0.3305545151233673	-0.08701726	No	
+row_10	AGER	advanced glycosylation end product-specific receptor	3794	0.25840672850608826	-0.123842575	No	
+row_11	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.12261028	No	
+row_12	PCBP2	poly(rC) binding protein 2	4093	0.23583313822746277	-0.13230886	No	
+row_13	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.1300923	No	
+row_14	NKIRAS1	NFKB inhibitor interacting Ras-like 1	4288	0.2207268625497818	-0.13508706	No	
+row_15	ATG12	ATG12 autophagy related 12 homolog (S. cerevisiae)	5143	0.1436050981283188	-0.18499742	No	
+row_16	IKBKG	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase gamma	5852	0.08800254762172699	-0.22700363	No	
+row_17	NFKB1	nuclear factor of kappa light polypeptide gene enhancer in B-cells 1 (p105)	6780	0.021860113367438316	-0.2838931	No	
+row_18	NKIRAS2	NFKB inhibitor interacting Ras-like 2	7336	3.179778502726549E-7	-0.31821802	No	
+row_19	S100A12	S100 calcium binding protein A12	7812	0.0	-0.34759524	No	
+row_20	IFNA17	interferon, alpha 17	7874	0.0	-0.3513679	No	
+row_21	IFNA6	interferon, alpha 6	8160	0.0	-0.3689942	No	
+row_22	IFNA21	interferon, alpha 21	9399	-1.727731500977825E-6	-0.44556046	No	
+row_23	IFNA4	interferon, alpha 4	9401	-1.8230683735964703E-6	-0.44562227	No	
+row_24	IFNA10	interferon, alpha 10	9402	-1.8661804688235861E-6	-0.44562224	No	
+row_25	IFNA16	interferon, alpha 16	9404	-1.9269425592938205E-6	-0.44568402	No	
+row_26	IFNA7	interferon, alpha 7	9419	-2.654248419275973E-6	-0.44654983	No	
+row_27	IFNA13	interferon, alpha 13	9446	-2.8573462259373628E-5	-0.44815728	No	
+row_28	TRAF6	TNF receptor-associated factor 6	9581	-0.006803732365369797	-0.45630702	No	
+row_29	OTUD5	OTU domain containing 5	10908	-0.0946439653635025	-0.5364001	No	
+row_30	HSP90AB1	heat shock protein 90kDa alpha (cytosolic), class B member 1	11100	-0.10979877412319183	-0.54599035	No	
+row_31	IFNA5	interferon, alpha 5	11441	-0.14333227276802063	-0.564117	No	
+row_32	IFNA14	interferon, alpha 14	11459	-0.1443299800157547	-0.562247	No	
+row_33	APP	amyloid beta (A4) precursor protein (peptidase nexin-II, Alzheimer disease)	11482	-0.14610224962234497	-0.56065035	No	
+row_34	IFNA1	interferon, alpha 1	11781	-0.17263290286064148	-0.5755864	No	
+row_35	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	11909	-0.18438878655433655	-0.57970864	No	
+row_36	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.5857453	No	
+row_37	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	12104	-0.20313334465026855	-0.583489	No	
+row_38	TANK	TRAF family member-associated NFKB activator	12302	-0.22443898022174835	-0.59112984	No	
+row_39	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	12453	-0.23836000263690948	-0.5955822	No	
+row_40	IFNA8	interferon, alpha 8	12508	-0.24569764733314514	-0.59394866	No	
+row_41	IKBKB	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase beta	12590	-0.25318604707717896	-0.59383345	No	
+row_42	IFNA2	interferon, alpha 2	12634	-0.2577002942562103	-0.59127665	No	
+row_43	CASP10	caspase 10, apoptosis-related cysteine peptidase	12855	-0.2826092541217804	-0.5991626	No	
+row_44	NFKB2	nuclear factor of kappa light polypeptide gene enhancer in B-cells 2 (p49/p100)	12951	-0.2939244210720062	-0.5990886	No	
+row_45	SAA1	serum amyloid A1	13425	-0.3548918664455414	-0.62115866	No	
+row_46	HSP90AA1	heat shock protein 90kDa alpha (cytosolic), class A member 1	13633	-0.38394224643707275	-0.6261895	No	
+row_47	MAP3K1	mitogen-activated protein kinase kinase kinase 1	13769	-0.40557318925857544	-0.6263295	No	
+row_48	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	14125	-0.46714115142822266	-0.6388295	No	
+row_49	UBC	ubiquitin C	14182	-0.47944867610931396	-0.6325883	No	
+row_50	RELA	v-rel reticuloendotheliosis viral oncogene homolog A, nuclear factor of kappa light polypeptide gene enhancer in B-cells 3, p65 (avian)	14524	-0.5008450150489807	-0.6435403	Yes	
+row_51	EP300	E1A binding protein p300	14599	-0.515784740447998	-0.63767684	Yes	
+row_52	S100B	S100 calcium binding protein B	14747	-0.5531487464904785	-0.6355719	Yes	
+row_53	IKBKE	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	15050	-0.6385313868522644	-0.64132494	Yes	
+row_54	FADD	Fas (TNFRSF6)-associated via death domain	15085	-0.6487736701965332	-0.63029575	Yes	
+row_55	TRAF2	TNF receptor-associated factor 2	15093	-0.6507148742675781	-0.61755735	Yes	
+row_56	NFKBIA	nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha	15212	-0.6961663365364075	-0.610764	Yes	
+row_57	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.5987834	Yes	
+row_58	TAX1BP1	Tax1 (human T-cell leukemia virus type I) binding protein 1	15338	-0.7592897415161133	-0.5886714	Yes	
+row_59	TBK1	TANK-binding kinase 1	15405	-0.7883016467094421	-0.576797	Yes	
+row_60	CASP8	caspase 8, apoptosis-related cysteine peptidase	15454	-0.8084930777549744	-0.56340075	Yes	
+row_61	UBB	ubiquitin B	15642	-0.9178993105888367	-0.55638665	Yes	
+row_62	RIPK1	receptor (TNFRSF)-interacting serine-threonine kinase 1	15848	-1.2057920694351196	-0.5446585	Yes	
+row_63	UBE2L6	ubiquitin-conjugating enzyme E2L 6	16021	-1.6785660982131958	-0.52131987	Yes	
+row_64	IFNB1	interferon, beta 1, fibroblast	16102	-2.252572774887085	-0.4806727	Yes	
+row_65	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.43358198	Yes	
+row_66	IRF7	interferon regulatory factor 7	16202	-3.79117751121521	-0.36222443	Yes	
+row_67	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.28093895	Yes	
+row_68	IFIH1	interferon induced with helicase C domain 1	16219	-4.2306108474731445	-0.19567713	Yes	
+row_69	HERC5	hect domain and RLD 5	16235	-4.841777801513672	-0.098601155	Yes	
+row_70	ISG15	ISG15 ubiquitin-like modifier	16236	-4.880467414855957	1.8565635E-4	Yes	

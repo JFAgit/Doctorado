@@ -1,0 +1,46 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	IL1R2	interleukin 1 receptor, type II	81	1.359215497970581	0.043616943	No	
+row_1	IL1A	interleukin 1, alpha	324	0.9325309991836548	0.06203025	No	
+row_2	IL18	interleukin 18 (interferon-gamma-inducing factor)	3807	0.2573053240776062	-0.1437707	No	
+row_3	IL1B	interleukin 1, beta	4704	0.1824161261320114	-0.19257146	No	
+row_4	JAK1	Janus kinase 1 (a protein tyrosine kinase)	5037	0.15584903955459595	-0.20749697	No	
+row_5	CCL19	chemokine (C-C motif) ligand 19	5199	0.13744734227657318	-0.21252188	No	
+row_6	CD86	CD86 molecule	6469	0.04095570370554924	-0.28941444	No	
+row_7	CSF2	colony stimulating factor 2 (granulocyte-macrophage)	6975	0.012392780743539333	-0.32015362	No	
+row_8	CSF3	colony stimulating factor 3 (granulocyte)	7438	2.12206880943036E-23	-0.34868094	No	
+row_9	IL12B	interleukin 12B (natural killer cell stimulatory factor 2, cytotoxic lymphocyte maturation factor 2, p40)	9935	-0.02229120582342148	-0.5020052	No	
+row_10	CCR2	chemokine (C-C motif) receptor 2	10067	-0.028779126703739166	-0.50906473	No	
+row_11	TYK2	tyrosine kinase 2	10673	-0.0728084072470665	-0.54381764	No	
+row_12	PTAFR	platelet-activating factor receptor	10886	-0.09169469028711319	-0.5536282	No	
+row_13	IL10RB	interleukin 10 receptor, beta	10989	-0.10062118619680405	-0.5563273	No	
+row_14	CCL20	chemokine (C-C motif) ligand 20	11006	-0.10132567584514618	-0.55369085	No	
+row_15	IL1R1	interleukin 1 receptor, type I	11566	-0.1518138200044632	-0.5827774	No	
+row_16	CXCL2	chemokine (C-X-C motif) ligand 2	11660	-0.16088703274726868	-0.58276504	No	
+row_17	TNFRSF1A	tumor necrosis factor receptor superfamily, member 1A	12354	-0.2293039858341217	-0.6173539	No	
+row_18	IL10	interleukin 10	13058	-0.30809473991394043	-0.649742	No	
+row_19	CCL22	chemokine (C-C motif) ligand 22	13128	-0.31827929615974426	-0.6426179	No	
+row_20	CCL2	chemokine (C-C motif) ligand 2	13259	-0.33469444513320923	-0.6386732	No	
+row_21	CCL3	chemokine (C-C motif) ligand 3	13556	-0.3735651969909668	-0.6435882	No	
+row_22	FPR1	formyl peptide receptor 1	14091	-0.45813804864883423	-0.6601739	No	
+row_23	FCER2	Fc fragment of IgE, low affinity II, receptor for (CD23)	14456	-0.49999570846557617	-0.66476536	Yes	
+row_24	IL6	interleukin 6 (interferon, beta 2)	14705	-0.5420752763748169	-0.660689	Yes	
+row_25	TIMP1	TIMP metallopeptidase inhibitor 1	14881	-0.5877953171730042	-0.6504696	Yes	
+row_26	CCR5	chemokine (C-C motif) receptor 5	14923	-0.5983511805534363	-0.63159853	Yes	
+row_27	IL10RA	interleukin 10 receptor, alpha	14944	-0.6050968170166016	-0.6111895	Yes	
+row_28	TNFRSF1B	tumor necrosis factor receptor superfamily, member 1B	15066	-0.6434639692306519	-0.59564453	Yes	
+row_29	CCL3L1	chemokine (C-C motif) ligand 3-like 1	15102	-0.6540194153785706	-0.5744117	Yes	
+row_30	CCL3L3	chemokine (C-C motif) ligand 3-like 3	15121	-0.662530779838562	-0.55182475	Yes	
+row_31	CCL5	chemokine (C-C motif) ligand 5	15208	-0.6927161812782288	-0.5323569	Yes	
+row_32	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.51185167	Yes	
+row_33	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	15465	-0.8105252385139465	-0.49236867	Yes	
+row_34	LIF	leukemia inhibitory factor (cholinergic differentiation factor)	15543	-0.8545937538146973	-0.46655482	Yes	
+row_35	CXCL1	chemokine (C-X-C motif) ligand 1 (melanoma growth stimulating activity, alpha)	15550	-0.8587010502815247	-0.43620998	Yes	
+row_36	CCR1	chemokine (C-C motif) receptor 1	15616	-0.8927832245826721	-0.40828913	Yes	
+row_37	CD80	CD80 molecule	15690	-0.9770533442497253	-0.37784797	Yes	
+row_38	IL12A	interleukin 12A (natural killer cell stimulatory factor 1, cytotoxic lymphocyte maturation factor 1, p35)	15716	-1.0012770891189575	-0.34357646	Yes	
+row_39	TNF	tumor necrosis factor (TNF superfamily, member 2)	15727	-1.013060450553894	-0.30795723	Yes	
+row_40	CCL4	chemokine (C-C motif) ligand 4	15829	-1.178112506866455	-0.2720532	Yes	
+row_41	CSF1	colony stimulating factor 1 (macrophage)	15861	-1.220310091972351	-0.23031747	Yes	
+row_42	ICAM1	intercellular adhesion molecule 1 (CD54), human rhinovirus receptor	15865	-1.2247748374938965	-0.1866931	Yes	
+row_43	IL1RN	interleukin 1 receptor antagonist	16135	-2.506847858428955	-0.113634415	Yes	
+row_44	CXCL10	chemokine (C-X-C motif) ligand 10	16187	-3.3546574115753174	0.0032109544	Yes	

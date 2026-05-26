@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NUDT9	nudix (nucleoside diphosphate linked moiety X)-type motif 9	2588	0.3984924256801605	0.12636898	Yes	
+row_1	NUDT5	nudix (nucleoside diphosphate linked moiety X)-type motif 5	2774	0.3711770176887512	0.38117084	Yes	
+row_2	NUDT15	nudix (nucleoside diphosphate linked moiety X)-type motif 15	3239	0.3155606687068939	0.57890004	Yes	
+row_3	NUDT16	nudix (nucleoside diphosphate linked moiety X)-type motif 16	4202	0.22710652649402618	0.68251604	Yes	
+row_4	NUDT1	nudix (nucleoside diphosphate linked moiety X)-type motif 1	7412	8.6441400912185E-13	0.4848445	No	
+row_5	NUDT18	nudix (nucleoside diphosphate linked moiety X)-type motif 18	10770	-0.08202941715717316	0.33688545	No	

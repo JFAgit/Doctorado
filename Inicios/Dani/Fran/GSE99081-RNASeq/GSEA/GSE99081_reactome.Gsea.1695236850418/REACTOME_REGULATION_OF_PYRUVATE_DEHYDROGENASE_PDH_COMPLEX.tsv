@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDK3	pyruvate dehydrogenase kinase, isozyme 3	24	1.683024525642395	0.28877592	Yes	
+row_1	PPARD	peroxisome proliferative activated receptor, delta	236	1.0137914419174194	0.45061022	Yes	
+row_2	PDK4	pyruvate dehydrogenase kinase, isozyme 4	631	0.7680419683456421	0.5587836	Yes	
+row_3	PDK2	pyruvate dehydrogenase kinase, isozyme 2	2119	0.46582573652267456	0.5474714	Yes	
+row_4	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	2153	0.4618176817893982	0.62508273	Yes	
+row_5	PDHA2	pyruvate dehydrogenase (lipoamide) alpha 2	2941	0.3490283191204071	0.63677096	Yes	
+row_6	DLD	dihydrolipoamide dehydrogenase	3861	0.2531155049800873	0.62378234	No	
+row_7	PDP2	-	4560	0.19592751562595367	0.6145521	No	
+row_8	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	5854	0.08796253055334091	0.5500303	No	
+row_9	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.54840136	No	
+row_10	PDPR	-	6443	0.04270506650209427	0.5332701	No	
+row_11	PDHX	pyruvate dehydrogenase complex, component X	7054	0.008122919127345085	0.49707472	No	
+row_12	PDHB	pyruvate dehydrogenase (lipoamide) beta	9815	-0.01745983213186264	0.329978	No	
+row_13	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.25189787	No	
+row_14	PDK1	pyruvate dehydrogenase kinase, isozyme 1	12413	-0.23478099703788757	0.23580895	No	

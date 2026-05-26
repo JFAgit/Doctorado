@@ -1,0 +1,19 @@
+"gene_set","sex_overexpressed","n","total","percentage","genes","panel","panel_title","contrast_list"
+"Anti-inflammatory / resolving","Male",8,23,34.7826086956522,"ABCG1; ATG5; GPX4; PTGER4; SLC7A11; SOD2; SQSTM1; ULK1",1,"Anti-inflammatory
+genes","List: expanded immunometabolic
+bibliography set (403 genes)"
+"Anti-inflammatory / resolving","Female",15,23,65.2173913043478,"ARG1; BNIP3L; CAT; CD36; EPAS1; HPGD; HPGDS; LAMP2; LIPA; MSR1; RXRA; SLC40A1; TSC1; TXN2; UCP2",1,"Anti-inflammatory
+genes","List: expanded immunometabolic
+bibliography set (403 genes)"
+"General anti-inflammatory/resolution","Male",25,57,43.859649122807,"ABCG1; ADORA2A; ATF3; ATG5; BCL3; CCL22; CD274; DUSP1; DUSP10; GPX4; IL10RA; IL13RA1; IL1RN; IL4R; NFKBIA; PTGER4; SLC7A11; SOCS1; SOCS3; SOD2; SPHK1; SQSTM1; STAT3; TNFAIP3; ULK1",2,"Anti-inflammatory
+genes","List: general anti-inflammatory
+curated set (91 genes)"
+"General anti-inflammatory/resolution","Female",32,57,56.140350877193,"ARG1; BNIP3L; CAT; CD163; CD36; CD68; CD93; CLEC7A; CX3CR1; EPAS1; FCGR2B; HPGD; HPGDS; IL10; LAMP2; LIPA; MAF; MARCO; MERTK; MSR1; RXRA; SLC40A1; STAB1; TGFB1; TGFB2; TGFBR1; TGFBR2; TREM2; TSC1; TXN2; UCP2; VSIG4",2,"Anti-inflammatory
+genes","List: general anti-inflammatory
+curated set (91 genes)"
+"General pro-inflammatory/activation","Male",56,75,74.6666666666667,"AIM2; B2M; BCL2A1; C2; CCL5; CCL7; CCL8; CD40; CD48; CD80; CD83; CD86; CXCL10; CXCL8; CXCL9; GBP1; GBP2; GBP5; GCH1; HLA-A; HLA-B; IDO1; IFIT1; IFIT2; IFIT3; IFNG; IKBKE; IL12B; IL15RA; IL1A; IL23A; IL6; IRF1; IRF7; ISG15; JAK2; KYNU; NAMPT; NFKB1; NFKB2; OAS1; OAS2; OAS3; OLR1; P2RX7; PFKP; PGD; PTGS2; RELA; STAT1; STAT4; TBK1; TFRC; TNF; TNFSF10; TRAF6",3,"Pro-inflammatory
+genes","List: general pro-inflammatory
+curated set (133 genes)"
+"General pro-inflammatory/activation","Female",19,75,25.3333333333333,"ALOX5; BTK; C1QA; C1QC; CCR2; CTSS; CYBB; FCGR1A; FCGR3A; HLA-DRA; IL1R1; ITGAM; ITGB2; PDK3; PDK4; PGK1; S100A9; TLR4; TLR7",3,"Pro-inflammatory
+genes","List: general pro-inflammatory
+curated set (133 genes)"

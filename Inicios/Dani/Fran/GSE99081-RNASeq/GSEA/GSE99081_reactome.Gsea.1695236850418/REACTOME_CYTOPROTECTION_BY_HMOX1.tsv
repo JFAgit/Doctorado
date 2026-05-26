@@ -1,0 +1,111 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	-0.026894232	No	
+row_1	COX7A2L	cytochrome c oxidase subunit VIIa polypeptide 2 like	870	0.6823275685310364	-0.020811455	No	
+row_2	PRKCD	protein kinase C, delta	992	0.6463683247566223	-0.013271609	No	
+row_3	COX7C	cytochrome c oxidase subunit VIIc	1531	0.5240294337272644	-0.034431115	No	
+row_4	TBL1X	transducin (beta)-like 1X-linked	1603	0.5079867243766785	-0.027011681	No	
+row_5	LRPPRC	leucine-rich PPR-motif containing	1968	0.4880762994289398	-0.038220488	No	
+row_6	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.026862806	No	
+row_7	COX11	COX11 homolog, cytochrome c oxidase assembly protein (yeast)	2022	0.47992807626724243	-0.018918386	No	
+row_8	FBXL17	F-box and leucine-rich repeat protein 17	2346	0.43396297097206116	-0.028844595	No	
+row_9	FABP1	fatty acid binding protein 1, liver	2404	0.4250549376010895	-0.022487087	No	
+row_10	SURF1	surfeit 1	2502	0.412040114402771	-0.018912295	No	
+row_11	NDUFA4	NADH dehydrogenase (ubiquinone) 1 alpha subcomplex, 4, 9kDa	2696	0.3833141624927521	-0.021957617	No	
+row_12	COX6C	cytochrome c oxidase subunit VIc	2764	0.37258028984069824	-0.01744119	No	
+row_13	CYCS	cytochrome c, somatic	2888	0.3538222908973694	-0.016833067	No	
+row_14	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.023936953	No	
+row_15	HDAC3	histone deacetylase 3	3341	0.30491918325424194	-0.0300465	No	
+row_16	COX6A1	cytochrome c oxidase subunit VIa polypeptide 1	3492	0.2898426055908203	-0.03260112	No	
+row_17	COX18	COX18 cytochrome c oxidase assembly homolog (S. cerevisiae)	3500	0.2887415885925293	-0.0263159	No	
+row_18	BLVRB	biliverdin reductase B (flavin reductase (NADPH))	3673	0.2694546580314636	-0.030708881	No	
+row_19	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.025917415	No	
+row_20	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.02190314	No	
+row_21	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.03192426	No	
+row_22	ABCC1	ATP-binding cassette, sub-family C (CFTR/MRP), member 1	4082	0.23665262758731842	-0.03230685	No	
+row_23	PTK6	PTK6 protein tyrosine kinase 6	4098	0.23530389368534088	-0.027761128	No	
+row_24	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.02453858	No	
+row_25	COX7B	cytochrome c oxidase subunit VIIb	4186	0.2280329465866089	-0.022393923	No	
+row_26	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.030098688	No	
+row_27	COX4I1	cytochrome c oxidase subunit IV isoform 1	4443	0.207535520195961	-0.028431017	No	
+row_28	HMOX1	heme oxygenase (decycling) 1	4475	0.20441891252994537	-0.025595946	No	
+row_29	NCOR2	nuclear receptor co-repressor 2	4511	0.20095713436603546	-0.023089418	No	
+row_30	PPARA	peroxisome proliferative activated receptor, alpha	4525	0.19996310770511627	-0.019242102	No	
+row_31	COX8A	cytochrome c oxidase subunit 8A (ubiquitous)	4616	0.19012492895126343	-0.020397441	No	
+row_32	COX5B	cytochrome c oxidase subunit Vb	4775	0.17686961591243744	-0.026076987	No	
+row_33	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.025154945	No	
+row_34	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.04750736	No	
+row_35	COX19	COX19 cytochrome c oxidase assembly homolog (S. cerevisiae)	5273	0.1319982260465622	-0.046543553	No	
+row_36	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.04717984	No	
+row_37	CHD9	chromodomain helicase DNA binding protein 9	5413	0.11991685628890991	-0.049349003	No	
+row_38	TBL1XR1	transducin (beta)-like 1X-linked receptor 1	5565	0.10849612206220627	-0.05618567	No	
+row_39	COX5A	cytochrome c oxidase subunit Va	5611	0.10543955117464066	-0.05652186	No	
+row_40	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.057072528	No	
+row_41	CARM1	coactivator-associated arginine methyltransferase 1	5894	0.08470311760902405	-0.06960856	No	
+row_42	COX6B1	cytochrome c oxidase subunit Vib polypeptide 1 (ubiquitous)	6064	0.07063697278499603	-0.07844217	No	
+row_43	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	-0.07755969	No	
+row_44	HBA2	hemoglobin, alpha 2	6208	0.05943433195352554	-0.08423613	No	
+row_45	HBA1	hemoglobin, alpha 1	6209	0.0594339556992054	-0.082853064	No	
+row_46	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.09026111	No	
+row_47	SMARCD3	SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily d, member 3	6392	0.04601512476801872	-0.09185615	No	
+row_48	SCO2	SCO cytochrome oxidase deficient homolog 2 (yeast)	6466	0.041185203939676285	-0.095423475	No	
+row_49	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.106781855	No	
+row_50	NFE2L2	nuclear factor (erythroid-derived 2)-like 2	6683	0.02724967524409294	-0.10744966	No	
+row_51	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.10846806	No	
+row_52	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.11691931	No	
+row_53	SIN3B	SIN3 homolog B, transcription regulator (yeast)	6973	0.012428263202309608	-0.12394566	No	
+row_54	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.12834139	No	
+row_55	CSNK2B	casein kinase 2, beta polypeptide	7228	1.9611030438682064E-5	-0.13943827	No	
+row_56	HBB	hemoglobin, beta	7272	3.544774699548725E-6	-0.14210403	No	
+row_57	ALB	albumin	9209	0.0	-0.26212883	No	
+row_58	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.28515667	No	
+row_59	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.29475307	No	
+row_60	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.3161209	No	
+row_61	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.3346602	No	
+row_62	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.33641195	No	
+row_63	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.3545852	No	
+row_64	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.3549492	No	
+row_65	NCOA1	nuclear receptor coactivator 1	10884	-0.09165199846029282	-0.35554424	No	
+row_66	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.3609177	No	
+row_67	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.38950065	No	
+row_68	CUL3	cullin 3	11760	-0.1702529937028885	-0.3998599	No	
+row_69	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.40097615	No	
+row_70	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.4006484	No	
+row_71	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.39706483	No	
+row_72	NCOR1	nuclear receptor co-repressor 1	12280	-0.2229362428188324	-0.41388565	No	
+row_73	SCO1	SCO cytochrome oxidase deficient homolog 1 (yeast)	12597	-0.25403496623039246	-0.42756492	No	
+row_74	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.43905765	No	
+row_75	CUL1	cullin 1	12992	-0.2996160089969635	-0.43828502	No	
+row_76	RBX1	ring-box 1	13011	-0.3016377389431	-0.43238166	No	
+row_77	CSNK2A1	casein kinase 2, alpha 1 polypeptide	13410	-0.3523854613304138	-0.44885597	Yes	
+row_78	HM13	histocompatibility (minor) 13	13442	-0.35712260007858276	-0.44246736	Yes	
+row_79	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.4412545	Yes	
+row_80	STAP2	-	13603	-0.3806609809398651	-0.43475214	Yes	
+row_81	BLVRA	biliverdin reductase A	13623	-0.38306379318237305	-0.42701593	Yes	
+row_82	SIN3A	SIN3 homolog A, transcription regulator (yeast)	13722	-0.39718371629714966	-0.42384884	Yes	
+row_83	NCOA6	nuclear receptor coactivator 6	13791	-0.40925800800323486	-0.4185409	Yes	
+row_84	CSNK2A2	casein kinase 2, alpha prime polypeptide	13861	-0.4190538823604584	-0.413067	Yes	
+row_85	KEAP1	kelch-like ECH-associated protein 1	14068	-0.45366963744163513	-0.41528106	Yes	
+row_86	CREBBP	CREB binding protein (Rubinstein-Taybi syndrome)	14125	-0.46714115142822266	-0.40788218	Yes	
+row_87	BACH1	BTB and CNC homology 1, basic leucine zipper transcription factor 1	14141	-0.4706052541732788	-0.39786085	Yes	
+row_88	UBC	ubiquitin C	14182	-0.47944867610931396	-0.38918364	Yes	
+row_89	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.39335763	Yes	
+row_90	HMOX2	heme oxygenase (decycling) 2	14486	-0.5	-0.38463616	Yes	
+row_91	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.3836495	Yes	
+row_92	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.3764487	Yes	
+row_93	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.36497685	Yes	
+row_94	SKP2	S-phase kinase-associated protein 2 (p45)	14868	-0.5839471220970154	-0.35591376	Yes	
+row_95	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.34725007	Yes	
+row_96	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.341823	Yes	
+row_97	MAFK	v-maf musculoaponeurotic fibrosarcoma oncogene homolog K (avian)	15206	-0.6923937797546387	-0.33098027	Yes	
+row_98	STAT3	signal transducer and activator of transcription 3 (acute-phase response factor)	15310	-0.7476124167442322	-0.31996846	Yes	
+row_99	TXNIP	thioredoxin interacting protein	15494	-0.8253035545349121	-0.31210846	Yes	
+row_100	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.29352325	Yes	
+row_101	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.27487457	Yes	
+row_102	NCOA2	nuclear receptor coactivator 2	15592	-0.8684393763542175	-0.25875717	Yes	
+row_103	UBB	ubiquitin B	15642	-0.9178993105888367	-0.24043491	Yes	
+row_104	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.22107598	Yes	
+row_105	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.20030336	Yes	
+row_106	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.17734887	Yes	
+row_107	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.13587317	Yes	
+row_108	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.078634076	Yes	
+row_109	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027278732	Yes	

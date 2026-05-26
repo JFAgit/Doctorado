@@ -1,0 +1,16 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ALDH1L1	aldehyde dehydrogenase 1 family, member L1	208	1.0569266080856323	0.16503188	Yes	
+row_1	DHFR	dihydrofolate reductase	273	0.9723905324935913	0.3247139	Yes	
+row_2	MTHFD2	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase	623	0.7731003761291504	0.43329534	Yes	
+row_3	MTHFD2L	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2-like	685	0.7472500205039978	0.5552773	Yes	
+row_4	SLC25A32	solute carrier family 25, member 32	3521	0.286688894033432	0.42878875	No	
+row_5	MTHFD1L	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1-like	3929	0.2482045441865921	0.44546998	No	
+row_6	MTHFD1	methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1, methenyltetrahydrofolate cyclohydrolase, formyltetrahydrofolate synthetase	3987	0.24339421093463898	0.4829134	No	
+row_7	SHMT1	serine hydroxymethyltransferase 1 (soluble)	4162	0.22971197962760925	0.5108434	No	
+row_8	SLC19A1	solute carrier family 19 (folate transporter), member 1	5965	0.07858917117118835	0.41300464	No	
+row_9	FPGS	folylpolyglutamate synthase	7147	0.0033208278473466635	0.34077454	No	
+row_10	ALDH1L2	aldehyde dehydrogenase 1 family, member L2	10300	-0.04466395452618599	0.15402213	No	
+row_11	SHMT2	serine hydroxymethyltransferase 2 (mitochondrial)	12542	-0.2493268847465515	0.057856783	No	
+row_12	MTHFS	5,10-methenyltetrahydrofolate synthetase (5-formyltetrahydrofolate cyclo-ligase)	12988	-0.29877710342407227	0.08070592	No	
+row_13	MTHFR	5,10-methylenetetrahydrofolate reductase (NADPH)	13078	-0.3107600510120392	0.1275129	No	
+row_14	FOLR2	folate receptor 2 (fetal)	13736	-0.3996393382549286	0.15426812	No	

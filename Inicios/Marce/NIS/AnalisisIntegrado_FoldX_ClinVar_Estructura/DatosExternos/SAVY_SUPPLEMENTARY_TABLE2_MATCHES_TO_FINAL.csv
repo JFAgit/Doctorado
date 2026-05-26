@@ -1,0 +1,44 @@
+Variante_Final,ClinVar_Final_Classification,ClinVar_Final_Source,cDNA_SAVY,Protein_SAVY,Effect_SAVY,ACMG_Result_SAVY,ACMG_Criteria_SAVY,References_SAVY,Match_By
+p.Gly18Arg,Uncertain significance,NCBI ClinVar,c.52G>A,p.Gly18Arg,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4",32805706,protein
+p.Leu54Pro,Uncertain significance,gnomAD extract,c.161T>C,p.Leu54Pro,Missense,Uncertain significance,"PS3_Mod, PM2_Supp, PP3_Mod",36884306,protein;cDNA
+p.Val59Glu,Pathogenic/Likely pathogenic,NCBI ClinVar,c.176T>A,p.Val59Glu,Missense,Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_(+3), PP4","10907989, 18339708, 35276235",protein
+p.Gly93Arg,Pathogenic,NCBI ClinVar,c.277G>C,p.Gly93Arg,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4","9745458, 22011571",protein;cDNA
+p.Arg124His,Likely pathogenic,NCBI ClinVar,c.371G>A,p.Arg124His,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP3_Supp, PP4","16418213, 23690546",protein
+p.Tyr137*,Likely Pathogenic,gnomAD extract,c.411C>G,p.Tyr137*,Nonsense,Likely Pathogenic,"PVS1, PM2_Supp",31430255,protein;cDNA
+p.Asp191Gly,Likely Pathogenic,gnomAD extract,c.572A>G,p.Asp191Gly,Missense,Likely Pathogenic,"PS3_Mod, PM1, PM2_Supp, PP3_Mod",32425884,protein;cDNA
+p.Thr221=,Conflicting classifications of pathogenicity,NCBI ClinVar,c.663G>A,p.Thr221=,Synonym,Likely Benign,"PM2_Supp, BS2, BP7",25465605,protein;cDNA
+p.Gly250Val,Likely Pathogenic,gnomAD extract,c.749G>T,p.Gly250Val,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_Mod",31867598,protein;cDNA
+p.Gln263Leu,Likely Pathogenic,gnomAD extract,c.788A>T,p.Gln263Leu,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Mod, PP4",39895319,protein;cDNA
+p.Gln265Arg,Likely pathogenic,NCBI ClinVar,c.794A>G,p.Gln265Arg,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3_Supp, PP3_(+3), PP4",33310921,protein;cDNA
+p.Gln267Glu,Likely pathogenic,NCBI ClinVar,c.799C>G,p.Gln267Glu,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4","9486973, 14734652, 10902780",protein
+p.Val270Glu,Likely Pathogenic,gnomAD extract,c.809T>A,p.Val270Glu,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Supp, PP4",26204134,protein;cDNA
+p.Cys272*,Pathogenic,NCBI ClinVar,c.816C>A,p.Cys272*,Nonsense,Pathogenic,"PVS1, PM2_Supp, PM3_Supp, PP4","9388506, 10902780",protein;cDNA
+p.Arg273Cys,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.817C>T,p.Arg273Cys,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",36884306,protein
+p.Arg273His,Likely Benign,gnomAD extract,c.818G>A,p.Arg273His,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4_Mod",36913313,protein
+p.Cys310=,Uncertain significance,gnomAD extract,c.930C>T,p.Cys310=,Synonym,Uncertain significance,"BP7, PM2_Supp",25465605,protein;cDNA
+p.Ala320Thr,Uncertain significance,NCBI ClinVar,c.958G>A,p.Ala320Thr,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein
+p.Asp331Asn,Likely Pathogenic,gnomAD extract,c.991G>A,p.Asp331Asn,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP4",31115276,protein;cDNA
+p.Gly341Arg,Likely pathogenic,NCBI ClinVar,c.1021G>A,p.Gly341Arg,Missense,Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP3_Strong, PP4",35438852,protein
+p.Tyr348Asp,Likely Pathogenic,gnomAD extract,c.1042T>G,p.Tyr348Asp,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong,",29759035,protein;cDNA
+p.Gly350Asp,Likely Pathogenic,gnomAD extract,c.1049G>A,p.Gly350Asp,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",39895319,protein;cDNA
+p.Thr354Pro,Pathogenic,NCBI ClinVar,c.1060A>C,p.Thr354Pro,Missense,Pathogenic,"PS3_Supp, PM1, PM2_Supp, PM3_Strong, PP3_Mod, PP4","9745458, 17606623, 21054210, 21054210, 981450, 9398697, 9709973, 9657379, 27493890",protein
+p.Ser356Phe,Pathogenic,gnomAD extract,c.1067C>T,p.Ser356Phe,Missense,Pathogenic,"PS3_Supp, PM2_Supp, PM3_Supp, PP1_Mod, PP3_Strong, PP4",34806438,protein;cDNA
+p.Asp369Val,Likely Pathogenic,gnomAD extract,c.1106A>T,p.Asp369Val,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Strong, PP4",34726525,protein;cDNA
+p.Arg376Trp,Uncertain significance,NCBI ClinVar,c.1126C>T,p.Arg376Trp,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein
+p.Lys388*,Likely Pathogenic,gnomAD extract,c.1162A>T,p.Lys388*,Nonsense,Likely Pathogenic,"PVS1, PM2_Supp",32425884,protein;cDNA
+p.Gly395Arg,Pathogenic/Likely pathogenic,NCBI ClinVar,c.1183G>A,p.Gly395Arg,Missense,Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP1_Mod, PP3_Strong, PP4","10487695, 12145342, 30240412, 34632506",protein
+p.Leu408=,Conflicting classifications of pathogenicity,NCBI ClinVar,c.1224C>T,p.Leu408=,Synonym,Benign,"BS1, BS2, BP7","34539567, 25465605",protein;cDNA
+p.Gly421Arg,Pathogenic,NCBI ClinVar,c.1261G>A,p.Gly421Arg,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP3_Strong",33815280,protein;cDNA
+p.Met435Leu,Likely Benign,gnomAD extract,c.1303A>C,p.Met435Leu,Missense,Likely Benign,"PM2_Supp, BS3_Mod",25465605,protein
+p.Pro500Leu,Uncertain significance,NCBI ClinVar,c.1499C>T,p.Pro500Leu,Missense,Likely Benign,"PM2_Supp, BP4_(-3)",39720292,protein
+p.Ala514Thr,Likely Benign,gnomAD extract,c.1540G>A,p.Ala514Thr,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4_(-3)",34539567,protein
+p.Arg516*,Pathogenic/Likely pathogenic,NCBI ClinVar,c.1546C>T,p.Arg516*,Nonsense,Pathogenic,"PVS1, PM2_Supp, PP4",32805706,protein;cDNA
+p.Cys542=,Benign/Likely benign,NCBI ClinVar,c.1626C>T,p.Cys542=,Synonym,Benign,"BS1, BS2, BP7, PM3_Supp",35600585,protein;cDNA
+p.Gly543Arg,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.1627G>A,p.Gly543Arg,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_(+3), PP4","35276235, 15976004, 39749016",protein
+p.Gly543Glu,Pathogenic,NCBI ClinVar,c.1628G>A,p.Gly543Glu,Missense,Pathogenic,"PS3_Supp, PM2_Supp, PM3_Supp, PM5, PP3_Strong, PP4","9745458, 15976004",protein;cDNA
+p.Ser547Arg,Likely Pathogenic,gnomAD extract,c.1641C>A,p.Ser547Arg,Missense,Likely Pathogenic,"PS3_Supp, PM2_Supp, PM3, PP4, PP3_Strong",31115276,protein;cDNA
+p.Pro560Leu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.1679C>T,p.Pro560Leu,Missense,Likely Benign,"PM2_Supp, BS3_Mod, BP4",32459320,protein
+p.Gly561Glu,Uncertain significance / not classified in gnomAD extract,gnomAD extract,c.1682C>T,p.Gly561Glu,Missense,Uncertain significance,"PS3_Supp, PM2_Supp, PM3_Supp, PP4",33912899,protein
+p.Leu562Met,Likely Pathogenic,gnomAD extract,c.1684T>A,p.Leu562Met,Missense,Likely Pathogenic,"PS3_Mod, PM2_Supp, PM3, PP4",39749016,protein;cDNA
+p.Arg569Trp,Uncertain significance,NCBI ClinVar,c.1705C>T,p.Arg569Trp,Missense,Likely Benign,"PM2_Supp, PM3, BS3_Mod, BP4",34539567,protein
+p.Arg636*,Likely Pathogenic,gnomAD extract,c.1906C>T,p.Arg636*,Nonsense,Likely Pathogenic,"PVS1_Strong, PM3_Supp, PM2_Supp","30240412, 34196428",protein;cDNA

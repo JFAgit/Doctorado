@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TRAF3	TNF receptor-associated factor 3	336	0.9239897131919861	0.0082547255	No	
+row_1	UBE2D2	ubiquitin-conjugating enzyme E2D 2 (UBC4/5 homolog, yeast)	1041	0.6336776614189148	-0.015295162	No	
+row_2	RNF125	ring finger protein 125	1077	0.6231369376182556	0.0020900795	No	
+row_3	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.037561346	No	
+row_4	UBE2D1	ubiquitin-conjugating enzyme E2D 1 (UBC4/5 homolog, yeast)	2350	0.43326157331466675	-0.047411907	No	
+row_5	ATG5	ATG5 autophagy related 5 homolog (S. cerevisiae)	3048	0.33665230870246887	-0.07984595	No	
+row_6	RNF135	ring finger protein 135	3113	0.3305545151233673	-0.0734261	No	
+row_7	IRF3	interferon regulatory factor 3	3858	0.25337570905685425	-0.11137112	No	
+row_8	PCBP2	poly(rC) binding protein 2	4093	0.23583313822746277	-0.11840818	No	
+row_9	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.1136076	No	
+row_10	ATG12	ATG12 autophagy related 12 homolog (S. cerevisiae)	5143	0.1436050981283188	-0.17127971	No	
+row_11	OTUD5	OTU domain containing 5	10908	-0.0946439653635025	-0.5238504	No	
+row_12	ITCH	itchy homolog E3 ubiquitin protein ligase (mouse)	11909	-0.18438878655433655	-0.5797499	No	
+row_13	CYLD	cylindromatosis (turban tumor syndrome)	12073	-0.1998094767332077	-0.58353734	No	
+row_14	PIN1	protein (peptidylprolyl cis/trans isomerase) NIMA-interacting 1	12104	-0.20313334465026855	-0.57901675	No	
+row_15	UBE2D3	ubiquitin-conjugating enzyme E2D 3 (UBC4/5 homolog, yeast)	12453	-0.23836000263690948	-0.5930064	No	
+row_16	UBC	ubiquitin C	14182	-0.47944867610931396	-0.6845566	No	
+row_17	IKBKE	inhibitor of kappa light polypeptide gene enhancer in B-cells, kinase epsilon	15050	-0.6385313868522644	-0.7180085	Yes	
+row_18	TNFAIP3	tumor necrosis factor, alpha-induced protein 3	15252	-0.711055338382721	-0.7081051	Yes	
+row_19	TAX1BP1	Tax1 (human T-cell leukemia virus type I) binding protein 1	15338	-0.7592897415161133	-0.6895337	Yes	
+row_20	TBK1	TANK-binding kinase 1	15405	-0.7883016467094421	-0.6688804	Yes	
+row_21	UBB	ubiquitin B	15642	-0.9178993105888367	-0.6546484	Yes	
+row_22	UBE2L6	ubiquitin-conjugating enzyme E2L 6	16021	-1.6785660982131958	-0.62531775	Yes	
+row_23	TRIM25	tripartite motif-containing 25	16114	-2.360081195831299	-0.5569707	Yes	
+row_24	DDX58	DEAD (Asp-Glu-Ala-Asp) box polypeptide 58	16212	-4.043331146240234	-0.43613842	Yes	
+row_25	IFIH1	interferon induced with helicase C domain 1	16219	-4.2306108474731445	-0.30381918	Yes	
+row_26	HERC5	hect domain and RLD 5	16235	-4.841777801513672	-0.15288638	Yes	
+row_27	ISG15	ISG15 ubiquitin-like modifier	16236	-4.880467414855957	1.8512616E-4	Yes	

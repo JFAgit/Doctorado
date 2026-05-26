@@ -1,0 +1,17 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	TSPAN7	tetraspanin 7	78	1.3719232082366943	0.3075377	Yes	
+row_1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	469	0.8484175205230713	0.47665823	Yes	
+row_2	GRIP2	glutamate receptor interacting protein 2	1221	0.5906410813331604	0.5648399	Yes	
+row_3	PICK1	protein interacting with PRKCA 1	4183	0.22831423580646515	0.43431273	No	
+row_4	PRKCG	protein kinase C, gamma	4564	0.19534660875797272	0.45536515	No	
+row_5	NSF	N-ethylmaleimide-sensitive factor	4899	0.1662011593580246	0.47261733	No	
+row_6	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	5316	0.1289536952972412	0.47633517	No	
+row_7	PRKCA	protein kinase C, alpha	6084	0.06933151185512543	0.44484422	No	
+row_8	AP2M1	adaptor-related protein complex 2, mu 1 subunit	6117	0.06688635796308517	0.4580998	No	
+row_9	GRIA2	glutamate receptor, ionotropic, AMPA 2	7187	7.236631936393678E-4	0.39237455	No	
+row_10	GRIA4	glutamate receptor, ionotrophic, AMPA 4	8780	0.0	0.2942483	No	
+row_11	GRIA1	glutamate receptor, ionotropic, AMPA 1	9537	-0.00500431377440691	0.24879	No	
+row_12	GRIP1	glutamate receptor interacting protein 1	10399	-0.05093731731176376	0.20731737	No	
+row_13	GRIA3	glutamate receptor, ionotrophic, AMPA 3	10741	-0.07906612753868103	0.20430008	No	
+row_14	AP2B1	adaptor-related protein complex 2, beta 1 subunit	11407	-0.13952404260635376	0.19507682	No	
+row_15	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	14053	-0.45105600357055664	0.13473853	No	

@@ -1,0 +1,22 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	RDH5	retinol dehydrogenase 5 (11-cis/9-cis)	390	0.8814048171043396	0.11121543	Yes	
+row_1	RDH10	retinol dehydrogenase 10 (all-trans)	610	0.779132068157196	0.21727915	Yes	
+row_2	RDH16	retinol dehydrogenase 16 (all-trans)	660	0.7588115334510803	0.330706	Yes	
+row_3	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	1331	0.5655260682106018	0.37618265	Yes	
+row_4	ALDH8A1	aldehyde dehydrogenase 8 family, member A1	2591	0.3982992470264435	0.35968107	Yes	
+row_5	RDH11	retinol dehydrogenase 11 (all-trans/9-cis/11-cis)	3144	0.3267757296562195	0.37579426	Yes	
+row_6	ADH1C	alcohol dehydrogenase 1C (class I), gamma polypeptide	3174	0.3226655423641205	0.4235228	Yes	
+row_7	DHRS9	dehydrogenase/reductase (SDR family) member 9	3352	0.303789347410202	0.4592295	Yes	
+row_8	ADH1A	alcohol dehydrogenase 1A (class I), alpha polypeptide	3544	0.2844189703464508	0.49110043	Yes	
+row_9	ALDH1A3	aldehyde dehydrogenase 1 family, member A3	3949	0.24605056643486023	0.50395054	Yes	
+row_10	DHRS4	dehydrogenase/reductase (SDR family) member 4	4254	0.22365209460258484	0.519529	Yes	
+row_11	CRABP1	cellular retinoic acid binding protein 1	6014	0.07432960718870163	0.42248264	No	
+row_12	ALDH1A2	aldehyde dehydrogenase 1 family, member A2	9439	-1.6813743059174158E-5	0.2113748	No	
+row_13	CYP26C1	cytochrome P450, family 26, subfamily C, polypeptide 1	10160	-0.0339135006070137	0.17218682	No	
+row_14	ADH4	alcohol dehydrogenase 4 (class II), pi polypeptide	10206	-0.03786112740635872	0.17522252	No	
+row_15	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	10281	-0.04309438541531563	0.17727327	No	
+row_16	CYP26A1	cytochrome P450, family 26, subfamily A, polypeptide 1	10377	-0.04957422614097595	0.17902365	No	
+row_17	RDH14	retinol dehydrogenase 14 (all-trans/9-cis/11-cis)	10849	-0.08876582235097885	0.16360573	No	
+row_18	DHRS3	dehydrogenase/reductase (SDR family) member 3	11949	-0.18801505863666534	0.12469869	No	
+row_19	CYP26B1	cytochrome P450, family 26, subfamily B, polypeptide 1	13795	-0.41021427512168884	0.073895134	No	
+row_20	RDH13	retinol dehydrogenase 13 (all-trans/9-cis)	14493	-0.5000020861625671	0.10765169	No	

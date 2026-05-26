@@ -1,0 +1,9 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PANK3	pantothenate kinase 3	871	0.6817775368690491	0.19723871	Yes	
+row_1	SLC25A16	solute carrier family 25 (mitochondrial carrier; Graves disease autoantigen), member 16	949	0.6588690876960754	0.43496272	Yes	
+row_2	PPCDC	phosphopantothenoylcysteine decarboxylase	1158	0.6053735017776489	0.6449295	Yes	
+row_3	PANK2	pantothenate kinase 2 (Hallervorden-Spatz syndrome)	3198	0.3198193609714508	0.6370089	No	
+row_4	COASY	Coenzyme A synthase	4664	0.18563777208328247	0.6150709	No	
+row_5	PANK1	pantothenate kinase 1	5550	0.10936944931745529	0.60079753	No	
+row_6	PANK4	pantothenate kinase 4	5593	0.10660126805305481	0.63743997	No	
+row_7	PPCS	phosphopantothenoylcysteine synthetase	6340	0.049899570643901825	0.6098447	No	

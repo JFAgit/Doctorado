@@ -1,0 +1,29 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	PDK3	pyruvate dehydrogenase kinase, isozyme 3	24	1.683024525642395	0.15964597	Yes	
+row_1	PPARD	peroxisome proliferative activated receptor, delta	236	1.0137914419174194	0.24368745	Yes	
+row_2	PDK4	pyruvate dehydrogenase kinase, isozyme 4	631	0.7680419683456421	0.29291388	Yes	
+row_3	LDHB	lactate dehydrogenase B	985	0.64765465259552	0.3331439	Yes	
+row_4	LDHC	lactate dehydrogenase C	1230	0.5889896750450134	0.37448093	Yes	
+row_5	GLO1	glyoxalase I	1516	0.5262476801872253	0.40728232	Yes	
+row_6	LDHA	lactate dehydrogenase A	2001	0.4838203489780426	0.423747	Yes	
+row_7	PDK2	pyruvate dehydrogenase kinase, isozyme 2	2119	0.46582573652267456	0.4611265	Yes	
+row_8	PDHA1	pyruvate dehydrogenase (lipoamide) alpha 1	2153	0.4618176817893982	0.50330365	Yes	
+row_9	HAGH	hydroxyacylglutathione hydrolase	2431	0.4225160479545593	0.5266676	Yes	
+row_10	PDHA2	pyruvate dehydrogenase (lipoamide) alpha 2	2941	0.3490283191204071	0.52868575	Yes	
+row_11	ME1	malic enzyme 1, NADP(+)-dependent, cytosolic	3648	0.27265578508377075	0.5112408	No	
+row_12	DLD	dihydrolipoamide dehydrogenase	3861	0.2531155049800873	0.5223964	No	
+row_13	PDP2	-	4560	0.19592751562595367	0.4980992	No	
+row_14	DLAT	dihydrolipoamide S-acetyltransferase (E2 component of pyruvate dehydrogenase complex)	5854	0.08796253055334091	0.42676467	No	
+row_15	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.41976234	No	
+row_16	SLC16A8	solute carrier family 16, member 8 (monocarboxylic acid transporter 3)	6296	0.05338086187839508	0.41142598	No	
+row_17	PDPR	-	6443	0.04270506650209427	0.4065087	No	
+row_18	SLC16A3	solute carrier family 16, member 3 (monocarboxylic acid transporter 4)	6551	0.03512340039014816	0.40327126	No	
+row_19	PDHX	pyruvate dehydrogenase complex, component X	7054	0.008122919127345085	0.3730842	No	
+row_20	PDHB	pyruvate dehydrogenase (lipoamide) beta	9815	-0.01745983213186264	0.20451148	No	
+row_21	VDAC1	voltage-dependent anion channel 1	10627	-0.06892827153205872	0.16108574	No	
+row_22	BSG	basigin (Ok blood group)	10692	-0.07429718971252441	0.16425097	No	
+row_23	GSTZ1	glutathione transferase zeta 1 (maleylacetoacetate isomerase)	11494	-0.1469353288412094	0.12891015	No	
+row_24	LDHAL6A	lactate dehydrogenase A-like 6A	11541	-0.150166317820549	0.1404491	No	
+row_25	PDK1	pyruvate dehydrogenase kinase, isozyme 1	12413	-0.23478099703788757	0.109200515	No	
+row_26	LDHAL6B	lactate dehydrogenase A-like 6B	14552	-0.505918562412262	0.02575761	No	
+row_27	SLC16A1	solute carrier family 16, member 1 (monocarboxylic acid transporter 1)	15475	-0.8172411322593689	0.047125712	No	

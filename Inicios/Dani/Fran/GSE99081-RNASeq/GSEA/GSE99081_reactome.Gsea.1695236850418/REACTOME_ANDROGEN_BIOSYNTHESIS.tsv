@@ -1,0 +1,11 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SRD5A2	steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)	260	0.9932379722595215	0.37959242	Yes	
+row_1	HSD17B3	hydroxysteroid (17-beta) dehydrogenase 3	2228	0.45135602355003357	0.43817466	Yes	
+row_2	HSD3B1	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 1	2565	0.4023895859718323	0.5777462	Yes	
+row_3	HSD17B12	hydroxysteroid (17-beta) dehydrogenase 12	4494	0.20277251303195953	0.5397193	No	
+row_4	LHB	luteinizing hormone beta polypeptide	5434	0.11831843107938766	0.5289903	No	
+row_5	HSD3B2	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 2	5667	0.10091733932495117	0.55489177	No	
+row_6	SRD5A1	steroid-5-alpha-reductase, alpha polypeptide 1 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 1)	6916	0.014827866107225418	0.48390314	No	
+row_7	CGA	glycoprotein hormones, alpha polypeptide	9418	-2.622848796818289E-6	0.32980683	No	
+row_8	POMC	proopiomelanocortin (adrenocorticotropin/ beta-lipotropin/ alpha-melanocyte stimulating hormone/ beta-melanocyte stimulating hormone/ beta-endorphin)	10601	-0.06751232594251633	0.28386927	No	
+row_9	CYP17A1	cytochrome P450, family 17, subfamily A, polypeptide 1	11644	-0.15930111706256866	0.28311768	No	

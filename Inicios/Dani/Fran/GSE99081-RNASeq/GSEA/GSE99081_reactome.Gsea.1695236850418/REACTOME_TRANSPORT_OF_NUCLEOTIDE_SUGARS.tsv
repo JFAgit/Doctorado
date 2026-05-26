@@ -1,0 +1,10 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	SLC35A3	solute carrier family 35 (UDP-N-acetylglucosamine (UDP-GlcNAc) transporter), member A3	99	1.2818814516067505	0.37378272	Yes	
+row_1	SLC35B4	solute carrier family 35, member B4	1575	0.513656735420227	0.43512803	Yes	
+row_2	SLC35B3	solute carrier family 35, member B3	2184	0.4577173590660095	0.5333122	Yes	
+row_3	SLC35D1	solute carrier family 35 (UDP-glucuronic acid/UDP-N-acetylgalactosamine dual transporter), member D1	2684	0.38532009720802307	0.6167571	Yes	
+row_4	SLC35A1	solute carrier family 35 (CMP-sialic acid transporter), member A1	5339	0.12655535340309143	0.4907472	No	
+row_5	SLC35B2	solute carrier family 35, member B2	9632	-0.008746320381760597	0.22890691	No	
+row_6	SLC35A2	solute carrier family 35 (UDP-galactose transporter), member A2	9795	-0.016078749671578407	0.2236909	No	
+row_7	SLC35D2	solute carrier family 35, member D2	10081	-0.029258258640766144	0.21480252	No	
+row_8	SLC35C1	solute carrier family 35, member C1	14756	-0.5552041530609131	0.09136833	No	

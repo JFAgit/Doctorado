@@ -1,0 +1,7 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	GLYCTK	-	988	0.6472657322883606	0.23793368	Yes	
+row_1	ALDOB	aldolase B, fructose-bisphosphate	1426	0.5449930429458618	0.46259692	Yes	
+row_2	SORD	sorbitol dehydrogenase	1586	0.5110165476799011	0.6887003	Yes	
+row_3	AKR1B1	aldo-keto reductase family 1, member B1 (aldose reductase)	2956	0.3473958373069763	0.76473755	Yes	
+row_4	ALDH1A1	aldehyde dehydrogenase 1 family, member A1	10281	-0.04309438541531563	0.33347902	No	
+row_5	KHK	ketohexokinase (fructokinase)	10669	-0.07249816507101059	0.34310707	No	

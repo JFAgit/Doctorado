@@ -1,0 +1,15 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	MPI	mannose phosphate isomerase	204	1.0619237422943115	0.19248858	Yes	
+row_1	DPM3	dolichyl-phosphate mannosyltransferase polypeptide 3	920	0.6686300039291382	0.27753815	Yes	
+row_2	GNE	glucosamine (UDP-N-acetyl)-2-epimerase/N-acetylmannosamine kinase	975	0.6501161456108093	0.39974976	Yes	
+row_3	DPM1	dolichyl-phosphate mannosyltransferase polypeptide 1, catalytic subunit	1363	0.5579034686088562	0.48363215	Yes	
+row_4	GFPT1	glutamine-fructose-6-phosphate transaminase 1	1777	0.49997854232788086	0.5547267	Yes	
+row_5	DHDDS	dehydrodolichyl diphosphate synthase	2032	0.47918230295181274	0.6316045	Yes	
+row_6	NEU1	sialidase 1 (lysosomal sialidase)	3491	0.28984713554382324	0.59771913	Yes	
+row_7	GALT	galactose-1-phosphate uridylyltransferase	3545	0.28425779938697815	0.6493439	Yes	
+row_8	GLB1	galactosidase, beta 1	5430	0.1186109259724617	0.5561381	No	
+row_9	GALE	UDP-galactose-4-epimerase	5612	0.10537700355052948	0.5653318	No	
+row_10	GALK1	galactokinase 1	6087	0.06918507814407349	0.5494793	No	
+row_11	DPM2	dolichyl-phosphate mannosyltransferase polypeptide 2, regulatory subunit	6562	0.03435665741562843	0.5269013	No	
+row_12	PMM2	phosphomannomutase 2	11400	-0.1387033611536026	0.25558358	No	
+row_13	PGM1	phosphoglucomutase 1	12265	-0.2205032855272293	0.24491563	No	

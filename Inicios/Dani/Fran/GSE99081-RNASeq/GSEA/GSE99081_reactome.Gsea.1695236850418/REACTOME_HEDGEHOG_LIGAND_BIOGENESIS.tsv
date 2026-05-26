@@ -1,0 +1,63 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	HHAT	hedgehog acyltransferase	453	0.8538686633110046	0.0021242732	No	
+row_1	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.012293101	No	
+row_2	GPC5	glypican 5	1536	0.5230094790458679	-0.020188017	No	
+row_3	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.029671412	No	
+row_4	IHH	Indian hedgehog homolog (Drosophila)	2126	0.4650155007839203	-0.022907967	No	
+row_5	DISP2	dispatched homolog 2 (Drosophila)	2457	0.4188312590122223	-0.02852929	No	
+row_6	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.058281615	No	
+row_7	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.084026575	No	
+row_8	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.076846324	No	
+row_9	DERL2	Der1-like domain family, member 2	3884	0.2516091465950012	-0.07730299	No	
+row_10	OS9	-	3976	0.24427388608455658	-0.07430971	No	
+row_11	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.066278845	No	
+row_12	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.067189746	No	
+row_13	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.07552035	No	
+row_14	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.09624931	No	
+row_15	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.116911694	No	
+row_16	SEL1L	sel-1 suppressor of lin-12-like (C. elegans)	5245	0.13422830402851105	-0.112546876	No	
+row_17	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.113375805	No	
+row_18	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.12994382	No	
+row_19	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.17073105	No	
+row_20	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.18900238	No	
+row_21	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.19106956	No	
+row_22	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.19928072	No	
+row_23	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.21091942	No	
+row_24	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.367373	No	
+row_25	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.37677324	No	
+row_26	NOTUM	notum pectinacetylesterase homolog (Drosophila)	9773	-0.014967880211770535	-0.3779141	No	
+row_27	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.39712295	No	
+row_28	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.41496488	No	
+row_29	DHH	desert hedgehog homolog (Drosophila)	10436	-0.05454781651496887	-0.41384396	No	
+row_30	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.4140254	No	
+row_31	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.43111923	No	
+row_32	VCP	valosin-containing protein	10836	-0.08797656744718552	-0.4302406	No	
+row_33	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.42725036	No	
+row_34	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.43415603	No	
+row_35	P4HB	procollagen-proline, 2-oxoglutarate 4-dioxygenase (proline 4-hydroxylase), beta polypeptide	11413	-0.14002133905887604	-0.4540645	No	
+row_36	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.45585153	No	
+row_37	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.46914896	No	
+row_38	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.46659246	No	
+row_39	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.4607732	No	
+row_40	SYVN1	synovial apoptosis inhibitor 1, synoviolin	12359	-0.22984346747398376	-0.47949067	No	
+row_41	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.50219727	No	
+row_42	SHH	sonic hedgehog homolog (Drosophila)	13206	-0.3286246955394745	-0.51001215	No	
+row_43	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.5188671	No	
+row_44	ADAM17	ADAM metallopeptidase domain 17 (tumor necrosis factor, alpha, converting enzyme)	14055	-0.45162373781204224	-0.5332214	Yes	
+row_45	UBC	ubiquitin C	14182	-0.47944867610931396	-0.5240944	Yes	
+row_46	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.5222165	Yes	
+row_47	SCUBE2	signal peptide, CUB domain, EGF-like 2	14463	-0.4999968707561493	-0.50605965	Yes	
+row_48	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.500032	Yes	
+row_49	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.4861219	Yes	
+row_50	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.4678604	Yes	
+row_51	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.45643523	Yes	
+row_52	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.44302607	Yes	
+row_53	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.43754822	Yes	
+row_54	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.4087598	Yes	
+row_55	UBB	ubiquitin B	15642	-0.9178993105888367	-0.38354573	Yes	
+row_56	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.3523289	Yes	
+row_57	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.31890437	Yes	
+row_58	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.27602533	Yes	
+row_59	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.21166311	Yes	
+row_60	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.122050226	Yes	
+row_61	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027196852	Yes	

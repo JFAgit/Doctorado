@@ -1,0 +1,15 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	NUDT12	nudix (nucleoside diphosphate linked moiety X)-type motif 12	1229	0.5891056060791016	-0.03652722	No	
+row_1	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	2467	0.4172992706298828	-0.08498423	No	
+row_2	PARP16	poly (ADP-ribose) polymerase family, member 16	4338	0.21654170751571655	-0.18581668	No	
+row_3	PARP6	poly (ADP-ribose) polymerase family, member 6	4729	0.18090686202049255	-0.19780962	No	
+row_4	SLC22A13	solute carrier family 22 (organic cation transporter), member 13	5531	0.11073049157857895	-0.23980376	No	
+row_5	PTGIS	prostaglandin I2 (prostacyclin) synthase	5655	0.10176952928304672	-0.24060962	No	
+row_6	SLC5A8	solute carrier family 5 (iodide transporter), member 8	8875	0.0	-0.43899494	No	
+row_7	NNMT	nicotinamide N-methyltransferase	15277	-0.7268626093864441	-0.7850997	Yes	
+row_8	PTGS2	prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)	15465	-0.8105252385139465	-0.7426696	Yes	
+row_9	PARP4	poly (ADP-ribose) polymerase family, member 4	15787	-1.0890668630599976	-0.68995595	Yes	
+row_10	PARP8	poly (ADP-ribose) polymerase family, member 8	16043	-1.759934902191162	-0.5885166	Yes	
+row_11	PARP10	poly (ADP-ribose) polymerase family, member 10	16145	-2.63350248336792	-0.4194349	Yes	
+row_12	PARP14	poly (ADP-ribose) polymerase family, member 14	16181	-3.1796419620513916	-0.20993039	Yes	
+row_13	PARP9	poly (ADP-ribose) polymerase family, member 9	16184	-3.2064077854156494	0.0033896079	Yes	

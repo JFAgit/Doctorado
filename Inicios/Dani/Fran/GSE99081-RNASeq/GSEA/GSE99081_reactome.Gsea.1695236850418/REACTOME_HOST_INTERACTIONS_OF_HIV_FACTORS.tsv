@@ -1,0 +1,122 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	ARF1	ADP-ribosylation factor 1	251	0.9956437945365906	0.0037121598	No	
+row_1	AP2A1	adaptor-related protein complex 2, alpha 1 subunit	469	0.8484175205230713	0.006682121	No	
+row_2	PSMD2	proteasome (prosome, macropain) 26S subunit, non-ATPase, 2	711	0.7384899854660034	0.006034056	No	
+row_3	ELMO1	engulfment and cell motility 1	866	0.6831690073013306	0.009711879	No	
+row_4	BANF1	barrier to autointegration factor 1	1433	0.5433694124221802	-0.014877865	No	
+row_5	CD247	CD247 molecule	1492	0.5311576128005981	-0.008188526	No	
+row_6	LCK	lymphocyte-specific protein tyrosine kinase	1591	0.5100494027137756	-0.00438956	No	
+row_7	NUP85	nucleoporin 85kDa	1902	0.49599769711494446	-0.01401493	No	
+row_8	UBA52	ubiquitin A-52 residue ribosomal protein fusion product 1	1969	0.48806944489479065	-0.008656442	No	
+row_9	PSIP1	PC4 and SFRS1 interacting protein 1	2037	0.4786827564239502	-0.003541795	No	
+row_10	NPM1	nucleophosmin (nucleolar phosphoprotein B23, numatrin)	2384	0.4280327260494232	-0.016716916	No	
+row_11	DOCK2	dedicator of cytokinesis 2	2415	0.4235050678253174	-0.010375535	No	
+row_12	NUP37	nucleoporin 37kDa	2593	0.39764827489852905	-0.013654627	No	
+row_13	FYN	FYN oncogene related to SRC, FGR, YES	2773	0.371307909488678	-0.017567962	No	
+row_14	NUP54	nucleoporin 54kDa	2828	0.36314940452575684	-0.0138844885	No	
+row_15	SLC25A6	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 6	2858	0.3580899238586426	-0.008748044	No	
+row_16	NUP107	nucleoporin 107kDa	2975	0.34579503536224365	-0.009247086	No	
+row_17	PSMC5	proteasome (prosome, macropain) 26S subunit, ATPase, 5	3127	0.3287934362888336	-0.012246771	No	
+row_18	ATP6V1H	ATPase, H+ transporting, lysosomal 50/57kDa, V1 subunit H	3683	0.26809626817703247	-0.04148564	No	
+row_19	PSMC1	proteasome (prosome, macropain) 26S subunit, ATPase, 1	3697	0.2671772539615631	-0.037117396	No	
+row_20	CD28	CD28 molecule	3718	0.26461169123649597	-0.03323311	No	
+row_21	PSMD9	proteasome (prosome, macropain) 26S subunit, non-ATPase, 9	3732	0.26308473944664	-0.02894413	No	
+row_22	CUL5	cullin 5	3755	0.26154574751853943	-0.025243303	No	
+row_23	PSMD6	proteasome (prosome, macropain) 26S subunit, non-ATPase, 6	3986	0.2433943897485733	-0.034798063	No	
+row_24	AP1M2	adaptor-related protein complex 1, mu 2 subunit	4045	0.23971569538116455	-0.033753436	No	
+row_25	RPS27A	ribosomal protein S27a	4134	0.23172627389431	-0.034724705	No	
+row_26	PSME1	proteasome (prosome, macropain) activator subunit 1 (PA28 alpha)	4391	0.21239113807678223	-0.04649295	No	
+row_27	AP1B1	adaptor-related protein complex 1, beta 1 subunit	4440	0.2077460139989853	-0.04544713	No	
+row_28	NUP133	nucleoporin 133kDa	4450	0.20703673362731934	-0.041995544	No	
+row_29	NUP88	nucleoporin 88kDa	4544	0.19846251606941223	-0.04392127	No	
+row_30	PSMC2	proteasome (prosome, macropain) 26S subunit, ATPase, 2	4826	0.17282982170581818	-0.058006708	No	
+row_31	AAAS	achalasia, adrenocortical insufficiency, alacrimia (Allgrove, triple-A)	4883	0.16735047101974487	-0.058239587	No	
+row_32	AP1S1	adaptor-related protein complex 1, sigma 1 subunit	5035	0.15605796873569489	-0.06458485	No	
+row_33	PSMA7	proteasome (prosome, macropain) subunit, alpha type, 7	5238	0.1344207525253296	-0.07451315	No	
+row_34	AP2S1	adaptor-related protein complex 2, sigma 1 subunit	5316	0.1289536952972412	-0.07679252	No	
+row_35	PSMD10	proteasome (prosome, macropain) 26S subunit, non-ATPase, 10	5332	0.12717726826667786	-0.0752599	No	
+row_36	SLC25A5	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 5	5519	0.1114630177617073	-0.08464024	No	
+row_37	HMGA1	high mobility group AT-hook 1	5567	0.10827487707138062	-0.085458964	No	
+row_38	RANBP2	RAN binding protein 2	5581	0.10741816461086273	-0.08418497	No	
+row_39	PSMA5	proteasome (prosome, macropain) subunit, alpha type, 5	5659	0.10155092924833298	-0.08699508	No	
+row_40	SEH1L	SEH1-like (S. cerevisiae)	5687	0.10003748536109924	-0.086732574	No	
+row_41	NUP153	nucleoporin 153kDa	5902	0.0841740146279335	-0.09837853	No	
+row_42	TPR	translocated promoter region (to activated MET oncogene)	6048	0.07193361967802048	-0.105980895	No	
+row_43	AP2M1	adaptor-related protein complex 2, mu 1 subunit	6117	0.06688635796308517	-0.108904056	No	
+row_44	PSMD4	proteasome (prosome, macropain) 26S subunit, non-ATPase, 4	6348	0.04930852726101875	-0.12221791	No	
+row_45	PPIA	peptidylprolyl isomerase A (cyclophilin A)	6576	0.03310931473970413	-0.1356594	No	
+row_46	PSME3	proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki)	6661	0.028744397684931755	-0.14031392	No	
+row_47	PSMD8	proteasome (prosome, macropain) 26S subunit, non-ATPase, 8	6710	0.02550405077636242	-0.1427978	No	
+row_48	NUP35	nucleoporin 35kDa	6808	0.020706167444586754	-0.14841451	No	
+row_49	PSMD7	proteasome (prosome, macropain) 26S subunit, non-ATPase, 7 (Mov34 homolog)	6854	0.01780025102198124	-0.15086149	No	
+row_50	SLC25A4	solute carrier family 25 (mitochondrial carrier; adenine nucleotide translocator), member 4	6860	0.01740841194987297	-0.1508345	No	
+row_51	PSMB6	proteasome (prosome, macropain) subunit, beta type, 6	7048	0.008250405080616474	-0.16227593	No	
+row_52	HCK	hemopoietic cell kinase	7242	9.126333679887466E-6	-0.1742492	No	
+row_53	PSMA8	proteasome (prosome, macropain) subunit, alpha type, 8	9584	-0.00682253809645772	-0.3193494	No	
+row_54	AP1S2	adaptor-related protein complex 1, sigma 2 subunit	9633	-0.008797766640782356	-0.32215685	No	
+row_55	CD4	CD4 molecule	9668	-0.010678748600184917	-0.32405934	No	
+row_56	PSMB1	proteasome (prosome, macropain) subunit, beta type, 1	9745	-0.013880454003810883	-0.32850543	No	
+row_57	NUP43	nucleoporin 43kDa	9760	-0.01447797566652298	-0.32909355	No	
+row_58	PSMD1	proteasome (prosome, macropain) 26S subunit, non-ATPase, 1	10102	-0.030202826485037804	-0.34966373	No	
+row_59	PSMD13	proteasome (prosome, macropain) 26S subunit, non-ATPase, 13	10422	-0.053178925067186356	-0.36842406	No	
+row_60	PSMB5	proteasome (prosome, macropain) subunit, beta type, 5	10473	-0.05793004855513573	-0.370404	No	
+row_61	NUP214	nucleoporin 214kDa	10733	-0.07828941941261292	-0.38495567	No	
+row_62	NUP155	nucleoporin 155kDa	10739	-0.07889607548713684	-0.38373777	No	
+row_63	RAN	RAN, member RAS oncogene family	10781	-0.08312058448791504	-0.38467148	No	
+row_64	PSME4	proteasome (prosome, macropain) activator subunit 4	10799	-0.08489450812339783	-0.38408187	No	
+row_65	PSMB4	proteasome (prosome, macropain) subunit, beta type, 4	10839	-0.08825931698083878	-0.38479194	No	
+row_66	PSMC6	proteasome (prosome, macropain) 26S subunit, ATPase, 6	11010	-0.10210686922073364	-0.39336088	No	
+row_67	CD8B	CD8b molecule	11014	-0.1023130714893341	-0.39156538	No	
+row_68	PAK2	p21 (CDKN1A)-activated kinase 2	11105	-0.11029867082834244	-0.39501256	No	
+row_69	NUP50	nucleoporin 50kDa	11180	-0.11821708083152771	-0.39731374	No	
+row_70	POM121	POM121 membrane glycoprotein (rat)	11246	-0.12406289577484131	-0.3989434	No	
+row_71	RAE1	RAE1 RNA export 1 homolog (S. pombe)	11252	-0.12442994862794876	-0.39684358	No	
+row_72	NUP188	nucleoporin 188kDa	11329	-0.131568044424057	-0.3990103	No	
+row_73	AP2B1	adaptor-related protein complex 2, beta 1 subunit	11407	-0.13952404260635376	-0.40108493	No	
+row_74	PSMC3	proteasome (prosome, macropain) 26S subunit, ATPase, 3	11528	-0.14907696843147278	-0.4056422	No	
+row_75	BTRC	beta-transducin repeat containing	11766	-0.17109966278076172	-0.41703147	No	
+row_76	NUP210	nucleoporin 210kDa	11772	-0.17175135016441345	-0.41401514	No	
+row_77	PSMD3	proteasome (prosome, macropain) 26S subunit, non-ATPase, 3	11846	-0.17848387360572815	-0.41508704	No	
+row_78	AP1S3	adaptor-related protein complex 1, sigma 3 subunit	11895	-0.1825953871011734	-0.41452834	No	
+row_79	PSMD5	proteasome (prosome, macropain) 26S subunit, non-ATPase, 5	11911	-0.18458987772464752	-0.41188374	No	
+row_80	PSMD14	proteasome (prosome, macropain) 26S subunit, non-ATPase, 14	11924	-0.18596462905406952	-0.4090264	No	
+row_81	NUP98	nucleoporin 98kDa	12083	-0.20092123746871948	-0.41493702	No	
+row_82	CDK9	cyclin-dependent kinase 9 (CDC2-related kinase)	12103	-0.20307502150535583	-0.41218254	No	
+row_83	PSMA1	proteasome (prosome, macropain) subunit, alpha type, 1	12891	-0.2867208421230316	-0.45545363	No	
+row_84	RAC1	ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)	12989	-0.29895809292793274	-0.4556811	No	
+row_85	RBX1	ring-box 1	13011	-0.3016377389431	-0.45114172	No	
+row_86	CCNT1	cyclin T1	13205	-0.3286134600639343	-0.4567505	No	
+row_87	PSMD11	proteasome (prosome, macropain) 26S subunit, non-ATPase, 11	13564	-0.37448200583457947	-0.47170728	No	
+row_88	KPNA1	karyopherin alpha 1 (importin alpha 5)	13898	-0.4246748387813568	-0.48414093	No	
+row_89	AP2A2	adaptor-related protein complex 2, alpha 2 subunit	14053	-0.45105600357055664	-0.48495874	Yes	
+row_90	UBC	ubiquitin C	14182	-0.47944867610931396	-0.4836136	Yes	
+row_91	RANBP1	RAN binding protein 1	14212	-0.4841417074203491	-0.47603574	Yes	
+row_92	AP1G1	adaptor-related protein complex 1, gamma 1 subunit	14295	-0.49806177616119385	-0.47147635	Yes	
+row_93	PSMB3	proteasome (prosome, macropain) subunit, beta type, 3	14438	-0.49998825788497925	-0.47060195	Yes	
+row_94	AP1M1	adaptor-related protein complex 1, mu 1 subunit	14488	-0.5000003576278687	-0.46395773	Yes	
+row_95	NUP93	nucleoporin 93kDa	14495	-0.5000032782554626	-0.45464578	Yes	
+row_96	PSMA2	proteasome (prosome, macropain) subunit, alpha type, 2	14672	-0.535265326499939	-0.45519745	Yes	
+row_97	PSMC4	proteasome (prosome, macropain) 26S subunit, ATPase, 4	14766	-0.5572034120559692	-0.450175	Yes	
+row_98	PSMB7	proteasome (prosome, macropain) subunit, beta type, 7	14794	-0.5649065971374512	-0.4409088	Yes	
+row_99	PACS1	phosphofurin acidic cluster sorting protein 1	14815	-0.5703638195991516	-0.43110263	Yes	
+row_100	PSMA3	proteasome (prosome, macropain) subunit, alpha type, 3	14958	-0.6094110608100891	-0.4281089	Yes	
+row_101	KPNB1	karyopherin (importin) beta 1	15038	-0.634635865688324	-0.4207182	Yes	
+row_102	PSMB2	proteasome (prosome, macropain) subunit, beta type, 2	15120	-0.6621413826942444	-0.4129188	Yes	
+row_103	XPO1	exportin 1 (CRM1 homolog, yeast)	15270	-0.7222821116447449	-0.40817326	Yes	
+row_104	NUP205	nucleoporin 205kDa	15295	-0.7395066022872925	-0.39533925	Yes	
+row_105	NUP160	nucleoporin 160kDa	15312	-0.7492915987968445	-0.38181943	Yes	
+row_106	B2M	beta-2-microglobulin	15466	-0.8106110095977783	-0.37561125	Yes	
+row_107	PSMA4	proteasome (prosome, macropain) subunit, alpha type, 4	15508	-0.833289623260498	-0.3620155	Yes	
+row_108	PSMD12	proteasome (prosome, macropain) 26S subunit, non-ATPase, 12	15525	-0.844009518623352	-0.34666115	Yes	
+row_109	HLA-A	major histocompatibility complex, class I, A	15527	-0.8441747426986694	-0.33037302	Yes	
+row_110	RCC1	regulator of chromosome condensation 1	15549	-0.8584726452827454	-0.31504875	Yes	
+row_111	UBB	ubiquitin B	15642	-0.9178993105888367	-0.30297822	Yes	
+row_112	NUP62	nucleoporin 62kDa	15644	-0.9199814796447754	-0.28522184	Yes	
+row_113	PSMF1	proteasome (prosome, macropain) inhibitor subunit 1 (PI31)	15701	-0.9864243268966675	-0.26959074	Yes	
+row_114	PSMA6	proteasome (prosome, macropain) subunit, alpha type, 6	15762	-1.0525025129318237	-0.25292796	Yes	
+row_115	RANGAP1	Ran GTPase activating protein 1	15881	-1.2509366273880005	-0.23602009	Yes	
+row_116	PSMB8	proteasome (prosome, macropain) subunit, beta type, 8 (large multifunctional peptidase 7)	16014	-1.6551148891448975	-0.21215256	Yes	
+row_117	PSME2	proteasome (prosome, macropain) activator subunit 2 (PA28 beta)	16061	-1.904870629310608	-0.17811239	Yes	
+row_118	PSMB10	proteasome (prosome, macropain) subunit, beta type, 10	16150	-2.6941587924957275	-0.13139072	Yes	
+row_119	APOBEC3G	apolipoprotein B mRNA editing enzyme, catalytic polypeptide-like 3G	16189	-3.4489431381225586	-0.0669483	Yes	
+row_120	PSMB9	proteasome (prosome, macropain) subunit, beta type, 9 (large multifunctional peptidase 2)	16195	-3.6135592460632324	0.0027297137	Yes	

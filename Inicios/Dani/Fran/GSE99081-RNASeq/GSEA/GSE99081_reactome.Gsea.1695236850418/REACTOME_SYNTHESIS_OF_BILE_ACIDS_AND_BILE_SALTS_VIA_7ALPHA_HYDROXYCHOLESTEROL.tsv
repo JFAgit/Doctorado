@@ -1,0 +1,25 @@
+NAME	SYMBOL	TITLE	RANK IN GENE LIST	RANK METRIC SCORE	RUNNING ES	CORE ENRICHMENT	
+row_0	AKR1C4	aldo-keto reductase family 1, member C4 (chlordecone reductase; 3-alpha hydroxysteroid dehydrogenase, type I; dihydrodiol dehydrogenase 4)	372	0.8921679258346558	0.065773	Yes	
+row_1	CYP7A1	cytochrome P450, family 7, subfamily A, polypeptide 1	406	0.8715651631355286	0.15040264	Yes	
+row_2	AKR1D1	aldo-keto reductase family 1, member D1 (delta 4-3-ketosteroid-5-beta-reductase)	639	0.764853298664093	0.21214947	Yes	
+row_3	SCP2	sterol carrier protein 2	840	0.69069504737854	0.2684957	Yes	
+row_4	BAAT	bile acid Coenzyme A: amino acid N-acyltransferase (glycine N-choloyltransferase)	976	0.6497333645820618	0.32477725	Yes	
+row_5	ABCB11	ATP-binding cassette, sub-family B (MDR/TAP), member 11	1207	0.592311680316925	0.36949062	Yes	
+row_6	AKR1C3	aldo-keto reductase family 1, member C3 (3-alpha hydroxysteroid dehydrogenase, type II)	1331	0.5655260682106018	0.41813898	Yes	
+row_7	SLC27A5	solute carrier family 27 (fatty acid transporter), member 5	1925	0.49372196197509766	0.43066373	Yes	
+row_8	CYP8B1	cytochrome P450, family 8, subfamily B, polypeptide 1	2467	0.4172992706298828	0.43879607	Yes	
+row_9	CYP7B1	cytochrome P450, family 7, subfamily B, polypeptide 1	2708	0.38198336958885193	0.46197864	Yes	
+row_10	HSD17B4	hydroxysteroid (17-beta) dehydrogenase 4	2710	0.3814935088157654	0.49985102	Yes	
+row_11	ACOT8	acyl-CoA thioesterase 8	4220	0.22543030977249146	0.4292106	No	
+row_12	ACOX2	acyl-Coenzyme A oxidase 2, branched chain	4615	0.1901681274175644	0.4238231	No	
+row_13	AKR1C1	aldo-keto reductase family 1, member C1 (dihydrodiol dehydrogenase 1; 20-alpha (3-alpha)-hydroxysteroid dehydrogenase)	4958	0.16227474808692932	0.41886872	No	
+row_14	PTGIS	prostaglandin I2 (prostacyclin) synthase	5655	0.10176952928304672	0.38606766	No	
+row_15	RXRA	retinoid X receptor, alpha	6077	0.06989225745201111	0.36705545	No	
+row_16	AKR1C2	aldo-keto reductase family 1, member C2 (dihydrodiol dehydrogenase 2; bile acid binding protein; 3-alpha hydroxysteroid dehydrogenase, type III)	6417	0.04442852362990379	0.35056794	No	
+row_17	CYP27A1	cytochrome P450, family 27, subfamily A, polypeptide 1	6610	0.03179985284805298	0.34188983	No	
+row_18	NCOA1	nuclear receptor coactivator 1	10884	-0.09165199846029282	0.08749812	No	
+row_19	NR1H4	nuclear receptor subfamily 1, group H, member 4	12981	-0.2981492578983307	-0.012110263	No	
+row_20	SLC27A2	solute carrier family 27 (fatty acid transporter), member 2	13497	-0.36397871375083923	-0.007676554	No	
+row_21	HSD3B7	hydroxy-delta-5-steroid dehydrogenase, 3 beta- and steroid delta-isomerase 7	13781	-0.4074195623397827	0.01538358	No	
+row_22	AMACR	alpha-methylacyl-CoA racemase	14492	-0.5000019073486328	0.021317685	No	
+row_23	NCOA2	nuclear receptor coactivator 2	15592	-0.8684393763542175	0.03989896	No	

@@ -1,0 +1,16 @@
+"subject","sex","age","n_cells","library_size_UMI","detected_genes_CPM_ge_1"
+"Subject 1","female",27,6816,147362072,11918
+"Subject 2","male",50,6719,145835088,11940
+"Subject 3","male",27,5007,138071814,11851
+"Subject 4","male",26,5265,100707073,11823
+"Subject 5","female",29,5826,148245371,11729
+"Subject 6","male",30,5423,135865731,11940
+"Subject 7","female",46,5773,120903072,11956
+"Subject 8","female",39,6690,156777898,11741
+"Subject 9","male",31,2971,32360742,11068
+"Subject 10","male",35,4356,88982674,11732
+"Subject 11","male",29,4815,73553766,12926
+"Subject 12","male",25,3803,79564776,12194
+"Subject 13","female",26,3937,58288045,12647
+"Subject 14","female",25,5592,80200432,12689
+"Subject 15","male",28,6086,158644424,11830
